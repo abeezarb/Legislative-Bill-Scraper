@@ -1,3 +1,6 @@
+# Legislative Bill Scraper
+This project is a Python-based web scraper designed to automate the collection of legislative bill data. It extracts information such as bill titles, sponsors, status updates, and summaries from a legislative website and stores the results in a structured format for analysis or archiving.
+
 # Program Overview
 <h4>Purpose:</h4> 
 The purpose of this program is to leverage the LegiScan API to automate the collection, identification, and extraction of bill data, minizing manual efforts and improving work efficiency.  
@@ -41,3 +44,8 @@ Below is a breakdown of each of the columns, please note if a specific cell is e
 - *co-sponsor*: list of co-sponsors
 - *joint sponsor*: list of joint sponsors
 - *generic/unspecified sponsor*: list of generic/unspecified sponsors
+
+# Tools
+- Language: Python
+- Libraries: `requests`, `pandas`, `os`, `zipfile`, `shutil`, `json`, `datetime`, `re`
+- Techniques: APIs, Data Organization/Storage, Data Cleaning, Transformation, and Aggregation
