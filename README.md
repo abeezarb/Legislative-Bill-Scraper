@@ -1,6 +1,6 @@
 # Program Overview
 <h4>Purpose:</h4> 
-The purpose of this program is to leverage the LegiScan API to automate the collection, identification, and extraction of bill data, minizing manual efforts and improving efficiency.  
+The purpose of this program is to leverage the LegiScan API to automate the collection, identification, and extraction of bill data, minizing manual efforts and improving work efficiency.  
 
 <br><h4>Requirements:</h4>
 To run this program you'll need the following
