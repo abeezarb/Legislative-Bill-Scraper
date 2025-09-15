@@ -1,0 +1,546 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1901140,1471136,2025-01-02,Council,"Final Reading",13,0,0,0,13
+1901141,1471133,2025-01-02,Council,"Final Reading",12,1,0,0,13
+1901141,1600861,2025-01-02,Council,"Amendment (Henderson #1)",3,10,0,0,13
+1901141,1600862,2025-01-02,Council,"Amendment (Henderson #2)",6,7,0,0,13
+1901142,1471137,2025-01-02,Council,"Final Reading",13,0,0,0,13
+1901143,1471135,2025-01-02,Council,"Final Reading",13,0,0,0,13
+1901144,1471138,2025-01-07,Council,"Final Reading",13,0,0,0,13
+1901145,1471141,2025-01-07,Council,"Final Reading",13,0,0,0,13
+1901146,1471134,2025-01-02,Council,"Final Reading",13,0,0,0,13
+1901738,1471140,2025-01-07,Council,"Final Reading",13,0,0,0,13
+1901741,1480214,2025-02-04,Council,"Amendment (MENDELSON)",12,0,0,0,12
+1901741,1480215,2025-02-04,Council,"Amendment (MENDELSON)",12,0,0,0,12
+1901741,1480216,2025-02-04,Council,"Final Reading",12,0,0,0,12
+1901743,1471139,2025-01-07,Council,"Final Reading",13,0,0,0,13
+1904841,1471143,2025-01-07,Council,"Final Reading, CC",13,0,0,0,13
+1904854,1471144,2025-01-07,Council,"Final Reading",13,0,0,0,13
+1904867,1504319,2025-03-04,Council,"First Reading, CC",12,0,0,0,12
+1904867,1532412,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+1904879,1471145,2025-01-07,Council,"Final Reading",13,0,0,0,13
+1904879,1471165,2025-01-07,Council,"Final Reading",13,0,0,0,13
+1904892,1471146,2025-01-07,Council,"Final Reading, CC",13,0,0,0,13
+1904904,1505246,2025-03-04,Council,"First Reading",11,1,0,0,12
+1904904,1532165,2025-04-01,Council,"Final Reading",12,0,0,0,12
+1904916,1504385,2025-03-04,Council,"First Reading, CC",12,0,0,0,12
+1904916,1533838,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+1904929,1471147,2025-01-07,Council,"Final Reading",13,0,0,0,13
+1904942,1471148,2025-01-07,Council,"First Reading",13,0,0,0,13
+1904967,1471149,2025-01-07,Council,"Final Reading, CC",13,0,0,0,13
+1904980,1471150,2025-01-07,Council,"Final Reading, CC",13,0,0,0,13
+1904992,1471151,2025-01-07,Council,"CM Allen (Amendment in the Nature of a Substitute)",13,0,0,0,13
+1904992,1471152,2025-01-07,Council,"CM L. George (Oral Amendment to Allens Amendment in the Nature of a Substitute)",13,0,0,0,13
+1904992,1471153,2025-01-07,Council,"Final Reading",13,0,0,0,13
+1905029,1471154,2025-01-07,Council,"Final Reading, CC",13,0,0,0,13
+1905042,1480389,2025-02-04,Council,"Final Reading",11,0,1,0,12
+1905055,1471155,2025-01-07,Council,"Final Reading, CC",13,0,0,0,13
+1905067,1471156,2025-01-07,Council,"First Reading",13,0,0,0,13
+1905067,1480500,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1905080,1533054,2025-04-01,Council,"First Reading, CC",12,0,0,0,12
+1905080,1566916,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+1905117,1471157,2025-01-07,Council,"Final Reading, CC",13,0,0,0,13
+1905155,1504297,2025-03-04,Council,"First Reading, CC",12,0,0,0,12
+1905155,1532127,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+1905205,1504344,2025-03-04,Council,"First Reading, CC",12,0,0,0,12
+1905205,1533835,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+1905230,1504221,2025-03-04,Council,"Final Reading",12,0,0,0,12
+1928388,1505640,2025-03-04,Council,"Final Reading",12,0,0,0,12
+1928420,1532285,2025-04-01,Council,"AMENDMENT (CM Frumin)",12,0,0,0,12
+1928420,1532286,2025-04-01,Council,"First Reading",9,0,3,0,12
+1928420,1566905,2025-05-06,Council,"AMENDMENT IN THE NATURE OF A SUBSTITUTE  (Frumin)",11,1,0,0,12
+1928420,1566906,2025-05-06,Council,"Final Reading",11,1,0,0,12
+1928436,1505257,2025-03-04,Council,"Final Reading",12,0,0,0,12
+1928454,1505620,2025-03-04,Council,"First Reading, CC",12,0,0,0,12
+1928454,1533823,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+1928487,1583756,2025-06-03,Council,"First Reading, CC",12,0,0,0,12
+1928487,1591553,2025-06-17,Council,"Final Reading, CC",12,0,0,0,12
+1928538,1533042,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+1928608,1583841,2025-06-03,Council,"First Reading, CC",12,0,0,0,12
+1928608,1597076,2025-07-01,Council,"Final Reading",12,0,0,0,12
+1928658,1532406,2025-04-01,Council,"First Reading",11,1,0,0,12
+1928658,1566908,2025-05-06,Council,"Postponed to NEXT LEGISLATIVE MEETING",11,1,0,0,12
+1928658,1583825,2025-06-03,Council,"Final Reading",11,1,0,0,12
+1928674,1480383,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1928726,1504213,2025-03-04,Council,"Final Reading",12,0,0,0,12
+1928746,1479876,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1928776,1584530,2025-06-03,Council,"First Reading, CC",12,0,0,0,12
+1928776,1597063,2025-07-01,Council,"Final Reading",12,0,0,0,12
+1928791,1479836,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1928861,1504252,2025-03-04,Council,"First Reading",12,0,0,0,12
+1928861,1532186,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+1928948,1480267,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1929000,1533855,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+1931038,1598334,2025-07-14,Council,"First Reading, CC",12,0,0,0,12
+1931038,1599101,2025-07-28,Council,"Final Reading, CC",12,0,0,0,12
+1935332,1479887,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1935433,1479879,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1935536,1480103,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1935636,1479612,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1935844,1584105,2025-06-03,Council,"First Reading, CC",12,0,0,0,12
+1935844,1597078,2025-07-01,Council,"Final Reading, CC",12,0,0,0,12
+1936152,1480390,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1936253,1479786,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1937860,1480118,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1946067,1480417,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1946276,1480225,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1946413,1479843,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1946482,1584190,2025-06-03,Council,"First Reading",12,0,0,0,12
+1946482,1597053,2025-07-01,Council,"Final Reading",11,1,0,0,12
+1946482,1597306,2025-07-01,Council,"Amendment (Mendelson)",11,1,0,0,12
+1947710,1480257,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1949297,1479787,2025-02-04,Council,"Final Reading",12,0,0,0,12
+1949447,1480237,2025-02-04,Council,"First Reading",12,0,0,0,12
+1949447,1491841,2025-02-18,Council,"Final Reading, CC",11,0,0,1,12
+1949596,1479778,2025-02-04,Council,"Final Reading",12,0,0,0,12
+1950845,1479742,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1951496,1479622,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1951592,1479789,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1951685,1480029,2025-02-04,Council,"Final Reading",12,0,0,0,12
+1951778,1480019,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1951805,1480207,2025-02-04,Council,"First Reading",12,0,0,0,12
+1951805,1491763,2025-02-18,Council,"Final Reading, CC",11,0,0,1,12
+1951825,1480196,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1951845,1480025,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1951865,1480203,2025-02-04,Council,"Final Reading",12,0,0,0,12
+1951885,1480030,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1951906,1479851,2025-02-04,Council,"First Reading",12,0,0,0,12
+1951906,1492738,2025-02-18,Council,"Final Reading, CC",11,0,0,1,12
+1951927,1480160,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1951949,1479973,2025-02-04,Council,"Final Reading",12,0,0,0,12
+1951969,1480235,2025-02-04,Council,"Final Reading",12,0,0,0,12
+1951989,1480234,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1952009,1480012,2025-02-04,Council,"First Reading",12,0,0,0,12
+1952009,1492443,2025-02-18,Council,"Final Reading, CC",11,0,0,1,12
+1952032,1480111,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1952052,1479870,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1952071,1480184,2025-02-04,Council,"Final Reading",11,0,1,0,12
+1952091,1479852,2025-02-04,Council,"First Reading",12,0,0,0,12
+1952091,1492483,2025-02-18,Council,"AMENDMENT (CM PINTO)",11,0,0,1,12
+1952091,1492484,2025-02-18,Council,"Final Reading",11,0,0,1,12
+1952114,1480240,2025-02-04,Council,"Final Reading",12,0,0,0,12
+1952134,1479972,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1952153,1479976,2025-02-04,Council,"Final Reading",12,0,0,0,12
+1952173,1480213,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1952193,1480242,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1952213,1480228,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1952233,1479969,2025-02-04,Council,"Final Reading",12,0,0,0,12
+1952251,1479614,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1952298,1583810,2025-06-03,Council,"First Reading, CC",12,0,0,0,12
+1952298,1591441,2025-06-17,Council,"Final Reading, CC",12,0,0,0,12
+1952317,1480365,2025-02-04,Council,"Final Reading",12,0,0,0,12
+1952339,1480372,2025-02-04,Council,"Final Reading",12,0,0,0,12
+1952439,1479995,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1952499,1479961,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1952583,1480375,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1952745,1480361,2025-02-04,Council,"Final Reading, CC",12,0,0,0,12
+1965476,1532667,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+1965530,1598338,2025-07-14,Council,"First Reading",12,0,0,0,12
+1965530,1599095,2025-07-28,Council,"Final Reading, CC",12,0,0,0,12
+1965640,1533298,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+1965694,1533852,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+1965747,1532347,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+1967566,1533905,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+1967902,1533850,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+1969243,1504572,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1969622,1505618,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1971084,1566913,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+1971153,1491825,2025-02-18,Council,"Final Reading",11,0,0,1,12
+1971225,1533892,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+1971260,1491741,2025-02-18,Council,"Final Reading",11,0,0,1,12
+1971297,1566917,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+1971332,1566902,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+1971507,1566901,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+1981756,1505056,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1981780,1533834,2025-04-01,Council,"First Reading, CC",12,0,0,0,12
+1981780,1566918,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+1981994,1566920,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+1982498,1504282,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1982744,1504414,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1987678,1504495,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1989343,1505117,2025-03-04,Council,"First Reading",12,0,0,0,12
+1989343,1533818,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+1989350,1504647,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1989355,1504672,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1989363,1504421,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1989369,1504613,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1989376,1505118,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1989384,1504575,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1989391,1504754,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1989398,1505122,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1989406,1504602,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1989418,1505073,2025-03-04,Council,"Final Reading",12,0,0,0,12
+1989427,1504179,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1989434,1505068,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1989439,1504870,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1989448,1504601,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1989461,1504343,2025-03-04,Council,"First Reading",12,0,0,0,12
+1989461,1532335,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+1989466,1505110,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1989480,1504340,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1989494,1507561,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1989506,1505084,2025-03-04,Council,"Final Reading",12,0,0,0,12
+1989516,1505356,2025-03-04,Council,"Final Reading",12,0,0,0,12
+1989534,1505111,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1989546,1504327,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1989559,1504586,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1989567,1504625,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1989572,1504338,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1989578,1504619,2025-03-04,Council,"Final Reading",12,0,0,0,12
+1989588,1504335,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1989745,1505126,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1989827,1504426,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1989903,1505101,2025-03-04,Council,"Final Reading, CC",12,0,0,0,12
+1989944,1505383,2025-03-04,Council,"McDuffie and Mendelson (ANS)",12,0,0,0,12
+1989944,1514744,2025-03-04,Council,"First Reading",12,0,0,0,12
+1989944,1533827,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+1989982,1504520,2025-03-04,Council,"ANS (McDuffie and Mendelson)",12,0,0,0,12
+1989982,1504521,2025-03-04,Council,"Final Reading",12,0,0,0,12
+1990060,1505274,2025-03-04,Council,"Final Reading",12,0,0,0,12
+1992736,1533064,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+1992754,1598192,2025-07-14,Council,"Postponed to July 28th Legislative Meeting",11,1,0,0,12
+1992754,1599127,2025-07-28,Council,"Motion to Postpone to 9/17/25 (LGeorge)",2,10,0,0,12
+1992754,1599128,2025-07-28,Council,"Amendment in the Nature of a Substitute (White)",10,2,0,0,12
+1992754,1599129,2025-07-28,Council,"Amendment (Frumin #1)",4,8,0,0,12
+1992754,1599130,2025-07-28,Council,"Amendment (Frumin #2)",6,6,0,0,12
+1992754,1599131,2025-07-28,Council,"Amendment (LGeorge)",5,7,0,0,12
+1992754,1599132,2025-07-28,Council,"First Reading",10,2,0,0,12
+1992772,1533120,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+1992812,1532491,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+1992850,1532665,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+1992891,1532414,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+1992927,1532699,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+1992947,1532882,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+1992964,1532272,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+1993494,1533026,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2004601,1532478,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2004655,1583869,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2004713,1532227,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2004770,1532923,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2004829,1532300,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2004942,1532214,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2004999,1532899,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2005059,1533180,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2005113,1584556,2025-06-03,Council,"Final Reading, CC",11,0,0,1,12
+2005228,1533677,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2005287,1532912,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2005345,1533211,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2012880,1533223,2025-04-01,Council,"Final Reading",12,0,0,0,12
+2012941,1532714,2025-04-01,Council,"Final Reading",11,0,0,1,12
+2013062,1533599,2025-04-01,Council,"Final Reading",11,0,1,0,12
+2013745,1533421,2025-04-01,Council,"Final Reading",12,0,0,0,12
+2014188,1591526,2025-06-17,Council,"First Reading",11,1,0,0,12
+2014188,1597304,2025-07-01,Council,"Amendment (Nadeau)",1,11,0,0,12
+2014188,1597305,2025-07-01,Council,"Final Reading",10,2,0,0,12
+2014283,1591639,2025-06-17,Council,"Amendment (CM Pinto)",12,0,0,0,12
+2014283,1591640,2025-06-17,Council,"Amendment (L. George and Allen)",8,4,0,0,12
+2014283,1591641,2025-06-17,Council,"First Reading",8,2,2,0,12
+2014283,1597040,2025-07-01,Council,"Amendment (R. White)",3,9,0,0,12
+2014283,1597041,2025-07-01,Council,"Amendment (McDuffie)",11,0,1,0,12
+2014283,1597042,2025-07-01,Council,"Final Reading",12,0,0,0,12
+2014376,1584207,2025-06-03,Council,"First Reading, CC",12,0,0,0,12
+2014376,1591493,2025-06-17,Council,"Final Reading, CC",12,0,0,0,12
+2015020,1533402,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2015051,1533081,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2015080,1532678,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2015118,1532797,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2015150,1533259,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2015181,1533067,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2015213,1532427,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2015238,1533325,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2015741,1532155,2025-04-01,Council,"Final Reading",11,1,0,0,12
+2015741,1532156,2025-04-01,Council,RECONSIDERATION,12,0,0,0,12
+2015760,1533631,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2015778,1533635,2025-04-01,Council,"Final Reading",12,0,0,0,12
+2015797,1532586,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2015814,1532580,2025-04-01,Council,"Final Reading",12,0,0,0,12
+2015832,1532839,2025-04-01,Council,"Final Reading",12,0,0,0,12
+2015847,1533638,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2015864,1532208,2025-04-01,Council,"Final Reading",11,1,0,0,12
+2015880,1533265,2025-04-01,Council,"Final Reading",12,0,0,0,12
+2015899,1532888,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2015916,1532311,2025-04-01,Council,"Final Reading",11,1,0,0,12
+2015935,1533645,2025-04-01,Council,"First Reading",12,0,0,0,12
+2015935,1566911,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+2015952,1533593,2025-04-01,Council,"Final Reading",12,0,0,0,12
+2015970,1533601,2025-04-01,Council,"First Reading",10,2,0,0,12
+2015970,1566904,2025-05-06,Council,"Postponed Indefinitely",12,0,0,0,12
+2015985,1532695,2025-04-01,Council,"First Reading",11,1,0,0,12
+2015985,1566900,2025-05-06,Council,"Postponed Indefinitely",12,0,0,0,12
+2016335,1566977,2025-05-06,Council,"Final Reading",12,0,0,0,12
+2016349,1566910,2025-05-06,Council,"First Reading",12,0,0,0,12
+2016349,1584527,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2016366,1532611,2025-04-01,Council,"Final Reading",12,0,0,0,12
+2016385,1533441,2025-04-01,Council,"Final Reading",12,0,0,0,12
+2016416,1533590,2025-04-01,Council,"First Reading",10,2,0,0,12
+2016416,1566912,2025-05-06,Council,"Postponed to Postpone to Next Meeting",7,5,0,0,12
+2016416,1584472,2025-06-03,Council,"Final Reading",10,2,0,0,12
+2016433,1533413,2025-04-01,Council,"Amendment (Allen)",4,8,0,0,12
+2016433,1533414,2025-04-01,Council,"Amendment (Chairman)",12,0,0,0,12
+2016433,1533415,2025-04-01,Council,"Final Reading",10,2,0,0,12
+2016472,1583908,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2016488,1591494,2025-06-17,Council,"First Reading, CC",12,0,0,0,12
+2016488,1597025,2025-07-01,Council,"Final Reading",12,0,0,0,12
+2016488,1597308,2025-07-01,Council,"Amendment (Pinto)",12,0,0,0,12
+2016506,1533378,2025-04-01,Council,"Final Reading",12,0,0,0,12
+2016557,1566919,2025-05-06,Council,"Final Reading",12,0,0,0,12
+2017088,1533308,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2017112,1533379,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2017136,1533110,2025-04-01,Council,"Final Reading",12,0,0,0,12
+2017158,1533393,2025-04-01,Council,"Final Reading",12,0,0,0,12
+2017184,1533587,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2017208,1533367,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2017309,1533422,2025-04-01,Council,"Final Reading",12,0,0,0,12
+2017333,1533386,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2017360,1566915,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+2017384,1533477,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2017433,1532674,2025-04-01,Council,"Final Reading",12,0,0,0,12
+2017459,1533377,2025-04-01,Council,"First Reading",12,0,0,0,12
+2017459,1566907,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+2017481,1532219,2025-04-01,Council,"Final Reading, CC",12,0,0,0,12
+2017504,1533297,2025-04-01,Council,"First Reading",12,0,0,0,12
+2017504,1566903,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+2021235,1598364,2025-07-14,Council,"First Reading",12,0,0,0,12
+2021235,1599094,2025-07-28,Council,"Final Reading, CC",12,0,0,0,12
+2021513,1566914,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+2022095,1583822,2025-06-03,Council,"First Reading, CC",12,0,0,0,12
+2022095,1591490,2025-06-17,Council,"Final Reading, CC",12,0,0,0,12
+2022689,1584000,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2022732,1597108,2025-07-01,Council,"Final Reading, CC",12,0,0,0,12
+2022769,1597109,2025-07-01,Council,"Final Reading, CC",12,0,0,0,12
+2022813,1597070,2025-07-01,Council,"Final Reading, CC",12,0,0,0,12
+2022893,1584537,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2022930,1583819,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2023850,1566909,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+2029210,1566935,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+2029212,1566936,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+2029216,1583896,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2029218,1583780,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2029223,1566937,2025-05-06,Council,"Final Reading",12,0,0,0,12
+2029227,1566938,2025-04-29,Council,"Final Reading",12,0,0,0,12
+2029231,1566939,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+2029233,1566940,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+2029237,1566941,2025-04-29,Council,"Final Reading",12,0,0,0,12
+2029246,1566942,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+2029248,1566943,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+2029254,1566944,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+2029257,1566945,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+2029259,1566946,2025-05-06,Council,"First Reading",11,0,1,0,12
+2029259,1583879,2025-06-03,Council,"Final Reading",11,0,0,1,12
+2029265,1583783,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2029267,1566948,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+2029275,1566950,2025-05-06,Council,"First Reading",12,0,0,0,12
+2029275,1583935,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2029279,1566951,2025-05-06,Council,"Final Reading",11,0,1,0,12
+2029281,1566952,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+2029284,1597274,2025-07-01,Council,"Final Reading, CC",12,0,0,0,12
+2029287,1566953,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+2029290,1566954,2025-05-06,Council,"Final Reading",11,0,1,0,12
+2029301,1566955,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+2029304,1566956,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+2029309,1566957,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+2029313,1566958,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+2029315,1566959,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+2029318,1566960,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+2029321,1566961,2025-05-06,Council,"Final Reading",12,0,0,0,12
+2029323,1566962,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+2029326,1566963,2025-05-06,Council,"Final Reading, CC",12,0,0,0,12
+2029328,1583846,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2031066,1598363,2025-07-14,Council,"Final Reading, CC",12,0,0,0,12
+2031068,1583839,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2031070,1598362,2025-07-14,Council,"Final Reading, CC",12,0,0,0,12
+2031071,1598333,2025-07-14,Council,"Final Reading, CC",12,0,0,0,12
+2031539,1598358,2025-07-14,Council,"Final Reading, CC",12,0,0,0,12
+2033645,1584812,2025-06-03,Council,"First Reading",12,0,0,0,12
+2033645,1591684,2025-06-17,Council,"Final Reading, CC",12,0,0,0,12
+2033650,1584639,2025-06-03,Council,"Final Reading",12,0,0,0,12
+2033662,1584756,2025-06-03,Council,"Final Reading",12,0,0,0,12
+2033667,1584218,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2033827,1584563,2025-06-03,Council,"Final Reading",12,0,0,0,12
+2033854,1584580,2025-06-03,Council,"Final Reading",12,0,0,0,12
+2033990,1597082,2025-07-01,Council,"First Reading, CC",12,0,0,0,12
+2033995,1598185,2025-07-14,Council,"Amendment (Henderson and Nadeau)",8,4,0,0,12
+2033995,1598189,2025-07-14,Council,"Amendment (White)",12,0,0,0,12
+2033995,1598339,2025-07-14,Council,"First Reading, CC",12,0,0,0,12
+2033995,1599142,2025-07-28,Council,"Amendment in the Nature of a Substitute (Mendelson)",11,0,1,0,12
+2033995,1599143,2025-07-28,Council,"Amendment (Mendelson)",12,0,0,0,12
+2033995,1599144,2025-07-28,Council,"Amendment (Felder and Bonds)",5,7,0,0,12
+2033995,1599145,2025-07-28,Council,"Amendment (White)",12,0,0,0,12
+2033995,1599146,2025-07-28,Council,"Amendment (Pinto)",5,6,1,0,12
+2033995,1599147,2025-07-28,Council,"Oral Amendment (LGeorge)",12,0,0,0,12
+2033995,1599148,2025-07-28,Council,"Final Reading",11,0,1,0,12
+2033995,1599229,2025-07-28,Council,"Amendment (Frumin)",10,2,0,0,12
+2033995,1599230,2025-07-28,Council,"Amendment (Bonds)",6,6,0,0,12
+2034008,1599161,2025-07-28,Council,"Final Reading",12,0,0,0,12
+2034008,1599162,2025-07-28,Council,"Amendment (Nadeau)",12,0,0,0,12
+2034008,1599221,2025-07-28,Council,"Amendment (Nadeau)",12,0,0,0,12
+2034021,1584755,2025-06-03,Council,"First Reading",12,0,0,0,12
+2034021,1591799,2025-06-17,Council,"Final Reading, CC",12,0,0,0,12
+2034022,1599204,2025-07-28,Council,"Final Reading",12,0,0,0,12
+2034022,1600133,2025-07-28,Council,"Amendment in the Nature of a Substitute (Mendelson)",12,0,0,0,12
+2034028,1599193,2025-07-28,Council,"Final Reading",12,0,0,0,12
+2034028,1600253,2025-07-28,Council,"Final Reading",12,0,0,0,12
+2034031,1583968,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2034038,1599207,2025-07-28,Council,"Final Reading",11,0,0,1,12
+2034038,1600789,2025-07-28,Council,"First Reading",11,1,0,0,12
+2034043,1599220,2025-07-28,Council,"Final Reading",12,0,0,0,12
+2034043,1600782,2025-07-28,Council,"Amendment in the Nature of a Substitute(Mendelson)",12,0,0,0,12
+2034045,1583742,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2034345,1584213,2025-06-03,Council,"Final Reading",12,0,0,0,12
+2034352,1584200,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2034357,1584205,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2034364,1584187,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2034369,1583744,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2034375,1584158,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2034380,1584064,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2034385,1583922,2025-06-03,Council,"Final Reading",12,0,0,0,12
+2034388,1584657,2025-06-03,Council,"First Reading",12,0,0,0,12
+2034486,1583747,2025-06-03,Council,"Final Reading",12,0,0,0,12
+2034497,1583929,2025-06-03,Council,"Final Reading",12,0,0,0,12
+2034504,1584181,2025-06-03,Council,"Final Reading",12,0,0,0,12
+2034512,1583958,2025-06-03,Council,"Final Reading",12,0,0,0,12
+2034522,1584543,2025-06-03,Council,"First Reading",12,0,0,0,12
+2034522,1591807,2025-06-17,Council,"Final Reading, CC",12,0,0,0,12
+2034530,1584542,2025-06-03,Council,"First Reading",12,0,0,0,12
+2034530,1591736,2025-06-17,Council,"Final Reading, CC",12,0,0,0,12
+2034930,1584546,2025-06-03,Council,"Final Reading",8,4,0,0,12
+2034942,1584166,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2034958,1584572,2025-06-03,Council,"Final Reading",9,3,0,0,12
+2034973,1584045,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2034995,1583847,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2035017,1583852,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2035126,1584056,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2035130,1584059,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2035134,1583854,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2035137,1598186,2025-07-14,Council,"Amendment (LGeorge)",7,5,0,0,12
+2035137,1598187,2025-07-14,Council,"Amendment (White)",4,8,0,0,12
+2035137,1598328,2025-07-14,Council,"First Reading, CC",12,0,0,0,12
+2035137,1599106,2025-07-28,Council,"Amendment in the Nature of a Substitute (Mendelson)",10,2,0,0,12
+2035137,1599107,2025-07-28,Council,"Amendment (Mendelson #1)",12,0,0,0,12
+2035137,1599108,2025-07-28,Council,"Amendment (Mendelson #2)",12,0,0,0,12
+2035137,1599109,2025-07-28,Council,"Oral Amendment (White)",12,0,0,0,12
+2035137,1599110,2025-07-28,Council,"Amendment (Parker)",5,7,0,0,12
+2035137,1599111,2025-07-28,Council,"Amendment (McDuffie)",8,4,0,0,12
+2035137,1599112,2025-07-28,Council,"Amendment (Henderson)",7,5,0,0,12
+2035137,1599113,2025-07-28,Council,"Amendment (Pinto)",9,0,3,0,12
+2035137,1599114,2025-07-28,Council,"Amendment (Allen)",12,0,0,0,12
+2035137,1599115,2025-07-28,Council,"Amendment (Nadeau #1)",12,0,0,0,12
+2035137,1599116,2025-07-28,Council,"Oral Amendment (Nadeau #2)",12,0,0,0,12
+2035137,1599117,2025-07-28,Council,"Final Reading",10,2,0,0,12
+2035137,1600138,2025-07-28,Council,"Final Reading",10,2,0,0,12
+2035143,1583861,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2035151,1583860,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2035154,1583850,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2035158,1584647,2025-06-03,Council,"First Reading",12,0,0,0,12
+2035158,1591524,2025-06-17,Council,"Final Reading, CC",12,0,0,0,12
+2035159,1583855,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2035163,1583859,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2035166,1584077,2025-06-03,Council,"Final Reading",12,0,0,0,12
+2035171,1583818,2025-06-03,Council,"Final Reading",12,0,0,0,12
+2035173,1583858,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2035176,1584080,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2035179,1583865,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2035180,1583851,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2035184,1584015,2025-06-03,Council,"Final Reading, CC",12,0,0,0,12
+2035233,1591503,2025-06-17,Council,"Final Reading",12,0,0,0,12
+2035260,1591486,2025-06-17,Council,"Final Reading",12,0,0,0,12
+2037185,1591815,2025-06-17,Council,"Final Reading, CC",12,0,0,0,12
+2037329,1598345,2025-07-14,Council,"First Reading, CC",12,0,0,0,12
+2037329,1599096,2025-07-28,Council,"Final Reading, CC",12,0,0,0,12
+2037347,1591646,2025-06-17,Council,"Final Reading",12,0,0,0,12
+2037366,1591644,2025-06-17,Council,"Final Reading",12,0,0,0,12
+2037408,1597284,2025-07-01,Council,"Agendized; not considered at the request of",12,0,0,0,12
+2037408,1597285,2025-07-01,Council,"Agendized; not considered at the request of",12,0,0,0,12
+2037408,1597286,2025-07-01,Council,"Final Reading",12,0,0,0,12
+2037408,1597307,2025-07-01,Council,"Amendment (Parker and Pinto)",12,0,0,0,12
+2037420,1597067,2025-07-01,Council,"Final Reading",12,0,0,0,12
+2037927,1599223,2025-08-01,Council,"Amendment (White #1)",3,9,0,0,12
+2037927,1599224,2025-08-01,Council,"Amendment (White #2)",3,9,0,0,12
+2037927,1599225,2025-08-01,Council,"Amendment (White #3)",4,8,0,0,12
+2037927,1599226,2025-08-01,Council,"First Reading",9,3,0,0,12
+2038189,1597059,2025-07-01,Council,"Final Reading, CC",12,0,0,0,12
+2038196,1597035,2025-07-01,Council,"Final Reading, CC",12,0,0,0,12
+2038202,1597056,2025-07-01,Council,"Final Reading, CC",12,0,0,0,12
+2038279,1597116,2025-07-01,Council,"Final Reading, CC",12,0,0,0,12
+2038285,1597106,2025-07-01,Council,"Final Reading",12,0,0,0,12
+2038293,1597092,2025-07-01,Council,"Final Reading, CC",12,0,0,0,12
+2038298,1597065,2025-07-01,Council,"Final Reading",12,0,0,0,12
+2038310,1597107,2025-07-01,Council,"Final Reading, CC",12,0,0,0,12
+2038316,1597030,2025-07-01,Council,"Final Reading, CC",12,0,0,0,12
+2038321,1597046,2025-07-01,Council,"Final Reading, CC",12,0,0,0,12
+2038354,1597045,2025-07-01,Council,"Final Reading, CC",12,0,0,0,12
+2038360,1597037,2025-07-01,Council,"Final Reading, CC",12,0,0,0,12
+2038374,1597051,2025-07-01,Council,"Final Reading, CC",12,0,0,0,12
+2038516,1597029,2025-07-01,Council,"Final Reading, CC",12,0,0,0,12
+2038519,1597087,2025-07-01,Council,"Final Reading",12,0,0,0,12
+2038521,1597095,2025-07-01,Council,"Final Reading, CC",12,0,0,0,12
+2038524,1598337,2025-07-14,Council,"Final Reading, CC",12,0,0,0,12
+2038536,1597091,2025-07-01,Council,"Final Reading",12,0,0,0,12
+2038540,1597111,2025-07-01,Council,"Final Reading, CC",12,0,0,0,12
+2038543,1597079,2025-07-01,Council,"Final Reading",12,0,0,0,12
+2038546,1598351,2025-07-14,Council,"Final Reading, CC",12,0,0,0,12
+2038552,1598340,2025-07-14,Council,"Final Reading, CC",12,0,0,0,12
+2038554,1598361,2025-07-14,Council,"Final Reading, CC",12,0,0,0,12
+2038557,1597083,2025-07-01,Council,"Final Reading",12,0,0,0,12
+2038629,1597039,2025-07-01,Council,"Final Reading",12,0,0,0,12
+2038634,1597287,2025-07-01,Council,"Final Reading",12,0,0,0,12
+2038634,1597288,2025-07-01,Council,"Amendment (Pinto_",12,0,0,0,12
+2038638,1597289,2025-07-01,Council,"Final Reading",12,0,0,0,12
+2038643,1597098,2025-07-01,Council,"Final Reading, CC",12,0,0,0,12
+2038646,1597054,2025-07-01,Council,"Final Reading",12,0,0,0,12
+2038657,1597294,2025-07-01,Council,"First Reading",12,0,0,0,12
+2038661,1597292,2025-07-01,Council,"Final Reading",10,2,0,0,12
+2038665,1597291,2025-07-01,Council,"Final Reading",12,0,0,0,12
+2038669,1597048,2025-07-01,Council,"Final Reading",10,2,0,0,12
+2038674,1597296,2025-07-01,Council,"First Reading",12,0,0,0,12
+2038679,1597027,2025-07-01,Council,"Final Reading",12,0,0,0,12
+2038686,1597295,2025-07-01,Council,"First Reading",12,0,0,0,12
+2038691,1597052,2025-07-01,Council,"Final Reading",12,0,0,0,12
+2038694,1597049,2025-07-01,Council,"AMENDMENT (Pinto)",12,0,0,0,12
+2038694,1597050,2025-07-01,Council,"Final Reading",12,0,0,0,12
+2038707,1597028,2025-07-01,Council,"Final Reading",11,0,1,0,12
+2038712,1597033,2025-07-01,Council,"Final Reading, CC",12,0,0,0,12
+2038717,1597047,2025-07-01,Council,"Final Reading",11,0,1,0,12
+2038721,1597032,2025-07-01,Council,"Final Reading, CC",12,0,0,0,12
+2039065,1598331,2025-07-14,Council,"AMENDMENT (Mendelson)",11,0,1,0,12
+2039065,1598332,2025-07-14,Council,"Final Reading",11,0,1,0,12
+2039068,1598336,2025-07-14,Council,"First Reading",12,0,0,0,12
+2039068,1599098,2025-07-28,Council,"Final Reading, CC",12,0,0,0,12
+2039071,1598320,2025-07-14,Council,"Final Reading, CC",12,0,0,0,12
+2039074,1598326,2025-07-14,Council,"Final Reading, CC",12,0,0,0,12
+2039076,1598323,2025-07-14,Council,"Final Reading, CC",12,0,0,0,12
+2039080,1598353,2025-07-14,Council,"Final Reading",11,0,1,0,12
+2039082,1598318,2025-07-14,Council,"Final Reading, CC",12,0,0,0,12
+2039085,1598317,2025-07-14,Council,"Final Reading, CC",12,0,0,0,12
+2039128,1598352,2025-07-14,Council,"Final Reading",12,0,0,0,12
+2039131,1598329,2025-07-14,Council,"Final Reading",12,0,0,0,12
+2039135,1598341,2025-07-14,Council,"First Reading",12,0,0,0,12
+2039135,1599097,2025-07-28,Council,"Final Reading, CC",12,0,0,0,12
+2039260,1598342,2025-07-14,Council,"First Reading",12,0,0,0,12
+2039260,1599099,2025-07-28,Council,"Final Reading, CC",12,0,0,0,12
+2039264,1598349,2025-07-14,Council,"Final Reading",12,0,0,0,12
+2039266,1598354,2025-07-14,Council,"Final Reading",12,0,0,0,12
+2039267,1598346,2025-07-14,Council,"Final Reading",11,0,1,0,12
+2039268,1598350,2025-07-14,Council,"Final Reading",12,0,0,0,12
+2039270,1598357,2025-07-14,Council,"Final Reading",12,0,0,0,12
+2039271,1598343,2025-07-14,Council,"First Reading",12,0,0,0,12
+2039271,1599093,2025-07-28,Council,"Final Reading, CC",12,0,0,0,12
+2039272,1598344,2025-07-14,Council,"First Reading",12,0,0,0,12
+2039272,1599100,2025-07-28,Council,"Final Reading, CC",12,0,0,0,12
+2039275,1598335,2025-07-14,Council,"Final Reading",11,0,1,0,12
+2039277,1598330,2025-07-14,Council,"Final Reading",12,0,0,0,12
+2040487,1599195,2025-07-28,Council,"First Reading",12,0,0,0,12
+2040495,1599191,2025-07-28,Council,"Final Reading",12,0,0,0,12
+2040505,1599184,2025-07-28,Council,"First Reading",12,0,0,0,12
+2040505,1599185,2025-07-28,Council,"Amendment in the Nature of a Substitute (White)",12,0,0,0,12
+2040511,1599186,2025-07-28,Council,"Final Reading",12,0,0,0,12
+2040517,1599177,2025-07-28,Council,"Final Reading",8,1,0,3,12
+2040517,1599178,2025-07-28,Council,"Amendment in the Nature of a Substitute (White)",9,0,0,3,12
+2040525,1599179,2025-07-28,Council,"Final Reading",10,0,0,2,12
+2040618,1599200,2025-07-28,Council,"Final Reading",12,0,0,0,12
+2040619,1599199,2025-07-28,Council,"Final Reading",12,0,0,0,12
+2040620,1599188,2025-07-28,Council,"Final Reading",12,0,0,0,12
+2040621,1599187,2025-07-28,Council,"Final Reading",12,0,0,0,12
+2040622,1599202,2025-07-28,Council,"Final Reading",12,0,0,0,12
+2040623,1599194,2025-07-28,Council,"Final Reading",12,0,0,0,12
+2040654,1599124,2025-07-28,Council,"Final Reading",10,2,0,0,12
+2040655,1599176,2025-07-28,Council,"Final Reading",9,2,0,1,12

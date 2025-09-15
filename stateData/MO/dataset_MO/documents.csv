@@ -1,0 +1,42 @@
+bill_id,document_id,document_type,document_size,document_mime,document_desc,url,state_link
+2043056,3267428,text,195257,application/pdf,Introduced,https://legiscan.com/MO/text/HB1/id/3267428,https://documents.house.mo.gov/billtracking/bills254/hlrbillspdf/3344H.01I.pdf
+2043056,3268292,text,196003,application/pdf,Engrossed,https://legiscan.com/MO/text/HB1/id/3268292,https://documents.house.mo.gov/billtracking/bills254/hlrbillspdf/3344H.01P.pdf
+2043056,3269117,text,195397,application/pdf,Enrolled,https://legiscan.com/MO/text/HB1/id/3269117,https://documents.house.mo.gov/billtracking/bills254/hlrbillspdf/3344H.01T.pdf
+2043221,3267528,text,227258,application/pdf,Introduced,https://legiscan.com/MO/text/HB2/id/3267528,https://documents.house.mo.gov/billtracking/bills254/hlrbillspdf/3357H.01I.pdf
+2043449,3268103,text,57287,application/pdf,Introduced,https://legiscan.com/MO/text/HR1/id/3268103,https://documents.house.mo.gov/billtracking/bills254/hlrbillspdf/3343H.01I.pdf
+2043241,3267541,text,81158,application/pdf,Introduced,https://legiscan.com/MO/text/HCR1/id/3267541,https://documents.house.mo.gov/billtracking/bills254/hlrbillspdf/3401H.01I.pdf
+2043447,3267857,text,70727,application/pdf,Introduced,https://legiscan.com/MO/text/HCR2/id/3267857,https://documents.house.mo.gov/billtracking/bills254/hlrbillspdf/3409H.01I.pdf
+2043097,3267297,text,94392,application/pdf,Introduced,https://legiscan.com/MO/text/HJR1/id/3267297,https://documents.house.mo.gov/billtracking/bills254/hlrbillspdf/3346H.01I.pdf
+2043111,3267307,text,94455,application/pdf,Introduced,https://legiscan.com/MO/text/HJR2/id/3267307,https://documents.house.mo.gov/billtracking/bills254/hlrbillspdf/3351H.01I.pdf
+2043083,3267286,text,103262,application/pdf,Introduced,https://legiscan.com/MO/text/HJR3/id/3267286,https://documents.house.mo.gov/billtracking/bills254/hlrbillspdf/3353H.02I.pdf
+2043083,3267848,text,102236,application/pdf,"Comm Sub",https://legiscan.com/MO/text/HJR3/id/3267848,https://documents.house.mo.gov/billtracking/bills254/hlrbillspdf/3353H.03C.pdf
+2043083,3268150,text,103626,application/pdf,Engrossed,https://legiscan.com/MO/text/HJR3/id/3268150,https://documents.house.mo.gov/billtracking/bills254/hlrbillspdf/3353H.03P.pdf
+2043083,3268964,text,103646,application/pdf,Enrolled,https://legiscan.com/MO/text/HJR3/id/3268964,https://documents.house.mo.gov/billtracking/bills254/hlrbillspdf/3353H.03T.pdf
+2043109,3267301,text,89930,application/pdf,Introduced,https://legiscan.com/MO/text/HJR4/id/3267301,https://documents.house.mo.gov/billtracking/bills254/hlrbillspdf/3358H.02I.pdf
+2043243,3267564,text,140913,application/pdf,Introduced,https://legiscan.com/MO/text/HJR5/id/3267564,https://documents.house.mo.gov/billtracking/bills254/hlrbillspdf/3399H.01I.pdf
+2043258,3267634,text,140124,application/pdf,Introduced,https://legiscan.com/MO/text/HJR6/id/3267634,https://documents.house.mo.gov/billtracking/bills254/hlrbillspdf/3406H.01I.pdf
+2043277,3267636,text,140578,application/pdf,Introduced,https://legiscan.com/MO/text/HJR7/id/3267636,https://documents.house.mo.gov/billtracking/bills254/hlrbillspdf/3405H.01I.pdf
+2043439,3267852,text,140302,application/pdf,Introduced,https://legiscan.com/MO/text/HJR8/id/3267852,https://documents.house.mo.gov/billtracking/bills254/hlrbillspdf/3411H.01I.pdf
+2043056,617729,supplement,28649,application/pdf,Analysis,https://legiscan.com/MO/supplement/HB1/id/617729,https://documents.house.mo.gov/billtracking/bills254/sumpdf/HB0001I.pdf
+2043056,617730,supplement,39138,application/pdf,Analysis,https://legiscan.com/MO/supplement/HB1/id/617730,https://documents.house.mo.gov/billtracking/bills254/sumpdf/HB0001C.pdf
+2043056,617731,supplement,210122,application/pdf,"Fiscal Note",https://legiscan.com/MO/supplement/HB1/id/617731,https://documents.house.mo.gov/billtracking/bills254/fiscal/fispdf/3344H.01I.ORG.pdf
+2043056,617789,supplement,29055,application/pdf,Analysis,https://legiscan.com/MO/supplement/HB1/id/617789,https://documents.house.mo.gov/billtracking/bills254/sumpdf/HB0001P.pdf
+2043056,617790,supplement,211198,application/pdf,"Fiscal Note",https://legiscan.com/MO/supplement/HB1/id/617790,https://documents.house.mo.gov/billtracking/bills254/fiscal/fispdf/3344H.01P.ORG.pdf
+2043221,617787,supplement,28659,application/pdf,Analysis,https://legiscan.com/MO/supplement/HB2/id/617787,https://documents.house.mo.gov/billtracking/bills254/sumpdf/HB0002I.pdf
+2043097,617726,supplement,32590,application/pdf,Analysis,https://legiscan.com/MO/supplement/HJR1/id/617726,https://documents.house.mo.gov/billtracking/bills254/sumpdf/HJR0001I.pdf
+2043111,617737,supplement,32574,application/pdf,Analysis,https://legiscan.com/MO/supplement/HJR2/id/617737,https://documents.house.mo.gov/billtracking/bills254/sumpdf/HJR0002I.pdf
+2043083,617727,supplement,34036,application/pdf,Analysis,https://legiscan.com/MO/supplement/HJR3/id/617727,https://documents.house.mo.gov/billtracking/bills254/sumpdf/HJR0003I.pdf
+2043083,617728,supplement,473650,application/pdf,"Fiscal Note",https://legiscan.com/MO/supplement/HJR3/id/617728,https://documents.house.mo.gov/billtracking/bills254/fiscal/fispdf/3353H.02I.ORG.pdf
+2043083,617739,supplement,43411,application/pdf,Analysis,https://legiscan.com/MO/supplement/HJR3/id/617739,https://documents.house.mo.gov/billtracking/bills254/sumpdf/HJR0003C.pdf
+2043083,617749,supplement,496163,application/pdf,"Fiscal Note",https://legiscan.com/MO/supplement/HJR3/id/617749,https://documents.house.mo.gov/billtracking/bills254/fiscal/fispdf/3353H.03C.ORG.pdf
+2043083,617775,supplement,34896,application/pdf,Analysis,https://legiscan.com/MO/supplement/HJR3/id/617775,https://documents.house.mo.gov/billtracking/bills254/sumpdf/HJR0003P.pdf
+2043083,617776,supplement,514956,application/pdf,"Fiscal Note",https://legiscan.com/MO/supplement/HJR3/id/617776,https://documents.house.mo.gov/billtracking/bills254/fiscal/fispdf/3353H.03P.ORG.pdf
+2043109,617735,supplement,30584,application/pdf,Analysis,https://legiscan.com/MO/supplement/HJR4/id/617735,https://documents.house.mo.gov/billtracking/bills254/sumpdf/HJR0004I.pdf
+2043243,617792,supplement,43537,application/pdf,Analysis,https://legiscan.com/MO/supplement/HJR5/id/617792,https://documents.house.mo.gov/billtracking/bills254/sumpdf/HJR0005I.pdf
+2043243,617793,supplement,686879,application/pdf,"Fiscal Note",https://legiscan.com/MO/supplement/HJR5/id/617793,https://documents.house.mo.gov/billtracking/bills254/fiscal/fispdf/3399H.01I.ORG.pdf
+2043258,617786,supplement,43775,application/pdf,Analysis,https://legiscan.com/MO/supplement/HJR6/id/617786,https://documents.house.mo.gov/billtracking/bills254/sumpdf/HJR0006I.pdf
+2043258,617826,supplement,687740,application/pdf,"Fiscal Note",https://legiscan.com/MO/supplement/HJR6/id/617826,https://documents.house.mo.gov/billtracking/bills254/fiscal/fispdf/3406H.01I.ORG.pdf
+2043277,617778,supplement,43514,application/pdf,Analysis,https://legiscan.com/MO/supplement/HJR7/id/617778,https://documents.house.mo.gov/billtracking/bills254/sumpdf/HJR0007I.pdf
+2043277,617854,supplement,687223,application/pdf,"Fiscal Note",https://legiscan.com/MO/supplement/HJR7/id/617854,https://documents.house.mo.gov/billtracking/bills254/fiscal/fispdf/3405H.01I.ORG.pdf
+2043439,617777,supplement,43535,application/pdf,Analysis,https://legiscan.com/MO/supplement/HJR8/id/617777,https://documents.house.mo.gov/billtracking/bills254/sumpdf/HJR0008I.pdf
+2043439,617827,supplement,684623,application/pdf,"Fiscal Note",https://legiscan.com/MO/supplement/HJR8/id/617827,https://documents.house.mo.gov/billtracking/bills254/fiscal/fispdf/3411H.01I.ORG.pdf

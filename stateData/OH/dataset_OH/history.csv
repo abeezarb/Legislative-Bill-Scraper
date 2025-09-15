@@ -1,0 +1,2384 @@
+bill_id,date,chamber,sequence,action
+1902943,2025-01-06,House,1,Adopted
+1902988,2025-01-06,House,1,Adopted
+1903017,2025-01-06,House,1,Adopted
+1903017,2025-01-08,Senate,2,Adopted
+1903039,2025-01-06,House,1,Adopted
+1903064,2025-01-06,House,1,Adopted
+1903064,2025-01-08,Senate,2,Adopted
+1903091,2025-01-06,House,1,Adopted
+1903171,2025-01-06,House,1,Adopted
+1903194,2025-01-06,House,1,Adopted
+1903224,2025-01-06,House,1,Adopted
+1903247,2025-01-06,Senate,1,Offered
+1903247,2025-01-06,Senate,2,Adopted
+1903274,2025-01-06,Senate,1,Adopted
+1903274,2025-01-06,Senate,2,Offered
+1903300,2025-01-06,House,1,Adopted
+1907228,2025-01-08,Senate,1,Adopted
+1915263,2025-01-13,Senate,1,Adopted
+1915418,2025-01-13,Senate,1,Adopted
+1915576,2025-01-13,Senate,1,Adopted
+1915736,2025-01-13,Senate,1,Adopted
+1935455,2025-01-22,House,1,Adopted
+1935455,2025-01-29,Senate,2,Adopted
+1935483,2025-01-22,House,1,"Resolution Adopted"
+1935728,2025-01-22,Senate,1,Adopted
+1935790,2025-01-22,Senate,1,Adopted
+1936828,2025-01-22,Senate,1,Introduced
+1936828,2025-01-29,Senate,2,"Referred to committee: Energy"
+1936828,2025-03-18,Senate,3,"Reported - Substitute: Energy"
+1936828,2025-03-19,Senate,4,Passed
+1936828,2025-03-24,House,5,Introduced
+1936828,2025-03-26,House,6,"Referred to committee: Energy"
+1936832,2025-01-22,Senate,1,Introduced
+1936832,2025-01-29,Senate,2,"Referred to committee: Finance"
+1936842,2025-01-22,Senate,1,Introduced
+1936842,2025-01-29,Senate,2,"Referred to committee: Armed Services, Veterans Affairs and Public Safety"
+1936851,2025-01-22,Senate,1,Introduced
+1936851,2025-01-29,Senate,2,"Referred to committee: Health"
+1936851,2025-05-28,Senate,3,"Reported: Health"
+1936851,2025-05-28,Senate,4,Passed
+1936851,2025-06-03,House,5,Introduced
+1936851,2025-06-04,House,6,"Referred to committee: Health"
+1936858,2025-01-22,Senate,1,Introduced
+1936858,2025-01-29,Senate,2,"Referred to committee: Transportation"
+1936871,2025-01-22,Senate,1,Introduced
+1936871,2025-01-29,Senate,2,"Referred to committee: Government Oversight and Reform"
+1936871,2025-02-12,Senate,3,"Reported: Government Oversight and Reform"
+1936871,2025-02-19,Senate,4,Passed
+1936871,2025-02-24,House,5,Introduced
+1936871,2025-02-26,House,6,"Referred to committee: Development"
+1936871,2025-06-04,House,7,"Reported: Development"
+1936871,2025-06-11,House,8,Passed
+1936871,2025-06-24,Senate,9,"Sent to Governor"
+1936871,2025-06-24,,10,"Sent To The Governor"
+1936871,2025-07-01,,11,"Signed By The Governor"
+1936871,2025-09-30,,12,"Effective "
+1936878,2025-01-22,Senate,1,Introduced
+1936878,2025-01-29,Senate,2,"Referred to committee: Health"
+1936878,2025-02-19,Senate,3,"Reported: Health"
+1936878,2025-03-05,Senate,4,Passed
+1936878,2025-03-06,House,5,Introduced
+1936878,2025-03-19,House,6,"Referred to committee: Health"
+1936878,2025-05-21,House,7,"Reported: Health"
+1936878,2025-06-04,House,8,Passed
+1936878,2025-06-24,Senate,9,"Sent to Governor"
+1936878,2025-06-24,,10,"Sent To The Governor"
+1936878,2025-07-01,,11,"Signed By The Governor"
+1936878,2025-09-30,,12,"Effective "
+1936893,2025-01-22,Senate,1,Introduced
+1936893,2025-01-29,Senate,2,"Referred to committee: Education"
+1936893,2025-04-09,Senate,3,"Reported - Substitute: Education"
+1936893,2025-04-09,Senate,4,Passed
+1936893,2025-04-15,House,5,Introduced
+1936893,2025-04-30,House,6,"Referred to committee: Education"
+1936898,2025-01-22,Senate,1,Introduced
+1936898,2025-01-29,Senate,2,"Referred to committee: Finance"
+1936911,2025-01-22,Senate,1,Introduced
+1936911,2025-01-29,Senate,2,"Referred to committee: Housing"
+1936923,2025-01-22,Senate,1,Introduced
+1936923,2025-01-29,Senate,2,"Referred to committee: Armed Services, Veterans Affairs and Public Safety"
+1936923,2025-02-25,Senate,3,"Reported - Amended: Armed Services, Veterans Affairs and Public Safety"
+1936923,2025-02-26,Senate,4,Passed
+1936923,2025-03-03,House,5,Introduced
+1936923,2025-03-05,House,6,"Referred to committee: General Government"
+1936930,2025-01-22,Senate,1,Introduced
+1936930,2025-01-29,Senate,2,"Referred to committee: Health"
+1936930,2025-02-19,Senate,3,"Reported: Health"
+1936930,2025-02-26,Senate,4,Passed
+1936930,2025-03-03,House,5,Introduced
+1936930,2025-03-05,House,6,"Referred to committee: Health"
+1936930,2025-05-07,House,7,"Reported: Health"
+1936930,2025-05-07,House,8,Passed
+1936930,2025-05-16,,9,"Sent To The Governor"
+1936930,2025-05-20,Senate,10,"Sent to Governor"
+1936930,2025-05-28,,11,"Signed By The Governor"
+1936930,2025-08-27,,12,"Effective "
+1936938,2025-01-22,Senate,1,Introduced
+1936938,2025-01-29,Senate,2,"Referred to committee: Government Oversight and Reform"
+1936951,2025-01-22,Senate,1,Introduced
+1936951,2025-01-29,Senate,2,"Referred to committee: Finance"
+1936962,2025-01-22,Senate,1,Offered
+1936962,2025-01-29,Senate,2,"Referred to committee: Armed Services, Veterans Affairs and Public Safety"
+1936962,2025-02-25,Senate,3,"Reported: Armed Services, Veterans Affairs and Public Safety"
+1936962,2025-02-26,Senate,4,Adopted
+1936962,2025-03-03,House,5,Offered
+1936962,2025-03-05,House,6,"Introduced and Referred to Committee: Community Revitalization"
+1936973,2025-01-22,Senate,1,Introduced
+1936973,2025-01-29,Senate,2,"Referred to committee: Ways and Means"
+1936973,2025-02-11,Senate,3,"Reported - Amended: Ways and Means"
+1936973,2025-02-12,Senate,4,Passed
+1936973,2025-02-18,House,5,Introduced
+1936973,2025-02-26,House,6,"Referred to committee: Ways and Means"
+1936978,2025-01-22,Senate,1,Introduced
+1936978,2025-01-29,Senate,2,"Referred to committee: Finance"
+1936996,2025-01-22,Senate,1,Introduced
+1936996,2025-01-29,Senate,2,"Referred to committee: Government Oversight and Reform"
+1936996,2025-02-12,Senate,3,"Reported: Government Oversight and Reform"
+1936996,2025-02-19,Senate,4,Passed
+1936996,2025-02-24,House,5,Introduced
+1936996,2025-02-26,House,6,"Referred to committee: General Government"
+1936996,2025-05-14,House,7,"Reported: General Government"
+1936996,2025-05-21,House,8,Passed
+1936996,2025-05-29,,9,"Sent To The Governor"
+1936996,2025-06-03,Senate,10,"Sent to Governor"
+1936996,2025-06-05,,11,"Signed By The Governor"
+1936996,2025-09-04,,12,"Effective "
+1937005,2025-01-22,Senate,1,Introduced
+1937005,2025-01-29,Senate,2,"Referred to committee: Finance"
+1937012,2025-01-22,Senate,1,Introduced
+1937012,2025-01-29,Senate,2,"Referred to committee: Government Oversight and Reform"
+1937012,2025-02-12,Senate,3,"Reported: Government Oversight and Reform"
+1937012,2025-02-12,Senate,4,Passed
+1937012,2025-02-18,House,5,Introduced
+1937012,2025-02-26,House,6,"Referred to committee: Transportation"
+1937012,2025-03-12,House,7,"Reported: Transportation"
+1937012,2025-03-19,House,8,Passed
+1937012,2025-03-25,Senate,9,"Sent to Governor"
+1937012,2025-03-25,,10,"Sent To The Governor"
+1937012,2025-04-02,,11,"Signed By The Governor"
+1937012,2025-07-02,,12,"Effective "
+1937028,2025-01-22,Senate,1,Introduced
+1937028,2025-01-29,Senate,2,"Referred to committee: Government Oversight and Reform"
+1937028,2025-02-12,Senate,3,"Reported: Government Oversight and Reform"
+1937028,2025-02-19,Senate,4,Passed
+1937028,2025-02-24,House,5,Introduced
+1937028,2025-02-26,House,6,"Referred to committee: General Government"
+1937028,2025-04-09,House,7,"Reported: General Government"
+1937028,2025-04-30,House,8,Passed
+1937028,2025-05-07,Senate,9,"Sent to Governor"
+1937028,2025-05-07,,10,"Sent To The Governor"
+1937028,2025-05-19,,11,"Signed By The Governor"
+1937028,2025-08-18,,12,"Effective "
+1937037,2025-01-22,Senate,1,Introduced
+1937037,2025-01-29,Senate,2,"Referred to committee: Judiciary"
+1937045,2025-01-22,Senate,1,Introduced
+1937045,2025-01-29,Senate,2,"Referred to committee: Health"
+1937056,2025-01-22,Senate,1,Introduced
+1937056,2025-01-29,Senate,2,"Referred to committee: Small Business and Economic Opportunity"
+1937068,2025-01-22,Senate,1,Introduced
+1937068,2025-01-29,Senate,2,"Referred to committee: Ways and Means"
+1937072,2025-01-22,Senate,1,Introduced
+1937072,2025-01-29,Senate,2,"Referred to committee: Local Government"
+1937085,2025-01-22,Senate,1,Introduced
+1937085,2025-01-29,Senate,2,"Referred to committee: General Government"
+1937085,2025-06-18,Senate,3,"Reported - Amended: General Government"
+1937085,2025-06-18,Senate,4,Passed
+1937085,2025-06-23,House,5,Introduced
+1937100,2025-01-22,Senate,1,Introduced
+1937100,2025-01-29,Senate,2,"Referred to committee: Government Oversight and Reform"
+1937109,2025-01-22,Senate,1,Introduced
+1937109,2025-01-29,Senate,2,"Referred to committee: Education"
+1937121,2025-01-22,Senate,1,Introduced
+1937121,2025-01-29,Senate,2,"Referred to committee: Judiciary"
+1937131,2025-01-22,Senate,1,Introduced
+1937131,2025-01-29,Senate,2,"Referred to committee: Judiciary"
+1937139,2025-01-22,Senate,1,Introduced
+1937139,2025-01-29,Senate,2,"Referred to committee: Higher Education"
+1937139,2025-02-12,Senate,3,"Reported - Substitute: Higher Education"
+1937139,2025-02-12,Senate,4,Passed
+1937139,2025-02-18,House,5,Introduced
+1937139,2025-02-26,House,6,"Referred to committee: Workforce and Higher Education"
+1937139,2025-03-19,House,7,"Reported - Substitute: Workforce and Higher Education"
+1937139,2025-03-19,House,8,Passed
+1937139,2025-03-26,Senate,9,"Concurred in House amendments"
+1937139,2025-03-26,,10,"Sent To The Governor"
+1937139,2025-03-28,,11,"Signed By The Governor"
+1937139,2025-06-27,,12,"Effective "
+1937146,2025-01-22,Senate,1,Introduced
+1937146,2025-01-29,Senate,2,"Referred to committee: Small Business and Economic Opportunity"
+1937401,2025-01-23,House,1,Adopted
+1939574,2025-01-23,House,1,Introduced
+1939574,2025-01-28,House,2,"Referred to committee: General Government"
+1939587,2025-01-23,House,1,Introduced
+1939587,2025-01-28,House,2,"Referred to committee: Workforce and Higher Education"
+1939605,2025-01-23,House,1,Introduced
+1939605,2025-01-28,House,2,"Referred to committee: Public Safety"
+1939624,2025-01-23,House,1,Introduced
+1939624,2025-01-28,House,2,"Referred to committee: Energy"
+1939624,2025-03-26,House,3,"Reported - Substitute: Energy"
+1939624,2025-03-26,House,4,Passed
+1939624,2025-04-01,Senate,5,Introduced
+1939624,2025-04-02,Senate,6,"Referred to committee: Energy"
+1939624,2025-04-29,Senate,7,"Reported - Substitute: Energy"
+1939624,2025-04-30,Senate,8,Passed
+1939624,2025-04-30,House,9,"Concurred in Senate amendments"
+1939624,2025-05-07,,10,"Sent To The Governor"
+1939624,2025-05-15,,11,"Signed By The Governor"
+1939624,2025-08-14,,12,"Effective "
+1939644,2025-01-23,House,1,Introduced
+1939644,2025-01-28,House,2,"Referred to committee: Development"
+1939661,2025-01-23,House,1,Introduced
+1939661,2025-01-28,House,2,"Referred to committee: Children and Human Services"
+1939681,2025-01-23,House,1,Introduced
+1939681,2025-01-28,House,2,"Referred to committee: Transportation"
+1939681,2025-04-30,House,3,"Reported - Substitute - Re-referred to Rules and Reference: Transportation"
+1939681,2025-05-07,House,4,"Reported - Re-referred to Finance: Rules and Reference"
+1939681,2025-05-27,House,5,"Reported - Substitute: Finance"
+1939681,2025-06-11,House,6,Passed
+1939681,2025-06-12,Senate,7,Introduced
+1939697,2025-01-23,House,1,Introduced
+1939697,2025-01-28,House,2,"Referred to committee: Health"
+1939718,2025-01-23,House,1,Introduced
+1939718,2025-01-28,House,2,"Referred to committee: Technology and Innovation"
+1939735,2025-01-23,House,1,Introduced
+1939735,2025-01-28,House,2,"Referred to committee: Government Oversight"
+1939756,2025-01-23,House,1,Introduced
+1939756,2025-01-28,House,2,"Referred to committee: Health"
+1939777,2025-01-23,House,1,Introduced
+1939777,2025-01-28,House,2,"Referred to committee: Health"
+1939777,2025-02-12,House,3,"Reported: Health"
+1939777,2025-02-12,House,4,Passed
+1939777,2025-02-14,Senate,5,Introduced
+1939777,2025-02-19,Senate,6,"Referred to committee: Health"
+1939777,2025-04-02,Senate,7,"Reported: Health"
+1939777,2025-05-07,Senate,8,Passed
+1939777,2025-05-16,,9,"Sent To The Governor"
+1939777,2025-05-28,,10,"Signed By The Governor"
+1939777,2025-08-27,,11,"Effective "
+1939795,2025-01-23,House,1,Introduced
+1939795,2025-01-28,House,2,"Referred to committee: Transportation"
+1939815,2025-01-23,House,1,Introduced
+1939815,2025-01-28,House,2,"Referred to committee: Children and Human Services"
+1939815,2025-05-14,House,3,"Reported - Substitute - Re-referred to Rules and Reference: Children and Human Services"
+1939815,2025-05-21,House,4,"Reported - Re-referred to Finance: Rules and Reference"
+1939833,2025-01-23,House,1,Introduced
+1939833,2025-01-28,House,2,"Referred to committee: Judiciary"
+1939833,2025-05-21,House,3,"Reported - Substitute: Judiciary"
+1939833,2025-05-21,House,4,Passed
+1939833,2025-05-22,Senate,5,Introduced
+1939833,2025-05-28,Senate,6,"Referred to committee: Judiciary"
+1939853,2025-01-23,House,1,Introduced
+1939853,2025-01-28,House,2,"Referred to committee: General Government"
+1939853,2025-02-26,House,3,"Reported: General Government"
+1939853,2025-03-05,House,4,Passed
+1939853,2025-03-11,Senate,5,Introduced
+1939853,2025-03-19,Senate,6,"Referred to committee: Government Oversight and Reform"
+1939871,2025-01-23,House,1,Introduced
+1939871,2025-01-28,House,2,"Referred to committee: Agriculture"
+1939871,2025-06-11,House,3,"Reported: Agriculture"
+1939871,2025-06-11,House,4,Passed
+1939871,2025-06-12,Senate,5,Introduced
+1939871,2025-06-18,Senate,6,"Referred to committee: Agriculture and Natural Resources"
+1939887,2025-01-23,House,1,Introduced
+1939887,2025-01-28,House,2,"Referred to committee: Ways and Means"
+1939887,2025-02-05,House,3,"Reported - Amended: Ways and Means"
+1939887,2025-02-05,House,4,Passed
+1939887,2025-02-10,Senate,5,Introduced
+1939887,2025-02-12,Senate,6,"Referred to committee: Ways and Means"
+1939887,2025-02-18,Senate,7,"Reported: Ways and Means"
+1939887,2025-02-19,Senate,8,Passed
+1939887,2025-02-27,,9,"Sent To The Governor"
+1939887,2025-03-07,,10,"Signed By The Governor"
+1939887,2025-03-07,,11,"Effective Emergency Act"
+1942400,2025-01-27,House,1,Introduced
+1942400,2025-01-28,House,2,"Referred to committee: Ways and Means"
+1942477,2025-01-27,House,1,Introduced
+1942477,2025-01-28,House,2,"Referred to committee: Judiciary"
+1942556,2025-01-27,House,1,Introduced
+1942556,2025-01-28,House,2,"Referred to committee: Workforce and Higher Education"
+1942631,2025-01-27,House,1,Introduced
+1942631,2025-01-28,House,2,"Referred to committee: Insurance"
+1942711,2025-01-27,House,1,Introduced
+1942711,2025-01-28,House,2,"Referred to committee: Public Safety"
+1942711,2025-06-18,House,3,"Reported - Substitute: Public Safety"
+1942711,2025-06-18,House,4,Passed
+1942711,2025-06-24,Senate,5,Introduced
+1942711,2025-06-25,Senate,6,"Referred to committee: Armed Services, Veterans Affairs and Public Safety"
+1942789,2025-01-27,House,1,Introduced
+1942789,2025-01-28,House,2,"Referred to committee: Public Safety"
+1942789,2025-06-18,House,3,"Reported - Substitute: Public Safety"
+1942789,2025-06-18,House,4,Passed
+1942789,2025-06-24,Senate,5,Introduced
+1942789,2025-06-25,Senate,6,"Referred to committee: Judiciary"
+1942857,2025-01-27,House,1,Introduced
+1942857,2025-01-28,House,2,"Referred to committee: Insurance"
+1943826,2025-01-27,House,1,Adopted
+1943844,2025-01-28,House,1,Introduced
+1943844,2025-02-05,House,2,"Referred to committee: Public Safety"
+1943885,2025-01-28,Senate,1,Adopted
+1943897,2025-01-28,Senate,1,Adopted
+1943910,2025-01-28,House,1,"Adopted: Rules and Reference"
+1943937,2025-01-28,House,1,"Adopted: Rules and Reference"
+1943952,2025-01-28,Senate,1,Adopted
+1943961,2025-01-28,House,1,"Adopted: Rules and Reference"
+1943986,2025-01-28,House,1,Introduced
+1943986,2025-02-05,House,2,"Referred to committee: Transportation"
+1943986,2025-03-12,House,3,"Reported: Transportation"
+1943986,2025-03-26,House,4,Passed
+1943986,2025-04-01,Senate,5,Introduced
+1943986,2025-04-02,Senate,6,"Referred to committee: Transportation"
+1944027,2025-01-28,House,1,Introduced
+1944027,2025-02-05,House,2,"Referred to committee: Ways and Means"
+1944027,2025-03-19,House,3,Passed
+1944027,2025-03-19,House,4,"Reported: Ways and Means"
+1944027,2025-03-25,Senate,5,Introduced
+1944027,2025-03-26,Senate,6,"Referred to committee: Ways and Means"
+1944066,2025-01-28,House,1,"Adopted: Rules and Reference"
+1944082,2025-01-28,House,1,"Introduced and Referred to Committee: General Government"
+1944082,2025-04-09,House,2,"Reported: General Government"
+1944082,2025-04-30,House,3,Adopted
+1944093,2025-01-28,House,1,"Adopted: Rules and Reference"
+1944134,2025-01-28,House,1,"Adopted: Rules and Reference"
+1944160,2025-01-28,House,1,Introduced
+1944160,2025-02-05,House,2,"Referred to committee: Government Oversight"
+1944160,2025-05-14,House,3,"Reported: Government Oversight"
+1944160,2025-05-28,House,4,Passed
+1944160,2025-06-03,Senate,5,Introduced
+1944160,2025-06-04,Senate,6,"Referred to committee: Government Oversight and Reform"
+1944206,2025-01-28,Senate,1,Adopted
+1944216,2025-01-28,House,1,"Adopted: Rules and Reference"
+1944314,2025-01-28,House,1,"Adopted: Rules and Reference"
+1944393,2025-01-28,Senate,1,Adopted
+1944428,2025-01-28,House,1,"Adopted: Rules and Reference"
+1945470,2025-01-28,Senate,1,Introduced
+1945470,2025-01-29,Senate,2,"Referred to committee: Education"
+1945484,2025-01-28,Senate,1,Introduced
+1945484,2025-01-29,Senate,2,"Referred to committee: Education"
+1945498,2025-01-28,Senate,1,Introduced
+1945498,2025-01-29,Senate,2,"Referred to committee: General Government"
+1945498,2025-02-26,Senate,3,"Reported - Substitute: General Government"
+1945498,2025-02-26,Senate,4,Passed
+1945498,2025-03-03,House,5,Introduced
+1945498,2025-03-05,House,6,"Referred to committee: Judiciary"
+1945510,2025-01-28,Senate,1,Introduced
+1945510,2025-01-29,Senate,2,"Referred to committee: Ways and Means"
+1945521,2025-01-28,Senate,1,Introduced
+1945521,2025-01-29,Senate,2,"Referred to committee: Education"
+1945542,2025-01-28,Senate,1,Offered
+1945542,2025-01-29,Senate,2,"Referred to committee: Workforce Development"
+1945542,2025-03-18,Senate,3,"Reported: Workforce Development"
+1945542,2025-04-09,Senate,4,Adopted
+1945542,2025-04-15,House,5,Offered
+1945542,2025-04-30,House,6,"Introduced and Referred to Committee: Commerce and Labor"
+1945568,2025-01-28,Senate,1,Introduced
+1945568,2025-01-29,Senate,2,"Referred to committee: Government Oversight and Reform"
+1945584,2025-01-28,Senate,1,Introduced
+1945584,2025-01-29,Senate,2,"Referred to committee: Ways and Means"
+1945596,2025-01-28,Senate,1,Introduced
+1945596,2025-01-29,Senate,2,"Referred to committee: Judiciary"
+1945614,2025-01-28,Senate,1,Introduced
+1945614,2025-01-29,Senate,2,"Referred to committee: Judiciary"
+1945627,2025-01-28,Senate,1,Introduced
+1945627,2025-01-29,Senate,2,"Referred to committee: Local Government"
+1945642,2025-01-28,Senate,1,Introduced
+1945642,2025-01-29,Senate,2,"Referred to committee: Health"
+1945655,2025-01-28,Senate,1,Introduced
+1945655,2025-01-29,Senate,2,"Referred to committee: Judiciary"
+1945672,2025-01-28,Senate,1,Offered
+1945672,2025-01-29,Senate,2,"Referred to committee: General Government"
+1945699,2025-01-28,Senate,1,Introduced
+1945699,2025-01-29,Senate,2,"Referred to committee: Workforce Development"
+1945699,2025-03-18,Senate,3,"Reported: Workforce Development"
+1945699,2025-04-09,Senate,4,Passed
+1945699,2025-04-15,House,5,Introduced
+1945699,2025-04-30,House,6,"Referred to committee: Commerce and Labor"
+1945714,2025-01-28,Senate,1,Introduced
+1945714,2025-01-29,Senate,2,"Referred to committee: Judiciary"
+1945728,2025-01-28,Senate,1,Introduced
+1945728,2025-01-29,Senate,2,"Referred to committee: Ways and Means"
+1945746,2025-01-28,Senate,1,Introduced
+1945746,2025-01-29,Senate,2,"Referred to committee: Agriculture and Natural Resources"
+1945746,2025-06-04,Senate,3,"Reported - Substitute: Agriculture and Natural Resources"
+1945746,2025-06-04,Senate,4,Passed
+1945746,2025-06-10,House,5,Introduced
+1945746,2025-06-11,House,6,"Referred to committee: Agriculture"
+1945763,2025-01-28,Senate,1,Introduced
+1945763,2025-01-29,Senate,2,"Referred to committee: Local Government"
+1945772,2025-01-28,Senate,1,Introduced
+1945772,2025-01-29,Senate,2,"Referred to committee: Financial Institutions, Insurance and Technology"
+1945789,2025-01-28,Senate,1,Introduced
+1945789,2025-01-29,Senate,2,"Referred to committee: Transportation"
+1945789,2025-06-11,Senate,3,"Reported: Transportation"
+1945789,2025-06-18,Senate,4,Passed
+1945789,2025-06-23,House,5,Introduced
+1945802,2025-01-28,Senate,1,Introduced
+1945802,2025-01-29,Senate,2,"Referred to committee: Health"
+1945817,2025-01-28,Senate,1,Introduced
+1945817,2025-01-29,Senate,2,"Referred to committee: Education"
+1945817,2025-02-12,Senate,3,"Re-referred: Finance"
+1945830,2025-01-28,Senate,1,Offered
+1945830,2025-01-29,Senate,2,"Referred to committee: Energy"
+1945830,2025-04-29,Senate,3,"Reported: Energy"
+1945830,2025-05-28,Senate,4,Adopted
+1945830,2025-06-03,House,5,Offered
+1945830,2025-06-04,House,6,"Introduced and Referred to Committee: Energy"
+1945847,2025-01-28,Senate,1,Introduced
+1945847,2025-01-29,Senate,2,"Referred to committee: Workforce Development"
+1945847,2025-02-25,Senate,3,"Reported: Workforce Development"
+1945847,2025-03-05,Senate,4,Passed
+1945847,2025-03-06,House,5,Introduced
+1945847,2025-03-19,House,6,"Referred to committee: Commerce and Labor"
+1945847,2025-04-02,House,7,"Reported: Commerce and Labor"
+1945847,2025-04-02,House,8,Passed
+1945847,2025-04-09,Senate,9,"Sent to Governor"
+1945847,2025-04-09,,10,"Sent To The Governor"
+1945847,2025-04-21,,11,"Signed By The Governor"
+1945847,2025-07-21,,12,"Effective "
+1945859,2025-01-28,Senate,1,Introduced
+1945859,2025-01-29,Senate,2,"Referred to committee: Judiciary"
+1945875,2025-01-28,Senate,1,Introduced
+1945875,2025-01-29,Senate,2,"Referred to committee: General Government"
+1945875,2025-04-29,Senate,3,"Reported: General Government"
+1945875,2025-05-14,Senate,4,Passed
+1945875,2025-05-20,House,5,Introduced
+1945875,2025-05-21,House,6,"Referred to committee: General Government"
+1945891,2025-01-28,Senate,1,Introduced
+1945891,2025-01-29,Senate,2,"Referred to committee: Judiciary"
+1945902,2025-01-28,Senate,1,Introduced
+1945902,2025-01-29,Senate,2,"Referred to committee: Education"
+1945924,2025-01-28,Senate,1,Offered
+1945924,2025-01-29,Senate,2,"Referred to committee: General Government"
+1945935,2025-01-28,Senate,1,Introduced
+1945935,2025-01-29,Senate,2,"Referred to committee: Armed Services, Veterans Affairs and Public Safety"
+1945935,2025-03-04,Senate,3,"Reported: Armed Services, Veterans Affairs and Public Safety"
+1945935,2025-03-05,Senate,4,Passed
+1945935,2025-03-06,House,5,Introduced
+1945935,2025-03-19,House,6,"Referred to committee: Veterans and Military Development"
+1945935,2025-06-04,House,7,"Reported: Veterans and Military Development"
+1945935,2025-06-11,House,8,Passed
+1945935,2025-06-24,Senate,9,"Sent to Governor"
+1945935,2025-06-24,,10,"Sent To The Governor"
+1945935,2025-07-01,,11,"Signed By The Governor"
+1945935,2025-09-30,,12,"Effective "
+1945947,2025-01-28,Senate,1,Introduced
+1945947,2025-01-29,Senate,2,"Referred to committee: Judiciary"
+1945961,2025-01-28,Senate,1,Introduced
+1945961,2025-01-29,Senate,2,"Referred to committee: Financial Institutions, Insurance and Technology"
+1945976,2025-01-28,Senate,1,Introduced
+1945976,2025-01-29,Senate,2,"Referred to committee: Workforce Development"
+1945984,2025-01-28,Senate,1,Introduced
+1945984,2025-01-29,Senate,2,"Referred to committee: General Government"
+1946054,2025-01-29,Senate,1,"Rules Resolution Offered"
+1946054,2025-01-29,Senate,2,Adopted
+1946161,2025-01-29,Senate,1,Offered
+1946161,2025-01-29,Senate,2,Adopted
+1946212,2025-01-29,Senate,1,Offered
+1946212,2025-01-29,Senate,2,Adopted
+1946269,2025-01-29,Senate,1,Offered
+1946269,2025-01-29,Senate,2,Adopted
+1946269,2025-02-05,House,3,Adopted
+1946376,2025-01-29,Senate,1,Offered
+1946376,2025-01-29,Senate,2,Adopted
+1946426,2025-01-29,Senate,1,Offered
+1946426,2025-01-29,Senate,2,Adopted
+1946475,2025-01-29,Senate,1,Offered
+1946475,2025-01-29,Senate,2,Adopted
+1953986,2025-02-03,House,1,Introduced
+1953986,2025-02-05,House,2,"Referred to committee: Public Safety"
+1953986,2025-05-14,House,3,"Reported - Substitute: Public Safety"
+1953986,2025-05-21,House,4,Passed
+1953986,2025-05-22,Senate,5,Introduced
+1953986,2025-05-28,Senate,6,"Referred to committee: Armed Services, Veterans Affairs and Public Safety"
+1953986,2025-06-25,Senate,7,"Reported: Armed Services, Veterans Affairs and Public Safety"
+1954047,2025-02-03,House,1,Introduced
+1954047,2025-02-05,House,2,"Referred to committee: Government Oversight"
+1954047,2025-06-04,House,3,"Reported: Government Oversight"
+1954047,2025-06-11,House,4,Passed
+1954047,2025-06-12,Senate,5,Introduced
+1954047,2025-06-18,Senate,6,"Referred to committee: Judiciary"
+1954111,2025-02-03,House,1,Introduced
+1954111,2025-02-05,House,2,"Referred to committee: Insurance"
+1954134,2025-02-03,House,1,Introduced
+1954134,2025-02-05,House,2,"Referred to committee: Transportation"
+1954134,2025-03-12,House,3,"Reported: Transportation"
+1954134,2025-03-19,House,4,Passed
+1954134,2025-03-25,Senate,5,Introduced
+1954134,2025-03-26,Senate,6,"Referred to committee: Transportation"
+1954202,2025-02-03,House,1,Introduced
+1954202,2025-02-05,House,2,"Referred to committee: Government Oversight"
+1954270,2025-02-03,House,1,Introduced
+1954270,2025-02-05,House,2,"Referred to committee: Transportation"
+1954293,2025-02-03,House,1,Introduced
+1954293,2025-02-05,House,2,"Referred to committee: Children and Human Services"
+1954293,2025-05-14,House,3,"Reported - Re-referred to Rules and Reference: Children and Human Services"
+1954293,2025-05-21,House,4,"Reported - Re-referred to Finance: Rules and Reference"
+1954363,2025-02-03,House,1,Introduced
+1954363,2025-02-05,House,2,"Referred to committee: Transportation"
+1954384,2025-02-03,House,1,Introduced
+1954384,2025-02-05,House,2,"Referred to committee: General Government"
+1954431,2025-02-03,House,1,Introduced
+1954431,2025-02-05,House,2,"Referred to committee: Commerce and Labor"
+1954476,2025-02-03,House,1,Introduced
+1954476,2025-02-05,House,2,"Referred to committee: Public Safety"
+1954526,2025-02-03,House,1,Introduced
+1954526,2025-02-05,House,2,"Referred to committee: Education"
+1954526,2025-02-12,House,3,"Reported - Substitute: Education"
+1954526,2025-02-26,House,4,Passed
+1954526,2025-03-04,Senate,5,Introduced
+1954526,2025-03-05,Senate,6,"Referred to committee: Education"
+1954526,2025-03-19,Senate,7,"Reported: Education"
+1954526,2025-04-02,Senate,8,Passed
+1954526,2025-04-09,,9,"Sent To The Governor"
+1954526,2025-04-21,,10,"Signed By The Governor"
+1954526,2025-04-21,,11,"Effective Emergency Act"
+1954549,2025-02-03,House,1,Introduced
+1954549,2025-02-05,House,2,"Referred to committee: Health"
+1954549,2025-05-21,House,3,"Reported: Health"
+1954572,2025-02-03,House,1,Introduced
+1954572,2025-02-05,House,2,"Referred to committee: Ways and Means"
+1954619,2025-02-03,House,1,Introduced
+1954619,2025-02-05,House,2,"Referred to committee: Ways and Means"
+1954640,2025-02-04,Senate,1,Offered
+1954640,2025-02-12,Senate,2,"Referred to committee: Armed Services, Veterans Affairs and Public Safety"
+1954640,2025-03-11,Senate,3,"Reported: Armed Services, Veterans Affairs and Public Safety"
+1954640,2025-05-14,Senate,4,Adopted
+1954663,2025-02-03,House,1,Introduced
+1954663,2025-02-05,House,2,"Referred to committee: Judiciary"
+1954781,2025-02-04,Senate,1,Offered
+1954781,2025-02-12,Senate,2,"Referred to committee: Armed Services, Veterans Affairs and Public Safety"
+1954781,2025-03-11,Senate,3,"Reported: Armed Services, Veterans Affairs and Public Safety"
+1954781,2025-03-26,Senate,4,Adopted
+1954982,2025-02-03,House,1,Introduced
+1954982,2025-02-05,House,2,"Referred to committee: Ways and Means"
+1955003,2025-02-03,House,1,Introduced
+1955003,2025-02-05,House,2,"Referred to committee: Public Safety"
+1955074,2025-02-04,Senate,1,Adopted
+1955242,2025-02-04,Senate,1,Adopted
+1955264,2025-02-04,Senate,1,Adopted
+1955281,2025-02-04,Senate,1,Adopted
+1955299,2025-02-04,Senate,1,Adopted
+1955537,2025-02-04,Senate,1,Adopted
+1956116,2025-02-04,Senate,1,Introduced
+1956116,2025-02-12,Senate,2,"Referred to committee: Financial Institutions, Insurance and Technology"
+1956126,2025-02-04,House,1,Introduced
+1956126,2025-02-05,House,2,"Referred to committee: Ways and Means"
+1956126,2025-05-28,House,3,"Reported: Ways and Means"
+1956126,2025-06-04,House,4,Passed
+1956126,2025-06-10,Senate,5,Introduced
+1956126,2025-06-11,Senate,6,"Referred to committee: Ways and Means"
+1956135,2025-02-04,House,1,Introduced
+1956135,2025-02-05,House,2,"Referred to committee: Health"
+1956135,2025-06-18,House,3,"Reported - Substitute: Health"
+1956135,2025-06-18,House,4,Passed
+1956135,2025-06-24,Senate,5,Introduced
+1956135,2025-06-25,Senate,6,"Referred to committee: Health"
+1956149,2025-02-04,House,1,Introduced
+1956149,2025-02-05,House,2,"Referred to committee: Education"
+1956149,2025-04-30,House,3,"Reported: Education"
+1956149,2025-05-07,House,4,Passed
+1956149,2025-05-13,Senate,5,Introduced
+1956149,2025-05-14,Senate,6,"Referred to committee: Education"
+1956156,2025-02-04,Senate,1,Introduced
+1956156,2025-02-12,Senate,2,"Referred to committee: Financial Institutions, Insurance and Technology"
+1956171,2025-02-04,House,1,Introduced
+1956171,2025-02-05,House,2,"Referred to committee: Transportation"
+1956171,2025-03-12,House,3,"Reported: Transportation"
+1956171,2025-03-19,House,4,Passed
+1956171,2025-03-25,Senate,5,Introduced
+1956171,2025-03-26,Senate,6,"Referred to committee: Transportation"
+1956171,2025-06-11,Senate,7,"Reported: Transportation"
+1956171,2025-06-18,Senate,8,Passed
+1956171,2025-06-24,,9,"Sent To The Governor"
+1956171,2025-07-01,,10,"Signed By The Governor"
+1956171,2025-09-30,,11,"Effective "
+1956184,2025-02-04,Senate,1,Introduced
+1956184,2025-02-12,Senate,2,"Referred to committee: Judiciary"
+1956198,2025-02-04,Senate,1,Introduced
+1956198,2025-02-12,Senate,2,"Referred to committee: Judiciary"
+1956217,2025-02-04,Senate,1,Introduced
+1956217,2025-02-12,Senate,2,"Referred to committee: Government Oversight and Reform"
+1956232,2025-02-04,Senate,1,Introduced
+1956232,2025-02-12,Senate,2,"Referred to committee: Ways and Means"
+1956246,2025-02-04,House,1,Introduced
+1956246,2025-02-05,House,2,"Referred to committee: Natural Resources"
+1956255,2025-02-04,Senate,1,Introduced
+1956255,2025-02-12,Senate,2,"Referred to committee: Government Oversight and Reform"
+1956269,2025-02-04,Senate,1,Introduced
+1956269,2025-02-12,Senate,2,"Referred to committee: Judiciary"
+1956280,2025-02-04,House,1,Introduced
+1956280,2025-02-05,House,2,"Referred to committee: Transportation"
+1956280,2025-05-07,House,3,"Reported: Transportation"
+1956280,2025-05-14,House,4,Passed
+1956280,2025-05-20,Senate,5,Introduced
+1956280,2025-05-28,Senate,6,"Referred to committee: Transportation"
+1956289,2025-02-04,Senate,1,Introduced
+1956289,2025-02-12,Senate,2,"Referred to committee: General Government"
+1956289,2025-04-29,Senate,3,"Reported - Substitute: General Government"
+1956289,2025-04-30,Senate,4,Passed
+1956289,2025-05-06,House,5,Introduced
+1956289,2025-05-07,House,6,"Referred to committee: General Government"
+1956301,2025-02-04,Senate,1,Introduced
+1956301,2025-02-12,Senate,2,"Referred to committee: Finance"
+1956310,2025-02-04,Senate,1,Introduced
+1956310,2025-02-12,Senate,2,"Referred to committee: Judiciary"
+1956324,2025-02-04,House,1,Introduced
+1956324,2025-02-05,House,2,"Referred to committee: Government Oversight"
+1956334,2025-02-04,Senate,1,Introduced
+1956334,2025-02-12,Senate,2,"Referred to committee: Financial Institutions, Insurance and Technology"
+1956334,2025-06-04,Senate,3,"Reported - Substitute: Financial Institutions, Insurance and Technology"
+1956334,2025-06-11,Senate,4,Passed
+1956334,2025-06-12,House,5,Introduced
+1956334,2025-06-18,House,6,"Referred to committee: Insurance"
+1956347,2025-02-04,Senate,1,Introduced
+1956347,2025-02-12,Senate,2,"Referred to committee: Financial Institutions, Insurance and Technology"
+1956357,2025-02-04,House,1,Introduced
+1956357,2025-02-05,House,2,"Referred to committee: Judiciary"
+1956357,2025-03-26,House,3,"Reported - Amended: Judiciary"
+1956357,2025-03-26,House,4,Passed
+1956357,2025-04-01,Senate,5,Introduced
+1956357,2025-04-02,Senate,6,"Referred to committee: Judiciary"
+1956370,2025-02-04,Senate,1,Introduced
+1956370,2025-02-12,Senate,2,"Referred to committee: Government Oversight and Reform"
+1956381,2025-02-04,House,1,Introduced
+1956381,2025-02-05,House,2,"Referred to committee: Transportation"
+1956381,2025-04-02,House,3,"Reported: Transportation"
+1956381,2025-04-02,House,4,Passed
+1956381,2025-04-08,Senate,5,Introduced
+1956381,2025-04-09,Senate,6,"Referred to committee: Transportation"
+1956381,2025-06-11,Senate,7,"Reported: Transportation"
+1956381,2025-06-25,Senate,8,Passed
+1956381,2025-06-26,,9,"Sent To The Governor"
+1956381,2025-07-01,,10,"Signed By The Governor"
+1956381,2025-09-30,,11,"Effective "
+1956394,2025-02-04,House,1,Introduced
+1956394,2025-02-05,House,2,"Referred to committee: Government Oversight"
+1956402,2025-02-04,Senate,1,Introduced
+1956402,2025-02-12,Senate,2,"Referred to committee: Transportation"
+1956402,2025-06-11,Senate,3,"Reported: Transportation"
+1956402,2025-06-18,Senate,4,Passed
+1956402,2025-06-23,House,5,Introduced
+1956415,2025-02-04,Senate,1,Introduced
+1956415,2025-02-12,Senate,2,"Referred to committee: Ways and Means"
+1956429,2025-02-04,Senate,1,Introduced
+1956429,2025-02-12,Senate,2,"Referred to committee: Health"
+1956455,2025-02-04,House,1,Introduced
+1956455,2025-02-05,House,2,"Referred to committee: Community Revitalization"
+1956467,2025-02-04,Senate,1,Introduced
+1956467,2025-02-12,Senate,2,"Referred to committee: Judiciary"
+1956476,2025-02-04,Senate,1,Introduced
+1956476,2025-02-12,Senate,2,"Referred to committee: Judiciary"
+1956489,2025-02-04,Senate,1,Introduced
+1956489,2025-02-12,Senate,2,"Referred to committee: Agriculture and Natural Resources"
+1956501,2025-02-04,House,1,Introduced
+1956501,2025-02-12,House,2,"Referred to committee: General Government"
+1956512,2025-02-04,House,1,Introduced
+1956512,2025-02-05,House,2,"Referred to committee: Judiciary"
+1956512,2025-05-28,House,3,"Reported - Amended: Judiciary"
+1956512,2025-06-04,House,4,Passed
+1956512,2025-06-10,Senate,5,Introduced
+1956512,2025-06-11,Senate,6,"Referred to committee: Judiciary"
+1956529,2025-02-04,Senate,1,Introduced
+1956529,2025-02-12,Senate,2,"Referred to committee: General Government"
+1956536,2025-02-04,Senate,1,Introduced
+1956536,2025-02-12,Senate,2,"Referred to committee: Judiciary"
+1956551,2025-02-04,House,1,Introduced
+1956551,2025-02-05,House,2,"Referred to committee: Finance"
+1956551,2025-02-25,House,3,"Reported - Substitute: Finance"
+1956551,2025-02-26,House,4,Passed
+1956551,2025-03-04,Senate,5,Introduced
+1956551,2025-03-05,Senate,6,"Referred to committee: Transportation"
+1956551,2025-03-19,Senate,7,"Reported - Substitute: Transportation"
+1956551,2025-03-19,Senate,8,Passed
+1956551,2025-03-19,House,9,"Concurred in Senate amendments"
+1956551,2025-03-25,,10,"Sent To The Governor"
+1956551,2025-03-31,,11,"Signed By The Governor"
+1956551,2025-06-30,,12,"Effective Certain provisions effective March 31, 2025; October 1, 2025; and December 27, 2025"
+1956561,2025-02-04,Senate,1,Introduced
+1956561,2025-02-12,Senate,2,"Referred to committee: Health"
+1956570,2025-02-04,Senate,1,Offered
+1956570,2025-02-12,Senate,2,"Referred to committee: General Government"
+1956716,2025-02-05,House,1,Adopted
+1958689,2025-02-05,House,1,"Adopted: Rules and Reference"
+1958740,2025-02-05,House,1,"Adopted: Rules and Reference"
+1958793,2025-02-05,House,1,"Adopted: Rules and Reference"
+1958902,2025-02-05,House,1,"Adopted: Rules and Reference"
+1959065,2025-02-05,House,1,"Adopted: Rules and Reference"
+1961523,2025-02-05,House,1,Introduced
+1961523,2025-02-12,House,2,"Referred to committee: Education"
+1961647,2025-02-05,House,1,Introduced
+1961647,2025-02-12,House,2,"Referred to committee: Transportation"
+1961770,2025-02-05,House,1,Introduced
+1961770,2025-02-12,House,2,"Referred to committee: Ways and Means"
+1963599,2025-02-10,House,1,Introduced
+1963599,2025-02-12,House,2,"Referred to committee: Public Insurance and Pensions"
+1963599,2025-03-12,House,3,"Reported - Re-referred to Rules and Reference: Public Insurance and Pensions"
+1963599,2025-03-19,House,4,"Reported - Re-referred to Finance: Rules and Reference"
+1963599,2025-04-02,House,5,"Reported: Finance"
+1963599,2025-04-02,House,6,Passed
+1963599,2025-04-08,Senate,7,Introduced
+1963599,2025-04-09,Senate,8,"Referred to committee: Financial Institutions, Insurance and Technology"
+1963599,2025-06-17,Senate,9,"Reported: Financial Institutions, Insurance and Technology"
+1963599,2025-06-25,Senate,10,Passed
+1963599,2025-06-26,,11,"Sent To The Governor"
+1963599,2025-06-27,,12,"Signed By The Governor"
+1963599,2025-06-27,,13,"Effective "
+1963649,2025-02-10,House,1,Introduced
+1963649,2025-02-12,House,2,"Referred to committee: Government Oversight"
+1963675,2025-02-10,House,1,Introduced
+1963675,2025-02-12,House,2,"Referred to committee: Judiciary"
+1963700,2025-02-10,House,1,Introduced
+1963700,2025-02-12,House,2,"Referred to committee: Transportation"
+1963725,2025-02-10,House,1,Introduced
+1963725,2025-02-12,House,2,"Referred to committee: Education"
+1963753,2025-02-10,House,1,Introduced
+1963753,2025-02-12,House,2,"Referred to committee: Energy"
+1963778,2025-02-10,House,1,Introduced
+1963778,2025-02-12,House,2,"Referred to committee: Ways and Means"
+1963802,2025-02-10,House,1,Introduced
+1963802,2025-02-12,House,2,"Referred to committee: Government Oversight"
+1963828,2025-02-10,House,1,Introduced
+1963828,2025-02-12,House,2,"Referred to committee: Public Safety"
+1963852,2025-02-10,House,1,Introduced
+1963852,2025-02-12,House,2,"Referred to committee: Transportation"
+1963878,2025-02-10,House,1,Introduced
+1963878,2025-02-12,House,2,"Referred to committee: Technology and Innovation"
+1963901,2025-02-10,House,1,Introduced
+1963901,2025-02-12,House,2,"Referred to committee: Natural Resources"
+1963901,2025-03-05,House,3,"Reported: Natural Resources"
+1963901,2025-03-05,House,4,Passed
+1963901,2025-03-11,Senate,5,Introduced
+1963901,2025-03-19,Senate,6,"Referred to committee: Agriculture and Natural Resources"
+1963901,2025-06-04,Senate,7,"Reported: Agriculture and Natural Resources"
+1963901,2025-06-18,Senate,8,Passed
+1963901,2025-06-24,,9,"Sent To The Governor"
+1963901,2025-07-01,,10,"Signed By The Governor"
+1963901,2025-09-30,,11,"Effective "
+1963929,2025-02-10,House,1,Introduced
+1963929,2025-02-12,House,2,"Referred to committee: Government Oversight"
+1963953,2025-02-10,House,1,Introduced
+1963953,2025-02-12,House,2,"Referred to committee: Natural Resources"
+1964003,2025-02-10,House,1,Introduced
+1964003,2025-02-12,House,2,"Referred to committee: Public Insurance and Pensions"
+1964028,2025-02-10,House,1,Introduced
+1964028,2025-02-12,House,2,"Referred to committee: Agriculture"
+1964028,2025-04-02,House,3,"Reported - Amended: Agriculture"
+1964028,2025-04-02,House,4,Passed
+1964028,2025-04-08,Senate,5,Introduced
+1964028,2025-04-09,Senate,6,"Referred to committee: Agriculture and Natural Resources"
+1964028,2025-06-11,Senate,7,"Reported: Agriculture and Natural Resources"
+1964028,2025-06-18,Senate,8,Passed
+1964028,2025-06-24,,9,"Sent To The Governor"
+1964028,2025-07-01,,10,"Signed By The Governor"
+1964028,2025-09-30,,11,"Effective "
+1964053,2025-02-10,House,1,Introduced
+1964053,2025-02-12,House,2,"Referred to committee: Local Government"
+1964077,2025-02-10,House,1,Introduced
+1964077,2025-02-12,House,2,"Referred to committee: Judiciary"
+1964095,2025-02-10,House,1,Introduced
+1964095,2025-02-12,House,2,"Referred to committee: Public Insurance and Pensions"
+1964095,2025-03-12,House,3,"Reported - Amended - Re-referred to Rules and Reference: Public Insurance and Pensions"
+1964095,2025-03-19,House,4,"Reported - Re-referred to Finance: Rules and Reference"
+1964095,2025-04-02,House,5,"Reported: Finance"
+1964095,2025-04-02,House,6,Passed
+1964095,2025-04-08,Senate,7,Introduced
+1964095,2025-04-09,Senate,8,"Referred to committee: Financial Institutions, Insurance and Technology"
+1964095,2025-06-17,Senate,9,"Reported - Amended: Financial Institutions, Insurance and Technology"
+1964095,2025-06-18,Senate,10,Passed
+1964095,2025-06-18,House,11,"Concurred in Senate amendments"
+1964095,2025-06-24,,12,"Sent To The Governor"
+1964095,2025-06-27,,13,"Signed By The Governor"
+1964095,2025-06-27,,14,"Effective Certain provisions effective September 26, 2025"
+1964785,2025-02-10,Senate,1,Introduced
+1964785,2025-02-12,Senate,2,"Referred to committee: General Government"
+1964790,2025-02-10,Senate,1,Introduced
+1964790,2025-02-12,Senate,2,"Referred to committee: Public Utilities"
+1964807,2025-02-10,Senate,1,Introduced
+1964807,2025-02-12,Senate,2,"Referred to committee: Transportation"
+1964807,2025-04-30,Senate,3,"Reported: Transportation"
+1964807,2025-05-14,Senate,4,Passed
+1964807,2025-05-20,House,5,Introduced
+1964807,2025-05-21,House,6,"Referred to committee: Transportation"
+1964807,2025-06-18,House,7,"Reported: Transportation"
+1964824,2025-02-10,Senate,1,Introduced
+1964824,2025-02-12,Senate,2,"Referred to committee: Ways and Means"
+1964843,2025-02-10,Senate,1,Offered
+1964843,2025-02-12,Senate,2,"Referred to committee: Finance"
+1964859,2025-02-10,Senate,1,Offered
+1964859,2025-02-12,Senate,2,"Referred to committee: Medicaid"
+1964859,2025-03-11,Senate,3,"Reported: Medicaid"
+1964859,2025-03-26,Senate,4,Adopted
+1964859,2025-03-31,House,5,Offered
+1964859,2025-04-02,House,6,"Introduced and Referred to Committee: Medicaid"
+1964859,2025-05-07,House,7,"Reported: Medicaid"
+1964859,2025-05-14,House,8,Adopted
+1964865,2025-02-10,Senate,1,Introduced
+1964865,2025-02-12,Senate,2,"Referred to committee: Ways and Means"
+1964882,2025-02-10,Senate,1,Introduced
+1964882,2025-02-12,Senate,2,"Referred to committee: Transportation"
+1964899,2025-02-10,Senate,1,Introduced
+1964899,2025-02-12,Senate,2,"Referred to committee: Higher Education"
+1964916,2025-02-10,Senate,1,Introduced
+1964916,2025-02-12,Senate,2,"Referred to committee: Judiciary"
+1964924,2025-02-10,Senate,1,Offered
+1964924,2025-02-12,Senate,2,"Referred to committee: Armed Services, Veterans Affairs and Public Safety"
+1964924,2025-03-25,Senate,3,"Reported: Armed Services, Veterans Affairs and Public Safety"
+1964924,2025-04-02,Senate,4,Adopted
+1964924,2025-04-07,House,5,Offered
+1964924,2025-04-09,House,6,"Introduced and Referred to Committee: Veterans and Military Development"
+1964935,2025-02-10,Senate,1,Introduced
+1964935,2025-02-12,Senate,2,"Referred to committee: Financial Institutions, Insurance and Technology"
+1964935,2025-04-02,Senate,3,"Reported - Amended: Financial Institutions, Insurance and Technology"
+1964935,2025-04-02,Senate,4,Passed
+1964935,2025-04-07,House,5,Introduced
+1964935,2025-04-09,House,6,"Referred to committee: Insurance"
+1964935,2025-05-27,House,7,"Reported: Insurance"
+1964935,2025-06-04,House,8,Passed
+1964935,2025-06-24,Senate,9,"Sent to Governor"
+1964935,2025-06-24,,10,"Sent To The Governor"
+1964935,2025-07-01,,11,"Signed By The Governor"
+1964935,2025-09-30,,12,"Effective "
+1964950,2025-02-10,Senate,1,Introduced
+1964950,2025-02-12,Senate,2,"Referred to committee: Ways and Means"
+1964961,2025-02-10,Senate,1,Introduced
+1964961,2025-02-12,Senate,2,"Referred to committee: Judiciary"
+1964971,2025-02-10,Senate,1,Introduced
+1964971,2025-02-12,Senate,2,"Referred to committee: Transportation"
+1964980,2025-02-10,Senate,1,Introduced
+1964980,2025-02-12,Senate,2,"Referred to committee: General Government"
+1964991,2025-02-10,Senate,1,Offered
+1964991,2025-02-12,Senate,2,"Referred to committee: Government Oversight and Reform"
+1965008,2025-02-10,Senate,1,Introduced
+1965008,2025-02-12,Senate,2,"Referred to committee: Local Government"
+1965008,2025-03-18,Senate,3,"Reported - Amended: Local Government"
+1965008,2025-03-26,Senate,4,Passed
+1965008,2025-03-31,House,5,Introduced
+1965008,2025-04-02,House,6,"Referred to committee: Judiciary"
+1965014,2025-02-10,Senate,1,Introduced
+1965014,2025-02-12,Senate,2,"Referred to committee: Finance"
+1965989,2025-02-11,Senate,1,Introduced
+1965989,2025-02-12,Senate,2,"Referred to committee: Judiciary"
+1966042,2025-02-11,Senate,1,Adopted
+1966067,2025-02-11,Senate,1,Adopted
+1966094,2025-02-11,House,1,Introduced
+1966094,2025-02-12,House,2,"Referred to committee: Transportation"
+1966125,2025-02-11,House,1,Introduced
+1966125,2025-02-12,House,2,"Referred to committee: Government Oversight"
+1966203,2025-02-11,House,1,Introduced
+1966203,2025-02-12,House,2,"Referred to committee: Development"
+1966203,2025-05-21,House,3,"Reported: Development"
+1966203,2025-05-28,House,4,Passed
+1966203,2025-06-03,Senate,5,Introduced
+1966203,2025-06-04,Senate,6,"Referred to committee: Judiciary"
+1966286,2025-02-11,Senate,1,Adopted
+1966320,2025-02-11,House,1,Introduced
+1966320,2025-02-12,House,2,"Referred to committee: Finance"
+1966320,2025-04-08,House,3,"Reported - Substitute: Finance"
+1966320,2025-04-09,House,4,Passed
+1966320,2025-04-17,Senate,5,Introduced
+1966320,2025-04-30,Senate,6,"Referred to committee: Finance"
+1966320,2025-06-10,Senate,7,"Reported - Substitute: Finance"
+1966320,2025-06-11,Senate,8,Passed
+1966320,2025-06-11,House,9,"Refused to concur in Senate amendments"
+1966320,2025-06-12,Senate,10,"Insist on amendments; asks for committee of conference"
+1966320,2025-06-12,Senate,11,"Conference managers: Sens. - Cirino, Chavez, Hicks-Hudson"
+1966320,2025-06-12,House,12,"Conference managers: Reps. - Stewart, Dovilla, Sweeney"
+1966320,2025-06-25,Senate,13,"Conference report agreed to: Conference Committee on H.B. 96"
+1966320,2025-06-25,House,14,"Conference report agreed to"
+1966320,2025-06-27,,15,"Sent To The Governor"
+1966320,2025-06-30,,16,"Signed By The Governor"
+1966320,2025-07-01,House,17,"line item veto receipt"
+1966320,2025-07-21,House,18,"Item passed notwithstanding objections of the Governor"
+1966320,2025-06-30,,19,"Effective Operating appropriations effective June 30, 2025. Other provisions generally effective September 30, 2025. Some provisions subject to special effective dates."
+1966350,2025-02-11,House,1,Introduced
+1966350,2025-02-12,House,2,"Referred to committee: Ways and Means"
+1966462,2025-02-11,House,1,Introduced
+1966462,2025-02-12,House,2,"Referred to committee: Technology and Innovation"
+1966604,2025-02-11,Senate,1,Adopted
+1966630,2025-02-11,House,1,Introduced
+1966630,2025-02-12,House,2,"Referred to committee: Public Safety"
+1966657,2025-02-11,Senate,1,Adopted
+1967214,2025-02-12,House,1,Adopted
+1967214,2025-02-14,Senate,2,Adopted
+1967242,2025-02-12,House,1,Adopted
+1967242,2025-02-12,House,2,Adopted
+1967350,2025-02-12,House,1,"Adopted: Rules and Reference"
+1969566,2025-02-11,Senate,1,Adopted
+1969902,2025-02-12,House,1,Introduced
+1969902,2025-02-26,House,2,"Referred to committee: Education"
+1970024,2025-02-12,House,1,Introduced
+1970024,2025-02-26,House,2,"Referred to committee: Ways and Means"
+1970045,2025-02-12,House,1,Introduced
+1970045,2025-02-26,House,2,"Referred to committee: Insurance"
+1970139,2025-02-12,Senate,1,Offered
+1970139,2025-02-19,Senate,2,"Referred to committee: Government Oversight and Reform"
+1970153,2025-02-12,House,1,Introduced
+1970153,2025-02-26,House,2,"Referred to committee: Finance"
+1970219,2025-02-12,House,1,Introduced
+1970219,2025-02-26,House,2,"Referred to committee: Workforce and Higher Education"
+1970219,2025-05-14,House,3,"Reported - Substitute - Re-referred to Rules and Reference: Workforce and Higher Education"
+1970219,2025-05-21,House,4,"Reported - Re-referred to Finance: Rules and Reference"
+1971055,2025-02-11,House,1,Introduced
+1971055,2025-02-12,House,2,"Referred to committee: Judiciary"
+1971201,2025-02-11,House,1,Introduced
+1971201,2025-02-12,House,2,"Referred to committee: Ways and Means"
+1971239,2025-02-11,House,1,Introduced
+1971239,2025-02-12,House,2,"Referred to committee: Commerce and Labor"
+1971239,2025-03-26,House,3,"Reported: Commerce and Labor"
+1971239,2025-03-26,House,4,Passed
+1971239,2025-04-01,Senate,5,Introduced
+1971239,2025-04-02,Senate,6,"Referred to committee: Workforce Development"
+1971356,2025-02-11,House,1,Introduced
+1971356,2025-02-12,House,2,"Referred to committee: Judiciary"
+1971428,2025-02-11,House,1,Introduced
+1971428,2025-02-12,House,2,"Referred to committee: Finance"
+1971467,2025-02-11,House,1,Introduced
+1971467,2025-02-12,House,2,"Referred to committee: Workforce and Higher Education"
+1971504,2025-02-11,House,1,Introduced
+1971504,2025-02-12,House,2,"Referred to committee: Local Government"
+1971538,2025-02-11,House,1,Introduced
+1971538,2025-02-12,House,2,"Referred to committee: Workforce and Higher Education"
+1971538,2025-05-14,House,3,"Reported - Re-referred to Rules and Reference: Workforce and Higher Education"
+1971538,2025-05-21,House,4,"Reported - Re-referred to Finance: Rules and Reference"
+1973096,2025-02-14,Senate,1,Adopted
+1973197,2025-02-14,Senate,1,Adopted
+1973464,2025-02-18,House,1,Introduced
+1973464,2025-02-26,House,2,"Referred to committee: Workforce and Higher Education"
+1973481,2025-02-18,House,1,Introduced
+1973481,2025-02-26,House,2,"Referred to committee: Insurance"
+1973495,2025-02-18,House,1,Introduced
+1973495,2025-02-26,House,2,"Referred to committee: Finance"
+1973514,2025-02-18,House,1,Introduced
+1973514,2025-02-26,House,2,"Referred to committee: Development"
+1973529,2025-02-14,Senate,1,Introduced
+1973529,2025-02-19,Senate,2,"Referred to committee: Public Utilities"
+1973550,2025-02-14,Senate,1,Introduced
+1973550,2025-02-19,Senate,2,"Referred to committee: Local Government"
+1973563,2025-02-18,Senate,1,Introduced
+1973563,2025-02-19,Senate,2,"Referred to committee: Finance"
+1973579,2025-02-18,Senate,1,Adopted
+1973596,2025-02-18,House,1,Introduced
+1973596,2025-02-26,House,2,"Referred to committee: Public Safety"
+1973613,2025-02-18,House,1,Introduced
+1973613,2025-02-26,House,2,"Referred to committee: Ways and Means"
+1973629,2025-02-14,Senate,1,Introduced
+1973629,2025-02-19,Senate,2,"Referred to committee: Finance"
+1973645,2025-02-18,House,1,Introduced
+1973645,2025-02-26,House,2,"Referred to committee: Education"
+1973645,2025-05-14,House,3,"Reported - Amended: Education"
+1973645,2025-05-21,House,4,Passed
+1973645,2025-05-22,Senate,5,Introduced
+1973645,2025-05-28,Senate,6,"Referred to committee: Education"
+1973668,2025-02-18,House,1,Introduced
+1973668,2025-02-26,House,2,"Referred to committee: Judiciary"
+1973681,2025-02-18,Senate,1,Introduced
+1973681,2025-02-19,Senate,2,"Referred to committee: Ways and Means"
+1973709,2025-02-18,House,1,Introduced
+1973709,2025-02-26,House,2,"Referred to committee: Local Government"
+1973726,2025-02-18,Senate,1,Introduced
+1973726,2025-02-19,Senate,2,"Referred to committee: Public Utilities"
+1973742,2025-02-18,Senate,1,Introduced
+1973742,2025-02-19,Senate,2,"Referred to committee: Public Utilities"
+1973757,2025-02-18,House,1,Introduced
+1973757,2025-02-26,House,2,"Referred to committee: Judiciary"
+1973778,2025-02-18,Senate,1,Introduced
+1973778,2025-02-19,Senate,2,"Referred to committee: General Government"
+1973794,2025-02-18,House,1,Introduced
+1973794,2025-02-26,House,2,"Referred to committee: Judiciary"
+1973852,2025-02-18,House,1,Introduced
+1973852,2025-02-26,House,2,"Referred to committee: Public Safety"
+1973876,2025-02-18,House,1,Introduced
+1973876,2025-02-26,House,2,"Referred to committee: Health"
+1973876,2025-05-07,House,3,"Reported: Health"
+1973876,2025-05-21,House,4,Passed
+1973876,2025-05-22,Senate,5,Introduced
+1973876,2025-05-28,Senate,6,"Referred to committee: Health"
+1975300,2025-02-19,Senate,1,Introduced
+1975300,2025-02-26,Senate,2,"Referred to committee: Government Oversight and Reform"
+1981138,2025-02-24,House,1,Introduced
+1981138,2025-02-26,House,2,"Referred to committee: Medicaid"
+1981138,2025-04-09,House,3,"Reported: Medicaid"
+1981138,2025-05-07,House,4,Passed
+1981138,2025-05-13,Senate,5,Introduced
+1981138,2025-05-14,Senate,6,"Referred to committee: Medicaid"
+1981154,2025-02-24,House,1,Introduced
+1981154,2025-02-26,House,2,"Referred to committee: Judiciary"
+1981175,2025-02-24,House,1,Introduced
+1981175,2025-02-26,House,2,"Referred to committee: Education"
+1981175,2025-05-14,House,3,"Reported - Substitute: Education"
+1981175,2025-05-28,House,4,Passed
+1981175,2025-06-03,Senate,5,Introduced
+1981175,2025-06-04,Senate,6,"Referred to committee: Education"
+1981218,2025-02-24,House,1,Introduced
+1981218,2025-02-26,House,2,"Referred to committee: Energy"
+1981241,2025-02-24,House,1,Introduced
+1981241,2025-02-26,House,2,"Referred to committee: Ways and Means"
+1981241,2025-06-12,House,3,"Reported: Ways and Means"
+1981241,2025-06-18,House,4,Passed
+1981241,2025-06-24,Senate,5,Introduced
+1981241,2025-06-25,Senate,6,"Referred to committee: Ways and Means"
+1981286,2025-02-24,House,1,Introduced
+1981286,2025-02-26,House,2,"Referred to committee: Government Oversight"
+1981305,2025-02-24,House,1,Introduced
+1981305,2025-02-26,House,2,"Referred to committee: Judiciary"
+1981305,2025-05-07,House,3,"Reported - Substitute: Judiciary"
+1981305,2025-05-07,House,4,Passed
+1981305,2025-05-13,Senate,5,Introduced
+1981305,2025-05-14,Senate,6,"Referred to committee: Judiciary"
+1981350,2025-02-24,House,1,Introduced
+1981350,2025-02-26,House,2,"Referred to committee: Transportation"
+1981373,2025-02-24,House,1,Introduced
+1981373,2025-02-26,House,2,"Referred to committee: Public Safety"
+1981373,2025-05-28,House,3,"Reported: Public Safety"
+1981373,2025-05-28,House,4,Passed
+1981373,2025-06-03,Senate,5,Introduced
+1981373,2025-06-04,Senate,6,"Referred to committee: Judiciary"
+1981394,2025-02-24,House,1,Introduced
+1981394,2025-02-26,House,2,"Referred to committee: Technology and Innovation"
+1981394,2025-06-18,House,3,"Reported - Substitute: Technology and Innovation"
+1981394,2025-06-18,House,4,Passed
+1981394,2025-06-24,Senate,5,Introduced
+1981394,2025-06-25,Senate,6,"Referred to committee: Financial Institutions, Insurance and Technology"
+1981415,2025-02-24,House,1,Introduced
+1981415,2025-02-26,House,2,"Referred to committee: Local Government"
+1981442,2025-02-24,House,1,Introduced
+1981442,2025-02-26,House,2,"Referred to committee: Education"
+1981464,2025-02-24,House,1,Introduced
+1981464,2025-02-26,House,2,"Referred to committee: Health"
+1981486,2025-02-24,House,1,Introduced
+1981486,2025-02-26,House,2,"Referred to committee: Local Government"
+1981486,2025-05-28,House,3,"Reported - Amended: Local Government"
+1981486,2025-06-04,House,4,Passed
+1981486,2025-06-10,Senate,5,Introduced
+1981486,2025-06-11,Senate,6,"Referred to committee: Local Government"
+1981506,2025-02-24,House,1,Introduced
+1981506,2025-02-26,House,2,"Referred to committee: Education"
+1981531,2025-02-24,House,1,Introduced
+1981531,2025-02-26,House,2,"Referred to committee: Ways and Means"
+1981553,2025-02-24,House,1,Introduced
+1981553,2025-02-26,House,2,"Referred to committee: Ways and Means"
+1981578,2025-02-24,House,1,Introduced
+1981578,2025-02-26,House,2,"Referred to committee: Education"
+1981601,2025-02-24,House,1,Introduced
+1981601,2025-02-26,House,2,"Referred to committee: Ways and Means"
+1981666,2025-02-24,House,1,Introduced
+1981666,2025-02-26,House,2,"Referred to committee: Ways and Means"
+1981666,2025-06-03,House,3,"Reported - Substitute: Ways and Means"
+1981666,2025-06-04,House,4,Passed
+1981666,2025-06-10,Senate,5,Introduced
+1981666,2025-06-11,Senate,6,"Referred to committee: Ways and Means"
+1983169,2025-02-25,Senate,1,Adopted
+1983281,2025-02-25,Senate,1,Adopted
+1983929,2025-02-25,Senate,1,Introduced
+1983929,2025-02-26,Senate,2,"Referred to committee: Local Government"
+1983962,2025-02-25,Senate,1,Introduced
+1983962,2025-02-26,Senate,2,"Referred to committee: Judiciary"
+1983985,2025-02-25,Senate,1,Introduced
+1983985,2025-02-26,Senate,2,"Referred to committee: Financial Institutions, Insurance and Technology"
+1984002,2025-02-25,Senate,1,Introduced
+1984002,2025-02-26,Senate,2,"Referred to committee: Judiciary"
+1984019,2025-02-25,Senate,1,Introduced
+1984019,2025-02-26,Senate,2,"Referred to committee: Finance"
+1984042,2025-02-25,Senate,1,Introduced
+1984042,2025-02-26,Senate,2,"Referred to committee: Workforce Development"
+1984074,2025-02-25,Senate,1,Offered
+1984074,2025-02-26,Senate,2,"Referred to committee: Ways and Means"
+1984096,2025-02-25,Senate,1,Introduced
+1984096,2025-02-26,Senate,2,"Referred to committee: Financial Institutions, Insurance and Technology"
+1984114,2025-02-25,Senate,1,Introduced
+1984114,2025-02-26,Senate,2,"Referred to committee: General Government"
+1984132,2025-02-25,Senate,1,Introduced
+1984132,2025-02-26,Senate,2,"Referred to committee: Transportation"
+1984132,2025-06-11,Senate,3,"Reported: Transportation"
+1984132,2025-06-18,Senate,4,Passed
+1984132,2025-06-23,House,5,Introduced
+1984153,2025-02-25,Senate,1,Introduced
+1984153,2025-02-26,Senate,2,"Referred to committee: Local Government"
+1984173,2025-02-25,Senate,1,Introduced
+1984173,2025-02-26,Senate,2,"Referred to committee: Judiciary"
+1984173,2025-04-17,Senate,3,"Reported: Judiciary"
+1984173,2025-04-30,Senate,4,Passed
+1984173,2025-05-06,House,5,Introduced
+1984173,2025-05-07,House,6,"Referred to committee: Public Safety"
+1984173,2025-06-11,House,7,"Reported: Public Safety"
+1984173,2025-06-18,House,8,Passed
+1984173,2025-06-24,Senate,9,"Sent to Governor"
+1984173,2025-06-24,,10,"Sent To The Governor"
+1984173,2025-07-01,,11,"Signed By The Governor"
+1984173,2025-09-30,,12,"Effective "
+1984211,2025-02-25,Senate,1,Introduced
+1984211,2025-02-26,Senate,2,"Referred to committee: Public Utilities"
+1984229,2025-02-25,Senate,1,Offered
+1984229,2025-02-26,Senate,2,"Referred to committee: Transportation"
+1984250,2025-02-25,House,1,Introduced
+1984250,2025-03-05,House,2,"Referred to committee: Local Government"
+1984284,2025-02-25,Senate,1,Introduced
+1984284,2025-02-26,Senate,2,"Referred to committee: Education"
+1984307,2025-02-25,Senate,1,Introduced
+1984307,2025-02-26,Senate,2,"Referred to committee: Health"
+1984361,2025-02-25,House,1,Introduced
+1984361,2025-03-05,House,2,"Referred to committee: Judiciary"
+1984377,2025-02-25,House,1,Introduced
+1984377,2025-03-05,House,2,"Referred to committee: Community Revitalization"
+1984394,2025-02-25,Senate,1,Introduced
+1984394,2025-02-26,Senate,2,"Referred to committee: Ways and Means"
+1984408,2025-02-25,House,1,Introduced
+1984408,2025-02-26,House,2,"Referred to committee: Agriculture"
+1984536,2025-02-26,House,1,"Adopted: Rules and Reference"
+1984592,2025-02-26,Senate,1,Introduced
+1984592,2025-03-05,Senate,2,"Referred to committee: Education"
+1984773,2025-02-26,House,1,"Adopted: Rules and Reference"
+1984831,2025-02-26,House,1,"Adopted: Rules and Reference"
+1984894,2025-02-26,Senate,1,Introduced
+1984894,2025-03-05,Senate,2,"Referred to committee: Finance"
+1984952,2025-02-26,House,1,Introduced
+1984952,2025-03-05,House,2,"Referred to committee: Arts, Athletics, and Tourism"
+1985016,2025-02-26,House,1,Introduced
+1985016,2025-03-05,House,2,"Referred to committee: Ways and Means"
+1985198,2025-02-26,Senate,1,Offered
+1985198,2025-02-26,Senate,2,Adopted
+1985319,2025-02-26,House,1,"Adopted: Rules and Reference"
+1985439,2025-02-26,House,1,Introduced
+1985439,2025-03-05,House,2,"Referred to committee: Local Government"
+1990531,2025-03-03,House,1,Introduced
+1990531,2025-03-05,House,2,"Referred to committee: Ways and Means"
+1990590,2025-03-03,House,1,Introduced
+1990590,2025-03-05,House,2,"Referred to committee: Energy"
+1990654,2025-03-03,House,1,Introduced
+1990654,2025-03-05,House,2,"Referred to committee: Health"
+1990654,2025-05-27,House,3,"Reported - Substitute: Health"
+1990654,2025-06-18,House,4,Passed
+1990654,2025-06-24,Senate,5,Introduced
+1990654,2025-06-25,Senate,6,"Referred to committee: Health"
+1990684,2025-03-03,House,1,Introduced
+1990684,2025-03-05,House,2,"Referred to committee: Agriculture"
+1990771,2025-03-03,House,1,Introduced
+1990771,2025-03-05,House,2,"Referred to committee: Community Revitalization"
+1990771,2025-05-14,House,3,"Reported: Community Revitalization"
+1990771,2025-05-14,House,4,Passed
+1990771,2025-05-20,Senate,5,Introduced
+1990771,2025-05-28,Senate,6,"Referred to committee: Armed Services, Veterans Affairs and Public Safety"
+1990771,2025-06-25,Senate,7,"Reported: Armed Services, Veterans Affairs and Public Safety"
+1990805,2025-03-03,House,1,Introduced
+1990805,2025-03-05,House,2,"Referred to committee: Education"
+1990836,2025-03-03,House,1,Introduced
+1990836,2025-03-05,House,2,"Referred to committee: Development"
+1990865,2025-03-03,House,1,Introduced
+1990865,2025-03-05,House,2,"Referred to committee: Local Government"
+1990992,2025-03-04,Senate,1,Adopted
+1991037,2025-03-04,Senate,1,Adopted
+1991173,2025-03-04,Senate,1,Adopted
+1991466,2025-03-04,Senate,1,Introduced
+1991466,2025-03-05,Senate,2,"Referred to committee: Judiciary"
+1991483,2025-03-04,House,1,Introduced
+1991483,2025-03-05,House,2,"Referred to committee: Financial Institutions"
+1991491,2025-03-04,House,1,Introduced
+1991491,2025-03-19,House,2,"Referred to committee: Commerce and Labor"
+1991500,2025-03-04,Senate,1,Introduced
+1991500,2025-03-05,Senate,2,"Referred to committee: Ways and Means"
+1991507,2025-03-04,Senate,1,Introduced
+1991507,2025-03-05,Senate,2,"Referred to committee: Government Oversight and Reform"
+1992075,2025-03-05,Senate,1,Introduced
+1992075,2025-03-19,Senate,2,"Referred to committee: Judiciary"
+1992121,2025-03-05,Senate,1,Introduced
+1992121,2025-03-19,Senate,2,"Referred to committee: Agriculture and Natural Resources"
+1992163,2025-03-05,House,1,Introduced
+1992163,2025-03-19,House,2,"Referred to committee: Transportation"
+1992294,2025-03-05,House,1,"Adopted: Rules and Reference"
+1992333,2025-03-05,House,1,Introduced
+1992333,2025-03-19,House,2,"Referred to committee: Commerce and Labor"
+1992557,2025-02-10,Senate,1,Offered
+1992557,2025-02-12,Senate,2,"Referred to committee: Workforce Development"
+1992723,2025-03-05,Senate,1,Introduced
+1992723,2025-03-19,Senate,2,"Referred to committee: Judiciary"
+1992938,2025-03-05,Senate,1,Introduced
+1992938,2025-03-19,Senate,2,"Referred to committee: Judiciary"
+1993625,2025-03-06,House,1,Introduced
+1993625,2025-03-19,House,2,"Referred to committee: General Government"
+1993693,2025-03-06,House,1,Introduced
+1993693,2025-03-19,House,2,"Referred to committee: Local Government"
+1993729,2025-03-06,House,1,Introduced
+1993729,2025-03-19,House,2,"Referred to committee: Ways and Means"
+1993756,2025-03-06,House,1,Introduced
+1993756,2025-03-19,House,2,"Referred to committee: Technology and Innovation"
+1993797,2025-03-06,House,1,Introduced
+1993797,2025-03-19,House,2,"Referred to committee: Workforce and Higher Education"
+1993833,2025-03-06,House,1,Introduced
+1993833,2025-03-19,House,2,"Referred to committee: Judiciary"
+1993965,2025-03-06,House,1,Introduced
+1993965,2025-03-19,House,2,"Referred to committee: Energy"
+1994000,2025-03-06,House,1,Introduced
+1994000,2025-03-19,House,2,"Referred to committee: Education"
+1999755,2025-03-11,Senate,1,Introduced
+1999755,2025-03-19,Senate,2,"Referred to committee: Addiction and Community Revitalization"
+1999755,2025-04-30,Senate,3,"Reported: Addiction and Community Revitalization"
+1999755,2025-05-07,Senate,4,Passed
+1999755,2025-05-13,House,5,Introduced
+1999755,2025-05-14,House,6,"Referred to committee: Children and Human Services"
+1999755,2025-06-11,House,7,"Reported: Children and Human Services"
+1999755,2025-06-18,House,8,Passed
+1999755,2025-06-24,Senate,9,"Sent to Governor"
+1999755,2025-06-24,,10,"Sent To The Governor"
+1999755,2025-07-01,,11,"Signed By The Governor"
+1999755,2025-09-30,,12,"Effective Certain provisions effective March 30, 2026"
+1999765,2025-03-11,Senate,1,Offered
+1999765,2025-03-19,Senate,2,"Referred to committee: Government Oversight and Reform"
+1999765,2025-06-18,Senate,3,"Reported: Government Oversight and Reform"
+1999783,2025-03-11,Senate,1,Adopted
+1999809,2025-03-11,Senate,1,Adopted
+1999823,2025-03-11,Senate,1,Adopted
+1999851,2025-03-11,Senate,1,Introduced
+1999851,2025-03-19,Senate,2,"Referred to committee: Energy"
+1999887,2025-03-11,Senate,1,Introduced
+1999887,2025-03-19,Senate,2,"Referred to committee: Workforce Development"
+1999902,2025-03-11,Senate,1,Adopted
+1999917,2025-03-11,Senate,1,Adopted
+1999944,2025-03-11,Senate,1,Introduced
+1999944,2025-03-19,Senate,2,"Referred to committee: Health"
+1999954,2025-03-11,Senate,1,Introduced
+1999954,2025-03-19,Senate,2,"Referred to committee: Workforce Development"
+1999973,2025-03-11,Senate,1,Introduced
+1999973,2025-03-19,Senate,2,"Referred to committee: Health"
+1999996,2025-03-11,Senate,1,Adopted
+2000021,2025-03-11,Senate,1,Introduced
+2000021,2025-03-19,Senate,2,"Referred to committee: Government Oversight and Reform"
+2000035,2025-03-11,Senate,1,Introduced
+2000035,2025-03-19,Senate,2,"Referred to committee: Local Government"
+2000037,2025-03-11,Senate,1,Introduced
+2000037,2025-03-19,Senate,2,"Referred to committee: Education"
+2004665,2025-03-12,House,1,Introduced
+2004665,2025-03-19,House,2,"Referred to committee: Health"
+2004731,2025-03-12,House,1,Introduced
+2004731,2025-03-19,House,2,"Referred to committee: Transportation"
+2004898,2025-03-12,House,1,Introduced
+2004898,2025-03-19,House,2,"Referred to committee: Transportation"
+2004898,2025-05-07,House,3,"Reported: Transportation"
+2004898,2025-05-21,House,4,Passed
+2004898,2025-05-22,Senate,5,Introduced
+2004898,2025-05-28,Senate,6,"Referred to committee: Transportation"
+2005226,2025-03-12,House,1,Introduced
+2005226,2025-03-19,House,2,"Referred to committee: Agriculture"
+2005260,2025-03-12,House,1,Introduced
+2005260,2025-03-19,House,2,"Referred to committee: Government Oversight"
+2005394,2025-03-12,House,1,Introduced
+2005394,2025-03-19,House,2,"Referred to committee: Energy"
+2005566,2025-03-12,Senate,1,Introduced
+2005566,2025-03-19,Senate,2,"Referred to committee: Judiciary"
+2005582,2025-03-12,Senate,1,Introduced
+2005582,2025-03-19,Senate,2,"Referred to committee: Housing"
+2005603,2025-02-12,House,1,"Introduced and Referred to Committee: General Government"
+2005786,2025-02-26,House,1,"Introduced and Referred to Committee: Government Oversight"
+2005786,2025-05-14,House,2,"Reported: Government Oversight"
+2005786,2025-05-21,House,3,Adopted
+2005786,2025-05-22,Senate,4,Offered
+2005786,2025-05-28,Senate,5,"Referred to committee: Government Oversight and Reform"
+2005830,2025-02-26,House,1,"Introduced and Referred to Committee: Education"
+2005830,2025-06-04,House,2,"Reported: Education"
+2005830,2025-06-11,House,3,Adopted
+2005830,2025-06-12,Senate,4,Offered
+2005830,2025-06-18,Senate,5,"Referred to committee: Education"
+2005851,2025-03-05,House,1,"Introduced and Referred to Committee: Government Oversight"
+2005851,2025-06-04,House,2,"Reported: Government Oversight"
+2005851,2025-06-11,House,3,Adopted
+2005851,2025-06-12,Senate,4,Offered
+2005851,2025-06-18,Senate,5,"Referred to committee: Government Oversight and Reform"
+2006069,2025-03-12,House,1,Introduced
+2006069,2025-03-19,House,2,"Referred to committee: Natural Resources"
+2006114,2025-03-12,House,1,Introduced
+2006114,2025-03-19,House,2,"Referred to committee: Agriculture"
+2006157,2025-03-12,House,1,Introduced
+2006157,2025-03-19,House,2,"Referred to committee: Education"
+2006244,2025-03-12,House,1,Introduced
+2006244,2025-03-19,House,2,"Referred to committee: Education"
+2006284,2025-03-12,House,1,Introduced
+2006284,2025-03-19,House,2,"Referred to committee: Health"
+2006332,2025-03-12,House,1,Introduced
+2006332,2025-03-19,House,2,"Referred to committee: Judiciary"
+2006332,2025-06-18,House,3,"Reported - Amended: Judiciary"
+2006332,2025-06-18,House,4,Passed
+2006332,2025-06-24,Senate,5,Introduced
+2006332,2025-06-25,Senate,6,"Referred to committee: Judiciary"
+2006376,2025-03-12,House,1,Introduced
+2006376,2025-03-19,House,2,"Referred to committee: Development"
+2006422,2025-03-12,House,1,Introduced
+2006422,2025-03-19,House,2,"Referred to committee: Government Oversight"
+2006509,2025-03-12,House,1,Introduced
+2006509,2025-03-19,House,2,"Referred to committee: Government Oversight"
+2006509,2025-04-09,House,3,"Reported: Government Oversight"
+2006509,2025-04-30,House,4,Passed
+2006509,2025-05-06,Senate,5,Introduced
+2006509,2025-05-07,Senate,6,"Referred to committee: Government Oversight and Reform"
+2006592,2025-03-12,House,1,Introduced
+2006592,2025-03-19,House,2,"Referred to committee: Ways and Means"
+2008949,2025-03-17,House,1,Adopted
+2009737,2025-03-17,House,1,Introduced
+2009737,2025-03-19,House,2,"Referred to committee: Ways and Means"
+2009774,2025-03-17,House,1,Introduced
+2009774,2025-03-19,House,2,"Referred to committee: Community Revitalization"
+2009817,2025-03-17,House,1,Introduced
+2009817,2025-03-19,House,2,"Referred to committee: Judiciary"
+2009950,2025-03-18,Senate,1,Adopted
+2010000,2025-03-18,Senate,1,Adopted
+2010074,2025-03-18,Senate,1,Adopted
+2010092,2025-03-18,Senate,1,Adopted
+2010110,2025-03-18,Senate,1,Adopted
+2010169,2025-03-18,Senate,1,Adopted
+2010185,2025-03-18,Senate,1,Adopted
+2010208,2025-03-18,Senate,1,Adopted
+2010223,2025-03-18,Senate,1,Adopted
+2010241,2025-03-18,Senate,1,Adopted
+2010260,2025-03-18,Senate,1,Adopted
+2010280,2025-03-18,Senate,1,Adopted
+2010739,2025-03-18,Senate,1,Introduced
+2010739,2025-03-19,Senate,2,"Referred to committee: Finance"
+2010756,2025-03-18,House,1,Introduced
+2010756,2025-03-26,House,2,"Referred to committee: Judiciary"
+2010767,2025-03-18,House,1,Introduced
+2010767,2025-03-26,House,2,"Referred to committee: Natural Resources"
+2010780,2025-03-18,Senate,1,Introduced
+2010780,2025-03-19,Senate,2,"Referred to committee: Public Utilities"
+2010789,2025-03-18,Senate,1,Introduced
+2010789,2025-03-19,Senate,2,"Referred to committee: Transportation"
+2010789,2025-04-30,Senate,3,"Reported: Transportation"
+2010789,2025-05-07,Senate,4,Passed
+2010789,2025-05-13,House,5,Introduced
+2010789,2025-05-14,House,6,"Referred to committee: Transportation"
+2010821,2025-03-18,Senate,1,Introduced
+2010821,2025-03-19,Senate,2,"Referred to committee: Health"
+2010834,2025-03-18,House,1,Introduced
+2010834,2025-03-26,House,2,"Referred to committee: Workforce and Higher Education"
+2010834,2025-05-14,House,3,"Reported: Workforce and Higher Education"
+2010834,2025-05-14,House,4,Passed
+2010834,2025-05-20,Senate,5,Introduced
+2010834,2025-05-28,Senate,6,"Referred to committee: Judiciary"
+2010872,2025-03-18,Senate,1,Introduced
+2010872,2025-03-19,Senate,2,"Referred to committee: Agriculture and Natural Resources"
+2010872,2025-04-02,Senate,3,"Reported - Amended: Agriculture and Natural Resources"
+2010872,2025-04-09,Senate,4,Passed
+2010872,2025-04-15,House,5,Introduced
+2010872,2025-04-30,House,6,"Referred to committee: Community Revitalization"
+2010872,2025-05-28,House,7,"Reported - Substitute: Community Revitalization"
+2010872,2025-06-11,House,8,Passed
+2010872,2025-06-18,Senate,9,"Concurred in House amendments"
+2010872,2025-06-24,Senate,10,"Sent to Governor"
+2010872,2025-06-24,,11,"Sent To The Governor"
+2010872,2025-07-01,,12,"Signed By The Governor"
+2010872,2025-09-30,,13,"Effective "
+2010884,2025-03-18,House,1,Introduced
+2010884,2025-03-26,House,2,"Referred to committee: Public Safety"
+2010890,2025-03-18,House,1,Introduced
+2010890,2025-03-26,House,2,"Referred to committee: Commerce and Labor"
+2010966,2025-03-18,Senate,1,Offered
+2010966,2025-03-19,Senate,2,"Referred to committee: Government Oversight and Reform"
+2010982,2025-03-19,Senate,1,Adopted
+2011046,2025-03-19,Senate,1,Adopted
+2011063,2025-03-19,Senate,1,Adopted
+2011097,2025-03-19,Senate,1,Offered
+2011122,2025-03-19,House,1,"Adopted: Rules and Reference"
+2011128,2025-03-19,House,1,"Adopted: Rules and Reference"
+2011137,2025-03-19,House,1,"Adopted: Rules and Reference"
+2011155,2025-03-19,House,1,"Adopted: Rules and Reference"
+2011185,2025-03-19,House,1,"Adopted: Rules and Reference"
+2011197,2025-03-19,House,1,"Adopted: Rules and Reference"
+2011206,2025-03-19,House,1,"Adopted: Rules and Reference"
+2011216,2025-03-19,House,1,"Adopted: Rules and Reference"
+2011228,2025-03-19,House,1,"Adopted: Rules and Reference"
+2011247,2025-03-19,House,1,"Adopted: Rules and Reference"
+2011257,2025-03-19,House,1,"Adopted: Rules and Reference"
+2011267,2025-03-19,House,1,"Adopted: Rules and Reference"
+2011277,2025-03-19,House,1,"Adopted: Rules and Reference"
+2011326,2025-03-19,House,1,"Adopted: Rules and Reference"
+2011337,2025-03-19,House,1,"Adopted: Rules and Reference"
+2011346,2025-03-19,House,1,"Adopted: Rules and Reference"
+2011377,2025-03-19,House,1,"Adopted: Rules and Reference"
+2011387,2025-03-19,House,1,"Adopted: Rules and Reference"
+2011395,2025-03-19,House,1,"Adopted: Rules and Reference"
+2011404,2025-03-19,House,1,"Adopted: Rules and Reference"
+2011482,2025-03-19,House,1,Introduced
+2011482,2025-03-26,House,2,"Referred to committee: Development"
+2011498,2025-03-19,House,1,Introduced
+2011498,2025-03-26,House,2,"Referred to committee: Ways and Means"
+2011514,2025-03-19,Senate,1,Introduced
+2011514,2025-03-26,Senate,2,"Referred to committee: General Government"
+2011530,2025-03-19,House,1,Introduced
+2011530,2025-03-26,House,2,"Referred to committee: Technology and Innovation"
+2011594,2025-03-19,Senate,1,Introduced
+2011594,2025-03-26,Senate,2,"Referred to committee: Agriculture and Natural Resources"
+2011594,2025-05-28,Senate,3,"Reported: Agriculture and Natural Resources"
+2011594,2025-05-28,Senate,4,Passed
+2011594,2025-06-03,House,5,Introduced
+2011594,2025-06-04,House,6,"Referred to committee: Natural Resources"
+2011611,2025-03-19,House,1,Introduced
+2011611,2025-03-26,House,2,"Referred to committee: Education"
+2011639,2025-03-19,House,1,Introduced
+2011639,2025-03-26,House,2,"Referred to committee: Education"
+2013369,2025-03-24,House,1,Adopted
+2013435,2025-03-24,House,1,Adopted
+2013766,2025-03-24,House,1,Introduced
+2013766,2025-03-26,House,2,"Referred to committee: Education"
+2013767,2025-03-24,House,1,Introduced
+2013767,2025-03-26,House,2,"Referred to committee: Education"
+2013768,2025-03-24,House,1,Introduced
+2013768,2025-03-26,House,2,"Referred to committee: Judiciary"
+2013769,2025-03-24,House,1,Introduced
+2013769,2025-03-26,House,2,"Referred to committee: Judiciary"
+2013770,2025-03-24,House,1,Introduced
+2013770,2025-03-26,House,2,"Referred to committee: Public Insurance and Pensions"
+2013771,2025-03-24,House,1,Introduced
+2013771,2025-03-26,House,2,"Referred to committee: General Government"
+2013772,2025-03-24,House,1,Introduced
+2013772,2025-03-26,House,2,"Referred to committee: Insurance"
+2013773,2025-03-24,House,1,Introduced
+2013773,2025-03-26,House,2,"Referred to committee: General Government"
+2014072,2025-03-25,Senate,1,Offered
+2014072,2025-03-26,Senate,2,"Referred to committee: Armed Services, Veterans Affairs and Public Safety"
+2014072,2025-06-10,Senate,3,"Reported: Armed Services, Veterans Affairs and Public Safety"
+2014099,2025-03-25,Senate,1,Adopted
+2014129,2025-03-25,Senate,1,Adopted
+2014143,2025-03-25,Senate,1,Adopted
+2014172,2025-03-25,Senate,1,Adopted
+2014187,2025-03-25,Senate,1,Adopted
+2014239,2025-03-25,Senate,1,Adopted
+2014269,2025-03-25,Senate,1,Adopted
+2014284,2025-03-25,Senate,1,Adopted
+2014297,2025-03-25,Senate,1,Adopted
+2014315,2025-03-25,Senate,1,Adopted
+2014330,2025-03-25,Senate,1,Adopted
+2014344,2025-03-25,Senate,1,Offered
+2014344,2025-03-26,Senate,2,"Referred to committee: General Government"
+2014344,2025-04-02,Senate,3,"Reported: General Government"
+2014344,2025-04-02,Senate,4,Adopted
+2014361,2025-03-25,Senate,1,Adopted
+2014402,2025-03-25,Senate,1,Adopted
+2014553,2025-03-25,House,1,Adopted
+2014763,2025-03-25,House,1,Introduced
+2014763,2025-04-02,House,2,"Referred to committee: Public Safety"
+2014764,2025-03-25,Senate,1,Introduced
+2014764,2025-03-26,Senate,2,"Referred to committee: Judiciary"
+2014764,2025-05-28,Senate,3,"Reported: Judiciary"
+2014764,2025-06-04,Senate,4,Passed
+2014764,2025-06-10,House,5,Introduced
+2014764,2025-06-11,House,6,"Referred to committee: Development"
+2014765,2025-03-25,Senate,1,Introduced
+2014765,2025-03-26,Senate,2,"Referred to committee: Judiciary"
+2014766,2025-03-25,Senate,1,Introduced
+2014766,2025-03-26,Senate,2,"Referred to committee: Education"
+2014767,2025-03-25,Senate,1,Introduced
+2014767,2025-03-26,Senate,2,"Referred to committee: Health"
+2014768,2025-03-25,House,1,Introduced
+2014768,2025-03-26,House,2,"Referred to committee: Judiciary"
+2014769,2025-03-25,House,1,Introduced
+2014769,2025-03-26,House,2,"Referred to committee: Transportation"
+2015014,2025-03-26,House,1,Adopted
+2015266,2025-03-26,House,1,"Adopted: Rules and Reference"
+2015277,2025-03-26,House,1,"Adopted: Rules and Reference"
+2015299,2025-03-26,House,1,"Adopted: Rules and Reference"
+2015321,2025-03-26,House,1,"Adopted: Rules and Reference"
+2015346,2025-03-26,House,1,"Adopted: Rules and Reference"
+2015357,2025-03-26,House,1,"Adopted: Rules and Reference"
+2015368,2025-03-26,House,1,"Adopted: Rules and Reference"
+2015391,2025-03-26,House,1,"Adopted: Rules and Reference"
+2015402,2025-03-26,House,1,"Adopted: Rules and Reference"
+2015416,2025-03-26,House,1,"Adopted: Rules and Reference"
+2015438,2025-03-26,House,1,"Adopted: Rules and Reference"
+2015462,2025-03-26,House,1,"Adopted: Rules and Reference"
+2015473,2025-03-26,House,1,"Adopted: Rules and Reference"
+2015530,2025-03-26,House,1,Introduced
+2015530,2025-04-02,House,2,"Referred to committee: Technology and Innovation"
+2015531,2025-03-26,House,1,Introduced
+2015531,2025-04-02,House,2,"Referred to committee: Veterans and Military Development"
+2015531,2025-05-21,House,3,"Reported: Veterans and Military Development"
+2015531,2025-05-28,House,4,Passed
+2015531,2025-06-03,Senate,5,Introduced
+2015531,2025-06-04,Senate,6,"Referred to committee: Government Oversight and Reform"
+2015532,2025-03-26,House,1,Introduced
+2015532,2025-04-02,House,2,"Referred to committee: Natural Resources"
+2015533,2025-03-26,House,1,Introduced
+2015533,2025-04-02,House,2,"Referred to committee: Judiciary"
+2015606,2025-02-12,House,1,"Introduced and Referred to Committee: Government Oversight"
+2015642,2025-01-28,House,1,"Introduced and Referred to Committee: Agriculture"
+2015680,2025-01-28,House,1,"Introduced and Referred to Committee: Public Safety"
+2017975,2025-03-31,House,1,Introduced
+2017975,2025-04-02,House,2,"Referred to committee: Transportation"
+2017985,2025-03-31,House,1,Introduced
+2017985,2025-04-02,House,2,"Referred to committee: Financial Institutions"
+2017999,2025-04-01,Senate,1,Adopted
+2018033,2025-03-31,House,1,Introduced
+2018033,2025-04-02,House,2,"Referred to committee: Education"
+2018059,2025-03-31,House,1,Introduced
+2018059,2025-04-02,House,2,"Referred to committee: Public Safety"
+2018059,2025-06-03,House,3,"Reported - Substitute: Public Safety"
+2018059,2025-06-04,House,4,Passed
+2018059,2025-06-10,Senate,5,Introduced
+2018059,2025-06-11,Senate,6,"Referred to committee: Judiciary"
+2018081,2025-03-31,House,1,Introduced
+2018081,2025-04-02,House,2,"Referred to committee: Ways and Means"
+2018132,2025-03-31,House,1,Introduced
+2018132,2025-04-02,House,2,"Referred to committee: Judiciary"
+2018169,2025-04-01,Senate,1,Adopted
+2018183,2025-04-01,Senate,1,Adopted
+2018200,2025-04-01,Senate,1,Adopted
+2018234,2025-04-01,Senate,1,Adopted
+2018259,2025-03-31,House,1,Introduced
+2018259,2025-04-02,House,2,"Referred to committee: Ways and Means"
+2018272,2025-03-31,House,1,Introduced
+2018272,2025-04-02,House,2,"Referred to committee: Judiciary"
+2018293,2025-03-31,House,1,Introduced
+2018293,2025-04-02,House,2,"Referred to committee: Health"
+2018293,2025-06-11,House,3,"Reported - Substitute: Health"
+2018293,2025-06-18,House,4,Passed
+2018293,2025-06-24,Senate,5,Introduced
+2018293,2025-06-25,Senate,6,"Referred to committee: Health"
+2018886,2025-04-02,House,1,"Adopted: Rules and Reference"
+2018891,2025-04-01,House,1,Introduced
+2018891,2025-04-09,House,2,"Referred to committee: Community Revitalization"
+2018900,2025-04-02,Senate,1,Adopted
+2018907,2025-04-02,House,1,"Adopted: Rules and Reference"
+2018917,2025-04-02,House,1,"Adopted: Rules and Reference"
+2018937,2025-04-01,Senate,1,Introduced
+2018937,2025-04-02,Senate,2,"Referred to committee: Judiciary"
+2018948,2025-04-01,House,1,Introduced
+2018948,2025-04-09,House,2,"Referred to committee: Insurance"
+2018955,2025-04-01,House,1,Introduced
+2018955,2025-04-09,House,2,"Referred to committee: Ways and Means"
+2018965,2025-04-01,Senate,1,Introduced
+2018965,2025-04-02,Senate,2,"Referred to committee: Education"
+2018965,2025-05-13,Senate,3,"Reported - Substitute: Education"
+2018965,2025-05-14,Senate,4,Passed
+2018965,2025-05-20,House,5,Introduced
+2018965,2025-05-21,House,6,"Referred to committee: Education"
+2018976,2025-04-02,House,1,"Adopted: Rules and Reference"
+2018983,2025-04-01,House,1,Introduced
+2018983,2025-04-09,House,2,"Referred to committee: Workforce and Higher Education"
+2018997,2025-04-01,Senate,1,Introduced
+2018997,2025-04-02,Senate,2,"Referred to committee: Health"
+2019002,2025-04-02,House,1,"Adopted: Rules and Reference"
+2019023,2025-04-01,Senate,1,Introduced
+2019023,2025-04-02,Senate,2,"Referred to committee: Medicaid"
+2019032,2025-04-01,Senate,1,Introduced
+2019032,2025-04-02,Senate,2,"Referred to committee: Ways and Means"
+2019042,2025-04-02,Senate,1,Adopted
+2019064,2025-04-01,Senate,1,Introduced
+2019064,2025-04-02,Senate,2,"Referred to committee: Financial Institutions, Insurance and Technology"
+2019069,2025-04-02,Senate,1,Adopted
+2019081,2025-04-02,Senate,1,Adopted
+2019092,2025-04-01,House,1,Introduced
+2019092,2025-04-09,House,2,"Referred to committee: Public Safety"
+2019102,2025-04-01,Senate,1,Introduced
+2019102,2025-04-02,Senate,2,"Referred to committee: Financial Institutions, Insurance and Technology"
+2019109,2025-04-02,House,1,"Adopted: Rules and Reference"
+2019119,2025-04-01,House,1,Introduced
+2019119,2025-04-09,House,2,"Referred to committee: Government Oversight"
+2019131,2025-04-01,Senate,1,Introduced
+2019131,2025-04-02,Senate,2,"Referred to committee: Financial Institutions, Insurance and Technology"
+2019141,2025-04-02,House,1,"Adopted: Rules and Reference"
+2019151,2025-04-02,Senate,1,Adopted
+2019161,2025-04-02,House,1,"Adopted: Rules and Reference"
+2019170,2025-04-01,Senate,1,Introduced
+2019170,2025-04-02,Senate,2,"Referred to committee: Financial Institutions, Insurance and Technology"
+2019181,2025-04-01,House,1,Introduced
+2019181,2025-04-09,House,2,"Referred to committee: Insurance"
+2019191,2025-04-01,Senate,1,Introduced
+2019191,2025-04-02,Senate,2,"Referred to committee: Financial Institutions, Insurance and Technology"
+2019199,2025-04-01,House,1,Introduced
+2019199,2025-04-09,House,2,"Referred to committee: Insurance"
+2019216,2025-04-02,Senate,1,Introduced
+2019216,2025-04-09,Senate,2,"Referred to committee: Finance"
+2019226,2025-04-02,House,1,"Adopted: Rules and Reference"
+2019741,2025-04-02,House,1,"Introduced and Referred to Committee: General Government"
+2019932,2025-04-02,House,1,"Introduced and Referred to Committee: Government Oversight"
+2020293,2025-03-26,House,1,"Introduced and Referred to Committee: Government Oversight"
+2020293,2025-05-07,House,2,"Reported: Government Oversight"
+2020293,2025-05-07,House,3,Adopted
+2021061,2025-04-07,House,1,Introduced
+2021061,2025-04-09,House,2,"Referred to committee: Government Oversight"
+2021088,2025-04-07,House,1,Introduced
+2021088,2025-04-09,House,2,"Referred to committee: Commerce and Labor"
+2021109,2025-04-07,House,1,Introduced
+2021109,2025-04-09,House,2,"Referred to committee: Transportation"
+2021109,2025-05-07,House,3,"Reported: Transportation"
+2021109,2025-05-14,House,4,Passed
+2021109,2025-05-20,Senate,5,Introduced
+2021109,2025-05-28,Senate,6,"Referred to committee: Transportation"
+2021161,2025-04-07,House,1,Introduced
+2021161,2025-04-09,House,2,"Referred to committee: Community Revitalization"
+2021183,2025-04-07,House,1,Introduced
+2021183,2025-04-09,House,2,"Referred to committee: Judiciary"
+2021211,2025-04-07,House,1,Introduced
+2021211,2025-04-09,House,2,"Referred to committee: Commerce and Labor"
+2021229,2025-04-07,House,1,Introduced
+2021229,2025-04-09,House,2,"Referred to committee: Health"
+2021459,2025-04-08,Senate,1,Adopted
+2021481,2025-04-08,Senate,1,Adopted
+2021499,2025-04-08,Senate,1,Adopted
+2021523,2025-04-08,Senate,1,Adopted
+2021546,2025-04-08,Senate,1,Adopted
+2021569,2025-04-08,Senate,1,Adopted
+2021588,2025-04-08,Senate,1,Adopted
+2021606,2025-04-08,Senate,1,Adopted
+2021818,2025-04-08,House,1,Adopted
+2021820,2025-04-08,House,1,Adopted
+2022114,2025-04-09,Senate,1,Introduced
+2022114,2025-04-30,Senate,2,"Referred to committee: Financial Institutions, Insurance and Technology"
+2022125,2025-04-09,House,1,Introduced
+2022125,2025-04-30,House,2,"Referred to committee: Insurance"
+2022141,2025-04-08,Senate,1,Introduced
+2022141,2025-04-09,Senate,2,"Referred to committee: Education"
+2022167,2025-04-08,Senate,1,Introduced
+2022167,2025-04-09,Senate,2,"Referred to committee: Armed Services, Veterans Affairs and Public Safety"
+2022167,2025-06-12,Senate,3,"Reported: Armed Services, Veterans Affairs and Public Safety"
+2022167,2025-06-18,Senate,4,Passed
+2022167,2025-06-23,House,5,Introduced
+2022180,2025-04-08,Senate,1,Introduced
+2022180,2025-04-09,Senate,2,"Referred to committee: Armed Services, Veterans Affairs and Public Safety"
+2022212,2025-04-09,Senate,1,Adopted
+2022225,2025-04-09,House,1,Introduced
+2022225,2025-04-30,House,2,"Referred to committee: General Government"
+2022238,2025-04-08,Senate,1,Introduced
+2022238,2025-04-09,Senate,2,"Referred to committee: Finance"
+2022254,2025-04-08,Senate,1,Introduced
+2022254,2025-04-09,Senate,2,"Referred to committee: Judiciary"
+2022275,2025-04-08,Senate,1,Introduced
+2022275,2025-04-09,Senate,2,"Referred to committee: Health"
+2022290,2025-04-09,House,1,"Adopted: Rules and Reference"
+2022294,2025-04-09,House,1,"Adopted: Rules and Reference"
+2022300,2025-04-09,House,1,"Adopted: Rules and Reference"
+2022306,2025-04-09,House,1,"Adopted: Rules and Reference"
+2022320,2025-04-09,House,1,"Adopted: Rules and Reference"
+2022337,2025-04-09,House,1,"Adopted: Rules and Reference"
+2022344,2025-04-09,House,1,"Adopted: Rules and Reference"
+2022352,2025-04-09,House,1,"Adopted: Rules and Reference"
+2022360,2025-04-09,House,1,"Adopted: Rules and Reference"
+2022375,2025-04-09,House,1,"Adopted: Rules and Reference"
+2022383,2025-04-09,House,1,"Adopted: Rules and Reference"
+2022390,2025-04-09,House,1,"Adopted: Rules and Reference"
+2022636,2025-04-09,House,1,"Adopted: Rules and Reference"
+2023977,2025-04-15,House,1,Introduced
+2023977,2025-04-30,House,2,"Referred to committee: Ways and Means"
+2024026,2025-04-15,House,1,Introduced
+2024026,2025-04-30,House,2,"Referred to committee: Transportation"
+2024026,2025-05-21,House,3,"Reported: Transportation"
+2024044,2025-04-15,House,1,Introduced
+2024044,2025-04-30,House,2,"Referred to committee: General Government"
+2024059,2025-04-15,House,1,Introduced
+2024059,2025-04-30,House,2,"Referred to committee: Ways and Means"
+2024078,2025-04-15,House,1,Introduced
+2024078,2025-04-30,House,2,"Referred to committee: Ways and Means"
+2024119,2025-04-15,House,1,Introduced
+2024119,2025-04-30,House,2,"Referred to committee: Judiciary"
+2024696,2025-04-17,Senate,1,Adopted
+2024703,2025-04-17,Senate,1,Adopted
+2024720,2025-04-17,Senate,1,Adopted
+2024728,2025-04-17,Senate,1,Introduced
+2024728,2025-04-30,Senate,2,"Referred to committee: Small Business and Economic Opportunity"
+2024736,2025-04-08,Senate,1,Offered
+2024736,2025-04-09,Senate,2,"Referred to committee: Government Oversight and Reform"
+2024745,2025-04-17,House,1,Introduced
+2024745,2025-04-30,House,2,"Referred to committee: Public Safety"
+2024752,2025-04-17,House,1,Introduced
+2024752,2025-04-30,House,2,"Referred to committee: Government Oversight"
+2024762,2025-04-17,Senate,1,Introduced
+2024762,2025-04-30,Senate,2,"Referred to committee: Finance"
+2024770,2025-04-17,House,1,Introduced
+2024770,2025-04-30,House,2,"Referred to committee: Government Oversight"
+2024777,2025-04-17,House,1,Introduced
+2024777,2025-04-30,House,2,"Referred to committee: Public Safety"
+2024786,2025-04-17,House,1,Introduced
+2024786,2025-04-30,House,2,"Referred to committee: Health"
+2024796,2025-04-17,Senate,1,Adopted
+2024805,2025-04-17,Senate,1,Adopted
+2025996,2025-04-23,Senate,1,Introduced
+2025996,2025-04-30,Senate,2,"Referred to committee: Transportation"
+2026013,2025-04-23,House,1,Introduced
+2026013,2025-04-30,House,2,"Referred to committee: General Government"
+2026013,2025-06-04,House,3,"Reported: General Government"
+2026013,2025-06-11,House,4,Passed
+2026013,2025-06-12,Senate,5,Introduced
+2026013,2025-06-18,Senate,6,"Referred to committee: Government Oversight and Reform"
+2026023,2025-04-23,Senate,1,Introduced
+2026023,2025-04-30,Senate,2,"Referred to committee: Armed Services, Veterans Affairs and Public Safety"
+2026023,2025-06-10,Senate,3,"Reported: Armed Services, Veterans Affairs and Public Safety"
+2026023,2025-06-11,Senate,4,Passed
+2026023,2025-06-12,House,5,Introduced
+2026023,2025-06-18,House,6,"Referred to committee: Veterans and Military Development"
+2026034,2025-04-23,Senate,1,Adopted
+2026044,2025-04-23,House,1,Introduced
+2026044,2025-04-30,House,2,"Referred to committee: Children and Human Services"
+2026057,2025-04-23,House,1,Adopted
+2026065,2025-04-23,Senate,1,Introduced
+2026065,2025-04-30,Senate,2,"Referred to committee: Agriculture and Natural Resources"
+2026075,2025-04-23,House,1,Introduced
+2026075,2025-04-30,House,2,"Referred to committee: Government Oversight"
+2026083,2025-04-23,Senate,1,Adopted
+2026092,2025-04-23,Senate,1,Introduced
+2026092,2025-04-30,Senate,2,"Referred to committee: Judiciary"
+2026102,2025-04-23,House,1,Introduced
+2026102,2025-04-30,House,2,"Referred to committee: Ways and Means"
+2026119,2025-04-23,Senate,1,Adopted
+2027059,2025-04-29,Senate,1,Introduced
+2027059,2025-04-30,Senate,2,"Referred to committee: Workforce Development"
+2027066,2025-04-29,Senate,1,Introduced
+2027066,2025-04-30,Senate,2,"Referred to committee: Ways and Means"
+2027074,2025-04-29,House,1,Adopted
+2027080,2025-04-29,House,1,Adopted
+2027088,2025-04-29,House,1,Introduced
+2027088,2025-04-30,House,2,"Referred to committee: Public Safety"
+2027088,2025-06-18,House,3,"Reported - Substitute: Public Safety"
+2027088,2025-06-18,House,4,Passed
+2027088,2025-06-24,Senate,5,Introduced
+2027088,2025-06-25,Senate,6,"Referred to committee: Judiciary"
+2027094,2025-04-29,Senate,1,Introduced
+2027094,2025-04-30,Senate,2,"Referred to committee: Ways and Means"
+2027104,2025-04-29,Senate,1,Introduced
+2027104,2025-04-30,Senate,2,"Referred to committee: Housing"
+2027110,2025-04-29,House,1,Introduced
+2027110,2025-05-07,House,2,"Referred to committee: General Government"
+2027118,2025-04-29,Senate,1,Introduced
+2027118,2025-04-30,Senate,2,"Referred to committee: Judiciary"
+2027123,2025-04-29,Senate,1,Introduced
+2027123,2025-04-30,Senate,2,"Referred to committee: Judiciary"
+2027130,2025-04-29,Senate,1,Introduced
+2027130,2025-04-30,Senate,2,"Referred to committee: Transportation"
+2027130,2025-06-18,Senate,3,"Reported: Transportation"
+2027130,2025-06-25,Senate,4,Passed
+2027130,2025-07-01,House,5,Introduced
+2027145,2025-04-29,Senate,1,Adopted
+2027155,2025-04-29,House,1,Introduced
+2027155,2025-04-30,House,2,"Referred to committee: Commerce and Labor"
+2027155,2025-06-10,House,3,"Reported - Substitute: Commerce and Labor"
+2027155,2025-06-11,House,4,Passed
+2027155,2025-06-12,Senate,5,Introduced
+2027155,2025-06-18,Senate,6,"Referred to committee: Workforce Development"
+2027159,2025-04-29,Senate,1,Adopted
+2027173,2025-04-29,House,1,Introduced
+2027173,2025-05-07,House,2,"Referred to committee: General Government"
+2027174,2025-04-29,House,1,Introduced
+2027174,2025-05-07,House,2,"Referred to committee: Judiciary"
+2027498,2025-04-30,House,1,Introduced
+2027498,2025-05-07,House,2,"Referred to committee: Health"
+2027548,2025-04-30,House,1,Introduced
+2027548,2025-05-07,House,2,"Referred to committee: Judiciary"
+2027568,2025-04-30,House,1,Introduced
+2027568,2025-05-07,House,2,"Referred to committee: Transportation"
+2027578,2025-04-30,Senate,1,Introduced
+2027578,2025-05-07,Senate,2,"Referred to committee: Transportation"
+2027587,2025-04-30,House,1,"Adopted: Rules and Reference"
+2027589,2025-04-30,House,1,Adopted
+2027592,2025-04-30,House,1,"Adopted: Rules and Reference"
+2027599,2025-04-30,House,1,"Adopted: Rules and Reference"
+2027602,2025-04-30,House,1,"Adopted: Rules and Reference"
+2027610,2025-04-30,House,1,"Adopted: Rules and Reference"
+2027612,2025-04-30,House,1,"Adopted: Rules and Reference"
+2027631,2025-04-30,House,1,"Adopted: Rules and Reference"
+2027636,2025-04-30,House,1,"Adopted: Rules and Reference"
+2027640,2025-04-30,House,1,"Adopted: Rules and Reference"
+2027650,2025-04-30,House,1,"Adopted: Rules and Reference"
+2027654,2025-04-30,House,1,"Adopted: Rules and Reference"
+2027681,2025-04-30,House,1,"Introduced and Referred to Committee: Health"
+2027682,2025-04-30,House,1,"Introduced and Referred to Committee: General Government"
+2028879,2025-05-06,Senate,1,Adopted
+2028888,2025-05-06,Senate,1,Adopted
+2028902,2025-05-06,Senate,1,Adopted
+2028913,2025-05-06,Senate,1,Adopted
+2028956,2025-05-06,Senate,1,Adopted
+2028977,2025-05-06,Senate,1,Adopted
+2028989,2025-05-06,Senate,1,Adopted
+2029003,2025-05-06,Senate,1,Adopted
+2029025,2025-05-06,Senate,1,Adopted
+2029199,2025-05-06,House,1,Introduced
+2029199,2025-05-07,House,2,"Referred to committee: Health"
+2029208,2025-05-06,House,1,Introduced
+2029208,2025-05-07,House,2,"Referred to committee: Judiciary"
+2029225,2025-05-06,Senate,1,Offered
+2029225,2025-05-07,Senate,2,"Referred to committee: Government Oversight and Reform"
+2029268,2025-05-06,Senate,1,Introduced
+2029268,2025-05-07,Senate,2,"Referred to committee: Finance"
+2029300,2025-05-06,House,1,Introduced
+2029300,2025-05-07,House,2,"Referred to committee: Arts, Athletics, and Tourism"
+2029316,2025-05-06,House,1,Introduced
+2029316,2025-05-07,House,2,"Referred to committee: Health"
+2029387,2025-05-07,Senate,1,Introduced
+2029387,2025-05-14,Senate,2,"Referred to committee: Finance"
+2029400,2025-04-09,House,1,"Introduced and Referred to Committee: Health"
+2029400,2025-05-07,House,2,"Reported: Health"
+2029400,2025-05-07,House,3,Adopted
+2029414,2025-05-07,House,1,Introduced
+2029414,2025-05-14,House,2,"Referred to committee: Transportation"
+2029436,2025-05-07,House,1,"Adopted: Rules and Reference"
+2029439,2025-05-07,Senate,1,Introduced
+2029439,2025-05-14,Senate,2,"Referred to committee: Housing"
+2029442,2025-05-07,House,1,"Adopted: Rules and Reference"
+2029447,2025-05-07,House,1,"Adopted: Rules and Reference"
+2029448,2025-05-07,House,1,"Adopted: Rules and Reference"
+2029456,2025-05-07,House,1,"Adopted: Rules and Reference"
+2029457,2025-05-07,House,1,"Adopted: Rules and Reference"
+2029465,2025-05-07,House,1,"Adopted: Rules and Reference"
+2029466,2025-05-07,House,1,"Adopted: Rules and Reference"
+2029571,2025-05-07,House,1,"Introduced and Referred to Committee: Natural Resources"
+2029571,2025-06-18,House,2,"Reported: Natural Resources"
+2029571,2025-06-18,House,3,Adopted
+2029571,2025-06-24,Senate,4,Offered
+2029571,2025-06-25,Senate,5,"Referred to committee: Agriculture and Natural Resources"
+2030579,2025-05-13,House,1,Introduced
+2030579,2025-05-14,House,2,"Referred to committee: Energy"
+2030587,2025-05-13,House,1,Adopted
+2030589,2025-05-13,House,1,Introduced
+2030589,2025-05-14,House,2,"Referred to committee: Education"
+2030595,2025-05-13,House,1,Introduced
+2030595,2025-05-14,House,2,"Referred to committee: Small Business"
+2030604,2025-05-13,House,1,Introduced
+2030604,2025-05-14,House,2,"Referred to committee: Transportation"
+2030604,2025-06-11,House,3,"Reported: Transportation"
+2030611,2025-05-13,House,1,Introduced
+2030611,2025-05-21,House,2,"Referred to committee: Ways and Means"
+2030613,2025-05-13,House,1,Introduced
+2030613,2025-05-14,House,2,"Referred to committee: General Government"
+2030625,2025-05-13,House,1,Introduced
+2030625,2025-05-14,House,2,"Referred to committee: Ways and Means"
+2030631,2025-05-13,House,1,Introduced
+2030631,2025-05-14,House,2,"Referred to committee: General Government"
+2030637,2025-05-13,House,1,Introduced
+2030637,2025-05-14,House,2,"Referred to committee: Health"
+2030642,2025-05-13,House,1,Introduced
+2030642,2025-05-14,House,2,"Referred to committee: Ways and Means"
+2030647,2025-05-13,House,1,Introduced
+2030647,2025-05-14,House,2,"Referred to committee: Judiciary"
+2030650,2025-05-13,House,1,Introduced
+2030650,2025-05-14,House,2,"Referred to committee: Insurance"
+2030656,2025-05-13,House,1,Introduced
+2030656,2025-05-14,House,2,"Referred to committee: Community Revitalization"
+2030659,2025-05-13,House,1,Introduced
+2030659,2025-05-14,House,2,"Referred to committee: Veterans and Military Development"
+2030661,2025-05-13,House,1,Introduced
+2030661,2025-05-14,House,2,"Referred to committee: General Government"
+2030736,2025-05-13,Senate,1,Adopted
+2030889,2025-05-13,Senate,1,Adopted
+2031096,2025-05-13,Senate,1,Introduced
+2031096,2025-05-14,Senate,2,"Referred to committee: Health"
+2031116,2025-05-13,Senate,1,Introduced
+2031116,2025-05-14,Senate,2,"Referred to committee: Select Committee on Gaming"
+2031172,2025-05-13,Senate,1,Introduced
+2031172,2025-05-14,Senate,2,"Referred to committee: Government Oversight and Reform"
+2031188,2025-05-13,Senate,1,Introduced
+2031188,2025-05-14,Senate,2,"Referred to committee: Government Oversight and Reform"
+2031211,2025-05-13,Senate,1,Introduced
+2031211,2025-05-14,Senate,2,"Referred to committee: Finance"
+2031224,2025-05-13,Senate,1,Introduced
+2031224,2025-05-14,Senate,2,"Referred to committee: Transportation"
+2031240,2025-05-14,Senate,1,Adopted
+2031260,2025-05-14,Senate,1,Adopted
+2031379,2025-05-14,House,1,"Adopted: Rules and Reference"
+2031402,2025-05-14,House,1,"Adopted: Rules and Reference"
+2031405,2025-05-14,House,1,"Adopted: Rules and Reference"
+2031408,2025-05-14,House,1,"Adopted: Rules and Reference"
+2031414,2025-05-14,House,1,"Adopted: Rules and Reference"
+2031445,2025-05-14,House,1,Introduced
+2031445,2025-05-21,House,2,"Referred to committee: Local Government"
+2031451,2025-05-14,House,1,Introduced
+2031451,2025-05-21,House,2,"Referred to committee: Financial Institutions"
+2031459,2025-05-14,House,1,Introduced
+2031459,2025-05-21,House,2,"Referred to committee: Insurance"
+2031468,2025-05-14,Senate,1,Introduced
+2031468,2025-05-28,Senate,2,"Referred to committee: Government Oversight and Reform"
+2031483,2025-05-14,Senate,1,Introduced
+2031483,2025-05-28,Senate,2,"Referred to committee: Finance"
+2031492,2025-05-14,Senate,1,Introduced
+2031492,2025-05-28,Senate,2,"Referred to committee: Select Committee on Gaming"
+2031501,2025-05-14,Senate,1,Introduced
+2031501,2025-05-28,Senate,2,"Referred to committee: Financial Institutions, Insurance and Technology"
+2031508,2025-05-14,House,1,Introduced
+2031508,2025-05-21,House,2,"Referred to committee: Commerce and Labor"
+2031521,2025-05-14,Senate,1,Introduced
+2031521,2025-05-28,Senate,2,"Referred to committee: Finance"
+2031530,2025-05-14,House,1,Introduced
+2031530,2025-05-21,House,2,"Referred to committee: Transportation"
+2031530,2025-06-11,House,3,"Reported: Transportation"
+2031762,2025-04-30,House,1,"Introduced and Referred to Committee: Arts, Athletics, and Tourism"
+2031762,2025-05-28,House,2,"Reported: Arts, Athletics, and Tourism"
+2031762,2025-05-28,House,3,Adopted
+2032549,2025-05-20,House,1,Introduced
+2032549,2025-05-21,House,2,"Referred to committee: Development"
+2032553,2025-05-20,House,1,Introduced
+2032553,2025-05-21,House,2,"Referred to committee: Technology and Innovation"
+2032557,2025-05-20,House,1,Introduced
+2032557,2025-05-21,House,2,"Referred to committee: Judiciary"
+2032565,2025-05-20,House,1,Introduced
+2032565,2025-05-21,House,2,"Referred to committee: Public Safety"
+2032570,2025-05-20,House,1,Introduced
+2032570,2025-05-21,House,2,"Referred to committee: Small Business"
+2032570,2025-06-18,House,3,"Reported - Amended: Small Business"
+2032574,2025-05-20,House,1,Introduced
+2032574,2025-05-21,House,2,"Referred to committee: General Government"
+2032580,2025-05-20,House,1,Introduced
+2032580,2025-05-21,House,2,"Referred to committee: Veterans and Military Development"
+2032583,2025-05-20,House,1,Introduced
+2032583,2025-05-21,House,2,"Referred to committee: Development"
+2032586,2025-05-20,House,1,Introduced
+2032586,2025-05-21,House,2,"Referred to committee: Ways and Means"
+2032594,2025-05-20,House,1,Introduced
+2032594,2025-05-21,House,2,"Referred to committee: Finance"
+2032596,2025-05-20,House,1,Introduced
+2032596,2025-05-21,House,2,"Referred to committee: Veterans and Military Development"
+2032602,2025-05-20,House,1,Introduced
+2032602,2025-05-21,House,2,"Referred to committee: Natural Resources"
+2032607,2025-05-20,House,1,Introduced
+2032607,2025-05-21,House,2,"Referred to committee: Finance"
+2032613,2025-05-20,House,1,Introduced
+2032613,2025-05-28,House,2,"Referred to committee: General Government"
+2032617,2025-05-20,House,1,Introduced
+2032617,2025-05-21,House,2,"Referred to committee: Insurance"
+2032622,2025-05-20,House,1,Introduced
+2032622,2025-05-21,House,2,"Referred to committee: Judiciary"
+2032626,2025-05-20,House,1,Introduced
+2032626,2025-05-21,House,2,"Referred to committee: Judiciary"
+2032630,2025-05-20,House,1,Introduced
+2032630,2025-05-21,House,2,"Referred to committee: Veterans and Military Development"
+2032636,2025-05-20,House,1,Introduced
+2032636,2025-05-21,House,2,"Referred to committee: Education"
+2032638,2025-05-20,House,1,Introduced
+2032638,2025-05-21,House,2,"Referred to committee: Development"
+2032641,2025-05-20,House,1,Introduced
+2032641,2025-05-21,House,2,"Referred to committee: Public Insurance and Pensions"
+2032696,2025-05-20,Senate,1,Adopted
+2032741,2025-05-20,Senate,1,Adopted
+2032806,2025-05-20,Senate,1,Adopted
+2032893,2025-05-20,Senate,1,Introduced
+2032893,2025-05-28,Senate,2,"Referred to committee: Ways and Means"
+2032908,2025-05-20,Senate,1,Introduced
+2032908,2025-05-28,Senate,2,"Referred to committee: Financial Institutions, Insurance and Technology"
+2032925,2025-05-20,Senate,1,Introduced
+2032925,2025-05-28,Senate,2,"Referred to committee: Judiciary"
+2032956,2025-05-20,Senate,1,Introduced
+2032956,2025-05-28,Senate,2,"Referred to committee: Ways and Means"
+2032964,2025-05-21,House,1,"Adopted: Rules and Reference"
+2032995,2025-05-21,House,1,"Adopted: Rules and Reference"
+2033023,2025-05-21,House,1,"Adopted: Rules and Reference"
+2033120,2025-05-21,House,1,Introduced
+2033120,2025-05-28,House,2,"Referred to committee: Health"
+2033136,2025-05-21,House,1,Introduced
+2033136,2025-05-28,House,2,"Referred to committee: Technology and Innovation"
+2033165,2025-05-21,House,1,"Introduced and Referred to Committee: Government Oversight"
+2033281,2025-05-22,Senate,1,Introduced
+2033281,2025-05-28,Senate,2,"Referred to committee: Local Government"
+2033888,2025-05-27,House,1,Introduced
+2033888,2025-05-28,House,2,"Referred to committee: Judiciary"
+2033895,2025-05-27,Senate,1,Introduced
+2033895,2025-05-28,Senate,2,"Referred to committee: Health"
+2033903,2025-05-27,House,1,Introduced
+2033903,2025-05-28,House,2,"Referred to committee: Judiciary"
+2033910,2025-05-27,House,1,Introduced
+2033910,2025-05-28,House,2,"Referred to committee: Judiciary"
+2033919,2025-05-27,House,1,Introduced
+2033919,2025-05-28,House,2,"Referred to committee: Transportation"
+2033926,2025-05-27,House,1,Introduced
+2033926,2025-05-28,House,2,"Referred to committee: Ways and Means"
+2033936,2025-05-27,House,1,Introduced
+2033936,2025-05-28,House,2,"Referred to committee: Energy"
+2033943,2025-05-27,House,1,Introduced
+2033943,2025-06-04,House,2,"Referred to committee: Public Safety"
+2033952,2025-05-27,House,1,Introduced
+2033952,2025-05-28,House,2,"Referred to committee: Development"
+2033958,2025-05-27,House,1,Introduced
+2033958,2025-05-28,House,2,"Referred to committee: Education"
+2033967,2025-05-27,Senate,1,Adopted
+2033975,2025-05-27,House,1,Introduced
+2033975,2025-05-28,House,2,"Referred to committee: General Government"
+2034207,2025-05-28,House,1,Introduced
+2034207,2025-06-04,House,2,"Referred to committee: Arts, Athletics, and Tourism"
+2034236,2025-05-28,House,1,Introduced
+2034236,2025-06-04,House,2,"Referred to committee: Development"
+2034274,2025-05-28,House,1,"Adopted: Rules and Reference"
+2034294,2025-05-28,House,1,"Adopted: Rules and Reference"
+2034309,2025-05-28,House,1,"Adopted: Rules and Reference"
+2035235,2025-06-03,Senate,1,Adopted
+2035238,2025-06-03,Senate,1,Adopted
+2035282,2025-06-03,Senate,1,Adopted
+2035293,2025-06-03,Senate,1,Introduced
+2035293,2025-06-04,Senate,2,"Referred to committee: Government Oversight and Reform"
+2035298,2025-06-03,House,1,Adopted
+2035308,2025-06-03,Senate,1,Introduced
+2035308,2025-06-04,Senate,2,"Referred to committee: Health"
+2035314,2025-06-03,Senate,1,Introduced
+2035314,2025-06-04,Senate,2,"Referred to committee: Transportation"
+2035314,2025-06-18,Senate,3,"Reported: Transportation"
+2035314,2025-06-25,Senate,4,Passed
+2035314,2025-07-01,House,5,Introduced
+2035315,2025-06-03,Senate,1,Introduced
+2035315,2025-06-04,Senate,2,"Referred to committee: Armed Services, Veterans Affairs and Public Safety"
+2035320,2025-06-03,Senate,1,Introduced
+2035320,2025-06-04,Senate,2,"Referred to committee: General Government"
+2035323,2025-06-03,House,1,Introduced
+2035323,2025-06-04,House,2,"Referred to committee: Public Insurance and Pensions"
+2035326,2025-06-03,House,1,Adopted
+2035348,2025-06-03,House,1,Introduced
+2035348,2025-06-11,House,2,"Referred to committee: Public Safety"
+2035351,2025-06-03,House,1,Introduced
+2035351,2025-06-04,House,2,"Referred to committee: Judiciary"
+2035353,2025-06-03,House,1,Introduced
+2035353,2025-06-04,House,2,"Referred to committee: Health"
+2035362,2025-06-03,House,1,Introduced
+2035362,2025-06-11,House,2,"Referred to committee: Government Oversight"
+2035364,2025-06-03,House,1,Introduced
+2035364,2025-06-04,House,2,"Referred to committee: Transportation"
+2035364,2025-06-18,House,3,"Reported: Transportation"
+2035368,2025-06-03,House,1,Introduced
+2035368,2025-06-11,House,2,"Referred to committee: Finance"
+2035375,2025-06-03,House,1,Introduced
+2035375,2025-06-04,House,2,"Referred to committee: Technology and Innovation"
+2035378,2025-06-03,House,1,Introduced
+2035378,2025-06-04,House,2,"Referred to committee: Workforce and Higher Education"
+2035381,2025-06-03,House,1,Introduced
+2035381,2025-06-11,House,2,"Referred to committee: Small Business"
+2035386,2025-06-03,House,1,Introduced
+2035386,2025-06-11,House,2,"Referred to committee: Children and Human Services"
+2035391,2025-06-03,House,1,Introduced
+2035391,2025-06-11,House,2,"Referred to committee: Transportation"
+2035394,2025-06-03,House,1,Introduced
+2035394,2025-06-04,House,2,"Referred to committee: Government Oversight"
+2035399,2025-06-03,House,1,Introduced
+2035399,2025-06-11,House,2,"Referred to committee: Ways and Means"
+2035404,2025-06-03,House,1,Introduced
+2035404,2025-06-04,House,2,"Referred to committee: Transportation"
+2035404,2025-06-18,House,3,"Reported: Transportation"
+2035407,2025-06-03,House,1,Introduced
+2035407,2025-06-04,House,2,"Referred to committee: Education"
+2035412,2025-06-03,House,1,Introduced
+2035412,2025-06-04,House,2,"Referred to committee: Government Oversight"
+2035415,2025-06-03,House,1,Introduced
+2035415,2025-06-04,House,2,"Referred to committee: Judiciary"
+2035419,2025-06-03,House,1,Introduced
+2035419,2025-06-11,House,2,"Referred to committee: Education"
+2035426,2025-06-03,House,1,Introduced
+2035426,2025-06-04,House,2,"Referred to committee: Judiciary"
+2035428,2025-06-03,House,1,Introduced
+2035428,2025-06-04,House,2,"Referred to committee: Medicaid"
+2035438,2025-06-04,House,1,"Adopted: Rules and Reference"
+2035443,2025-06-04,House,1,"Adopted: Rules and Reference"
+2035464,2025-06-04,House,1,"Adopted: Rules and Reference"
+2035471,2025-06-04,House,1,"Adopted: Rules and Reference"
+2035501,2025-06-04,House,1,"Adopted: Rules and Reference"
+2035628,2025-06-04,House,1,Introduced
+2035628,2025-06-11,House,2,"Referred to committee: Transportation"
+2035653,2025-06-04,House,1,Introduced
+2035653,2025-06-11,House,2,"Referred to committee: Ways and Means"
+2035837,2025-06-04,House,1,"Introduced and Referred to Committee: Government Oversight"
+2035925,2025-06-04,House,1,"Introduced and Referred to Committee: Public Safety"
+2036518,2025-06-10,House,1,Introduced
+2036518,2025-06-11,House,2,"Referred to committee: Ways and Means"
+2036526,2025-06-10,House,1,Introduced
+2036526,2025-06-11,House,2,"Referred to committee: Ways and Means"
+2036530,2025-06-10,House,1,Introduced
+2036530,2025-06-11,House,2,"Referred to committee: Judiciary"
+2036546,2025-06-10,Senate,1,Adopted
+2036562,2025-06-10,House,1,Introduced
+2036562,2025-06-11,House,2,"Referred to committee: Ways and Means"
+2036580,2025-06-10,Senate,1,Adopted
+2036591,2025-06-10,Senate,1,Adopted
+2036602,2025-06-10,House,1,Introduced
+2036602,2025-06-11,House,2,"Referred to committee: Judiciary"
+2036608,2025-06-10,House,1,Introduced
+2036608,2025-06-11,House,2,"Referred to committee: Public Safety"
+2036613,2025-06-10,House,1,Introduced
+2036613,2025-06-11,House,2,"Referred to committee: Transportation"
+2036622,2025-06-10,Senate,1,Adopted
+2036627,2025-06-10,House,1,Introduced
+2036627,2025-06-11,House,2,"Referred to committee: Judiciary"
+2036632,2025-06-10,Senate,1,Adopted
+2036637,2025-06-10,House,1,Introduced
+2036637,2025-06-11,House,2,"Referred to committee: Finance"
+2036647,2025-06-10,Senate,1,Introduced
+2036647,2025-06-11,Senate,2,"Referred to committee: Energy"
+2036648,2025-06-10,House,1,Introduced
+2036648,2025-06-11,House,2,"Referred to committee: Public Safety"
+2036652,2025-06-10,House,1,Introduced
+2036652,2025-06-11,House,2,"Referred to committee: Health"
+2036656,2025-06-10,Senate,1,Introduced
+2036656,2025-06-11,Senate,2,"Referred to committee: Armed Services, Veterans Affairs and Public Safety"
+2036659,2025-06-10,Senate,1,Introduced
+2036659,2025-06-11,Senate,2,"Referred to committee: Transportation"
+2036666,2025-06-10,Senate,1,Introduced
+2036666,2025-06-11,Senate,2,"Referred to committee: General Government"
+2036667,2025-06-10,House,1,Introduced
+2036667,2025-06-18,House,2,"Referred to committee: Public Safety"
+2036669,2025-06-10,Senate,1,Introduced
+2036669,2025-06-11,Senate,2,"Referred to committee: Finance"
+2036673,2025-06-10,Senate,1,Introduced
+2036673,2025-06-11,Senate,2,"Referred to committee: Financial Institutions, Insurance and Technology"
+2036675,2025-06-10,House,1,Introduced
+2036675,2025-06-11,House,2,"Referred to committee: Judiciary"
+2036845,2025-06-11,House,1,"Introduced and Referred to Committee: Natural Resources"
+2036845,2025-06-18,House,2,"Reported: Natural Resources"
+2036845,2025-06-18,House,3,Adopted
+2036911,2025-06-12,House,1,Introduced
+2036911,2025-06-18,House,2,"Referred to committee: General Government"
+2036915,2025-06-11,House,1,Introduced
+2036915,2025-06-18,House,2,"Referred to committee: Judiciary"
+2036922,2025-06-11,House,1,Introduced
+2036922,2025-06-18,House,2,"Referred to committee: Judiciary"
+2036927,2025-06-11,House,1,Introduced
+2036927,2025-06-18,House,2,"Referred to committee: General Government"
+2036939,2025-06-11,House,1,Introduced
+2036939,2025-06-18,House,2,"Referred to committee: Technology and Innovation"
+2036948,2025-06-12,House,1,Introduced
+2036948,2025-06-18,House,2,"Referred to committee: Health"
+2036957,2025-06-12,House,1,Introduced
+2036957,2025-06-18,House,2,"Referred to committee: Children and Human Services"
+2036966,2025-06-12,House,1,Introduced
+2036966,2025-06-18,House,2,"Referred to committee: Transportation"
+2036971,2025-06-11,House,1,Introduced
+2036971,2025-06-18,House,2,"Referred to committee: Public Safety"
+2036977,2025-06-11,House,1,Introduced
+2036977,2025-06-18,House,2,"Referred to committee: Finance"
+2036987,2025-06-12,House,1,Introduced
+2036987,2025-06-18,House,2,"Referred to committee: Local Government"
+2036992,2025-06-11,House,1,Introduced
+2036992,2025-06-18,House,2,"Referred to committee: Public Safety"
+2036998,2025-06-11,House,1,Introduced
+2036998,2025-06-18,House,2,"Referred to committee: Health"
+2037005,2025-06-11,House,1,Introduced
+2037005,2025-06-18,House,2,"Referred to committee: Public Safety"
+2037012,2025-06-12,House,1,Introduced
+2037012,2025-06-18,House,2,"Referred to committee: Public Safety"
+2037434,2025-06-17,Senate,1,Adopted
+2037435,2025-06-17,Senate,1,Adopted
+2037438,2025-06-17,Senate,1,Adopted
+2037440,2025-06-17,Senate,1,Adopted
+2037444,2025-06-17,Senate,1,Adopted
+2037541,2025-06-17,House,1,Introduced
+2037541,2025-06-18,House,2,"Referred to committee: Transportation"
+2037545,2025-06-17,House,1,Introduced
+2037548,2025-06-17,House,1,Introduced
+2037548,2025-06-18,House,2,"Referred to committee: Agriculture"
+2037552,2025-06-17,Senate,1,Introduced
+2037552,2025-06-18,Senate,2,"Referred to committee: Transportation"
+2037555,2025-06-17,Senate,1,Introduced
+2037555,2025-06-18,Senate,2,"Referred to committee: Finance"
+2037560,2025-06-17,House,1,Introduced
+2037560,2025-06-18,House,2,"Referred to committee: Ways and Means"
+2037567,2025-06-17,Senate,1,Introduced
+2037567,2025-06-18,Senate,2,"Referred to committee: Armed Services, Veterans Affairs and Public Safety"
+2037572,2025-06-18,House,1,Adopted
+2037573,2025-06-18,House,1,Adopted
+2037577,2025-06-18,Senate,1,Adopted
+2037586,2025-06-18,Senate,1,Adopted
+2037590,2025-06-18,House,1,"Adopted: Rules and Reference"
+2037591,2025-06-18,House,1,"Adopted: Rules and Reference"
+2037593,2025-06-18,House,1,"Adopted: Rules and Reference"
+2037595,2025-06-18,House,1,"Adopted: Rules and Reference"
+2037597,2025-06-18,House,1,"Adopted: Rules and Reference"
+2037600,2025-06-18,House,1,"Adopted: Rules and Reference"
+2037601,2025-06-18,House,1,"Adopted: Rules and Reference"
+2037602,2025-06-18,House,1,"Adopted: Rules and Reference"
+2037604,2025-06-18,House,1,"Adopted: Rules and Reference"
+2037606,2025-06-18,House,1,"Adopted: Rules and Reference"
+2037607,2025-06-18,House,1,"Adopted: Rules and Reference"
+2037608,2025-06-18,House,1,"Adopted: Rules and Reference"
+2037637,2025-06-18,House,1,Introduced
+2037653,2025-06-18,House,1,Introduced
+2037661,2025-06-18,Senate,1,Introduced
+2037661,2025-06-25,Senate,2,"Referred to committee: Judiciary"
+2037670,2025-06-18,House,1,Introduced
+2037685,2025-06-18,House,1,Introduced
+2037693,2025-06-18,Senate,1,Introduced
+2037693,2025-06-25,Senate,2,"Referred to committee: Judiciary"
+2037804,2025-06-18,House,1,"Introduced and Referred to Committee: Workforce and Higher Education"
+2037855,2025-06-23,House,1,Adopted
+2037858,2025-06-23,House,1,Adopted
+2037863,2025-06-23,House,1,Adopted
+2037865,2025-06-23,House,1,Adopted
+2037866,2025-06-23,House,1,Adopted
+2037871,2025-06-23,House,1,Adopted
+2037872,2025-06-23,House,1,Adopted
+2037874,2025-06-23,House,1,Adopted
+2037876,2025-06-23,House,1,Adopted
+2037992,2025-06-24,Senate,1,Adopted
+2037993,2025-06-24,Senate,1,Adopted
+2037996,2025-06-24,Senate,1,Adopted
+2037999,2025-06-24,House,1,Adopted
+2038001,2025-06-24,Senate,1,Adopted
+2038004,2025-06-24,Senate,1,Adopted
+2038013,2025-06-24,Senate,1,Adopted
+2038053,2025-06-24,House,1,Introduced
+2038057,2025-06-23,House,1,Introduced
+2038065,2025-06-23,House,1,Introduced
+2038069,2025-06-24,House,1,Adopted
+2038075,2025-06-23,House,1,Introduced
+2038080,2025-06-23,House,1,Introduced
+2038088,2025-06-23,House,1,Introduced
+2038098,2025-06-24,House,1,Introduced
+2038110,2025-06-24,House,1,Introduced
+2038114,2025-06-23,House,1,Introduced
+2038192,2025-06-25,Senate,1,Adopted
+2038193,2025-06-25,Senate,1,Adopted
+2038199,2025-06-25,Senate,1,Adopted
+2038219,2025-06-25,House,1,Introduced
+2038258,2025-06-25,House,1,Introduced
+2038268,2025-06-25,House,1,Introduced
+2038510,2025-06-26,Senate,1,Adopted
+2038784,2025-07-01,House,1,Adopted
+2038786,2025-07-01,House,1,Introduced
+2038788,2025-07-01,House,1,Introduced
+2038790,2025-07-01,House,1,Adopted
+2038792,2025-07-01,House,1,Adopted
+2038794,2025-07-01,House,1,Adopted
+2038796,2025-07-01,House,1,Adopted
+2038798,2025-07-01,House,1,Adopted
+2038802,2025-07-01,House,1,Adopted
+2038803,2025-07-01,House,1,Introduced
+2038806,2025-07-01,House,1,Introduced
+2038807,2025-07-01,House,1,Introduced
+2038809,2025-07-01,House,1,Adopted
+2038812,2025-07-01,House,1,Introduced
+2038813,2025-07-01,House,1,Adopted
+2038815,2025-07-01,House,1,Adopted
+2038821,2025-07-01,House,1,Adopted
+2038823,2025-07-01,House,1,Adopted
+2038825,2025-07-01,House,1,Introduced
+2038827,2025-07-01,House,1,Adopted
+2038829,2025-07-01,House,1,Introduced
+2038831,2025-07-01,House,1,Introduced
+2038833,2025-07-01,House,1,Adopted
+2038843,2025-07-01,Senate,1,Adopted
+2038847,2025-07-01,Senate,1,Adopted
+2038855,2025-07-01,Senate,1,Adopted
+2038870,2025-07-01,Senate,1,Adopted
+2038878,2025-07-01,Senate,1,Introduced
+2038879,2025-07-01,Senate,1,Introduced
+2038880,2025-07-01,Senate,1,Introduced
+2038929,2025-07-07,House,1,Adopted
+2038930,2025-07-07,House,1,Adopted
+2038932,2025-07-07,House,1,Adopted
+2038933,2025-07-07,House,1,Introduced
+2038934,2025-07-07,Senate,1,Introduced
+2038935,2025-07-07,Senate,1,Adopted
+2038936,2025-07-07,House,1,Adopted
+2038937,2025-07-07,Senate,1,Introduced
+2038938,2025-07-07,House,1,Adopted
+2038939,2025-07-07,House,1,Adopted
+2038941,2025-07-07,Senate,1,Adopted
+2038942,2025-07-07,Senate,1,Adopted
+2038944,2025-07-07,House,1,Adopted
+2038945,2025-07-07,Senate,1,Introduced
+2038946,2025-07-07,Senate,1,Adopted
+2038947,2025-07-07,Senate,1,Adopted
+2038948,2025-07-07,House,1,Adopted
+2039046,2025-07-09,Senate,1,Adopted
+2039051,2025-07-09,Senate,1,Adopted
+2039055,2025-07-09,Senate,1,Adopted
+2039064,2025-07-09,Senate,1,Introduced
+2039066,2025-07-09,Senate,1,Introduced
+2039067,2025-07-09,House,1,Adopted
+2039069,2025-07-09,House,1,Adopted
+2039072,2025-07-09,House,1,Introduced
+2039073,2025-07-09,House,1,Adopted
+2039075,2025-07-09,Senate,1,Introduced
+2039077,2025-07-09,Senate,1,Introduced
+2039079,2025-07-09,House,1,Adopted
+2039081,2025-07-09,House,1,Adopted
+2039083,2025-07-09,House,1,Adopted
+2039378,2025-07-14,Senate,1,Adopted
+2039390,2025-07-15,House,1,Adopted
+2039717,2025-07-17,Senate,1,Adopted
+2039720,2025-07-17,Senate,1,Adopted
+2039725,2025-07-17,Senate,1,Adopted
+2039731,2025-07-17,Senate,1,Adopted
+2039735,2025-07-17,Senate,1,Adopted
+2039976,2025-07-21,Senate,1,Adopted
+2039997,2025-07-21,Senate,1,Adopted
+2040125,2025-07-21,House,1,Introduced
+2040146,2025-07-21,House,1,Introduced
+2040154,2025-07-21,House,1,Introduced
+2040159,2025-07-21,House,1,Introduced
+2040489,2025-07-24,House,1,Adopted
+2040496,2025-07-24,House,1,Adopted
+2040500,2025-07-24,House,1,Adopted
+2040531,2025-07-24,House,1,Adopted
+2040536,2025-07-24,House,1,Introduced
+2040539,2025-07-24,House,1,Introduced
+2040541,2025-07-24,House,1,Introduced
+2040545,2025-07-24,House,1,Introduced
+2040816,2025-07-30,House,1,Adopted
+2040819,2025-07-30,House,1,Introduced
+2040825,2025-07-30,House,1,Adopted
+2040830,2025-07-30,House,1,Adopted
+2040840,2025-07-30,House,1,Introduced
+2040844,2025-07-30,House,1,Adopted
+2040884,2025-07-30,Senate,1,Adopted
+2040900,2025-07-30,Senate,1,Adopted
+2041033,2025-07-30,Senate,1,Introduced
+2041042,2025-07-30,Senate,1,Introduced
+2041046,2025-07-30,Senate,1,Introduced
+2041052,2025-07-30,Senate,1,Introduced
+2041061,2025-07-30,Senate,1,Introduced
+2041065,2025-07-30,Senate,1,Introduced
+2041075,2025-07-30,Senate,1,Introduced
+2041077,2025-07-30,Senate,1,Introduced
+2041396,2025-08-05,Senate,1,Adopted
+2041398,2025-08-05,House,1,Adopted
+2041400,2025-08-05,House,1,Adopted
+2041403,2025-08-05,House,1,Adopted
+2041404,2025-08-05,House,1,Adopted
+2041406,2025-08-05,House,1,Adopted
+2041496,2025-08-07,Senate,1,Adopted
+2041505,2025-08-05,House,1,Introduced
+2041511,2025-08-05,House,1,Introduced
+2041517,2025-08-05,House,1,Introduced
+2041545,2025-08-07,House,1,Introduced
+2041547,2025-08-07,House,1,Introduced
+2041549,2025-08-07,House,1,Introduced
+2041551,2025-08-07,House,1,Introduced
+2041553,2025-08-07,House,1,Introduced
+2041554,2025-08-07,House,1,Introduced
+2041773,2025-08-13,House,1,Introduced
+2041776,2025-08-13,House,1,Adopted
+2041779,2025-08-13,House,1,Introduced
+2041783,2025-08-13,House,1,Adopted
+2041787,2025-08-13,House,1,Adopted
+2041790,2025-08-13,House,1,Adopted
+2041794,2025-08-13,House,1,Introduced
+2041798,2025-08-13,House,1,Adopted
+2041799,2025-08-13,House,1,Adopted
+2042297,2025-08-19,House,1,Adopted
+2042299,2025-08-19,House,1,Introduced
+2042301,2025-08-19,Senate,1,Adopted
+2042307,2025-08-19,House,1,Introduced
+2042313,2025-08-19,Senate,1,Adopted
+2042315,2025-08-19,House,1,Adopted
+2042319,2025-08-19,Senate,1,Adopted
+2042325,2025-08-19,House,1,Adopted
+2042327,2025-08-19,House,1,Introduced
+2042329,2025-08-19,Senate,1,Adopted
+2042478,2025-08-19,House,1,Introduced
+2042488,2025-08-19,Senate,1,Introduced
+2042523,2025-08-19,Senate,1,Introduced
+2042534,2025-08-19,Senate,1,Introduced
+2042631,2025-08-25,House,1,Adopted
+2042633,2025-08-25,House,1,Introduced
+2042635,2025-08-25,Senate,1,Introduced
+2042637,2025-08-25,House,1,Introduced
+2042639,2025-08-25,Senate,1,Introduced
+2042644,2025-08-25,House,1,Introduced
+2042646,2025-08-25,House,1,Introduced
+2042649,2025-08-25,House,1,Introduced
+2042651,2025-08-25,House,1,Introduced
+2042844,2025-08-28,House,1,Introduced
+2042845,2025-08-28,House,1,Introduced
+2042847,2025-08-28,House,1,Introduced
+2042850,2025-08-28,House,1,Introduced
+2042853,2025-08-27,Senate,1,Introduced
+2042854,2025-08-28,House,1,Introduced
+2042864,2025-08-28,House,1,Introduced
+2042876,2025-08-28,House,1,Introduced
+2042879,2025-08-28,House,1,Introduced
+2043045,2025-09-03,House,1,Adopted
+2043055,2025-09-03,House,1,Adopted
+2043061,2025-09-03,House,1,Adopted
+2043067,2025-09-03,House,1,Introduced
+2043073,2025-09-03,House,1,Introduced
+2043086,2025-09-03,House,1,Adopted
+2043090,2025-09-03,House,1,Adopted
+2043096,2025-09-03,House,1,Adopted
+2043119,2025-09-03,Senate,1,Introduced
+2043123,2025-09-03,Senate,1,Adopted
+2043127,2025-09-03,Senate,1,Introduced
+2043130,2025-09-03,Senate,1,Introduced
+2043134,2025-09-03,Senate,1,Introduced
+2043140,2025-09-03,Senate,1,Introduced
+2043144,2025-09-03,Senate,1,Introduced
+2043148,2025-09-03,Senate,1,Adopted
+2043450,2025-09-08,Senate,1,Adopted
+2043456,2025-09-08,Senate,1,Introduced
+2043464,2025-09-08,Senate,1,Adopted
+2043500,2025-09-09,House,1,Introduced
+2043505,2025-09-09,House,1,Introduced
+2043520,2025-09-09,House,1,Introduced
+2043540,2025-09-09,House,1,Introduced
+2043547,2025-09-09,House,1,Introduced
+2043556,2025-09-09,House,1,Introduced
+2043561,2025-09-09,House,1,Introduced
+2043566,2025-09-09,House,1,Introduced
+2043589,2025-09-10,Senate,1,Introduced
+2043591,2025-09-10,Senate,1,Introduced
+2043592,2025-09-10,Senate,1,Introduced
+2043594,2025-09-10,Senate,1,Adopted

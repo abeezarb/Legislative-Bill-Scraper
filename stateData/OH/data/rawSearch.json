@@ -1,0 +1,56 @@
+{
+     "status": "OK",
+     "searchresult": {
+          "summary": {
+               "page": "1 of 1",
+               "range": "1 - 8",
+               "relevancy": "66% - 13%",
+               "count": 8,
+               "page_current": 1,
+               "page_total": 1,
+               "query": "((XSESSION2190 AND ((death:(pos=1) PHRASE 2 penalty:(pos=2)) OR (capital:(pos=3) PHRASE 2 punishment:(pos=4)) OR (capital:(pos=5) PHRASE 3 sexual:(pos=6) PHRASE 3 battery:(pos=7)) OR (execution:(pos=8) PHRASE 2 method:(pos=9)) OR (death:(pos=10) PHRASE 2 sentence:(pos=11)) OR (method:(pos=12) PHRASE 3 of:(pos=13) PHRASE 3 execution:(pos=14)))))"
+          },
+          "results": [
+               {
+                    "relevance": 66,
+                    "bill_id": 1954663,
+                    "change_hash": "bcffccb1a8ff3d6a1f1564e3df95dac2"
+               },
+               {
+                    "relevance": 32,
+                    "bill_id": 1992075,
+                    "change_hash": "6e24820fbad2850ddfdbe661bb54fd79"
+               },
+               {
+                    "relevance": 32,
+                    "bill_id": 1963675,
+                    "change_hash": "9286339126f1affba3a7adce26a15ed9"
+               },
+               {
+                    "relevance": 32,
+                    "bill_id": 1992938,
+                    "change_hash": "0c1e565fbae7d169890df5e4537051a8"
+               },
+               {
+                    "relevance": 31,
+                    "bill_id": 2009817,
+                    "change_hash": "24cfe4d55035de74df8616509f36e3a3"
+               },
+               {
+                    "relevance": 16,
+                    "bill_id": 2005582,
+                    "change_hash": "55906e872e4f003434a356c93966fd18"
+               },
+               {
+                    "relevance": 13,
+                    "bill_id": 2038080,
+                    "change_hash": "b4cc0bbb15c380d59993366dc43449ec"
+               },
+               {
+                    "relevance": 13,
+                    "bill_id": 1966320,
+                    "change_hash": "fd35d03d24fecf9b0227893e646983d3"
+               }
+          ]
+     }
+}

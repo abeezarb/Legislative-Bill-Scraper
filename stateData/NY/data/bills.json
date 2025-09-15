@@ -1,0 +1,2069 @@
+{
+     "1987204": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "ee31b640fb75918f8118b37177422276",
+               "relevance": 20,
+               "state": "NY",
+               "bill number": "A06253",
+               "description": "Ends the imposition of a sentence of life without parole and the death penalty.",
+               "state link": "https://www.nysenate.gov/legislation/bills/2025/A6253",
+               "legiscan link": "https://legiscan.com/NY/bill/A06253/2025",
+               "status": {
+                    "date": "02-27-2025",
+                    "label": "Refer",
+                    "action": "referred to codes"
+               },
+               "date introduced": "02-27-2025",
+               "party": "D",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Robert Carroll",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1987204,
+               "change_hash": "ee31b640fb75918f8118b37177422276",
+               "session_id": 2188,
+               "session": {
+                    "session_id": 2188,
+                    "state_id": 32,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 0,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 General Assembly"
+               },
+               "url": "https://legiscan.com/NY/bill/A06253/2025",
+               "state_link": "https://www.nysenate.gov/legislation/bills/2025/A6253",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-02-27",
+               "progress": [
+                    {
+                         "date": "2025-02-27",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-27",
+                         "event": 9
+                    }
+               ],
+               "state": "NY",
+               "state_id": 32,
+               "bill_number": "A06253",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "A",
+               "body_id": 73,
+               "current_body": "A",
+               "current_body_id": 73,
+               "title": "Ends the imposition of a sentence of life without parole and the death penalty.",
+               "description": "Ends the imposition of a sentence of life without parole and the death penalty.",
+               "pending_committee_id": 357,
+               "committee": {
+                    "committee_id": 357,
+                    "chamber": "A",
+                    "chamber_id": 73,
+                    "name": "Codes"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-02-27",
+                         "committee_id": 357,
+                         "chamber": "A",
+                         "chamber_id": 73,
+                         "name": "Codes"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-27",
+                         "action": "referred to codes",
+                         "chamber": "A",
+                         "chamber_id": 73,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 18778,
+                         "person_hash": "5kupcia8",
+                         "party_id": "1",
+                         "state_id": 32,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Robert Carroll",
+                         "first_name": "Robert",
+                         "middle_name": "C.",
+                         "last_name": "Carroll",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-044",
+                         "ftm_eid": 41755894,
+                         "votesmart_id": 175045,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 590896,
+                         "ballotpedia": "Robert_C._Carroll",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [
+                    {
+                         "type_id": 1,
+                         "type": "Same As",
+                         "sast_bill_number": "S05291",
+                         "sast_bill_id": 1977552
+                    }
+               ],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3146030,
+                         "date": "2025-02-27",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/NY/text/A06253/id/3146030",
+                         "state_link": "https://assembly.state.ny.us/leg/?default_fld=&bn=A06253&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A06253",
+                         "text_size": 32742,
+                         "text_hash": "0711c4fd1ef24888533a278bfeba970a",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     },
+     "1977552": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "59d77ea48e19afddfb966f419a3c6410",
+               "relevance": 19,
+               "state": "NY",
+               "bill number": "S05291",
+               "description": "Ends the imposition of a sentence of life without parole and the death penalty.",
+               "state link": "https://www.nysenate.gov/legislation/bills/2025/S5291",
+               "legiscan link": "https://legiscan.com/NY/bill/S05291/2025",
+               "status": {
+                    "date": "02-20-2025",
+                    "label": "Refer",
+                    "action": "REFERRED TO CODES"
+               },
+               "date introduced": "02-20-2025",
+               "party": "D",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Luis Sepulveda",
+                         "co": "Julia Salazar",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 2"
+               }
+          },
+          "raw": {
+               "bill_id": 1977552,
+               "change_hash": "59d77ea48e19afddfb966f419a3c6410",
+               "session_id": 2188,
+               "session": {
+                    "session_id": 2188,
+                    "state_id": 32,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 0,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 General Assembly"
+               },
+               "url": "https://legiscan.com/NY/bill/S05291/2025",
+               "state_link": "https://www.nysenate.gov/legislation/bills/2025/S5291",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-02-20",
+               "progress": [
+                    {
+                         "date": "2025-02-20",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-20",
+                         "event": 9
+                    }
+               ],
+               "state": "NY",
+               "state_id": 32,
+               "bill_number": "S05291",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "S",
+               "body_id": 74,
+               "current_body": "S",
+               "current_body_id": 74,
+               "title": "Ends the imposition of a sentence of life without parole and the death penalty.",
+               "description": "Ends the imposition of a sentence of life without parole and the death penalty.",
+               "pending_committee_id": 417,
+               "committee": {
+                    "committee_id": 417,
+                    "chamber": "S",
+                    "chamber_id": 74,
+                    "name": "Codes"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-02-20",
+                         "committee_id": 417,
+                         "chamber": "S",
+                         "chamber_id": 74,
+                         "name": "Codes"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-20",
+                         "action": "REFERRED TO CODES",
+                         "chamber": "S",
+                         "chamber_id": 74,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 14215,
+                         "person_hash": "sdkbacov",
+                         "party_id": "1",
+                         "state_id": 32,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Luis Sepulveda",
+                         "first_name": "Luis",
+                         "middle_name": "R.",
+                         "last_name": "Sepulveda",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-032",
+                         "ftm_eid": 15666213,
+                         "votesmart_id": 127944,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 431378,
+                         "ballotpedia": "Luis_Sepulveda_(New_York)",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 20264,
+                         "person_hash": "hxpt3udz",
+                         "party_id": "1",
+                         "state_id": 32,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Julia Salazar",
+                         "first_name": "Julia",
+                         "middle_name": "",
+                         "last_name": "Salazar",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-018",
+                         "ftm_eid": 45417982,
+                         "votesmart_id": 185085,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 678512,
+                         "ballotpedia": "Julia_Salazar",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [
+                    {
+                         "type_id": 1,
+                         "type": "Same As",
+                         "sast_bill_number": "A06253",
+                         "sast_bill_id": 1987204
+                    }
+               ],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3133365,
+                         "date": "2025-02-20",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/NY/text/S05291/id/3133365",
+                         "state_link": "https://assembly.state.ny.us/leg/?default_fld=&bn=S05291&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S05291",
+                         "text_size": 32785,
+                         "text_hash": "9c6c38734407c15de4c4f43b0e0c11c8",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     },
+     "1970887": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "b599c786b19ed88a1da356f1c71f2805",
+               "relevance": 19,
+               "state": "NY",
+               "bill number": "A05522",
+               "description": "Provides that the sentence for committing murder in the first degree when the victim is a police officer, peace officer or correction officer shall be either death or life imprisonment without parole.",
+               "state link": "https://www.nysenate.gov/legislation/bills/2025/A5522",
+               "legiscan link": "https://legiscan.com/NY/bill/A05522/2025",
+               "status": {
+                    "date": "02-14-2025",
+                    "label": "Refer",
+                    "action": "referred to codes"
+               },
+               "date introduced": "02-14-2025",
+               "party": "D",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Alec Brook-Krasny",
+                         "co": "Lester Chang, Michael Novakhov, Robert Smullen, Karl Brabenec, Keith Brown, Christopher Tague, David McDonough",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 1, republican: 7"
+               }
+          },
+          "raw": {
+               "bill_id": 1970887,
+               "change_hash": "b599c786b19ed88a1da356f1c71f2805",
+               "session_id": 2188,
+               "session": {
+                    "session_id": 2188,
+                    "state_id": 32,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 0,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 General Assembly"
+               },
+               "url": "https://legiscan.com/NY/bill/A05522/2025",
+               "state_link": "https://www.nysenate.gov/legislation/bills/2025/A5522",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-02-14",
+               "progress": [
+                    {
+                         "date": "2025-02-14",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-14",
+                         "event": 9
+                    }
+               ],
+               "state": "NY",
+               "state_id": 32,
+               "bill_number": "A05522",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "A",
+               "body_id": 73,
+               "current_body": "A",
+               "current_body_id": 73,
+               "title": "Provides that the sentence for committing murder in the first degree when the victim is a police officer, peace officer or correction officer shall be either death or life imprisonment without parole.",
+               "description": "Provides that the sentence for committing murder in the first degree when the victim is a police officer, peace officer or correction officer shall be either death or life imprisonment without parole.",
+               "pending_committee_id": 357,
+               "committee": {
+                    "committee_id": 357,
+                    "chamber": "A",
+                    "chamber_id": 73,
+                    "name": "Codes"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-02-14",
+                         "committee_id": 357,
+                         "chamber": "A",
+                         "chamber_id": 73,
+                         "name": "Codes"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-14",
+                         "action": "referred to codes",
+                         "chamber": "A",
+                         "chamber_id": 73,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 1272,
+                         "person_hash": "smelrpg6",
+                         "party_id": "1",
+                         "state_id": 32,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Alec Brook-Krasny",
+                         "first_name": "Alec",
+                         "middle_name": "",
+                         "last_name": "Brook-Krasny",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-046",
+                         "ftm_eid": 6437794,
+                         "votesmart_id": 55215,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 250927,
+                         "ballotpedia": "Alec_Brook-Krasny",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24502,
+                         "person_hash": "nfb5nafb",
+                         "party_id": "2",
+                         "state_id": 32,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Lester Chang",
+                         "first_name": "Lester",
+                         "middle_name": "",
+                         "last_name": "Chang",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-049",
+                         "ftm_eid": 56953653,
+                         "votesmart_id": 192055,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Lester_Chang",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24508,
+                         "person_hash": "rhzt1i9x",
+                         "party_id": "2",
+                         "state_id": 32,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Michael Novakhov",
+                         "first_name": "Michael",
+                         "middle_name": "",
+                         "last_name": "Novakhov",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-045",
+                         "ftm_eid": 55582549,
+                         "votesmart_id": 207494,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Michael_Novakhov",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 20684,
+                         "person_hash": "v0snah6r",
+                         "party_id": "2",
+                         "state_id": 32,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Robert Smullen",
+                         "first_name": "Robert",
+                         "middle_name": "",
+                         "last_name": "Smullen",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-118",
+                         "ftm_eid": 43936649,
+                         "votesmart_id": 185062,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 646782,
+                         "ballotpedia": "Robert_Smullen",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 4,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 17010,
+                         "person_hash": "um5mtc2b",
+                         "party_id": "2",
+                         "state_id": 32,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Karl Brabenec",
+                         "first_name": "Karl",
+                         "middle_name": "A.",
+                         "last_name": "Brabenec",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-098",
+                         "ftm_eid": 26185892,
+                         "votesmart_id": 155854,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 506063,
+                         "ballotpedia": "Karl_Brabenec",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 5,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 21910,
+                         "person_hash": "8exa7jf3",
+                         "party_id": "2",
+                         "state_id": 32,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Keith Brown",
+                         "first_name": "Keith",
+                         "middle_name": "",
+                         "last_name": "Brown",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-012",
+                         "ftm_eid": 43924670,
+                         "votesmart_id": 191982,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 738039,
+                         "ballotpedia": "Keith_Brown",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 6,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 19649,
+                         "person_hash": "qs5s8sjg",
+                         "party_id": "2",
+                         "state_id": 32,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Christopher Tague",
+                         "first_name": "Christopher",
+                         "middle_name": "",
+                         "last_name": "Tague",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-102",
+                         "ftm_eid": 4487863,
+                         "votesmart_id": 175967,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 667136,
+                         "ballotpedia": "Christopher_Tague",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 7,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 1343,
+                         "person_hash": "g6auqguv",
+                         "party_id": "2",
+                         "state_id": 32,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "David McDonough",
+                         "first_name": "David",
+                         "middle_name": "G.",
+                         "last_name": "McDonough",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-014",
+                         "ftm_eid": 13009180,
+                         "votesmart_id": 44667,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 210036,
+                         "ballotpedia": "David_McDonough",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 8,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3121041,
+                         "date": "2025-02-14",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/NY/text/A05522/id/3121041",
+                         "state_link": "https://assembly.state.ny.us/leg/?default_fld=&bn=A05522&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A05522",
+                         "text_size": 14093,
+                         "text_hash": "2aaa01a91915edebbe0150dcfecda0d5",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     },
+     "1967323": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "d88e2c4a2c88a967fadb1ad61fb5e9dd",
+               "relevance": 19,
+               "state": "NY",
+               "bill number": "A05165",
+               "description": "Provides that sentence for commission of certain provisions of murder in the first degree is death or life without parole.",
+               "state link": "https://www.nysenate.gov/legislation/bills/2025/A5165",
+               "legiscan link": "https://legiscan.com/NY/bill/A05165/2025",
+               "status": {
+                    "date": "02-12-2025",
+                    "label": "Refer",
+                    "action": "referred to codes"
+               },
+               "date introduced": "02-12-2025",
+               "party": "R",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Joseph DeStefano, Stephen Hawley",
+                         "co": "Karl Brabenec, Angelo Morinello, Michael Reilly, Eric Brown, Keith Brown, Joseph Angelino, John Lemondes",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 9"
+               }
+          },
+          "raw": {
+               "bill_id": 1967323,
+               "change_hash": "d88e2c4a2c88a967fadb1ad61fb5e9dd",
+               "session_id": 2188,
+               "session": {
+                    "session_id": 2188,
+                    "state_id": 32,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 0,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 General Assembly"
+               },
+               "url": "https://legiscan.com/NY/bill/A05165/2025",
+               "state_link": "https://www.nysenate.gov/legislation/bills/2025/A5165",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-02-12",
+               "progress": [
+                    {
+                         "date": "2025-02-12",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-12",
+                         "event": 9
+                    }
+               ],
+               "state": "NY",
+               "state_id": 32,
+               "bill_number": "A05165",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "A",
+               "body_id": 73,
+               "current_body": "A",
+               "current_body_id": 73,
+               "title": "Provides that sentence for commission of certain provisions of murder in the first degree is death or life without parole.",
+               "description": "Provides that sentence for commission of certain provisions of murder in the first degree is death or life without parole.",
+               "pending_committee_id": 357,
+               "committee": {
+                    "committee_id": 357,
+                    "chamber": "A",
+                    "chamber_id": 73,
+                    "name": "Codes"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-02-12",
+                         "committee_id": 357,
+                         "chamber": "A",
+                         "chamber_id": 73,
+                         "name": "Codes"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-12",
+                         "action": "referred to codes",
+                         "chamber": "A",
+                         "chamber_id": 73,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 20680,
+                         "person_hash": "v7cwzrxu",
+                         "party_id": "2",
+                         "state_id": 32,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Joseph DeStefano",
+                         "first_name": "Joseph",
+                         "middle_name": "",
+                         "last_name": "DeStefano",
+                         "suffix": "",
+                         "nickname": "Joe",
+                         "district": "HD-003",
+                         "ftm_eid": 45421505,
+                         "votesmart_id": 185148,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 673062,
+                         "ballotpedia": "Joseph_DeStefano",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 17010,
+                         "person_hash": "um5mtc2b",
+                         "party_id": "2",
+                         "state_id": 32,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Karl Brabenec",
+                         "first_name": "Karl",
+                         "middle_name": "A.",
+                         "last_name": "Brabenec",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-098",
+                         "ftm_eid": 26185892,
+                         "votesmart_id": 155854,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 506063,
+                         "ballotpedia": "Karl_Brabenec",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 19136,
+                         "person_hash": "21klpuax",
+                         "party_id": "2",
+                         "state_id": 32,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Angelo Morinello",
+                         "first_name": "Angelo",
+                         "middle_name": "J.",
+                         "last_name": "Morinello",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-145",
+                         "ftm_eid": 41756112,
+                         "votesmart_id": 174271,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 590284,
+                         "ballotpedia": "Angelo_J._Morinello",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 20635,
+                         "person_hash": "nksvycuk",
+                         "party_id": "2",
+                         "state_id": 32,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Michael Reilly",
+                         "first_name": "Michael",
+                         "middle_name": "",
+                         "last_name": "Reilly",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-062",
+                         "ftm_eid": 45421614,
+                         "votesmart_id": 185197,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 678720,
+                         "ballotpedia": "Michael_Reilly_(New_York)",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 4,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 23132,
+                         "person_hash": "j6jfgprd",
+                         "party_id": "2",
+                         "state_id": 32,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Eric Brown",
+                         "first_name": "Eric",
+                         "middle_name": "",
+                         "last_name": "Brown",
+                         "suffix": "",
+                         "nickname": "Ari",
+                         "district": "HD-020",
+                         "ftm_eid": 55399649,
+                         "votesmart_id": 205522,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 496962,
+                         "ballotpedia": "Eric_Brown_(New_York)",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 5,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 21910,
+                         "person_hash": "8exa7jf3",
+                         "party_id": "2",
+                         "state_id": 32,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Keith Brown",
+                         "first_name": "Keith",
+                         "middle_name": "",
+                         "last_name": "Brown",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-012",
+                         "ftm_eid": 43924670,
+                         "votesmart_id": 191982,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 738039,
+                         "ballotpedia": "Keith_Brown",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 6,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22361,
+                         "person_hash": "pb2iqi3q",
+                         "party_id": "2",
+                         "state_id": 32,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Joseph Angelino",
+                         "first_name": "Joseph",
+                         "middle_name": "G.",
+                         "last_name": "Angelino",
+                         "suffix": "",
+                         "nickname": "Joe",
+                         "district": "HD-121",
+                         "ftm_eid": 15789367,
+                         "votesmart_id": 191886,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 739050,
+                         "ballotpedia": "Joe_Angelino",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 7,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22366,
+                         "person_hash": "pm0d65q0",
+                         "party_id": "2",
+                         "state_id": 32,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "John Lemondes",
+                         "first_name": "John",
+                         "middle_name": "L.",
+                         "last_name": "Lemondes",
+                         "suffix": "Jr.",
+                         "nickname": "",
+                         "district": "HD-126",
+                         "ftm_eid": 49831887,
+                         "votesmart_id": 191945,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 316714,
+                         "ballotpedia": "John_Lemondes_Jr.",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 8,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 1313,
+                         "person_hash": "4v1w3y4g",
+                         "party_id": "2",
+                         "state_id": 32,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Stephen Hawley",
+                         "first_name": "Stephen",
+                         "middle_name": "M.",
+                         "last_name": "Hawley",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-139",
+                         "ftm_eid": 4679525,
+                         "votesmart_id": 59388,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 243140,
+                         "ballotpedia": "Stephen_Hawley",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 9,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3115941,
+                         "date": "2025-02-12",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/NY/text/A05165/id/3115941",
+                         "state_link": "https://assembly.state.ny.us/leg/?default_fld=&bn=A05165&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A05165",
+                         "text_size": 14213,
+                         "text_hash": "09899ef633e3be92275d23c724a52550",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     },
+     "1902576": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "3154f6f2c6a371da675ee3a7f1e6d82b",
+               "relevance": 19,
+               "state": "NY",
+               "bill number": "A00684",
+               "description": "Includes intentionally selecting a victim based on certain actual or perceived traits in the crime of murder in the first degree; provides that sentence for commission of certain provisions of murder in the first degree is death or life without parole.",
+               "state link": "https://www.nysenate.gov/legislation/bills/2025/A684",
+               "legiscan link": "https://legiscan.com/NY/bill/A00684/2025",
+               "status": {
+                    "date": "01-08-2025",
+                    "label": "Refer",
+                    "action": "referred to codes"
+               },
+               "date introduced": "01-08-2025",
+               "party": "R",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "William Barclay",
+                         "co": "Philip Palmesano, Joseph Angelino, Stephen Hawley, Matthew Simpson, Jeff Gallahan, Karl Brabenec, Michael Durso, David McDonough",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 9"
+               }
+          },
+          "raw": {
+               "bill_id": 1902576,
+               "change_hash": "3154f6f2c6a371da675ee3a7f1e6d82b",
+               "session_id": 2188,
+               "session": {
+                    "session_id": 2188,
+                    "state_id": 32,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 0,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 General Assembly"
+               },
+               "url": "https://legiscan.com/NY/bill/A00684/2025",
+               "state_link": "https://www.nysenate.gov/legislation/bills/2025/A684",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-01-08",
+               "progress": [
+                    {
+                         "date": "2025-01-08",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-01-08",
+                         "event": 9
+                    }
+               ],
+               "state": "NY",
+               "state_id": 32,
+               "bill_number": "A00684",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "A",
+               "body_id": 73,
+               "current_body": "A",
+               "current_body_id": 73,
+               "title": "Includes intentionally selecting a victim based on certain actual or perceived traits in the crime of murder in the first degree; provides that sentence for commission of certain provisions of murder in the first degree is death or life without parole.",
+               "description": "Includes intentionally selecting a victim based on certain actual or perceived traits in the crime of murder in the first degree; provides that sentence for commission of certain provisions of murder in the first degree is death or life without parole.",
+               "pending_committee_id": 357,
+               "committee": {
+                    "committee_id": 357,
+                    "chamber": "A",
+                    "chamber_id": 73,
+                    "name": "Codes"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-01-08",
+                         "committee_id": 357,
+                         "chamber": "A",
+                         "chamber_id": 73,
+                         "name": "Codes"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-01-08",
+                         "action": "referred to codes",
+                         "chamber": "A",
+                         "chamber_id": 73,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 1262,
+                         "person_hash": "cihb31wo",
+                         "party_id": "2",
+                         "state_id": 32,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "William Barclay",
+                         "first_name": "William",
+                         "middle_name": "A.",
+                         "last_name": "Barclay",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-120",
+                         "ftm_eid": 13009403,
+                         "votesmart_id": 44325,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 212472,
+                         "ballotpedia": "William_Barclay",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 11325,
+                         "person_hash": "yr51f3dl",
+                         "party_id": "2",
+                         "state_id": 32,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Philip Palmesano",
+                         "first_name": "Philip",
+                         "middle_name": "A.",
+                         "last_name": "Palmesano",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-132",
+                         "ftm_eid": 4811260,
+                         "votesmart_id": 127669,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 203347,
+                         "ballotpedia": "Philip_Palmesano",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22361,
+                         "person_hash": "pb2iqi3q",
+                         "party_id": "2",
+                         "state_id": 32,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Joseph Angelino",
+                         "first_name": "Joseph",
+                         "middle_name": "G.",
+                         "last_name": "Angelino",
+                         "suffix": "",
+                         "nickname": "Joe",
+                         "district": "HD-121",
+                         "ftm_eid": 15789367,
+                         "votesmart_id": 191886,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 739050,
+                         "ballotpedia": "Joe_Angelino",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 1313,
+                         "person_hash": "4v1w3y4g",
+                         "party_id": "2",
+                         "state_id": 32,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Stephen Hawley",
+                         "first_name": "Stephen",
+                         "middle_name": "M.",
+                         "last_name": "Hawley",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-139",
+                         "ftm_eid": 4679525,
+                         "votesmart_id": 59388,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 243140,
+                         "ballotpedia": "Stephen_Hawley",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 4,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22407,
+                         "person_hash": "1k56jbm9",
+                         "party_id": "2",
+                         "state_id": 32,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Matthew Simpson",
+                         "first_name": "Matthew",
+                         "middle_name": "J.",
+                         "last_name": "Simpson",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-114",
+                         "ftm_eid": 26662271,
+                         "votesmart_id": 164414,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 739023,
+                         "ballotpedia": "Matthew_Simpson_(New_York)",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 5,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22405,
+                         "person_hash": "xw3cd8ji",
+                         "party_id": "2",
+                         "state_id": 32,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Jeff Gallahan",
+                         "first_name": "Jeff",
+                         "middle_name": "L.",
+                         "last_name": "Gallahan",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-131",
+                         "ftm_eid": 42140030,
+                         "votesmart_id": 134368,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 739076,
+                         "ballotpedia": "Jeff_Gallahan",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 6,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 17010,
+                         "person_hash": "um5mtc2b",
+                         "party_id": "2",
+                         "state_id": 32,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Karl Brabenec",
+                         "first_name": "Karl",
+                         "middle_name": "A.",
+                         "last_name": "Brabenec",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-098",
+                         "ftm_eid": 26185892,
+                         "votesmart_id": 155854,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 506063,
+                         "ballotpedia": "Karl_Brabenec",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 7,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22362,
+                         "person_hash": "mjmi9fgp",
+                         "party_id": "2",
+                         "state_id": 32,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Michael Durso",
+                         "first_name": "Michael",
+                         "middle_name": "A.",
+                         "last_name": "Durso",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-009",
+                         "ftm_eid": 49831842,
+                         "votesmart_id": 191981,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 738985,
+                         "ballotpedia": "Michael_Durso",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 8,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 1343,
+                         "person_hash": "g6auqguv",
+                         "party_id": "2",
+                         "state_id": 32,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "David McDonough",
+                         "first_name": "David",
+                         "middle_name": "G.",
+                         "last_name": "McDonough",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-014",
+                         "ftm_eid": 13009180,
+                         "votesmart_id": 44667,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 210036,
+                         "ballotpedia": "David_McDonough",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 9,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3039368,
+                         "date": "2025-01-08",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/NY/text/A00684/id/3039368",
+                         "state_link": "https://assembly.state.ny.us/leg/?default_fld=&bn=A00684&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A00684",
+                         "text_size": 15342,
+                         "text_hash": "99844bb5bace13abd37dca264d173ca5",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     },
+     "1987531": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "36271352aa713fced6c2a7e2b24ab21e",
+               "relevance": 18,
+               "state": "NY",
+               "bill number": "A06257",
+               "description": "Requires that all felony offenders shall be eligible for parole after serving no more than twenty-five years of their sentence; eliminates the possibility of serving consecutive terms of imprisonment which exceed a twenty-five year sentence.",
+               "state link": "https://www.nysenate.gov/legislation/bills/2025/A6257",
+               "legiscan link": "https://legiscan.com/NY/bill/A06257/2025",
+               "status": {
+                    "date": "02-27-2025",
+                    "label": "Refer",
+                    "action": "referred to codes"
+               },
+               "date introduced": "02-27-2025",
+               "party": "D",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Robert Carroll",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1987531,
+               "change_hash": "36271352aa713fced6c2a7e2b24ab21e",
+               "session_id": 2188,
+               "session": {
+                    "session_id": 2188,
+                    "state_id": 32,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 0,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 General Assembly"
+               },
+               "url": "https://legiscan.com/NY/bill/A06257/2025",
+               "state_link": "https://www.nysenate.gov/legislation/bills/2025/A6257",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-02-27",
+               "progress": [
+                    {
+                         "date": "2025-02-27",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-27",
+                         "event": 9
+                    }
+               ],
+               "state": "NY",
+               "state_id": 32,
+               "bill_number": "A06257",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "A",
+               "body_id": 73,
+               "current_body": "A",
+               "current_body_id": 73,
+               "title": "Requires that all felony offenders shall be eligible for parole after serving no more than twenty-five years of their sentence; eliminates the possibility of serving consecutive terms of imprisonment which exceed a twenty-five year sentence.",
+               "description": "Requires that all felony offenders shall be eligible for parole after serving no more than twenty-five years of their sentence; eliminates the possibility of serving consecutive terms of imprisonment which exceed a twenty-five year sentence.",
+               "pending_committee_id": 357,
+               "committee": {
+                    "committee_id": 357,
+                    "chamber": "A",
+                    "chamber_id": 73,
+                    "name": "Codes"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-02-27",
+                         "committee_id": 357,
+                         "chamber": "A",
+                         "chamber_id": 73,
+                         "name": "Codes"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-27",
+                         "action": "referred to codes",
+                         "chamber": "A",
+                         "chamber_id": 73,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 18778,
+                         "person_hash": "5kupcia8",
+                         "party_id": "1",
+                         "state_id": 32,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Robert Carroll",
+                         "first_name": "Robert",
+                         "middle_name": "C.",
+                         "last_name": "Carroll",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-044",
+                         "ftm_eid": 41755894,
+                         "votesmart_id": 175045,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 590896,
+                         "ballotpedia": "Robert_C._Carroll",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [
+                    {
+                         "type_id": 1,
+                         "type": "Same As",
+                         "sast_bill_number": "S03825",
+                         "sast_bill_id": 1947835
+                    }
+               ],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3146310,
+                         "date": "2025-02-27",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/NY/text/A06257/id/3146310",
+                         "state_link": "https://assembly.state.ny.us/leg/?default_fld=&bn=A06257&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A06257",
+                         "text_size": 35325,
+                         "text_hash": "af0f876ece9fdf4f7051efbaaea981d0",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     },
+     "1947835": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "9ede31eae28aecdcfe19ebf4a120774d",
+               "relevance": 18,
+               "state": "NY",
+               "bill number": "S03825",
+               "description": "Requires that all felony offenders shall be eligible for parole after serving no more than twenty-five years of their sentence; eliminates the possibility of serving consecutive terms of imprisonment which exceed a twenty-five year sentence.",
+               "state link": "https://www.nysenate.gov/legislation/bills/2025/S3825",
+               "legiscan link": "https://legiscan.com/NY/bill/S03825/2025",
+               "status": {
+                    "date": "01-30-2025",
+                    "label": "Refer",
+                    "action": "REFERRED TO CODES"
+               },
+               "date introduced": "01-30-2025",
+               "party": "D",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Luis Sepulveda",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1947835,
+               "change_hash": "9ede31eae28aecdcfe19ebf4a120774d",
+               "session_id": 2188,
+               "session": {
+                    "session_id": 2188,
+                    "state_id": 32,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 0,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 General Assembly"
+               },
+               "url": "https://legiscan.com/NY/bill/S03825/2025",
+               "state_link": "https://www.nysenate.gov/legislation/bills/2025/S3825",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-01-30",
+               "progress": [
+                    {
+                         "date": "2025-01-30",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-01-30",
+                         "event": 9
+                    }
+               ],
+               "state": "NY",
+               "state_id": 32,
+               "bill_number": "S03825",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "S",
+               "body_id": 74,
+               "current_body": "S",
+               "current_body_id": 74,
+               "title": "Requires that all felony offenders shall be eligible for parole after serving no more than twenty-five years of their sentence; eliminates the possibility of serving consecutive terms of imprisonment which exceed a twenty-five year sentence.",
+               "description": "Requires that all felony offenders shall be eligible for parole after serving no more than twenty-five years of their sentence; eliminates the possibility of serving consecutive terms of imprisonment which exceed a twenty-five year sentence.",
+               "pending_committee_id": 417,
+               "committee": {
+                    "committee_id": 417,
+                    "chamber": "S",
+                    "chamber_id": 74,
+                    "name": "Codes"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-01-30",
+                         "committee_id": 417,
+                         "chamber": "S",
+                         "chamber_id": 74,
+                         "name": "Codes"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-01-30",
+                         "action": "REFERRED TO CODES",
+                         "chamber": "S",
+                         "chamber_id": 74,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 14215,
+                         "person_hash": "sdkbacov",
+                         "party_id": "1",
+                         "state_id": 32,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Luis Sepulveda",
+                         "first_name": "Luis",
+                         "middle_name": "R.",
+                         "last_name": "Sepulveda",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-032",
+                         "ftm_eid": 15666213,
+                         "votesmart_id": 127944,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 431378,
+                         "ballotpedia": "Luis_Sepulveda_(New_York)",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [
+                    {
+                         "type_id": 1,
+                         "type": "Same As",
+                         "sast_bill_number": "A06257",
+                         "sast_bill_id": 1987531
+                    }
+               ],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3090558,
+                         "date": "2025-01-30",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/NY/text/S03825/id/3090558",
+                         "state_link": "https://assembly.state.ny.us/leg/?default_fld=&bn=S03825&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S03825",
+                         "text_size": 35354,
+                         "text_hash": "46d94e5ec9e7b9675bac0c5b917d30a4",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     },
+     "2025352": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "cff8ef91ee978bf1dfda751407f33859",
+               "relevance": 16,
+               "state": "NY",
+               "bill number": "A08014",
+               "description": "Enacts into law components of legislation relating to certain criminal justice reform in the state of New York; establishes law enforcement officer grant funds (Part A); provides judges more discretion regarding securing orders and limiting the lengths of certain orders (Part B); requires affirmative consent for the disclosure of contact information of witnesses to a defendant; provides that denial of such consent shall only be for good cause as determined by the court (Part C); relates to consideration of the death penalty for the commission of certain provisions of murder in the first degree (Part D).",
+               "state link": "https://www.nysenate.gov/legislation/bills/2025/A8014",
+               "legiscan link": "https://legiscan.com/NY/bill/A08014/2025",
+               "status": {
+                    "date": "04-21-2025",
+                    "label": "Refer",
+                    "action": "referred to codes"
+               },
+               "date introduced": "04-21-2025",
+               "party": "D",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Marianne Buttenschon",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 2025352,
+               "change_hash": "cff8ef91ee978bf1dfda751407f33859",
+               "session_id": 2188,
+               "session": {
+                    "session_id": 2188,
+                    "state_id": 32,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 0,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 General Assembly"
+               },
+               "url": "https://legiscan.com/NY/bill/A08014/2025",
+               "state_link": "https://www.nysenate.gov/legislation/bills/2025/A8014",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-04-21",
+               "progress": [
+                    {
+                         "date": "2025-04-21",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-04-21",
+                         "event": 9
+                    }
+               ],
+               "state": "NY",
+               "state_id": 32,
+               "bill_number": "A08014",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "A",
+               "body_id": 73,
+               "current_body": "A",
+               "current_body_id": 73,
+               "title": "Enacts into law components of legislation relating to certain criminal justice reform in the state of New York; establishes law enforcement officer grant funds (Part A); provides judges more discretion regarding securing orders and limiting the lengths of certain orders (Part B); requires affirmative consent for the disclosure of contact information of witnesses to a defendant; provides that denial of such consent shall only be for good cause as determined by the court (Part C); relates to consideration of the death penalty for the commission of certain provisions of murder in the first degree (Part D).",
+               "description": "Enacts into law components of legislation relating to certain criminal justice reform in the state of New York; establishes law enforcement officer grant funds (Part A); provides judges more discretion regarding securing orders and limiting the lengths of certain orders (Part B); requires affirmative consent for the disclosure of contact information of witnesses to a defendant; provides that denial of such consent shall only be for good cause as determined by the court (Part C); relates to consideration of the death penalty for the commission of certain provisions of murder in the first degree (Part D).",
+               "pending_committee_id": 357,
+               "committee": {
+                    "committee_id": 357,
+                    "chamber": "A",
+                    "chamber_id": 73,
+                    "name": "Codes"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-04-21",
+                         "committee_id": 357,
+                         "chamber": "A",
+                         "chamber_id": 73,
+                         "name": "Codes"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-04-21",
+                         "action": "referred to codes",
+                         "chamber": "A",
+                         "chamber_id": 73,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 20634,
+                         "person_hash": "e9j934fn",
+                         "party_id": "1",
+                         "state_id": 32,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Marianne Buttenschon",
+                         "first_name": "Marianne",
+                         "middle_name": "",
+                         "last_name": "Buttenschon",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-119",
+                         "ftm_eid": 4452969,
+                         "votesmart_id": 185064,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 672643,
+                         "ballotpedia": "Marianne_Buttenschon",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [
+                    {
+                         "type_id": 1,
+                         "type": "Same As",
+                         "sast_bill_number": "S07337",
+                         "sast_bill_id": 2022785
+                    }
+               ],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3216983,
+                         "date": "2025-04-21",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/NY/text/A08014/id/3216983",
+                         "state_link": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08014&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08014",
+                         "text_size": 124461,
+                         "text_hash": "75066ed9b05d18e5ec0180df09abfc42",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     },
+     "2022785": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "4e8443f5ec5f462614c5d65f55b7767b",
+               "relevance": 16,
+               "state": "NY",
+               "bill number": "S07337",
+               "description": "Enacts into law components of legislation relating to certain criminal justice reform in the state of New York; establishes law enforcement officer grant funds (Part A); provides judges more discretion regarding securing orders and limiting the lengths of certain orders (Part B); requires affirmative consent for the disclosure of contact information of witnesses to a defendant; provides that denial of such consent shall only be for good cause as determined by the court (Part C); relates to consideration of the death penalty for the commission of certain provisions of murder in the first degree (Part D).",
+               "state link": "https://www.nysenate.gov/legislation/bills/2025/S7337",
+               "legiscan link": "https://legiscan.com/NY/bill/S07337/2025",
+               "status": {
+                    "date": "04-10-2025",
+                    "label": "Refer",
+                    "action": "REFERRED TO CODES"
+               },
+               "date introduced": "04-10-2025",
+               "party": "R",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Joseph Griffo",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 2022785,
+               "change_hash": "4e8443f5ec5f462614c5d65f55b7767b",
+               "session_id": 2188,
+               "session": {
+                    "session_id": 2188,
+                    "state_id": 32,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 0,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 General Assembly"
+               },
+               "url": "https://legiscan.com/NY/bill/S07337/2025",
+               "state_link": "https://www.nysenate.gov/legislation/bills/2025/S7337",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-04-10",
+               "progress": [
+                    {
+                         "date": "2025-04-10",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-04-10",
+                         "event": 9
+                    }
+               ],
+               "state": "NY",
+               "state_id": 32,
+               "bill_number": "S07337",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "S",
+               "body_id": 74,
+               "current_body": "S",
+               "current_body_id": 74,
+               "title": "Enacts into law components of legislation relating to certain criminal justice reform in the state of New York; establishes law enforcement officer grant funds (Part A); provides judges more discretion regarding securing orders and limiting the lengths of certain orders (Part B); requires affirmative consent for the disclosure of contact information of witnesses to a defendant; provides that denial of such consent shall only be for good cause as determined by the court (Part C); relates to consideration of the death penalty for the commission of certain provisions of murder in the first degree (Part D).",
+               "description": "Enacts into law components of legislation relating to certain criminal justice reform in the state of New York; establishes law enforcement officer grant funds (Part A); provides judges more discretion regarding securing orders and limiting the lengths of certain orders (Part B); requires affirmative consent for the disclosure of contact information of witnesses to a defendant; provides that denial of such consent shall only be for good cause as determined by the court (Part C); relates to consideration of the death penalty for the commission of certain provisions of murder in the first degree (Part D).",
+               "pending_committee_id": 417,
+               "committee": {
+                    "committee_id": 417,
+                    "chamber": "S",
+                    "chamber_id": 74,
+                    "name": "Codes"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-04-10",
+                         "committee_id": 417,
+                         "chamber": "S",
+                         "chamber_id": 74,
+                         "name": "Codes"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-04-10",
+                         "action": "REFERRED TO CODES",
+                         "chamber": "S",
+                         "chamber_id": 74,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 1417,
+                         "person_hash": "oqhfw4nx",
+                         "party_id": "2",
+                         "state_id": 32,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Joseph Griffo",
+                         "first_name": "Joseph",
+                         "middle_name": "A.",
+                         "last_name": "Griffo",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-053",
+                         "ftm_eid": 13013095,
+                         "votesmart_id": 68810,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 250900,
+                         "ballotpedia": "Joseph_Griffo",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [
+                    {
+                         "type_id": 1,
+                         "type": "Same As",
+                         "sast_bill_number": "A08014",
+                         "sast_bill_id": 2025352
+                    }
+               ],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3208479,
+                         "date": "2025-04-10",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/NY/text/S07337/id/3208479",
+                         "state_link": "https://assembly.state.ny.us/leg/?default_fld=&bn=S07337&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S07337",
+                         "text_size": 124491,
+                         "text_hash": "6c6967d68d8364ca32fdf9997023fec7",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     }
+}

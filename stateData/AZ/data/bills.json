@@ -1,0 +1,1712 @@
+{
+     "1923793": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "37a9c29de7b929fb4834b7193ea51002",
+               "relevance": 20,
+               "state": "AZ",
+               "bill number": "HCR2024",
+               "description": "Capital punishment; firing squad",
+               "state link": "https://apps.azleg.gov/BillStatus/BillOverview/82213",
+               "legiscan link": "https://legiscan.com/AZ/bill/HCR2024/2025",
+               "status": {
+                    "date": "02-24-2025",
+                    "label": "Report Pass",
+                    "action": "House Committee of the Whole action: Do Pass"
+               },
+               "date introduced": "01-29-2025",
+               "party": "R",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Alexander Kolodin",
+                         "co": "Laurin Hendrix",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 2"
+               }
+          },
+          "raw": {
+               "bill_id": 1923793,
+               "change_hash": "37a9c29de7b929fb4834b7193ea51002",
+               "session_id": 2155,
+               "session": {
+                    "session_id": 2155,
+                    "state_id": 3,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "Fifty-seventh Legislature - First Regular Session (2025)"
+               },
+               "url": "https://legiscan.com/AZ/bill/HCR2024/2025",
+               "state_link": "https://apps.azleg.gov/BillStatus/BillOverview/82213",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-01-29",
+               "progress": [
+                    {
+                         "date": "2025-01-29",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-18",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-02-24",
+                         "event": 10
+                    }
+               ],
+               "state": "AZ",
+               "state_id": 3,
+               "bill_number": "HCR2024",
+               "bill_type": "CR",
+               "bill_type_id": "3",
+               "body": "H",
+               "body_id": 15,
+               "current_body": "H",
+               "current_body_id": 15,
+               "title": "Capital punishment; firing squad",
+               "description": "Capital punishment; firing squad",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [
+                    {
+                         "date": "2025-01-29",
+                         "committee_id": 5002,
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "name": "Regulatory Oversight"
+                    },
+                    {
+                         "date": "2025-01-29",
+                         "committee_id": 1101,
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "name": "Rules"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-01-29",
+                         "action": "Introduced in House and read first time",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-01-29",
+                         "action": "Assigned to House RO Committee",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-29",
+                         "action": "Assigned to House RULES Committee",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-30",
+                         "action": "House read second time",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-18",
+                         "action": "House RO Committee action: Do Pass, voting: (3-2-0-0-0-0)",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-24",
+                         "action": "House RULES Committee action: constitutional and in proper form, voting: (7-0-0-1-0-0)",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-24",
+                         "action": "House consent calendar",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-24",
+                         "action": "House majority caucus: Do pass",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-24",
+                         "action": "House minority caucus: Do pass",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-26",
+                         "action": "House Committee of the Whole action: Do Pass",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 24240,
+                         "person_hash": "hy5cnszs",
+                         "party_id": "2",
+                         "state_id": 3,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Alexander Kolodin",
+                         "first_name": "Alexander",
+                         "middle_name": "M.",
+                         "last_name": "Kolodin",
+                         "suffix": "",
+                         "nickname": "Alex",
+                         "district": "HD-003",
+                         "ftm_eid": 46115848,
+                         "votesmart_id": 192510,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Alexander_Kolodin",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 4260,
+                         "person_hash": "201wjcrv",
+                         "party_id": "2",
+                         "state_id": 3,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Laurin Hendrix",
+                         "first_name": "Laurin",
+                         "middle_name": "",
+                         "last_name": "Hendrix",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-014",
+                         "ftm_eid": 12997918,
+                         "votesmart_id": 106551,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 267649,
+                         "ballotpedia": "Laurin_Hendrix",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 356847,
+                         "subject_name": "Capital Punishment"
+                    },
+                    {
+                         "subject_id": 259091,
+                         "subject_name": "Concurrent Resolution"
+                    },
+                    {
+                         "subject_id": 182373,
+                         "subject_name": "Constitution Of Arizona"
+                    },
+                    {
+                         "subject_id": 402511,
+                         "subject_name": "Firing Squad"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3060909,
+                         "date": "2025-01-16",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/AZ/text/HCR2024/id/3060909",
+                         "state_link": "https://www.azleg.gov/legtext/57leg/1r/bills/hcr2024p.htm",
+                         "text_size": 14060,
+                         "text_hash": "a41d32e2cd6063928a425b7c68378786",
+                         "alt_bill_text": 1,
+                         "alt_mime": "application/pdf",
+                         "alt_mime_id": 2,
+                         "alt_state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/521261",
+                         "alt_text_size": 21216,
+                         "alt_text_hash": "49b943983a85d0245f5f2c3c09945527"
+                    },
+                    {
+                         "doc_id": 3145040,
+                         "date": "2025-02-26",
+                         "type": "Engrossed",
+                         "type_id": 4,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/AZ/text/HCR2024/id/3145040",
+                         "state_link": "https://www.azleg.gov/legtext/57leg/1r/bills/hcr2024h.htm",
+                         "text_size": 7898,
+                         "text_hash": "8f28cf203f69ed6c738abb0cb7c21f4e",
+                         "alt_bill_text": 1,
+                         "alt_mime": "application/pdf",
+                         "alt_mime_id": 2,
+                         "alt_state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/526176",
+                         "alt_text_size": 21025,
+                         "alt_text_hash": "5c928818f1e9fd2e34018a6ccccbc9d9"
+                    }
+               ],
+               "votes": [
+                    {
+                         "roll_call_id": 1492560,
+                         "date": "2025-02-18",
+                         "desc": "House Regulatory Oversight Committee Action (DP)",
+                         "yea": 3,
+                         "nay": 2,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 5,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "url": "https://legiscan.com/AZ/rollcall/HCR2024/id/1492560",
+                         "state_link": "https://apps.azleg.gov/api/BillStatusStandingAction/?billStatusId=82213&includeVotes=true&officialOnly=true#0"
+                    },
+                    {
+                         "roll_call_id": 1497253,
+                         "date": "2025-02-24",
+                         "desc": "House Rules Committee Action (C&P)",
+                         "yea": 7,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 1,
+                         "total": 8,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "url": "https://legiscan.com/AZ/rollcall/HCR2024/id/1497253",
+                         "state_link": "https://apps.azleg.gov/api/BillStatusStandingAction/?billStatusId=82213&includeVotes=true&officialOnly=true#1"
+                    },
+                    {
+                         "roll_call_id": 1499944,
+                         "date": "2025-02-26",
+                         "desc": "House - Committee of the Whole (DP)",
+                         "yea": 0,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 0,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "url": "https://legiscan.com/AZ/rollcall/HCR2024/id/1499944",
+                         "state_link": "https://apps.azleg.gov/api/BillStatusFloorAction/?billStatusId=82213&billStatusActionId=232445&includeVotes=true"
+                    }
+               ],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 520008,
+                         "date": "2025-02-14",
+                         "type": "Analysis",
+                         "type_id": 2,
+                         "title": "Analysis",
+                         "description": "HOUSE SUMMARY: 02/14/2025 Regulatory Oversight",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/AZ/supplement/HCR2024/id/520008",
+                         "state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/524414",
+                         "supplement_size": 77053,
+                         "supplement_hash": "5a66f26c7df283c3b2a697fd4f35ad90",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    },
+                    {
+                         "supplement_id": 527067,
+                         "date": "2025-02-21",
+                         "type": "Analysis",
+                         "type_id": 2,
+                         "title": "Analysis",
+                         "description": "HOUSE SUMMARY: 02/21/2025 Caucus & COW",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/AZ/supplement/HCR2024/id/527067",
+                         "state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/525616",
+                         "supplement_size": 79270,
+                         "supplement_hash": "4099a583204d3132b63514f3f5586788",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    },
+                    {
+                         "supplement_id": 531171,
+                         "date": "2025-02-26",
+                         "type": "Analysis",
+                         "type_id": 2,
+                         "title": "Analysis",
+                         "description": "HOUSE SUMMARY: 02/26/2025 House Engrossed",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/AZ/supplement/HCR2024/id/531171",
+                         "state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/526126",
+                         "supplement_size": 77573,
+                         "supplement_hash": "a88b80b9d2012a8f46dfd3f7445bcf5b",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "e59b70fc",
+                         "type": "Hearing",
+                         "date": "2025-02-18",
+                         "time": "14:00",
+                         "location": "HHR 4",
+                         "description": "House Regulatory Oversight"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "8026037c",
+                         "type": "Hearing",
+                         "date": "2025-02-24",
+                         "time": "08:00",
+                         "location": "HHR 4",
+                         "description": "House Rules"
+                    }
+               ]
+          }
+     },
+     "1952468": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "35d2f9ed78c977e68742533c46161a2d",
+               "relevance": 17,
+               "state": "AZ",
+               "bill number": "SB1621",
+               "description": "Narcotic drugs; death; sentence enhancement",
+               "state link": "https://apps.azleg.gov/BillStatus/BillOverview/83077",
+               "legiscan link": "https://legiscan.com/AZ/bill/SB1621/2025",
+               "status": {
+                    "date": "04-14-2025",
+                    "label": "Report Pass",
+                    "action": "House motion to reconsider third reading"
+               },
+               "date introduced": "02-10-2025",
+               "party": "R",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Carine Werner",
+                         "co": "Hildy Angius, David Gowan, Janae Shamp, Thomas Shope",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 5"
+               }
+          },
+          "raw": {
+               "bill_id": 1952468,
+               "change_hash": "35d2f9ed78c977e68742533c46161a2d",
+               "session_id": 2155,
+               "session": {
+                    "session_id": 2155,
+                    "state_id": 3,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "Fifty-seventh Legislature - First Regular Session (2025)"
+               },
+               "url": "https://legiscan.com/AZ/bill/SB1621/2025",
+               "state_link": "https://apps.azleg.gov/BillStatus/BillOverview/83077",
+               "completed": 0,
+               "status": 2,
+               "status_date": "2025-02-26",
+               "progress": [
+                    {
+                         "date": "2025-02-10",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-12",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-02-17",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-02-26",
+                         "event": 2
+                    },
+                    {
+                         "date": "2025-03-12",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-04-14",
+                         "event": 10
+                    }
+               ],
+               "state": "AZ",
+               "state_id": 3,
+               "bill_number": "SB1621",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "S",
+               "body_id": 16,
+               "current_body": "H",
+               "current_body_id": 15,
+               "title": "Narcotic drugs; death; sentence enhancement",
+               "description": "Narcotic drugs; death; sentence enhancement",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [
+                    {
+                         "date": "2025-02-10",
+                         "committee_id": 5000,
+                         "chamber": "S",
+                         "chamber_id": 16,
+                         "name": "Judiciary and Elections"
+                    },
+                    {
+                         "date": "2025-02-10",
+                         "committee_id": 1114,
+                         "chamber": "S",
+                         "chamber_id": 16,
+                         "name": "Rules"
+                    },
+                    {
+                         "date": "2025-02-26",
+                         "committee_id": 1097,
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "name": "Judiciary"
+                    },
+                    {
+                         "date": "2025-03-03",
+                         "committee_id": 1101,
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "name": "Rules"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-10",
+                         "action": "Introduced in Senate and read first time",
+                         "chamber": "S",
+                         "chamber_id": 16,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-10",
+                         "action": "Assigned to Senate JUDE Committee",
+                         "chamber": "S",
+                         "chamber_id": 16,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-10",
+                         "action": "Assigned to Senate RULES Committee",
+                         "chamber": "S",
+                         "chamber_id": 16,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-11",
+                         "action": "Senate read second time",
+                         "chamber": "S",
+                         "chamber_id": 16,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-12",
+                         "action": "Senate JUDE Committee action: Do Pass, voting: (4-2-1-0)",
+                         "chamber": "S",
+                         "chamber_id": 16,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-17",
+                         "action": "Senate RULES Committee action: Proper For Consideration, voting: (0-0-0-0)",
+                         "chamber": "S",
+                         "chamber_id": 16,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-17",
+                         "action": "Senate consent calendar",
+                         "chamber": "S",
+                         "chamber_id": 16,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-18",
+                         "action": "Senate minority caucus: Do pass",
+                         "chamber": "S",
+                         "chamber_id": 16,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-18",
+                         "action": "Senate majority caucus: Do pass",
+                         "chamber": "S",
+                         "chamber_id": 16,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-25",
+                         "action": "Senate Committee of the Whole action: Do Pass",
+                         "chamber": "S",
+                         "chamber_id": 16,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-26",
+                         "action": "Senate third reading PASSED voting: (18-10-2-0)",
+                         "chamber": "S",
+                         "chamber_id": 16,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-26",
+                         "action": "Transmit to House",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-03",
+                         "action": "Introduced in House and read first time",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-03",
+                         "action": "Assigned to House JUD Committee",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-03",
+                         "action": "Assigned to House RULES Committee",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-04",
+                         "action": "House read second time",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-12",
+                         "action": "House JUD Committee action: Do Pass, voting: (6-3-0-0-0-0)",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-04-14",
+                         "action": "House RULES Committee action: constitutional and in proper form, voting: (8-0-0-0-0-0)",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-04-14",
+                         "action": "House consent calendar",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-16",
+                         "action": "House majority caucus: Do pass",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-16",
+                         "action": "House minority caucus: Do pass",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-06-04",
+                         "action": "House miscellaneous motion: Motion by Representative Carbone that pursuant to House Rule 12(P), SB1621 be calendared for an Additional Committee of the Whole for purposes of further amending. Motion passed v/v.",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-06-04",
+                         "action": "House additional Committee of the Whole action: Do Pass Amended",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-06-18",
+                         "action": "House third reading FAILED voting: (26-33-1-0)",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-06-19",
+                         "action": "House motion to reconsider third reading",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 25452,
+                         "person_hash": "dr5qksmq",
+                         "party_id": "2",
+                         "state_id": 3,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Carine Werner",
+                         "first_name": "Carine",
+                         "middle_name": "",
+                         "last_name": "Werner",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-004",
+                         "ftm_eid": 59857863,
+                         "votesmart_id": 216790,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Carine_Werner",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 25450,
+                         "person_hash": "lbedrxzb",
+                         "party_id": "2",
+                         "state_id": 3,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Hildy Angius",
+                         "first_name": "Hildy",
+                         "middle_name": "",
+                         "last_name": "Angius",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-030",
+                         "ftm_eid": 42115361,
+                         "votesmart_id": 156980,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Hildy_Angius",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 4233,
+                         "person_hash": "ahn8t2a5",
+                         "party_id": "2",
+                         "state_id": 3,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "David Gowan",
+                         "first_name": "David",
+                         "middle_name": "",
+                         "last_name": "Gowan",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-019",
+                         "ftm_eid": 6662273,
+                         "votesmart_id": 28241,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 267669,
+                         "ballotpedia": "David_Gowan",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 23642,
+                         "person_hash": "c3bauwnm",
+                         "party_id": "2",
+                         "state_id": 3,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Janae Shamp",
+                         "first_name": "Janae",
+                         "middle_name": "",
+                         "last_name": "Shamp",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-029",
+                         "ftm_eid": 55437865,
+                         "votesmart_id": 0,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Janae_Shamp",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 4,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 14709,
+                         "person_hash": "1zol0gzp",
+                         "party_id": "2",
+                         "state_id": 3,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Thomas Shope",
+                         "first_name": "Thomas",
+                         "middle_name": "R.",
+                         "last_name": "Shope",
+                         "suffix": "",
+                         "nickname": "T.J.",
+                         "district": "SD-016",
+                         "ftm_eid": 12719897,
+                         "votesmart_id": 141366,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 423629,
+                         "ballotpedia": "T.J._Shope",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 5,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 182555,
+                         "subject_name": "Classification"
+                    },
+                    {
+                         "subject_id": 251640,
+                         "subject_name": "Criminal Code - Title 13"
+                    },
+                    {
+                         "subject_id": 259563,
+                         "subject_name": "Death"
+                    },
+                    {
+                         "subject_id": 182989,
+                         "subject_name": "Drug Offenses"
+                    },
+                    {
+                         "subject_id": 359708,
+                         "subject_name": "Narcotic Drugs"
+                    },
+                    {
+                         "subject_id": 320751,
+                         "subject_name": "Sale"
+                    },
+                    {
+                         "subject_id": 391876,
+                         "subject_name": "Sentence Enhancement"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3096458,
+                         "date": "2025-02-03",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/AZ/text/SB1621/id/3096458",
+                         "state_link": "https://www.azleg.gov/legtext/57leg/1r/bills/sb1621p.htm",
+                         "text_size": 13222,
+                         "text_hash": "ed9e2db7cff6292154f3399e6f3ffd70",
+                         "alt_bill_text": 1,
+                         "alt_mime": "application/pdf",
+                         "alt_mime_id": 2,
+                         "alt_state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/522826",
+                         "alt_text_size": 24973,
+                         "alt_text_hash": "675f0ab4eb307ee74b7254d22eef55cd"
+                    },
+                    {
+                         "doc_id": 3144835,
+                         "date": "2025-02-25",
+                         "type": "Engrossed",
+                         "type_id": 4,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/AZ/text/SB1621/id/3144835",
+                         "state_link": "https://www.azleg.gov/legtext/57leg/1r/bills/sb1621s.htm",
+                         "text_size": 12676,
+                         "text_hash": "3cbcbd57297ba67b473194c9291d5453",
+                         "alt_bill_text": 1,
+                         "alt_mime": "application/pdf",
+                         "alt_mime_id": 2,
+                         "alt_state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/525907",
+                         "alt_text_size": 24769,
+                         "alt_text_hash": "d969ba3baa55540ee4369507a134f486"
+                    },
+                    {
+                         "doc_id": 3252356,
+                         "date": "2025-06-04",
+                         "type": "Engrossed",
+                         "type_id": 4,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/AZ/text/SB1621/id/3252356",
+                         "state_link": "https://www.azleg.gov/legtext/57leg/1r/bills/sb1621h.htm",
+                         "text_size": 14027,
+                         "text_hash": "78bdefb2ea62989b136d3986dabf6b02",
+                         "alt_bill_text": 1,
+                         "alt_mime": "application/pdf",
+                         "alt_mime_id": 2,
+                         "alt_state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/530691",
+                         "alt_text_size": 25054,
+                         "alt_text_hash": "a1b8b6869616b0258c2906fcb8cfe590"
+                    }
+               ],
+               "votes": [
+                    {
+                         "roll_call_id": 1487953,
+                         "date": "2025-02-12",
+                         "desc": "Senate Judiciary and Elections Committee Action (DP)",
+                         "yea": 4,
+                         "nay": 2,
+                         "nv": 1,
+                         "absent": 0,
+                         "total": 7,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 16,
+                         "url": "https://legiscan.com/AZ/rollcall/SB1621/id/1487953",
+                         "state_link": "https://apps.azleg.gov/api/BillStatusStandingAction/?billStatusId=83077&includeVotes=true&officialOnly=true#0"
+                    },
+                    {
+                         "roll_call_id": 1490962,
+                         "date": "2025-02-17",
+                         "desc": "Senate Rules Committee Action (PFC)",
+                         "yea": 0,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 0,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 16,
+                         "url": "https://legiscan.com/AZ/rollcall/SB1621/id/1490962",
+                         "state_link": "https://apps.azleg.gov/api/BillStatusStandingAction/?billStatusId=83077&includeVotes=true&officialOnly=true#1"
+                    },
+                    {
+                         "roll_call_id": 1499203,
+                         "date": "2025-02-25",
+                         "desc": "Senate - Committee of the Whole (DP)",
+                         "yea": 0,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 0,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 16,
+                         "url": "https://legiscan.com/AZ/rollcall/SB1621/id/1499203",
+                         "state_link": "https://apps.azleg.gov/api/BillStatusFloorAction/?billStatusId=83077&billStatusActionId=232211&includeVotes=true"
+                    },
+                    {
+                         "roll_call_id": 1500378,
+                         "date": "2025-02-26",
+                         "desc": "Senate - Third Reading",
+                         "yea": 18,
+                         "nay": 10,
+                         "nv": 2,
+                         "absent": 0,
+                         "total": 30,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 16,
+                         "url": "https://legiscan.com/AZ/rollcall/SB1621/id/1500378",
+                         "state_link": "https://apps.azleg.gov/api/BillStatusFloorAction/?billStatusId=83077&billStatusActionId=232496&includeVotes=true"
+                    },
+                    {
+                         "roll_call_id": 1515753,
+                         "date": "2025-03-12",
+                         "desc": "House Judiciary Committee Action (DP)",
+                         "yea": 6,
+                         "nay": 3,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 9,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "url": "https://legiscan.com/AZ/rollcall/SB1621/id/1515753",
+                         "state_link": "https://apps.azleg.gov/api/BillStatusStandingAction/?billStatusId=83077&includeVotes=true&officialOnly=true#2"
+                    },
+                    {
+                         "roll_call_id": 1547269,
+                         "date": "2025-04-14",
+                         "desc": "House Rules Committee Action (C&P)",
+                         "yea": 8,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 8,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "url": "https://legiscan.com/AZ/rollcall/SB1621/id/1547269",
+                         "state_link": "https://apps.azleg.gov/api/BillStatusStandingAction/?billStatusId=83077&includeVotes=true&officialOnly=true#3"
+                    },
+                    {
+                         "roll_call_id": 1584663,
+                         "date": "2025-06-04",
+                         "desc": "Motion Motion by Representative Carbone that pursuant to House Rule 12(P), SB1621 be calendared for an Additional Committee of the Whole for purposes of further amending. Motion passed v/v.",
+                         "yea": 0,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 0,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "url": "https://legiscan.com/AZ/rollcall/SB1621/id/1584663",
+                         "state_link": "https://apps.azleg.gov/api/BillStatusFloorAction/?billStatusId=83077&billStatusActionId=236010&includeVotes=true"
+                    },
+                    {
+                         "roll_call_id": 1584664,
+                         "date": "2025-06-04",
+                         "desc": "House - Committee of the Whole (DPA)",
+                         "yea": 0,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 0,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "url": "https://legiscan.com/AZ/rollcall/SB1621/id/1584664",
+                         "state_link": "https://apps.azleg.gov/api/BillStatusFloorAction/?billStatusId=83077&billStatusActionId=236014&includeVotes=true"
+                    },
+                    {
+                         "roll_call_id": 1592443,
+                         "date": "2025-06-18",
+                         "desc": "House - Third Reading",
+                         "yea": 26,
+                         "nay": 33,
+                         "nv": 1,
+                         "absent": 0,
+                         "total": 60,
+                         "passed": 0,
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "url": "https://legiscan.com/AZ/rollcall/SB1621/id/1592443",
+                         "state_link": "https://apps.azleg.gov/api/BillStatusFloorAction/?billStatusId=83077&billStatusActionId=236171&includeVotes=true"
+                    },
+                    {
+                         "roll_call_id": 1593079,
+                         "date": "2025-06-19",
+                         "desc": "House - Reconsider Third Reading",
+                         "yea": 0,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 0,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "url": "https://legiscan.com/AZ/rollcall/SB1621/id/1593079",
+                         "state_link": "https://apps.azleg.gov/api/BillStatusFloorAction/?billStatusId=83077&billStatusActionId=236217&includeVotes=true"
+                    }
+               ],
+               "amendments": [
+                    {
+                         "amendment_id": 236879,
+                         "adopted": 0,
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "date": "2025-03-10",
+                         "title": "HOUSE - Judiciary",
+                         "description": "HOUSE - Judiciary",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/AZ/amendment/SB1621/id/236879",
+                         "state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/527294",
+                         "amendment_size": 24569,
+                         "amendment_hash": "a2ba169f58b7aa097826a04de8ce2268",
+                         "alt_amendment": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_amendment_size": 0,
+                         "alt_amendment_hash": ""
+                    },
+                    {
+                         "amendment_id": 261951,
+                         "adopted": 1,
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "date": "2025-06-04",
+                         "title": "HOUSE - Floor Amend to Bill - Kolodin - passed",
+                         "description": "HOUSE - Floor Amend to Bill - Kolodin - passed",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/AZ/amendment/SB1621/id/261951",
+                         "state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/530686",
+                         "amendment_size": 149426,
+                         "amendment_hash": "78640d05952be699301336aaf190341b",
+                         "alt_amendment": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_amendment_size": 0,
+                         "alt_amendment_hash": ""
+                    },
+                    {
+                         "amendment_id": 261952,
+                         "adopted": 0,
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "date": "0000-00-00",
+                         "title": "House ADD COW 06/04 - Floor Amend to Bill - Kolodin",
+                         "description": "House ADD COW 06/04 - Floor Amend to Bill - Kolodin",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/AZ/amendment/SB1621/id/261952",
+                         "state_link": "https://apps.azleg.gov/BillStatus/GetCalendarBillAmendmentPdf/?calendarBillId=807782&itemId=0",
+                         "amendment_size": 149426,
+                         "amendment_hash": "78640d05952be699301336aaf190341b",
+                         "alt_amendment": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_amendment_size": 0,
+                         "alt_amendment_hash": ""
+                    }
+               ],
+               "supplements": [
+                    {
+                         "supplement_id": 513426,
+                         "date": "2025-02-10",
+                         "type": "Analysis",
+                         "type_id": 2,
+                         "title": "Analysis",
+                         "description": "SENATE FACT SHEET: 02/10/2025 JUDE",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/AZ/supplement/SB1621/id/513426",
+                         "state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/523713",
+                         "supplement_size": 44430,
+                         "supplement_hash": "2d40e55460bc7bd9b4779e7cc74c8dcd",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    },
+                    {
+                         "supplement_id": 530915,
+                         "date": "2025-02-25",
+                         "type": "Fiscal Note",
+                         "type_id": 1,
+                         "title": "Fiscal Note",
+                         "description": "FISCAL NOTE: As Introduced",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/AZ/supplement/SB1621/id/530915",
+                         "state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/525867",
+                         "supplement_size": 128352,
+                         "supplement_hash": "01ac664ea1ccae4f0e82c7113974e423",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    },
+                    {
+                         "supplement_id": 543107,
+                         "date": "2025-03-10",
+                         "type": "Analysis",
+                         "type_id": 2,
+                         "title": "Analysis",
+                         "description": "HOUSE SUMMARY: 03/10/2025 Judiciary",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/AZ/supplement/SB1621/id/543107",
+                         "state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/527297",
+                         "supplement_size": 105073,
+                         "supplement_hash": "462af09531fa14e0988b3c9c190144ec",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    },
+                    {
+                         "supplement_id": 547333,
+                         "date": "2025-03-14",
+                         "type": "Analysis",
+                         "type_id": 2,
+                         "title": "Analysis",
+                         "description": "HOUSE SUMMARY: 03/14/2025 Caucus & COW",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/AZ/supplement/SB1621/id/547333",
+                         "state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/527566",
+                         "supplement_size": 106491,
+                         "supplement_hash": "90402a412ad65373e609e0a985748463",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    },
+                    {
+                         "supplement_id": 615629,
+                         "date": "2025-07-14",
+                         "type": "Analysis",
+                         "type_id": 2,
+                         "title": "Analysis",
+                         "description": "HOUSE SUMMARY: 07/14/2025 House Engrossed",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/AZ/supplement/SB1621/id/615629",
+                         "state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/531502",
+                         "supplement_size": 119294,
+                         "supplement_hash": "e6dc4679c6ea7bfbc23290f23e8902b9",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "70aa4139",
+                         "type": "Hearing",
+                         "date": "2025-02-12",
+                         "time": "13:30",
+                         "location": "SHR 2",
+                         "description": "Senate Judiciary and Elections"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "3d0a9b03",
+                         "type": "Hearing",
+                         "date": "2025-02-17",
+                         "time": "13:00",
+                         "location": "Caucus Room 1",
+                         "description": "Senate Rules"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "daec0611",
+                         "type": "Hearing",
+                         "date": "2025-03-12",
+                         "time": "09:00",
+                         "location": "HHR 4",
+                         "description": "House Judiciary"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "b8326262",
+                         "type": "Hearing",
+                         "date": "2025-04-14",
+                         "time": "13:00",
+                         "location": "HHR 4",
+                         "description": "House Rules"
+                    }
+               ]
+          }
+     },
+     "1895798": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "508d0c3419682f0e762c57de5ca266a3",
+               "relevance": 12,
+               "state": "AZ",
+               "bill number": "HCR2001",
+               "description": "Death penalty; prohibition",
+               "state link": "https://apps.azleg.gov/BillStatus/BillOverview/81602",
+               "legiscan link": "https://legiscan.com/AZ/bill/HCR2001/2025",
+               "status": {
+                    "date": "01-16-2025",
+                    "label": "Introduced",
+                    "action": "House read second time"
+               },
+               "date introduced": "01-16-2025",
+               "party": "D",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Patricia Contreras",
+                         "co": "Anna Abeytia, Seth Blattman, Quanta Crews, Oscar De Los Santos, Nancy Gutierrez, Lydia Hernandez, Sarah Liguori, Mae Peshlakai",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 9"
+               }
+          },
+          "raw": {
+               "bill_id": 1895798,
+               "change_hash": "508d0c3419682f0e762c57de5ca266a3",
+               "session_id": 2155,
+               "session": {
+                    "session_id": 2155,
+                    "state_id": 3,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "Fifty-seventh Legislature - First Regular Session (2025)"
+               },
+               "url": "https://legiscan.com/AZ/bill/HCR2001/2025",
+               "state_link": "https://apps.azleg.gov/BillStatus/BillOverview/81602",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-01-16",
+               "progress": [
+                    {
+                         "date": "2025-01-16",
+                         "event": 1
+                    }
+               ],
+               "state": "AZ",
+               "state_id": 3,
+               "bill_number": "HCR2001",
+               "bill_type": "CR",
+               "bill_type_id": "3",
+               "body": "H",
+               "body_id": 15,
+               "current_body": "H",
+               "current_body_id": 15,
+               "title": "Death penalty; prohibition",
+               "description": "Death penalty; prohibition",
+               "pending_committee_id": 1097,
+               "committee": {
+                    "committee_id": 1097,
+                    "chamber": "H",
+                    "chamber_id": 15,
+                    "name": "Judiciary"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-01-16",
+                         "committee_id": 1097,
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "name": "Judiciary"
+                    },
+                    {
+                         "date": "2025-01-16",
+                         "committee_id": 1101,
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "name": "Rules"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2024-12-10",
+                         "action": "Prefile",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-16",
+                         "action": "Introduced in House and read first time",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-01-16",
+                         "action": "Assigned to House JUD Committee",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-16",
+                         "action": "Assigned to House RULES Committee",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-21",
+                         "action": "House read second time",
+                         "chamber": "H",
+                         "chamber_id": 15,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 24233,
+                         "person_hash": "tk6x3o95",
+                         "party_id": "1",
+                         "state_id": 3,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Patricia Contreras",
+                         "first_name": "Patricia",
+                         "middle_name": "",
+                         "last_name": "Contreras",
+                         "suffix": "",
+                         "nickname": "Patty",
+                         "district": "HD-012",
+                         "ftm_eid": 55437911,
+                         "votesmart_id": 205595,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Patricia_Contreras",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 25436,
+                         "person_hash": "eha8t5fv",
+                         "party_id": "1",
+                         "state_id": 3,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Anna Abeytia",
+                         "first_name": "Anna",
+                         "middle_name": "",
+                         "last_name": "Abeytia",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-024",
+                         "ftm_eid": 55437955,
+                         "votesmart_id": 205626,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Anna_Abeytia",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24247,
+                         "person_hash": "ovahya35",
+                         "party_id": "1",
+                         "state_id": 3,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Seth Blattman",
+                         "first_name": "Seth",
+                         "middle_name": "",
+                         "last_name": "Blattman",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-009",
+                         "ftm_eid": 49622936,
+                         "votesmart_id": 192511,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Seth_Blattman",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24946,
+                         "person_hash": "h5a9jqce",
+                         "party_id": "1",
+                         "state_id": 3,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Quanta Crews",
+                         "first_name": "Quanta",
+                         "middle_name": "",
+                         "last_name": "Crews",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-026",
+                         "ftm_eid": 0,
+                         "votesmart_id": 0,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Quanta_Crews",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 4,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24234,
+                         "person_hash": "b21xd5h8",
+                         "party_id": "1",
+                         "state_id": 3,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Oscar De Los Santos",
+                         "first_name": "Oscar",
+                         "middle_name": "",
+                         "last_name": "De Los Santos",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-011",
+                         "ftm_eid": 44899603,
+                         "votesmart_id": 205590,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Oscar_De_Los_Santos",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 5,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24235,
+                         "person_hash": "bmm0f5b6",
+                         "party_id": "1",
+                         "state_id": 3,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Nancy Gutierrez",
+                         "first_name": "Nancy",
+                         "middle_name": "",
+                         "last_name": "Gutierrez",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-018",
+                         "ftm_eid": 55437938,
+                         "votesmart_id": 205615,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Nancy_Gutierrez",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 6,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 14555,
+                         "person_hash": "vyo4fuda",
+                         "party_id": "1",
+                         "state_id": 3,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Lydia Hernandez",
+                         "first_name": "Lydia",
+                         "middle_name": "",
+                         "last_name": "Hernandez",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-024",
+                         "ftm_eid": 12719943,
+                         "votesmart_id": 123714,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 423738,
+                         "ballotpedia": "Lydia_Hernandez",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 7,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 23022,
+                         "person_hash": "4ngs3llm",
+                         "party_id": "1",
+                         "state_id": 3,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Sarah Liguori",
+                         "first_name": "Sarah",
+                         "middle_name": "",
+                         "last_name": "Liguori",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-005",
+                         "ftm_eid": 50604840,
+                         "votesmart_id": 200339,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 789707,
+                         "ballotpedia": "Sarah_Liguori",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 8,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24498,
+                         "person_hash": "v0sl3neh",
+                         "party_id": "1",
+                         "state_id": 3,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Mae Peshlakai",
+                         "first_name": "Jamescita",
+                         "middle_name": "",
+                         "last_name": "Peshlakai",
+                         "suffix": "",
+                         "nickname": "Mae",
+                         "district": "HD-006",
+                         "ftm_eid": 55437891,
+                         "votesmart_id": 141360,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 808745,
+                         "ballotpedia": "Mae_Peshlakai",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 9,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 259091,
+                         "subject_name": "Concurrent Resolution"
+                    },
+                    {
+                         "subject_id": 182373,
+                         "subject_name": "Constitution Of Arizona"
+                    },
+                    {
+                         "subject_id": 183356,
+                         "subject_name": "Death Penalty"
+                    },
+                    {
+                         "subject_id": 181901,
+                         "subject_name": "Prohibition"
+                    },
+                    {
+                         "subject_id": 364346,
+                         "subject_name": "Sentence Of Death"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3031998,
+                         "date": "2024-12-10",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/AZ/text/HCR2001/id/3031998",
+                         "state_link": "https://www.azleg.gov/legtext/57leg/1r/bills/hcr2001p.htm",
+                         "text_size": 12531,
+                         "text_hash": "c9e761e82166939f734f9be24e8978a1",
+                         "alt_bill_text": 1,
+                         "alt_mime": "application/pdf",
+                         "alt_mime_id": 2,
+                         "alt_state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/520508",
+                         "alt_text_size": 25167,
+                         "alt_text_hash": "be0a39ae0b58ae3826d5529729a8477e"
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     }
+}

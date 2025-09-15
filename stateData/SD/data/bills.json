@@ -1,0 +1,388 @@
+{
+     "1945762": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "8e6402e613022a8fa9777d57a5049b5c",
+               "relevance": 33,
+               "state": "SD",
+               "bill number": "SB119",
+               "description": "Repeal capital punishment.",
+               "state link": "https://sdlegislature.gov/#/Session/Bill/26049",
+               "legiscan link": "https://legiscan.com/SD/bill/SB119/2025",
+               "status": {
+                    "date": "01-30-2025",
+                    "label": "Refer",
+                    "action": "Judiciary Deferred to the 41st legislative day, Passed, YEAS 4, NAYS 3."
+               },
+               "date introduced": "01-29-2025",
+               "party": "D",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Jamie Smith, Kadyn Wittman",
+                         "co": "Erin Healy, Liz Larson, Jim Mehlhaff, Erik Muckey, Nicole Uhre-Balk",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 6, republican: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1945762,
+               "change_hash": "8e6402e613022a8fa9777d57a5049b5c",
+               "session_id": 2170,
+               "session": {
+                    "session_id": 2170,
+                    "state_id": 41,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/SD/bill/SB119/2025",
+               "state_link": "https://sdlegislature.gov/#/Session/Bill/26049",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-01-29",
+               "progress": [
+                    {
+                         "date": "2025-01-29",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-01-30",
+                         "event": 9
+                    }
+               ],
+               "state": "SD",
+               "state_id": 41,
+               "bill_number": "SB119",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "S",
+               "body_id": 88,
+               "current_body": "S",
+               "current_body_id": 88,
+               "title": "Repeal capital punishment.",
+               "description": "Repeal capital punishment.",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [
+                    {
+                         "date": "2025-01-30",
+                         "committee_id": 1563,
+                         "chamber": "S",
+                         "chamber_id": 88,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-01-29",
+                         "action": "First Reading Senate S.J. 127",
+                         "chamber": "S",
+                         "chamber_id": 88,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-01-30",
+                         "action": "Referred to Senate Judiciary S.J. 142",
+                         "chamber": "S",
+                         "chamber_id": 88,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-13",
+                         "action": "Scheduled for hearing",
+                         "chamber": "S",
+                         "chamber_id": 88,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-18",
+                         "action": "Scheduled for hearing S.J. 1",
+                         "chamber": "S",
+                         "chamber_id": 88,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-18",
+                         "action": "Judiciary Deferred to the 41st legislative day, Passed, YEAS 4, NAYS 3.",
+                         "chamber": "S",
+                         "chamber_id": 88,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 18703,
+                         "person_hash": "387wzshc",
+                         "party_id": "1",
+                         "state_id": 41,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Jamie Smith",
+                         "first_name": "Jamie",
+                         "middle_name": "",
+                         "last_name": "Smith",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-015",
+                         "ftm_eid": 39762643,
+                         "votesmart_id": 169033,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 576859,
+                         "ballotpedia": "Jamie_Smith_(South_Dakota)",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 23776,
+                         "person_hash": "75otiuwl",
+                         "party_id": "1",
+                         "state_id": 41,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Kadyn Wittman",
+                         "first_name": "Kadyn",
+                         "middle_name": "",
+                         "last_name": "Wittman",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-015",
+                         "ftm_eid": 55430442,
+                         "votesmart_id": 0,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Kadyn_Wittman",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 20582,
+                         "person_hash": "9m627ugv",
+                         "party_id": "1",
+                         "state_id": 41,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Erin Healy",
+                         "first_name": "Erin",
+                         "middle_name": "",
+                         "last_name": "Healy",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-010",
+                         "ftm_eid": 45284463,
+                         "votesmart_id": 180844,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 478075,
+                         "ballotpedia": "Erin_Healy",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24401,
+                         "person_hash": "383lj3fq",
+                         "party_id": "1",
+                         "state_id": 41,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Liz Larson",
+                         "first_name": "Elizabeth",
+                         "middle_name": "",
+                         "last_name": "Larson",
+                         "suffix": "",
+                         "nickname": "Liz",
+                         "district": "SD-010",
+                         "ftm_eid": 52998359,
+                         "votesmart_id": 0,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Elizabeth_Larson_(South_Dakota)",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 4,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24312,
+                         "person_hash": "14xc12fn",
+                         "party_id": "2",
+                         "state_id": 41,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Jim Mehlhaff",
+                         "first_name": "Jim",
+                         "middle_name": "",
+                         "last_name": "Mehlhaff",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-024",
+                         "ftm_eid": 8595871,
+                         "votesmart_id": 113353,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Jim_Mehlhaff",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 5,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 25643,
+                         "person_hash": "6o0mx03t",
+                         "party_id": "1",
+                         "state_id": 41,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Erik Muckey",
+                         "first_name": "Erik",
+                         "middle_name": "",
+                         "last_name": "Muckey",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-015",
+                         "ftm_eid": 59835880,
+                         "votesmart_id": 216253,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Erik_Muckey",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 6,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 25650,
+                         "person_hash": "uuar80lr",
+                         "party_id": "1",
+                         "state_id": 41,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Nicole Uhre-Balk",
+                         "first_name": "Nicole",
+                         "middle_name": "",
+                         "last_name": "Uhre-Balk",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-032",
+                         "ftm_eid": 59835844,
+                         "votesmart_id": 216126,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Nicole_Uhre-Balk",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 7,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 22460,
+                         "subject_name": "Capital Punishment"
+                    },
+                    {
+                         "subject_id": 12202,
+                         "subject_name": "Crimes"
+                    },
+                    {
+                         "subject_id": 12193,
+                         "subject_name": "Criminal Procedure"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3088005,
+                         "date": "2025-01-29",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/SD/text/SB119/id/3088005",
+                         "state_link": "https://mylrc.sdlegislature.gov/api/Documents/278408.pdf",
+                         "text_size": 112760,
+                         "text_hash": "c1d6e9ef101be26a9fc5ef5513b44bb1",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [
+                    {
+                         "roll_call_id": 1491851,
+                         "date": "2025-02-18",
+                         "desc": "Deferred to the 41st legislative day",
+                         "yea": 4,
+                         "nay": 3,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 7,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 88,
+                         "url": "https://legiscan.com/SD/rollcall/SB119/id/1491851",
+                         "state_link": "https://sdlegislature.gov/api/Votes/81379"
+                    }
+               ],
+               "amendments": [],
+               "supplements": [],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "098bf55c",
+                         "type": "Hearing",
+                         "date": "2025-02-13",
+                         "time": "00:00",
+                         "location": "",
+                         "description": "Senate Judiciary Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "9b591925",
+                         "type": "Hearing",
+                         "date": "2025-02-18",
+                         "time": "00:00",
+                         "location": "",
+                         "description": "Senate Judiciary Hearing"
+                    }
+               ]
+          }
+     }
+}

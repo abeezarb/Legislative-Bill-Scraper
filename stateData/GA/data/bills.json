@@ -1,0 +1,4036 @@
+{
+     "1943159": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "5d82f0a5c11153d772ca418e1a5da1e8",
+               "relevance": 20,
+               "state": "GA",
+               "bill number": "HB123",
+               "description": "A BILL to be entitled an Act to amend Title 17 of the Official Code of Georgia Annotated, relating to criminal procedure, so as to provide for pretrial proceedings in capital offense cases where the death penalty is sought when the accused has intellectual disability; to provide for a definition; to provide for notice of intent to claim intellectual disability; to provide for pretrial determination of intellectual disability; to provide for verdicts; to provide for capital case procedures; to provide for reports investigating reversible error; to provide for a standard of review; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+               "state link": "https://www.legis.ga.gov/legislation/69497",
+               "legiscan link": "https://legiscan.com/GA/bill/HB123/2025",
+               "status": {
+                    "date": "05-13-2025",
+                    "label": "Passed",
+                    "action": "Effective Date 2025-05-13"
+               },
+               "date introduced": "01-27-2025",
+               "party": "D",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "William Werkheiser, Matt Reeves, Deborah Silcox, Scott Holcomb, Tyler Smith, Stan Gunter",
+                         "co": "",
+                         "joint": "Brian Strickland"
+                    },
+                    "sponsor-party": "democrat: 1, republican: 6"
+               }
+          },
+          "raw": {
+               "bill_id": 1943159,
+               "change_hash": "5d82f0a5c11153d772ca418e1a5da1e8",
+               "session_id": 2167,
+               "session": {
+                    "session_id": 2167,
+                    "state_id": 10,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 Regular Session"
+               },
+               "url": "https://legiscan.com/GA/bill/HB123/2025",
+               "state_link": "https://www.legis.ga.gov/legislation/69497",
+               "completed": 1,
+               "status": 4,
+               "status_date": "2025-05-13",
+               "progress": [
+                    {
+                         "date": "2025-01-27",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-20",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-03-04",
+                         "event": 2
+                    },
+                    {
+                         "date": "2025-03-06",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-03-27",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-04-08",
+                         "event": 3
+                    },
+                    {
+                         "date": "2025-05-13",
+                         "event": 8
+                    },
+                    {
+                         "date": "2025-05-13",
+                         "event": 4
+                    }
+               ],
+               "state": "GA",
+               "state_id": 10,
+               "bill_number": "HB123",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 29,
+               "current_body": "H",
+               "current_body_id": 29,
+               "title": "Criminal procedure; pretrial proceedings in capital offense cases where the death penalty is sought when the accused has an intellectual disability; provide",
+               "description": "A BILL to be entitled an Act to amend Title 17 of the Official Code of Georgia Annotated, relating to criminal procedure, so as to provide for pretrial proceedings in capital offense cases where the death penalty is sought when the accused has intellectual disability; to provide for a definition; to provide for notice of intent to claim intellectual disability; to provide for pretrial determination of intellectual disability; to provide for verdicts; to provide for capital case procedures; to provide for reports investigating reversible error; to provide for a standard of review; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [
+                    {
+                         "date": "2025-01-28",
+                         "committee_id": 588,
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "name": "Judiciary - Non-Civil"
+                    },
+                    {
+                         "date": "2025-03-06",
+                         "committee_id": 619,
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-01-27",
+                         "action": "House Hopper",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-28",
+                         "action": "House First Readers",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-29",
+                         "action": "House Second Readers",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-20",
+                         "action": "House Committee Favorably Reported",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-04",
+                         "action": "House Third Readers",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-04",
+                         "action": "House Passed/Adopted",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-06",
+                         "action": "Senate Read and Referred",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-27",
+                         "action": "Senate Committee Favorably Reported By Substitute",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-27",
+                         "action": "Senate Read Second Time",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-31",
+                         "action": "Senate Third Read",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-31",
+                         "action": "Senate Passed/Adopted By Substitute",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-31",
+                         "action": "House Agreed Senate Amend or Sub",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-08",
+                         "action": "House Sent to Governor",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-05-13",
+                         "action": "House Date Signed by Governor",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-05-13",
+                         "action": "Act 191",
+                         "chamber": "",
+                         "chamber_id": 0,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-05-13",
+                         "action": "Effective Date 2025-05-13",
+                         "chamber": "",
+                         "chamber_id": 0,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 16729,
+                         "person_hash": "lfx30xm5",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "William Werkheiser",
+                         "first_name": "William",
+                         "middle_name": "A.",
+                         "last_name": "Werkheiser",
+                         "suffix": "",
+                         "nickname": "Bill",
+                         "district": "HD-157",
+                         "ftm_eid": 24361017,
+                         "votesmart_id": 151138,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 498868,
+                         "ballotpedia": "Bill_Werkheiser",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24445,
+                         "person_hash": "454bghfm",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Matt Reeves",
+                         "first_name": "Matt",
+                         "middle_name": "",
+                         "last_name": "Reeves",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-099",
+                         "ftm_eid": 55357599,
+                         "votesmart_id": 178704,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Matt_Reeves",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 18898,
+                         "person_hash": "p3yznjaf",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Deborah Silcox",
+                         "first_name": "Deborah",
+                         "middle_name": "",
+                         "last_name": "Silcox",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-053",
+                         "ftm_eid": 6925863,
+                         "votesmart_id": 168240,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 573921,
+                         "ballotpedia": "Deborah_Silcox",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 12041,
+                         "person_hash": "2pxvd60o",
+                         "party_id": "1",
+                         "state_id": 10,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Scott Holcomb",
+                         "first_name": "Scott",
+                         "middle_name": "M.",
+                         "last_name": "Holcomb",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-101",
+                         "ftm_eid": 5788200,
+                         "votesmart_id": 122840,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 308528,
+                         "ballotpedia": "Scott_Holcomb",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 4,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22343,
+                         "person_hash": "xar2rep5",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Tyler Smith",
+                         "first_name": "Tyler",
+                         "middle_name": "Paul",
+                         "last_name": "Smith",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-018",
+                         "ftm_eid": 49574399,
+                         "votesmart_id": 190358,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 734881,
+                         "ballotpedia": "Tyler_Smith_(Georgia)",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 5,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22330,
+                         "person_hash": "5iss1ehv",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Stan Gunter",
+                         "first_name": "Stan",
+                         "middle_name": "",
+                         "last_name": "Gunter",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-008",
+                         "ftm_eid": 13009998,
+                         "votesmart_id": 190339,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 734770,
+                         "ballotpedia": "Stan_Gunter",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 6,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 15169,
+                         "person_hash": "6h295991",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Brian Strickland",
+                         "first_name": "Brian",
+                         "middle_name": "",
+                         "last_name": "Strickland",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-042",
+                         "ftm_eid": 12746080,
+                         "votesmart_id": 142212,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 423293,
+                         "ballotpedia": "Brian_Strickland",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 3,
+                         "sponsor_order": 7,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3084444,
+                         "date": "2025-01-28",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/HB123/id/3084444",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/230266",
+                         "text_size": 94128,
+                         "text_hash": "c79a7e10e1b7408b486a9d663769f2a0",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3192757,
+                         "date": "2025-03-27",
+                         "type": "Comm Sub",
+                         "type_id": 2,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/HB123/id/3192757",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/237486",
+                         "text_size": 95013,
+                         "text_hash": "35da4389e227910ae4f92a70928b0aee",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3197938,
+                         "date": "2025-04-02",
+                         "type": "Enrolled",
+                         "type_id": 5,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/HB123/id/3197938",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/238516",
+                         "text_size": 97808,
+                         "text_hash": "7aca11f459f0f5d95927fa62cc413d6c",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [
+                    {
+                         "roll_call_id": 1505459,
+                         "date": "2025-03-04",
+                         "desc": "Passage: House Vote #160",
+                         "yea": 172,
+                         "nay": 0,
+                         "nv": 3,
+                         "absent": 5,
+                         "total": 180,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "url": "https://legiscan.com/GA/rollcall/HB123/id/1505459",
+                         "state_link": "https://www.legis.ga.gov/legislation/69497#24997"
+                    },
+                    {
+                         "roll_call_id": 1531610,
+                         "date": "2025-03-31",
+                         "desc": "Passage By Substitute: Senate Vote #354",
+                         "yea": 53,
+                         "nay": 1,
+                         "nv": 0,
+                         "absent": 2,
+                         "total": 56,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "url": "https://legiscan.com/GA/rollcall/HB123/id/1531610",
+                         "state_link": "https://www.legis.ga.gov/legislation/69497#25454"
+                    },
+                    {
+                         "roll_call_id": 1531611,
+                         "date": "2025-03-31",
+                         "desc": "Agree To Senate Substitute: House Vote #375",
+                         "yea": 150,
+                         "nay": 3,
+                         "nv": 13,
+                         "absent": 14,
+                         "total": 180,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "url": "https://legiscan.com/GA/rollcall/HB123/id/1531611",
+                         "state_link": "https://www.legis.ga.gov/legislation/69497#25430"
+                    }
+               ],
+               "amendments": [],
+               "supplements": [],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "7b813286",
+                         "type": "Hearing",
+                         "date": "2025-02-04",
+                         "time": "15:00",
+                         "location": "132 CAP",
+                         "description": "House Judiciary Non-civil"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "ae821ed7",
+                         "type": "Hearing",
+                         "date": "2025-02-19",
+                         "time": "15:00",
+                         "location": "132 CAP",
+                         "description": "House Judiciary Non-civil"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "de848cb1",
+                         "type": "Hearing",
+                         "date": "2025-03-20",
+                         "time": "14:00",
+                         "location": "307 CLOB",
+                         "description": "Senate Judiciary Committee"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "256809d8",
+                         "type": "Hearing",
+                         "date": "2025-03-20",
+                         "time": "16:00",
+                         "location": "307 CLOB",
+                         "description": "Senate Judiciary Committee"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "bc02c7c4",
+                         "type": "Hearing",
+                         "date": "2025-03-26",
+                         "time": "11:00",
+                         "location": "307 CLOB",
+                         "description": "Senate Judiciary Committee"
+                    }
+               ]
+          }
+     },
+     "1987878": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "3a25087464f59676d4cb3d3443a1cd49",
+               "relevance": 19,
+               "state": "GA",
+               "bill number": "SB298",
+               "description": "A BILL to be entitled an Act to amend Code Section 5-6-34 of the Official Code of Georgia Annotated, relating to judgments and rulings deemed directly appealable, procedure for review of judgments, orders, or decisions not subject to direct appeal, scope of review, hearings in criminal cases involving a capital offense for which death penalty is sought, and appeals involving nonmonetary judgments in child custody cases, so as to provide for certain appellate procedures regarding the denial of sovereign and any other immunity available to the state or a city or county in this state; to provide for time limitations; to provide for statutory construction; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+               "state link": "https://www.legis.ga.gov/legislation/70943",
+               "legiscan link": "https://legiscan.com/GA/bill/SB298/2025",
+               "status": {
+                    "date": "05-14-2025",
+                    "label": "Passed",
+                    "action": "Effective Date 2025-07-01"
+               },
+               "date introduced": "02-27-2025",
+               "party": "R",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Randy Robertson",
+                         "co": "",
+                         "joint": "Rob Leverett"
+                    },
+                    "sponsor-party": "republican: 2"
+               }
+          },
+          "raw": {
+               "bill_id": 1987878,
+               "change_hash": "3a25087464f59676d4cb3d3443a1cd49",
+               "session_id": 2167,
+               "session": {
+                    "session_id": 2167,
+                    "state_id": 10,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 Regular Session"
+               },
+               "url": "https://legiscan.com/GA/bill/SB298/2025",
+               "state_link": "https://www.legis.ga.gov/legislation/70943",
+               "completed": 1,
+               "status": 4,
+               "status_date": "2025-05-14",
+               "progress": [
+                    {
+                         "date": "2025-02-27",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-28",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-03-03",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-03-06",
+                         "event": 2
+                    },
+                    {
+                         "date": "2025-03-18",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-04-10",
+                         "event": 3
+                    },
+                    {
+                         "date": "2025-05-14",
+                         "event": 8
+                    },
+                    {
+                         "date": "2025-05-14",
+                         "event": 4
+                    }
+               ],
+               "state": "GA",
+               "state_id": 10,
+               "bill_number": "SB298",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "S",
+               "body_id": 30,
+               "current_body": "S",
+               "current_body_id": 30,
+               "title": "Judgements and Rulings; certain appellate procedures regarding the denial of sovereign and any other immunity available to the state; provide",
+               "description": "A BILL to be entitled an Act to amend Code Section 5-6-34 of the Official Code of Georgia Annotated, relating to judgments and rulings deemed directly appealable, procedure for review of judgments, orders, or decisions not subject to direct appeal, scope of review, hearings in criminal cases involving a capital offense for which death penalty is sought, and appeals involving nonmonetary judgments in child custody cases, so as to provide for certain appellate procedures regarding the denial of sovereign and any other immunity available to the state or a city or county in this state; to provide for time limitations; to provide for statutory construction; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [
+                    {
+                         "date": "2025-02-28",
+                         "committee_id": 619,
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "name": "Judiciary"
+                    },
+                    {
+                         "date": "2025-03-10",
+                         "committee_id": 587,
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-27",
+                         "action": "Senate Hopper",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-28",
+                         "action": "Senate Read and Referred",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-03",
+                         "action": "Senate Committee Favorably Reported By Substitute",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-04",
+                         "action": "Senate Read Second Time",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-06",
+                         "action": "Senate Tabled",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-06",
+                         "action": "Senate Taken from Table",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-06",
+                         "action": "Senate Third Read",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-06",
+                         "action": "Senate Passed/Adopted By Substitute",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-10",
+                         "action": "House First Readers",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-11",
+                         "action": "House Second Readers",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-18",
+                         "action": "House Committee Favorably Reported By Substitute",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-31",
+                         "action": "House Third Readers",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-31",
+                         "action": "House Passed/Adopted By Substitute",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-04",
+                         "action": "Senate Agreed House Amend or Sub",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-10",
+                         "action": "Senate Sent to Governor",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-05-14",
+                         "action": "Senate Date Signed by Governor",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-05-14",
+                         "action": "Act 298",
+                         "chamber": "",
+                         "chamber_id": 0,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-05-14",
+                         "action": "Effective Date 2025-07-01",
+                         "chamber": "",
+                         "chamber_id": 0,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 20738,
+                         "person_hash": "tid3igcu",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Randy Robertson",
+                         "first_name": "Randy",
+                         "middle_name": "",
+                         "last_name": "Robertson",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-029",
+                         "ftm_eid": 44893420,
+                         "votesmart_id": 178681,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 665456,
+                         "ballotpedia": "Randy_Robertson",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22333,
+                         "person_hash": "v1l4b7a6",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Rob Leverett",
+                         "first_name": "Rob",
+                         "middle_name": "",
+                         "last_name": "Leverett",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-123",
+                         "ftm_eid": 49394392,
+                         "votesmart_id": 190366,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 735259,
+                         "ballotpedia": "Rob_Leverett",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 3,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3147026,
+                         "date": "2025-02-28",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/SB298/id/3147026",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/234309",
+                         "text_size": 73047,
+                         "text_hash": "913b1a4dae907e6f4db54e24df3fa12c",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3151331,
+                         "date": "2025-03-04",
+                         "type": "Comm Sub",
+                         "type_id": 2,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/SB298/id/3151331",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/234807",
+                         "text_size": 73396,
+                         "text_hash": "4ee14a37555d111342687aca924a2b7f",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3157854,
+                         "date": "2025-03-06",
+                         "type": "Engrossed",
+                         "type_id": 4,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/SB298/id/3157854",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/235636",
+                         "text_size": 75761,
+                         "text_hash": "2bbf22a7280ec4ec8370824558163eed",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3180847,
+                         "date": "2025-03-18",
+                         "type": "Comm Sub",
+                         "type_id": 2,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/SB298/id/3180847",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/236458",
+                         "text_size": 73548,
+                         "text_hash": "032af31e7b3c46bf3943daf52969b0db",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3195806,
+                         "date": "2025-03-31",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/SB298/id/3195806",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/238270",
+                         "text_size": 74949,
+                         "text_hash": "4a323bef4c94bc942fbd3dac47fb1b8b",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3207566,
+                         "date": "2025-04-09",
+                         "type": "Enrolled",
+                         "type_id": 5,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/SB298/id/3207566",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/239540",
+                         "text_size": 76105,
+                         "text_hash": "545d1bcc083c38acf8a2cdf0b112c109",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [
+                    {
+                         "roll_call_id": 1508252,
+                         "date": "2025-03-06",
+                         "desc": "Passage By Substitute: Senate Vote #206",
+                         "yea": 54,
+                         "nay": 2,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 56,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "url": "https://legiscan.com/GA/rollcall/SB298/id/1508252",
+                         "state_link": "https://www.legis.ga.gov/legislation/70943#25177"
+                    },
+                    {
+                         "roll_call_id": 1531564,
+                         "date": "2025-03-31",
+                         "desc": "Passage: House Vote #371",
+                         "yea": 142,
+                         "nay": 23,
+                         "nv": 3,
+                         "absent": 12,
+                         "total": 180,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "url": "https://legiscan.com/GA/rollcall/SB298/id/1531564",
+                         "state_link": "https://www.legis.ga.gov/legislation/70943#25416"
+                    },
+                    {
+                         "roll_call_id": 1537862,
+                         "date": "2025-04-04",
+                         "desc": "Agree To House Substitute: Senate Vote #477",
+                         "yea": 44,
+                         "nay": 8,
+                         "nv": 3,
+                         "absent": 1,
+                         "total": 56,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "url": "https://legiscan.com/GA/rollcall/SB298/id/1537862",
+                         "state_link": "https://www.legis.ga.gov/legislation/70943#25702"
+                    }
+               ],
+               "amendments": [],
+               "supplements": [],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "c5cd7c12",
+                         "type": "Hearing",
+                         "date": "2025-03-03",
+                         "time": "10:00",
+                         "location": "307 CLOB",
+                         "description": "Senate Judiciary Committee"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "d4196f98",
+                         "type": "Hearing",
+                         "date": "2025-03-18",
+                         "time": "14:30",
+                         "location": "132 CAP",
+                         "description": "House Judiciary (upon Adjournment)"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "1763c44c",
+                         "type": "Hearing",
+                         "date": "2025-03-18",
+                         "time": "15:00",
+                         "location": "132 CAP",
+                         "description": "House Judiciary (upon Adjournment)"
+                    }
+               ]
+          }
+     },
+     "1968167": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "0b349471d9f91a09ca1d651df1c96ec3",
+               "relevance": 19,
+               "state": "GA",
+               "bill number": "SB159",
+               "description": "A BILL to be entitled an Act to amend Title 17 of the Official Code of Georgia Annotated, relating to criminal procedure, so as to provide for pretrial proceedings in capital offense cases where the death penalty is sought when the accused has intellectual disability; to provide for a definition; to provide for notice of intent to claim intellectual disability; to provide for pretrial determination of intellectual disability; to provide for verdicts; to provide for capital case procedures; to provide for reports investigating reversible error; to provide for a standard of review; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+               "state link": "https://www.legis.ga.gov/legislation/70283",
+               "legiscan link": "https://legiscan.com/GA/bill/SB159/2025",
+               "status": {
+                    "date": "02-13-2025",
+                    "label": "Refer",
+                    "action": "Senate Read and Referred"
+               },
+               "date introduced": "02-12-2025",
+               "party": "D",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Kim Jackson, Josh McLaurin",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 2"
+               }
+          },
+          "raw": {
+               "bill_id": 1968167,
+               "change_hash": "0b349471d9f91a09ca1d651df1c96ec3",
+               "session_id": 2167,
+               "session": {
+                    "session_id": 2167,
+                    "state_id": 10,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 Regular Session"
+               },
+               "url": "https://legiscan.com/GA/bill/SB159/2025",
+               "state_link": "https://www.legis.ga.gov/legislation/70283",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-02-12",
+               "progress": [
+                    {
+                         "date": "2025-02-12",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-13",
+                         "event": 9
+                    }
+               ],
+               "state": "GA",
+               "state_id": 10,
+               "bill_number": "SB159",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "S",
+               "body_id": 30,
+               "current_body": "S",
+               "current_body_id": 30,
+               "title": "Criminal Procedure; pretrial proceedings in capital offense cases where the death penalty is sought when the accused has intellectual disability; provide",
+               "description": "A BILL to be entitled an Act to amend Title 17 of the Official Code of Georgia Annotated, relating to criminal procedure, so as to provide for pretrial proceedings in capital offense cases where the death penalty is sought when the accused has intellectual disability; to provide for a definition; to provide for notice of intent to claim intellectual disability; to provide for pretrial determination of intellectual disability; to provide for verdicts; to provide for capital case procedures; to provide for reports investigating reversible error; to provide for a standard of review; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+               "pending_committee_id": 619,
+               "committee": {
+                    "committee_id": 619,
+                    "chamber": "S",
+                    "chamber_id": 30,
+                    "name": "Judiciary"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-02-13",
+                         "committee_id": 619,
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-12",
+                         "action": "Senate Hopper",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-13",
+                         "action": "Senate Read and Referred",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 22303,
+                         "person_hash": "wzw5cyrq",
+                         "party_id": "1",
+                         "state_id": 10,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Kim Jackson",
+                         "first_name": "Kim",
+                         "middle_name": "",
+                         "last_name": "Jackson",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-041",
+                         "ftm_eid": 49394370,
+                         "votesmart_id": 190173,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 734955,
+                         "ballotpedia": "Kim_Jackson",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 20842,
+                         "person_hash": "vrour918",
+                         "party_id": "1",
+                         "state_id": 10,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Josh McLaurin",
+                         "first_name": "Josh",
+                         "middle_name": "",
+                         "last_name": "McLaurin",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-014",
+                         "ftm_eid": 44893350,
+                         "votesmart_id": 178766,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 658495,
+                         "ballotpedia": "Josh_McLaurin",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3117136,
+                         "date": "2025-02-13",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/SB159/id/3117136",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/232265",
+                         "text_size": 92371,
+                         "text_hash": "5f3712f39f5605d24f93b13614b5af86",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     },
+     "1989257": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "9d77bc59bf5f508e3f4a843887fdfd5a",
+               "relevance": 19,
+               "state": "GA",
+               "bill number": "HB682",
+               "description": "A BILL To be entitled an Act to amend Article 2 of Chapter 10 of Title 17 of the Official Code of Georgia Annotated, relating to the death penalty generally, so as to provide that the death penalty shall not be imposed if the only evidence of the defendant's guilt is the testimony of a single eyewitness; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+               "state link": "https://www.legis.ga.gov/legislation/71014",
+               "legiscan link": "https://legiscan.com/GA/bill/HB682/2025",
+               "status": {
+                    "date": "02-28-2025",
+                    "label": "Introduced",
+                    "action": "House Second Readers"
+               },
+               "date introduced": "02-28-2025",
+               "party": "D",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Billy Mitchell",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1989257,
+               "change_hash": "9d77bc59bf5f508e3f4a843887fdfd5a",
+               "session_id": 2167,
+               "session": {
+                    "session_id": 2167,
+                    "state_id": 10,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 Regular Session"
+               },
+               "url": "https://legiscan.com/GA/bill/HB682/2025",
+               "state_link": "https://www.legis.ga.gov/legislation/71014",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-02-28",
+               "progress": [
+                    {
+                         "date": "2025-02-28",
+                         "event": 1
+                    }
+               ],
+               "state": "GA",
+               "state_id": 10,
+               "bill_number": "HB682",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 29,
+               "current_body": "H",
+               "current_body_id": 29,
+               "title": "Criminal procedure; death penalty shall not be imposed if only evidence is testimony of a single eyewitness; provide",
+               "description": "A BILL To be entitled an Act to amend Article 2 of Chapter 10 of Title 17 of the Official Code of Georgia Annotated, relating to the death penalty generally, so as to provide that the death penalty shall not be imposed if the only evidence of the defendant's guilt is the testimony of a single eyewitness; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+               "pending_committee_id": 588,
+               "committee": {
+                    "committee_id": 588,
+                    "chamber": "H",
+                    "chamber_id": 29,
+                    "name": "Judiciary - Non-Civil"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-03-03",
+                         "committee_id": 588,
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "name": "Judiciary - Non-Civil"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-28",
+                         "action": "House Hopper",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-03",
+                         "action": "House First Readers",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-04",
+                         "action": "House Second Readers",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 1900,
+                         "person_hash": "g0iaumz7",
+                         "party_id": "1",
+                         "state_id": 10,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Billy Mitchell",
+                         "first_name": "Billy",
+                         "middle_name": "",
+                         "last_name": "Mitchell",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-088",
+                         "ftm_eid": 6390159,
+                         "votesmart_id": 17460,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 211877,
+                         "ballotpedia": "Billy_Mitchell",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3149053,
+                         "date": "2025-02-28",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/HB682/id/3149053",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/234579",
+                         "text_size": 67669,
+                         "text_hash": "b5860a401df67318e3571acc84266a7f",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     },
+     "1976315": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "386d61378158f12a22106010d9f26f9a",
+               "relevance": 18,
+               "state": "GA",
+               "bill number": "HB531",
+               "description": "A BILL to be entitled an Act to amend Code Section 5-6-34 of the Official Code of Georgia Annotated, relating to judgments and rulings deemed directly appealable, procedure for review of judgments, orders, or decisions not subject to direct appeal, scope of review, hearings in criminal cases involving a capital offense for which death penalty is sought, and appeals involving nonmonetary judgments in child custody cases, so as to provide for certain appellate procedures regarding the denial of sovereign and any other immunity available to the state or a city or county in this state; to provide for time limitations; to provide for statutory construction; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+               "state link": "https://www.legis.ga.gov/legislation/70514",
+               "legiscan link": "https://legiscan.com/GA/bill/HB531/2025",
+               "status": {
+                    "date": "03-27-2025",
+                    "label": "Report Pass",
+                    "action": "Senate Read Second Time"
+               },
+               "date introduced": "02-19-2025",
+               "party": "R",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Matt Reeves, Rob Leverett, Chuck Efstration, Stan Gunter, Deborah Silcox",
+                         "co": "",
+                         "joint": "Brian Strickland"
+                    },
+                    "sponsor-party": "republican: 6"
+               }
+          },
+          "raw": {
+               "bill_id": 1976315,
+               "change_hash": "386d61378158f12a22106010d9f26f9a",
+               "session_id": 2167,
+               "session": {
+                    "session_id": 2167,
+                    "state_id": 10,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 Regular Session"
+               },
+               "url": "https://legiscan.com/GA/bill/HB531/2025",
+               "state_link": "https://www.legis.ga.gov/legislation/70514",
+               "completed": 0,
+               "status": 2,
+               "status_date": "2025-03-06",
+               "progress": [
+                    {
+                         "date": "2025-02-19",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-28",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-03-06",
+                         "event": 2
+                    },
+                    {
+                         "date": "2025-03-10",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-03-27",
+                         "event": 10
+                    }
+               ],
+               "state": "GA",
+               "state_id": 10,
+               "bill_number": "HB531",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 29,
+               "current_body": "S",
+               "current_body_id": 30,
+               "title": "Appeal and error; certain appellate procedures regarding the denial of sovereign and any other immunity available to the state or a city or county in this state; provide",
+               "description": "A BILL to be entitled an Act to amend Code Section 5-6-34 of the Official Code of Georgia Annotated, relating to judgments and rulings deemed directly appealable, procedure for review of judgments, orders, or decisions not subject to direct appeal, scope of review, hearings in criminal cases involving a capital offense for which death penalty is sought, and appeals involving nonmonetary judgments in child custody cases, so as to provide for certain appellate procedures regarding the denial of sovereign and any other immunity available to the state or a city or county in this state; to provide for time limitations; to provide for statutory construction; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [
+                    {
+                         "date": "2025-02-20",
+                         "committee_id": 587,
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "name": "Judiciary"
+                    },
+                    {
+                         "date": "2025-03-10",
+                         "committee_id": 619,
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-19",
+                         "action": "House Hopper",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-20",
+                         "action": "House First Readers",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-21",
+                         "action": "House Second Readers",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-28",
+                         "action": "House Committee Favorably Reported By Substitute",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-06",
+                         "action": "House Third Readers",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-06",
+                         "action": "House Passed/Adopted By Substitute",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-10",
+                         "action": "Senate Read and Referred",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-27",
+                         "action": "Senate Committee Favorably Reported By Substitute",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-27",
+                         "action": "Senate Read Second Time",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 24445,
+                         "person_hash": "454bghfm",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Matt Reeves",
+                         "first_name": "Matt",
+                         "middle_name": "",
+                         "last_name": "Reeves",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-099",
+                         "ftm_eid": 55357599,
+                         "votesmart_id": 178704,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Matt_Reeves",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22333,
+                         "person_hash": "v1l4b7a6",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Rob Leverett",
+                         "first_name": "Rob",
+                         "middle_name": "",
+                         "last_name": "Leverett",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-123",
+                         "ftm_eid": 49394392,
+                         "votesmart_id": 190366,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 735259,
+                         "ballotpedia": "Rob_Leverett",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 16153,
+                         "person_hash": "81k9vgnh",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Chuck Efstration",
+                         "first_name": "Chuck",
+                         "middle_name": "",
+                         "last_name": "Efstration",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-104",
+                         "ftm_eid": 6802240,
+                         "votesmart_id": 122243,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 286068,
+                         "ballotpedia": "Chuck_Efstration",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22330,
+                         "person_hash": "5iss1ehv",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Stan Gunter",
+                         "first_name": "Stan",
+                         "middle_name": "",
+                         "last_name": "Gunter",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-008",
+                         "ftm_eid": 13009998,
+                         "votesmart_id": 190339,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 734770,
+                         "ballotpedia": "Stan_Gunter",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 4,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 18898,
+                         "person_hash": "p3yznjaf",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Deborah Silcox",
+                         "first_name": "Deborah",
+                         "middle_name": "",
+                         "last_name": "Silcox",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-053",
+                         "ftm_eid": 6925863,
+                         "votesmart_id": 168240,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 573921,
+                         "ballotpedia": "Deborah_Silcox",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 5,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 15169,
+                         "person_hash": "6h295991",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Brian Strickland",
+                         "first_name": "Brian",
+                         "middle_name": "",
+                         "last_name": "Strickland",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-042",
+                         "ftm_eid": 12746080,
+                         "votesmart_id": 142212,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 423293,
+                         "ballotpedia": "Brian_Strickland",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 3,
+                         "sponsor_order": 6,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3131734,
+                         "date": "2025-02-20",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/HB531/id/3131734",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/232978",
+                         "text_size": 74847,
+                         "text_hash": "838bae6bcf590daabcd53ac0b6c8e58a",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3148952,
+                         "date": "2025-02-28",
+                         "type": "Comm Sub",
+                         "type_id": 2,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/HB531/id/3148952",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/234543",
+                         "text_size": 79835,
+                         "text_hash": "337c3562f7db2ff82e209f36d0c900f4",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3157938,
+                         "date": "2025-03-06",
+                         "type": "Comm Sub",
+                         "type_id": 2,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/HB531/id/3157938",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/235618",
+                         "text_size": 81491,
+                         "text_hash": "d1836ed384333d750959c8fe3cf9bf7e",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3192737,
+                         "date": "2025-03-28",
+                         "type": "Comm Sub",
+                         "type_id": 2,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/HB531/id/3192737",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/237490",
+                         "text_size": 90410,
+                         "text_hash": "147f9e6c3da2966294520eb896d66678",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [
+                    {
+                         "roll_call_id": 1508330,
+                         "date": "2025-03-06",
+                         "desc": "Passage: House Vote #245",
+                         "yea": 161,
+                         "nay": 13,
+                         "nv": 2,
+                         "absent": 4,
+                         "total": 180,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "url": "https://legiscan.com/GA/rollcall/HB531/id/1508330",
+                         "state_link": "https://www.legis.ga.gov/legislation/70514#25099"
+                    }
+               ],
+               "amendments": [],
+               "supplements": [],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "d2172a24",
+                         "type": "Hearing",
+                         "date": "2025-02-27",
+                         "time": "13:30",
+                         "location": "132 CAP",
+                         "description": "House Judiciary (upon Adjournment)"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "2c24443a",
+                         "type": "Hearing",
+                         "date": "2025-02-27",
+                         "time": "15:00",
+                         "location": "132 CAP",
+                         "description": "House Judiciary "
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "bc02c7c4",
+                         "type": "Hearing",
+                         "date": "2025-03-26",
+                         "time": "11:00",
+                         "location": "307 CLOB",
+                         "description": "Senate Judiciary Committee"
+                    }
+               ]
+          }
+     },
+     "1979997": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "0da35e4bd8e9d9846370ebb085017734",
+               "relevance": 17,
+               "state": "GA",
+               "bill number": "HR356",
+               "description": "A RESOLUTION recognizing the Georgia State University College of Law for being a paragon of excellence in clinical legal education in and beyond the State of Georgia and commending its respective clinics for their towering accomplishments; and for other purposes.",
+               "state link": "https://www.legis.ga.gov/legislation/70683",
+               "legiscan link": "https://legiscan.com/GA/bill/HR356/2025",
+               "status": {
+                    "date": "02-21-2025",
+                    "label": "Passed",
+                    "action": "House Read and Adopted"
+               },
+               "date introduced": "02-21-2025",
+               "party": "D",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Samuel Park, Carolyn Hugley, Trey Kelley, Charles Martin, Jan Jones",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 2, republican: 3"
+               }
+          },
+          "raw": {
+               "bill_id": 1979997,
+               "change_hash": "0da35e4bd8e9d9846370ebb085017734",
+               "session_id": 2167,
+               "session": {
+                    "session_id": 2167,
+                    "state_id": 10,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 Regular Session"
+               },
+               "url": "https://legiscan.com/GA/bill/HR356/2025",
+               "state_link": "https://www.legis.ga.gov/legislation/70683",
+               "completed": 1,
+               "status": 4,
+               "status_date": "2025-02-21",
+               "progress": [
+                    {
+                         "date": "2025-02-21",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-21",
+                         "event": 3
+                    },
+                    {
+                         "date": "2025-02-21",
+                         "event": 4
+                    }
+               ],
+               "state": "GA",
+               "state_id": 10,
+               "bill_number": "HR356",
+               "bill_type": "R",
+               "bill_type_id": "2",
+               "body": "H",
+               "body_id": 29,
+               "current_body": "H",
+               "current_body_id": 29,
+               "title": "Georgia State University College of Law; paragon of excellence in clinical legal education in and beyond the State of Georgia; commend",
+               "description": "A RESOLUTION recognizing the Georgia State University College of Law for being a paragon of excellence in clinical legal education in and beyond the State of Georgia and commending its respective clinics for their towering accomplishments; and for other purposes.",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [],
+               "history": [
+                    {
+                         "date": "2025-02-21",
+                         "action": "House Hopper",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-21",
+                         "action": "House First Readers",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-21",
+                         "action": "House Read and Adopted",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 18707,
+                         "person_hash": "ynlcvqzo",
+                         "party_id": "1",
+                         "state_id": 10,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Samuel Park",
+                         "first_name": "Samuel",
+                         "middle_name": "",
+                         "last_name": "Park",
+                         "suffix": "",
+                         "nickname": "Sam",
+                         "district": "HD-107",
+                         "ftm_eid": 39525534,
+                         "votesmart_id": 168354,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 573883,
+                         "ballotpedia": "Samuel_Park",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 1862,
+                         "person_hash": "tv7zt575",
+                         "party_id": "1",
+                         "state_id": 10,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Carolyn Hugley",
+                         "first_name": "Carolyn",
+                         "middle_name": "F.",
+                         "last_name": "Hugley",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-141",
+                         "ftm_eid": 12999307,
+                         "votesmart_id": 7904,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 193829,
+                         "ballotpedia": "Carolyn_Hugley",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 15202,
+                         "person_hash": "xyw09nam",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Trey Kelley",
+                         "first_name": "Trey",
+                         "middle_name": "",
+                         "last_name": "Kelley",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-016",
+                         "ftm_eid": 12746051,
+                         "votesmart_id": 140293,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 423072,
+                         "ballotpedia": "Trey_Kelley",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 1891,
+                         "person_hash": "fwuiy64f",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Charles Martin",
+                         "first_name": "Charles",
+                         "middle_name": "E.",
+                         "last_name": "Martin",
+                         "suffix": "Jr.",
+                         "nickname": "",
+                         "district": "HD-049",
+                         "ftm_eid": 6587184,
+                         "votesmart_id": 31524,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 211888,
+                         "ballotpedia": "Charles_Martin_Jr.",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 4,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 1869,
+                         "person_hash": "p2wga7dv",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Jan Jones",
+                         "first_name": "Jan",
+                         "middle_name": "",
+                         "last_name": "Jones",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-047",
+                         "ftm_eid": 6587196,
+                         "votesmart_id": 32034,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 211887,
+                         "ballotpedia": "Jan_Jones",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 5,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3136777,
+                         "date": "2025-02-22",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/HR356/id/3136777",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/233508",
+                         "text_size": 58733,
+                         "text_hash": "d6d2911e3e0cc5b06dc7336fdbf94d0b",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     },
+     "2017599": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "6baa7d95999f343fba6cb8dc309cc3ff",
+               "relevance": 16,
+               "state": "GA",
+               "bill number": "HB894",
+               "description": "A BILL to be entitled an Act to amend Article 1 of Chapter 10 of Title 17 of the Official Code of Georgia Annotated, relating to procedure for sentencing and imposition of punishment, so as to authorize the sentencing court to review and resentence certain cases where the punishment of life without parole was imposed; to provide for a petition; to provide for a hearing; to provide for the right to counsel; to provide for notice to the victim; to provide for an appeal process; to provide for limitations; to provide for related matters; to provide for a short title; to repeal conflicting laws; and for other purposes.",
+               "state link": "https://www.legis.ga.gov/legislation/71938",
+               "legiscan link": "https://legiscan.com/GA/bill/HB894/2025",
+               "status": {
+                    "date": "03-31-2025",
+                    "label": "Introduced",
+                    "action": "House Second Readers"
+               },
+               "date introduced": "03-31-2025",
+               "party": "D",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Scott Holcomb, Shaw Blackmon",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 1, republican: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 2017599,
+               "change_hash": "6baa7d95999f343fba6cb8dc309cc3ff",
+               "session_id": 2167,
+               "session": {
+                    "session_id": 2167,
+                    "state_id": 10,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 Regular Session"
+               },
+               "url": "https://legiscan.com/GA/bill/HB894/2025",
+               "state_link": "https://www.legis.ga.gov/legislation/71938",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-03-31",
+               "progress": [
+                    {
+                         "date": "2025-03-31",
+                         "event": 1
+                    }
+               ],
+               "state": "GA",
+               "state_id": 10,
+               "bill_number": "HB894",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 29,
+               "current_body": "H",
+               "current_body_id": 29,
+               "title": "Georgia Second Look Act; enact",
+               "description": "A BILL to be entitled an Act to amend Article 1 of Chapter 10 of Title 17 of the Official Code of Georgia Annotated, relating to procedure for sentencing and imposition of punishment, so as to authorize the sentencing court to review and resentence certain cases where the punishment of life without parole was imposed; to provide for a petition; to provide for a hearing; to provide for the right to counsel; to provide for notice to the victim; to provide for an appeal process; to provide for limitations; to provide for related matters; to provide for a short title; to repeal conflicting laws; and for other purposes.",
+               "pending_committee_id": 588,
+               "committee": {
+                    "committee_id": 588,
+                    "chamber": "H",
+                    "chamber_id": 29,
+                    "name": "Judiciary - Non-Civil"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-04-02",
+                         "committee_id": 588,
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "name": "Judiciary - Non-Civil"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-03-31",
+                         "action": "House Hopper",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-02",
+                         "action": "House First Readers",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-04",
+                         "action": "House Second Readers",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 12041,
+                         "person_hash": "2pxvd60o",
+                         "party_id": "1",
+                         "state_id": 10,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Scott Holcomb",
+                         "first_name": "Scott",
+                         "middle_name": "M.",
+                         "last_name": "Holcomb",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-101",
+                         "ftm_eid": 5788200,
+                         "votesmart_id": 122840,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 308528,
+                         "ballotpedia": "Scott_Holcomb",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 17797,
+                         "person_hash": "tkdr5s5k",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Shaw Blackmon",
+                         "first_name": "Shaw",
+                         "middle_name": "",
+                         "last_name": "Blackmon",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-146",
+                         "ftm_eid": 6847725,
+                         "votesmart_id": 157218,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 549507,
+                         "ballotpedia": "Shaw_Blackmon",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3195935,
+                         "date": "2025-03-31",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/HB894/id/3195935",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/238437",
+                         "text_size": 90989,
+                         "text_hash": "2aed9ee9e96ef1e10e0683b173bf7ab0",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     },
+     "1947499": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "39d631e55f9848838cf5e3b57aaf03f7",
+               "relevance": 16,
+               "state": "GA",
+               "bill number": "HB179",
+               "description": "A BILL to be entitled an Act to amend Article 2 of Chapter 6 of Title 5 of the Official Code of Georgia Annotated, relating appellate practice, so as to provide for the digital recording of certain trial proceedings; to amend Article 2 of Chapter 14 of Title 9 of the Official Code of Georgia Annotated, relating to procedure for persons under sentence of state court of record, so as to provide for digital recording of certain felony trial proceedings; to amend Title 15 of the Official Code of Georgia Annotated, relating to courts, so as to provide for the digital recording of certain Georgia State-wide Business Court proceedings; to provide for the utilization and regulation of digital recording systems; to provide for definitions; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+               "state link": "https://www.legis.ga.gov/legislation/69658",
+               "legiscan link": "https://legiscan.com/GA/bill/HB179/2025",
+               "status": {
+                    "date": "04-30-2025",
+                    "label": "Passed",
+                    "action": "Effective Date 2026-01-01"
+               },
+               "date introduced": "01-29-2025",
+               "party": "D",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Tyler Smith, Soo Hong, Rob Leverett, Stan Gunter, Stacey Evans",
+                         "co": "",
+                         "joint": "Brian Strickland"
+                    },
+                    "sponsor-party": "democrat: 1, republican: 5"
+               }
+          },
+          "raw": {
+               "bill_id": 1947499,
+               "change_hash": "39d631e55f9848838cf5e3b57aaf03f7",
+               "session_id": 2167,
+               "session": {
+                    "session_id": 2167,
+                    "state_id": 10,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 Regular Session"
+               },
+               "url": "https://legiscan.com/GA/bill/HB179/2025",
+               "state_link": "https://www.legis.ga.gov/legislation/69658",
+               "completed": 1,
+               "status": 4,
+               "status_date": "2025-04-30",
+               "progress": [
+                    {
+                         "date": "2025-01-29",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-28",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-03-04",
+                         "event": 2
+                    },
+                    {
+                         "date": "2025-03-06",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-03-27",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-04-10",
+                         "event": 3
+                    },
+                    {
+                         "date": "2025-04-30",
+                         "event": 8
+                    },
+                    {
+                         "date": "2025-04-30",
+                         "event": 4
+                    }
+               ],
+               "state": "GA",
+               "state_id": 10,
+               "bill_number": "HB179",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 29,
+               "current_body": "H",
+               "current_body_id": 29,
+               "title": "Appellate practice; digital recording of certain trial proceedings; provide",
+               "description": "A BILL to be entitled an Act to amend Article 2 of Chapter 6 of Title 5 of the Official Code of Georgia Annotated, relating appellate practice, so as to provide for the digital recording of certain trial proceedings; to amend Article 2 of Chapter 14 of Title 9 of the Official Code of Georgia Annotated, relating to procedure for persons under sentence of state court of record, so as to provide for digital recording of certain felony trial proceedings; to amend Title 15 of the Official Code of Georgia Annotated, relating to courts, so as to provide for the digital recording of certain Georgia State-wide Business Court proceedings; to provide for the utilization and regulation of digital recording systems; to provide for definitions; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [
+                    {
+                         "date": "2025-01-30",
+                         "committee_id": 587,
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "name": "Judiciary"
+                    },
+                    {
+                         "date": "2025-03-06",
+                         "committee_id": 619,
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-01-29",
+                         "action": "House Hopper",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-30",
+                         "action": "House First Readers",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-03",
+                         "action": "House Second Readers",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-28",
+                         "action": "House Committee Favorably Reported By Substitute",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-04",
+                         "action": "House Third Readers",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-04",
+                         "action": "House Passed/Adopted By Substitute",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-06",
+                         "action": "Senate Read and Referred",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-27",
+                         "action": "Senate Committee Favorably Reported By Substitute",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-27",
+                         "action": "Senate Read Second Time",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-02",
+                         "action": "Senate Third Read",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-02",
+                         "action": "Senate Passed/Adopted By Substitute",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-04",
+                         "action": "House Agreed Senate Amend or Sub",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-10",
+                         "action": "House Sent to Governor",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-04-30",
+                         "action": "House Date Signed by Governor",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-30",
+                         "action": "Act 23",
+                         "chamber": "",
+                         "chamber_id": 0,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-04-30",
+                         "action": "Effective Date 2026-01-01",
+                         "chamber": "",
+                         "chamber_id": 0,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 22343,
+                         "person_hash": "xar2rep5",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Tyler Smith",
+                         "first_name": "Tyler",
+                         "middle_name": "Paul",
+                         "last_name": "Smith",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-018",
+                         "ftm_eid": 49574399,
+                         "votesmart_id": 190358,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 734881,
+                         "ballotpedia": "Tyler_Smith_(Georgia)",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24404,
+                         "person_hash": "8m64nn6j",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Soo Hong",
+                         "first_name": "Soo",
+                         "middle_name": "",
+                         "last_name": "Hong",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-103",
+                         "ftm_eid": 49394367,
+                         "votesmart_id": 190383,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Soo_Hong",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22333,
+                         "person_hash": "v1l4b7a6",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Rob Leverett",
+                         "first_name": "Rob",
+                         "middle_name": "",
+                         "last_name": "Leverett",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-123",
+                         "ftm_eid": 49394392,
+                         "votesmart_id": 190366,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 735259,
+                         "ballotpedia": "Rob_Leverett",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22330,
+                         "person_hash": "5iss1ehv",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Stan Gunter",
+                         "first_name": "Stan",
+                         "middle_name": "",
+                         "last_name": "Gunter",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-008",
+                         "ftm_eid": 13009998,
+                         "votesmart_id": 190339,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 734770,
+                         "ballotpedia": "Stan_Gunter",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 4,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 12039,
+                         "person_hash": "3rbacj0t",
+                         "party_id": "1",
+                         "state_id": 10,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Stacey Evans",
+                         "first_name": "Stacey",
+                         "middle_name": "",
+                         "last_name": "Evans",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-057",
+                         "ftm_eid": 6505514,
+                         "votesmart_id": 122796,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 291225,
+                         "ballotpedia": "Stacey_Evans",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 5,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 15169,
+                         "person_hash": "6h295991",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Brian Strickland",
+                         "first_name": "Brian",
+                         "middle_name": "",
+                         "last_name": "Strickland",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-042",
+                         "ftm_eid": 12746080,
+                         "votesmart_id": 142212,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 423293,
+                         "ballotpedia": "Brian_Strickland",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 3,
+                         "sponsor_order": 6,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3090947,
+                         "date": "2025-01-30",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/HB179/id/3090947",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/230698",
+                         "text_size": 110229,
+                         "text_hash": "90f73faedde4952cceb97f878e942318",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3148926,
+                         "date": "2025-02-28",
+                         "type": "Comm Sub",
+                         "type_id": 2,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/HB179/id/3148926",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/234541",
+                         "text_size": 117542,
+                         "text_hash": "955718d96ed416896d7ac43637afb9f3",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3153268,
+                         "date": "2025-03-04",
+                         "type": "Comm Sub",
+                         "type_id": 2,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/HB179/id/3153268",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/235236",
+                         "text_size": 120296,
+                         "text_hash": "e83c0808e0a98aaa4e9fdb9c642d6add",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3192585,
+                         "date": "2025-03-28",
+                         "type": "Comm Sub",
+                         "type_id": 2,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/HB179/id/3192585",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/237491",
+                         "text_size": 108638,
+                         "text_hash": "5f49d75e64884e60605f23a7e189b2ad",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3204627,
+                         "date": "2025-04-07",
+                         "type": "Enrolled",
+                         "type_id": 5,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/HB179/id/3204627",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/239304",
+                         "text_size": 112173,
+                         "text_hash": "89fb45e41176a91055dde6649efbbded",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [
+                    {
+                         "roll_call_id": 1505360,
+                         "date": "2025-03-04",
+                         "desc": "Passage: House Vote #172",
+                         "yea": 169,
+                         "nay": 0,
+                         "nv": 5,
+                         "absent": 6,
+                         "total": 180,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "url": "https://legiscan.com/GA/rollcall/HB179/id/1505360",
+                         "state_link": "https://www.legis.ga.gov/legislation/69658#25001"
+                    },
+                    {
+                         "roll_call_id": 1535276,
+                         "date": "2025-04-02",
+                         "desc": "Passage By Substitute: Senate Vote #390",
+                         "yea": 52,
+                         "nay": 0,
+                         "nv": 2,
+                         "absent": 2,
+                         "total": 56,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "url": "https://legiscan.com/GA/rollcall/HB179/id/1535276",
+                         "state_link": "https://www.legis.ga.gov/legislation/69658#25518"
+                    },
+                    {
+                         "roll_call_id": 1537599,
+                         "date": "2025-04-04",
+                         "desc": "Agree To Senate Substitute: House Vote #412",
+                         "yea": 167,
+                         "nay": 0,
+                         "nv": 5,
+                         "absent": 8,
+                         "total": 180,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "url": "https://legiscan.com/GA/rollcall/HB179/id/1537599",
+                         "state_link": "https://www.legis.ga.gov/legislation/69658#25596"
+                    }
+               ],
+               "amendments": [],
+               "supplements": [],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "04626a79",
+                         "type": "Hearing",
+                         "date": "2025-02-04",
+                         "time": "13:00",
+                         "location": "132 CAP",
+                         "description": "House Judiciary"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "22152469",
+                         "type": "Hearing",
+                         "date": "2025-02-24",
+                         "time": "13:30",
+                         "location": "132 CAP",
+                         "description": "House Judiciary (upon Adjournment)"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "abd403c3",
+                         "type": "Hearing",
+                         "date": "2025-02-24",
+                         "time": "13:30",
+                         "location": "132 CAP",
+                         "description": "House Judiciary "
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "d2172a24",
+                         "type": "Hearing",
+                         "date": "2025-02-27",
+                         "time": "13:30",
+                         "location": "132 CAP",
+                         "description": "House Judiciary (upon Adjournment)"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "2c24443a",
+                         "type": "Hearing",
+                         "date": "2025-02-27",
+                         "time": "15:00",
+                         "location": "132 CAP",
+                         "description": "House Judiciary "
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "bc02c7c4",
+                         "type": "Hearing",
+                         "date": "2025-03-26",
+                         "time": "11:00",
+                         "location": "307 CLOB",
+                         "description": "Senate Judiciary Committee"
+                    }
+               ]
+          }
+     },
+     "1960979": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "a20813172b19205872ec90e7d642561d",
+               "relevance": 16,
+               "state": "GA",
+               "bill number": "HB318",
+               "description": "A BILL to be entitled an Act to amend Article 2 of Chapter 6 of Title 5 of the Official Code of Georgia Annotated, relating to appellate practice, and Chapter 66 of Title 36 of the Official Code of Georgia Annotated, relating to zoning procedures as pertaining to counties and municipal corporations, so as to provide for the appeal of superior court decisions on zoning decisions of counties and municipal corporations; to repeal provisions authorizing administrative officers to exercise zoning powers; to repeal provisions authorizing quasi-judicial boards and agencies to hear and render decisions on applications for special administrative permits and conditional permits; to revise definitions; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+               "state link": "https://www.legis.ga.gov/legislation/70029",
+               "legiscan link": "https://legiscan.com/GA/bill/HB318/2025",
+               "status": {
+                    "date": "02-20-2025",
+                    "label": "Report Pass",
+                    "action": "House Withdrawn, Recommitted"
+               },
+               "date introduced": "02-06-2025",
+               "party": "R",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Matt Reeves, Shea Roberts, Rob Leverett, Sandy Donatucci, Gabe Okoye, Gary Richardson",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 2, republican: 4"
+               }
+          },
+          "raw": {
+               "bill_id": 1960979,
+               "change_hash": "a20813172b19205872ec90e7d642561d",
+               "session_id": 2167,
+               "session": {
+                    "session_id": 2167,
+                    "state_id": 10,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 Regular Session"
+               },
+               "url": "https://legiscan.com/GA/bill/HB318/2025",
+               "state_link": "https://www.legis.ga.gov/legislation/70029",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-02-06",
+               "progress": [
+                    {
+                         "date": "2025-02-06",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-20",
+                         "event": 10
+                    }
+               ],
+               "state": "GA",
+               "state_id": 10,
+               "bill_number": "HB318",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 29,
+               "current_body": "H",
+               "current_body_id": 29,
+               "title": "Appeal and error; appeal of superior court decisions on zoning decisions of counties and municipal corporations; provide",
+               "description": "A BILL to be entitled an Act to amend Article 2 of Chapter 6 of Title 5 of the Official Code of Georgia Annotated, relating to appellate practice, and Chapter 66 of Title 36 of the Official Code of Georgia Annotated, relating to zoning procedures as pertaining to counties and municipal corporations, so as to provide for the appeal of superior court decisions on zoning decisions of counties and municipal corporations; to repeal provisions authorizing administrative officers to exercise zoning powers; to repeal provisions authorizing quasi-judicial boards and agencies to hear and render decisions on applications for special administrative permits and conditional permits; to revise definitions; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [
+                    {
+                         "date": "2025-02-10",
+                         "committee_id": 578,
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "name": "Governmental Affairs"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-06",
+                         "action": "House Hopper",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-10",
+                         "action": "House First Readers",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-11",
+                         "action": "House Second Readers",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-20",
+                         "action": "House Committee Favorably Reported",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-04-04",
+                         "action": "House Withdrawn, Recommitted",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 24445,
+                         "person_hash": "454bghfm",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Matt Reeves",
+                         "first_name": "Matt",
+                         "middle_name": "",
+                         "last_name": "Reeves",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-099",
+                         "ftm_eid": 55357599,
+                         "votesmart_id": 178704,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Matt_Reeves",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22342,
+                         "person_hash": "ai7t4wnf",
+                         "party_id": "1",
+                         "state_id": 10,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Shea Roberts",
+                         "first_name": "Shea",
+                         "middle_name": "",
+                         "last_name": "Roberts",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-052",
+                         "ftm_eid": 44893351,
+                         "votesmart_id": 178768,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 658497,
+                         "ballotpedia": "Shea_Roberts",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22333,
+                         "person_hash": "v1l4b7a6",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Rob Leverett",
+                         "first_name": "Rob",
+                         "middle_name": "",
+                         "last_name": "Leverett",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-123",
+                         "ftm_eid": 49394392,
+                         "votesmart_id": 190366,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 735259,
+                         "ballotpedia": "Rob_Leverett",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 26227,
+                         "person_hash": "a5cwu2zw",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Sandy Donatucci",
+                         "first_name": "Sandy",
+                         "middle_name": "",
+                         "last_name": "Donatucci",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-105",
+                         "ftm_eid": 58347281,
+                         "votesmart_id": 210864,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Sandy_Donatucci",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 4,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24442,
+                         "person_hash": "yxh038wr",
+                         "party_id": "1",
+                         "state_id": 10,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Gabe Okoye",
+                         "first_name": "Gabe",
+                         "middle_name": "",
+                         "last_name": "Okoye",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-102",
+                         "ftm_eid": 6817532,
+                         "votesmart_id": 190133,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Gabe_Okoye",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 5,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 25179,
+                         "person_hash": "omp4nqdc",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Gary Richardson",
+                         "first_name": "Gary",
+                         "middle_name": "",
+                         "last_name": "Richardson",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-125",
+                         "ftm_eid": 59682213,
+                         "votesmart_id": 214836,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Gary_Richardson_(Georgia)",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 6,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3107251,
+                         "date": "2025-02-07",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/HB318/id/3107251",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/231627",
+                         "text_size": 106565,
+                         "text_hash": "d24d363dbf23e2160acfdf2f2f638bda",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "d6466031",
+                         "type": "Hearing",
+                         "date": "2025-02-18",
+                         "time": "13:00",
+                         "location": "415 CLOB",
+                         "description": "House Governmental Affairs Subcommittee On State And Local Government (upon Adjournment)"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "8e207a37",
+                         "type": "Hearing",
+                         "date": "2025-02-18",
+                         "time": "15:00",
+                         "location": "415 CLOB",
+                         "description": "House Governmental Affairs Subcommittee On State And Local Government (upon Adjournment)"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "e5d52cf0",
+                         "type": "Hearing",
+                         "date": "2025-02-19",
+                         "time": "15:00",
+                         "location": "606 CLOB",
+                         "description": "House Governmental Affairs"
+                    }
+               ]
+          }
+     },
+     "1945156": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "2f45b3a83ac79b83e2a3a76a1721bb0d",
+               "relevance": 13,
+               "state": "GA",
+               "bill number": "HB155",
+               "description": "A BILL to be entitled an Act to amend Article 7 of Chapter 36 of Title 36 of the Official Code of Georgia Annotated, relating to procedure for resolving annexation disputes, so as to revise procedures for the selection and objection to arbitrators; to revise how arbitration panels report their findings and recommendations; to revise provisions relating to compensation of arbitrators; to provide for related matters; to provide an effective date; to repeal conflicting laws; and for other purposes.",
+               "state link": "https://www.legis.ga.gov/legislation/69592",
+               "legiscan link": "https://legiscan.com/GA/bill/HB155/2025",
+               "status": {
+                    "date": "05-12-2025",
+                    "label": "Passed",
+                    "action": "Effective Date 2025-07-01"
+               },
+               "date introduced": "01-28-2025",
+               "party": "R",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Victor Anderson, John LaHood, Charles Cannon, Brad Thomas, Brent Cox, Joseph Gullett",
+                         "co": "",
+                         "joint": "Drew Echols"
+                    },
+                    "sponsor-party": "republican: 7"
+               }
+          },
+          "raw": {
+               "bill_id": 1945156,
+               "change_hash": "2f45b3a83ac79b83e2a3a76a1721bb0d",
+               "session_id": 2167,
+               "session": {
+                    "session_id": 2167,
+                    "state_id": 10,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 Regular Session"
+               },
+               "url": "https://legiscan.com/GA/bill/HB155/2025",
+               "state_link": "https://www.legis.ga.gov/legislation/69592",
+               "completed": 1,
+               "status": 4,
+               "status_date": "2025-05-12",
+               "progress": [
+                    {
+                         "date": "2025-01-28",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-06",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-02-20",
+                         "event": 2
+                    },
+                    {
+                         "date": "2025-02-21",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-03-13",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-04-10",
+                         "event": 3
+                    },
+                    {
+                         "date": "2025-05-12",
+                         "event": 8
+                    },
+                    {
+                         "date": "2025-05-12",
+                         "event": 4
+                    }
+               ],
+               "state": "GA",
+               "state_id": 10,
+               "bill_number": "HB155",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 29,
+               "current_body": "H",
+               "current_body_id": 29,
+               "title": "Local government; selection and objection to arbitrators; revise procedures",
+               "description": "A BILL to be entitled an Act to amend Article 7 of Chapter 36 of Title 36 of the Official Code of Georgia Annotated, relating to procedure for resolving annexation disputes, so as to revise procedures for the selection and objection to arbitrators; to revise how arbitration panels report their findings and recommendations; to revise provisions relating to compensation of arbitrators; to provide for related matters; to provide an effective date; to repeal conflicting laws; and for other purposes.",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [
+                    {
+                         "date": "2025-01-29",
+                         "committee_id": 578,
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "name": "Governmental Affairs"
+                    },
+                    {
+                         "date": "2025-02-21",
+                         "committee_id": 630,
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "name": "State and Local Governmental Operations"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-01-28",
+                         "action": "House Hopper",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-29",
+                         "action": "House First Readers",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-30",
+                         "action": "House Second Readers",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-06",
+                         "action": "House Committee Favorably Reported By Substitute",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-20",
+                         "action": "House Third Readers",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-20",
+                         "action": "House Passed/Adopted By Substitute",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-21",
+                         "action": "Senate Read and Referred",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-13",
+                         "action": "Senate Committee Favorably Reported By Substitute",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-18",
+                         "action": "Senate Read Second Time",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-31",
+                         "action": "Senate Third Read",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-31",
+                         "action": "Senate Passed/Adopted By Substitute",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-02",
+                         "action": "House Agreed Senate Amend or Sub As Amended",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-04",
+                         "action": "Senate Agreed House Amend or Sub As Amended",
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-04",
+                         "action": "House Agreed Senate Amend or Sub",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-10",
+                         "action": "House Sent to Governor",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-05-12",
+                         "action": "House Date Signed by Governor",
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-05-12",
+                         "action": "Act 128",
+                         "chamber": "",
+                         "chamber_id": 0,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-05-12",
+                         "action": "Effective Date 2025-07-01",
+                         "chamber": "",
+                         "chamber_id": 0,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 22325,
+                         "person_hash": "cp2024k7",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Victor Anderson",
+                         "first_name": "Victor",
+                         "middle_name": "E.",
+                         "last_name": "Anderson",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-010",
+                         "ftm_eid": 49394268,
+                         "votesmart_id": 158056,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 739380,
+                         "ballotpedia": "Victor_Anderson",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 19584,
+                         "person_hash": "284uarz7",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "John LaHood",
+                         "first_name": "John",
+                         "middle_name": "",
+                         "last_name": "LaHood",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-175",
+                         "ftm_eid": 44290775,
+                         "votesmart_id": 177653,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 655973,
+                         "ballotpedia": "John_LaHood",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24875,
+                         "person_hash": "uu1mmy18",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Charles Cannon",
+                         "first_name": "Charles",
+                         "middle_name": "H.",
+                         "last_name": "Cannon",
+                         "suffix": "",
+                         "nickname": "Chas",
+                         "district": "HD-172",
+                         "ftm_eid": 58374490,
+                         "votesmart_id": 211309,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Charles_Cannon",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22345,
+                         "person_hash": "v4f2baem",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Brad Thomas",
+                         "first_name": "Brad",
+                         "middle_name": "",
+                         "last_name": "Thomas",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-021",
+                         "ftm_eid": 49394482,
+                         "votesmart_id": 190364,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 739385,
+                         "ballotpedia": "Brad_Thomas_(Georgia)",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 4,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24423,
+                         "person_hash": "gt4fsw88",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Brent Cox",
+                         "first_name": "Brent",
+                         "middle_name": "",
+                         "last_name": "Cox",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-028",
+                         "ftm_eid": 55357475,
+                         "votesmart_id": 203380,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Brent_Cox",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 5,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 20974,
+                         "person_hash": "oqk61mbn",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Joseph Gullett",
+                         "first_name": "Joseph",
+                         "middle_name": "",
+                         "last_name": "Gullett",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-019",
+                         "ftm_eid": 6800837,
+                         "votesmart_id": 178724,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 658451,
+                         "ballotpedia": "Joseph_Gullett",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 6,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 26241,
+                         "person_hash": "hom13gd0",
+                         "party_id": "2",
+                         "state_id": 10,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Drew Echols",
+                         "first_name": "Drew",
+                         "middle_name": "",
+                         "last_name": "Echols",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-049",
+                         "ftm_eid": 59828082,
+                         "votesmart_id": 215152,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 590185,
+                         "ballotpedia": "Drew_Echols",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 3,
+                         "sponsor_order": 7,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3087195,
+                         "date": "2025-01-29",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/HB155/id/3087195",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/230492",
+                         "text_size": 98016,
+                         "text_hash": "132073a3d557268c696b3fea296a6b09",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3107673,
+                         "date": "2025-02-07",
+                         "type": "Comm Sub",
+                         "type_id": 2,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/HB155/id/3107673",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/231562",
+                         "text_size": 98899,
+                         "text_hash": "2c4679d67bc0cbd1f583701304a1e052",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3135129,
+                         "date": "2025-02-20",
+                         "type": "Comm Sub",
+                         "type_id": 2,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/HB155/id/3135129",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/233255",
+                         "text_size": 99892,
+                         "text_hash": "60bcb7ef6064f5da24c00eecaf05206c",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3172271,
+                         "date": "2025-03-12",
+                         "type": "Comm Sub",
+                         "type_id": 2,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/HB155/id/3172271",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/236003",
+                         "text_size": 131293,
+                         "text_hash": "dcdc1a07c6f01ff5613870644f6132a2",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3195772,
+                         "date": "2025-04-01",
+                         "type": "Comm Sub",
+                         "type_id": 2,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/HB155/id/3195772",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/238386",
+                         "text_size": 134808,
+                         "text_hash": "a21822bf8b55f3d7bfb5a135970d4e1d",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3204605,
+                         "date": "2025-04-07",
+                         "type": "Enrolled",
+                         "type_id": 5,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/text/HB155/id/3204605",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/239328",
+                         "text_size": 138844,
+                         "text_hash": "934bf140456668babe6868fb48467de0",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [
+                    {
+                         "roll_call_id": 1496028,
+                         "date": "2025-02-20",
+                         "desc": "Passage: House Vote #55",
+                         "yea": 172,
+                         "nay": 0,
+                         "nv": 3,
+                         "absent": 5,
+                         "total": 180,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "url": "https://legiscan.com/GA/rollcall/HB155/id/1496028",
+                         "state_link": "https://www.legis.ga.gov/legislation/69592#24825"
+                    },
+                    {
+                         "roll_call_id": 1531740,
+                         "date": "2025-03-31",
+                         "desc": "Passage: Senate Vote #356",
+                         "yea": 44,
+                         "nay": 7,
+                         "nv": 2,
+                         "absent": 3,
+                         "total": 56,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "url": "https://legiscan.com/GA/rollcall/HB155/id/1531740",
+                         "state_link": "https://www.legis.ga.gov/legislation/69592#25456"
+                    },
+                    {
+                         "roll_call_id": 1531741,
+                         "date": "2025-03-31",
+                         "desc": "Passage By Substitute: Senate Vote #358",
+                         "yea": 54,
+                         "nay": 0,
+                         "nv": 1,
+                         "absent": 1,
+                         "total": 56,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "url": "https://legiscan.com/GA/rollcall/HB155/id/1531741",
+                         "state_link": "https://www.legis.ga.gov/legislation/69592#25458"
+                    },
+                    {
+                         "roll_call_id": 1533754,
+                         "date": "2025-03-31",
+                         "desc": "Adoption Of Amendment #1 By The Senator From The 50th: Senate Vote #357",
+                         "yea": 47,
+                         "nay": 4,
+                         "nv": 3,
+                         "absent": 2,
+                         "total": 56,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "url": "https://legiscan.com/GA/rollcall/HB155/id/1533754",
+                         "state_link": "https://www.legis.ga.gov/legislation/69592#25457"
+                    },
+                    {
+                         "roll_call_id": 1535231,
+                         "date": "2025-04-02",
+                         "desc": "Agree To Senate Sub As Am: House Vote #396",
+                         "yea": 130,
+                         "nay": 35,
+                         "nv": 5,
+                         "absent": 10,
+                         "total": 180,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "url": "https://legiscan.com/GA/rollcall/HB155/id/1535231",
+                         "state_link": "https://www.legis.ga.gov/legislation/69592#25484"
+                    },
+                    {
+                         "roll_call_id": 1537592,
+                         "date": "2025-04-04",
+                         "desc": "Agree To Senate Amend To Ham To Ssub: House Vote #451",
+                         "yea": 117,
+                         "nay": 49,
+                         "nv": 2,
+                         "absent": 12,
+                         "total": 180,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 29,
+                         "url": "https://legiscan.com/GA/rollcall/HB155/id/1537592",
+                         "state_link": "https://www.legis.ga.gov/legislation/69592#25603"
+                    },
+                    {
+                         "roll_call_id": 1537820,
+                         "date": "2025-04-04",
+                         "desc": "Agree To House Amendment To Senate Substitute As Amended By Am #2: Senate Vote #468",
+                         "yea": 36,
+                         "nay": 17,
+                         "nv": 1,
+                         "absent": 2,
+                         "total": 56,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "url": "https://legiscan.com/GA/rollcall/HB155/id/1537820",
+                         "state_link": "https://www.legis.ga.gov/legislation/69592#25693"
+                    }
+               ],
+               "amendments": [
+                    {
+                         "amendment_id": 243702,
+                         "adopted": 0,
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "date": "2025-04-01",
+                         "title": "Floor Amendment",
+                         "description": "Sen Floor Amend 1 AM 47 0149",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/amendment/HB155/id/243702",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/238358",
+                         "amendment_size": 71037,
+                         "amendment_hash": "8705e758d6e31746e80a15a14bc1a355",
+                         "alt_amendment": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_amendment_size": 0,
+                         "alt_amendment_hash": ""
+                    },
+                    {
+                         "amendment_id": 244939,
+                         "adopted": 0,
+                         "chamber": "",
+                         "chamber_id": 0,
+                         "date": "2025-04-02",
+                         "title": "Floor Amendment",
+                         "description": "Floor Amendment AM 47 0153",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/amendment/HB155/id/244939",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/238662",
+                         "amendment_size": 66181,
+                         "amendment_hash": "6e6d2c15b2bb266ec292f879af0cf7a2",
+                         "alt_amendment": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_amendment_size": 0,
+                         "alt_amendment_hash": ""
+                    },
+                    {
+                         "amendment_id": 246014,
+                         "adopted": 0,
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "date": "2025-04-04",
+                         "title": "Floor Amendment",
+                         "description": "Sen Floor Amend 1 AM 47 0159",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/amendment/HB155/id/246014",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/239186",
+                         "amendment_size": 71668,
+                         "amendment_hash": "55ec4e1959a16a5b31b42d3954aeadc3",
+                         "alt_amendment": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_amendment_size": 0,
+                         "alt_amendment_hash": ""
+                    },
+                    {
+                         "amendment_id": 246015,
+                         "adopted": 0,
+                         "chamber": "S",
+                         "chamber_id": 30,
+                         "date": "2025-04-04",
+                         "title": "Floor Amendment",
+                         "description": "Sen floor amend 2 AM 47 0160",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/GA/amendment/HB155/id/246015",
+                         "state_link": "https://www.legis.ga.gov/api/legislation/document/20252026/239194",
+                         "amendment_size": 75397,
+                         "amendment_hash": "0d6829865e7bd562290137e22019db3b",
+                         "alt_amendment": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_amendment_size": 0,
+                         "alt_amendment_hash": ""
+                    }
+               ],
+               "supplements": [],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "0fddb280",
+                         "type": "Hearing",
+                         "date": "2025-02-04",
+                         "time": "13:00",
+                         "location": "415 CLOB",
+                         "description": "House Governmental Affairs Subcommittee On State And Local Government"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "6849631c",
+                         "type": "Hearing",
+                         "date": "2025-02-05",
+                         "time": "15:00",
+                         "location": "606 CLOB",
+                         "description": "House Governmental Affairs"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "3fbc01b7",
+                         "type": "Hearing",
+                         "date": "2025-02-26",
+                         "time": "14:00",
+                         "location": "307 CLOB",
+                         "description": "Senate State And Local Governmental Operations Committee"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "40373d1f",
+                         "type": "Hearing",
+                         "date": "2025-03-12",
+                         "time": "12:00",
+                         "location": "MEZZ 1",
+                         "description": "Senate State And Local Governmental Operations Committee"
+                    }
+               ]
+          }
+     }
+}

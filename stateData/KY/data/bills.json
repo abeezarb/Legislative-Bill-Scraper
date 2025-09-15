@@ -1,0 +1,2184 @@
+{
+     "1955185": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "427936552db20470ee9b1cd162b607c4",
+               "relevance": 66,
+               "state": "KY",
+               "bill number": "SB101",
+               "description": "Create a new section of KRS Chapter 532 to abolish the death penalty and replace it with life imprisonment without parole for inmates presently sentenced to death; amend KRS 532.030 to remove the death penalty; amend KRS 640.040 to prohibit life imprisonment without benefit of parole for a juvenile offender convicted of a capital offense; amend KRS 640.010 to define \"serious intellectual disability\" and \"significant subaverage general intellectual functioning\"; amend KRS 422.285, 532.050, 532.100, and 533.010 to conform; repeal KRS 431.213, 431.2135, 431.218, 431.220, 431.223, 431.224, 431.240, 431.250, 431.260, 431.270, 507A.060, 532.025, 532.075, 532.130, 532.135, 532.140, 532.300, 532.305, and 532.309.",
+               "state link": "https://apps.legislature.ky.gov/record/25RS/sb101.html",
+               "legiscan link": "https://legiscan.com/KY/bill/SB101/2025",
+               "status": {
+                    "date": "02-06-2025",
+                    "label": "Refer",
+                    "action": "to Judiciary (S)"
+               },
+               "date introduced": "02-04-2025",
+               "party": "D",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Gerald Neal",
+                         "co": "Karen Berg",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 2"
+               }
+          },
+          "raw": {
+               "bill_id": 1955185,
+               "change_hash": "427936552db20470ee9b1cd162b607c4",
+               "session_id": 2179,
+               "session": {
+                    "session_id": 2179,
+                    "state_id": 17,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/KY/bill/SB101/2025",
+               "state_link": "https://apps.legislature.ky.gov/record/25RS/sb101.html",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-02-04",
+               "progress": [
+                    {
+                         "date": "2025-02-04",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-04",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-02-06",
+                         "event": 9
+                    }
+               ],
+               "state": "KY",
+               "state_id": 17,
+               "bill_number": "SB101",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "S",
+               "body_id": 44,
+               "current_body": "S",
+               "current_body_id": 44,
+               "title": "AN ACT relating to the abolition of the death penalty.",
+               "description": "Create a new section of KRS Chapter 532 to abolish the death penalty and replace it with life imprisonment without parole for inmates presently sentenced to death; amend KRS 532.030 to remove the death penalty; amend KRS 640.040 to prohibit life imprisonment without benefit of parole for a juvenile offender convicted of a capital offense; amend KRS 640.010 to define \"serious intellectual disability\" and \"significant subaverage general intellectual functioning\"; amend KRS 422.285, 532.050, 532.100, and 533.010 to conform; repeal KRS 431.213, 431.2135, 431.218, 431.220, 431.223, 431.224, 431.240, 431.250, 431.260, 431.270, 507A.060, 532.025, 532.075, 532.130, 532.135, 532.140, 532.300, 532.305, and 532.309.",
+               "pending_committee_id": 345,
+               "committee": {
+                    "committee_id": 345,
+                    "chamber": "S",
+                    "chamber_id": 44,
+                    "name": "Judiciary"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-02-04",
+                         "committee_id": 336,
+                         "chamber": "S",
+                         "chamber_id": 44,
+                         "name": "Committee on Committees"
+                    },
+                    {
+                         "date": "2025-02-06",
+                         "committee_id": 345,
+                         "chamber": "S",
+                         "chamber_id": 44,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-04",
+                         "action": "introduced in Senate",
+                         "chamber": "S",
+                         "chamber_id": 44,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-04",
+                         "action": "to Committee on Committees (S)",
+                         "chamber": "S",
+                         "chamber_id": 44,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-06",
+                         "action": "to Judiciary (S)",
+                         "chamber": "S",
+                         "chamber_id": 44,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 1232,
+                         "person_hash": "zifs512a",
+                         "party_id": "1",
+                         "state_id": 17,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Gerald Neal",
+                         "first_name": "Gerald",
+                         "middle_name": "A.",
+                         "last_name": "Neal",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-033",
+                         "ftm_eid": 6391541,
+                         "votesmart_id": 4041,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 194749,
+                         "ballotpedia": "Gerald_Neal",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22179,
+                         "person_hash": "9oil6nky",
+                         "party_id": "1",
+                         "state_id": 17,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Karen Berg",
+                         "first_name": "Karen",
+                         "middle_name": "",
+                         "last_name": "Berg",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-026",
+                         "ftm_eid": 44272694,
+                         "votesmart_id": 178058,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 647302,
+                         "ballotpedia": "Karen_Berg",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 318563,
+                         "subject_name": "Corrections Impact"
+                    },
+                    {
+                         "subject_id": 318554,
+                         "subject_name": "Courts"
+                    },
+                    {
+                         "subject_id": 318556,
+                         "subject_name": "Crimes and Punishments"
+                    },
+                    {
+                         "subject_id": 318557,
+                         "subject_name": "Criminal Procedure"
+                    },
+                    {
+                         "subject_id": 318700,
+                         "subject_name": "Deaths"
+                    },
+                    {
+                         "subject_id": 318670,
+                         "subject_name": "Probation and Parole"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3099692,
+                         "date": "0000-00-00",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/KY/text/SB101/id/3099692",
+                         "state_link": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/sb101/orig_bill.pdf",
+                         "text_size": 101320,
+                         "text_hash": "7aac91f7af2d600e455988a72f4322b7",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 504701,
+                         "date": "0000-00-00",
+                         "type": "Corrections Impact",
+                         "type_id": 6,
+                         "title": "Corrections Impact",
+                         "description": "Corrections Impact",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/KY/supplement/SB101/id/504701",
+                         "state_link": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/sb101/CI.pdf",
+                         "supplement_size": 3229,
+                         "supplement_hash": "972b023f7988423cf68a23e3f14e943a",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": []
+          }
+     },
+     "1955505": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "50f0f48a7ce874217acd295457b58ea3",
+               "relevance": 66,
+               "state": "KY",
+               "bill number": "SB98",
+               "description": "Create a new section of KRS Chapter 532 to abolish the death penalty and replace it with life imprisonment without parole for inmates presently sentenced to death; amend KRS 532.030 to remove the death penalty; amend KRS 640.040 to prohibit life imprisonment without benefit of parole for a juvenile offender convicted of a capital offense; amend KRS 640.010 to define \"serious intellectual disability\" and \"significant subaverage general intellectual functioning\"; amend KRS 422.285, 532.050, 532.100, and 533.010 to conform; repeal KRS 431.213, 431.2135, 431.218, 431.220, 431.223, 431.224, 431.240, 431.250, 431.260, 431.270, 507A.060, 532.025, 532.075, 532.130, 532.135, 532.140, 532.300, 532.305, and 532.309.",
+               "state link": "https://apps.legislature.ky.gov/record/25RS/sb98.html",
+               "legiscan link": "https://legiscan.com/KY/bill/SB98/2025",
+               "status": {
+                    "date": "02-06-2025",
+                    "label": "Refer",
+                    "action": "to Judiciary (S)"
+               },
+               "date introduced": "02-04-2025",
+               "party": "D",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "David Yates",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1955505,
+               "change_hash": "50f0f48a7ce874217acd295457b58ea3",
+               "session_id": 2179,
+               "session": {
+                    "session_id": 2179,
+                    "state_id": 17,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/KY/bill/SB98/2025",
+               "state_link": "https://apps.legislature.ky.gov/record/25RS/sb98.html",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-02-04",
+               "progress": [
+                    {
+                         "date": "2025-02-04",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-04",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-02-06",
+                         "event": 9
+                    }
+               ],
+               "state": "KY",
+               "state_id": 17,
+               "bill_number": "SB98",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "S",
+               "body_id": 44,
+               "current_body": "S",
+               "current_body_id": 44,
+               "title": "AN ACT relating to the abolition of the death penalty.",
+               "description": "Create a new section of KRS Chapter 532 to abolish the death penalty and replace it with life imprisonment without parole for inmates presently sentenced to death; amend KRS 532.030 to remove the death penalty; amend KRS 640.040 to prohibit life imprisonment without benefit of parole for a juvenile offender convicted of a capital offense; amend KRS 640.010 to define \"serious intellectual disability\" and \"significant subaverage general intellectual functioning\"; amend KRS 422.285, 532.050, 532.100, and 533.010 to conform; repeal KRS 431.213, 431.2135, 431.218, 431.220, 431.223, 431.224, 431.240, 431.250, 431.260, 431.270, 507A.060, 532.025, 532.075, 532.130, 532.135, 532.140, 532.300, 532.305, and 532.309.",
+               "pending_committee_id": 345,
+               "committee": {
+                    "committee_id": 345,
+                    "chamber": "S",
+                    "chamber_id": 44,
+                    "name": "Judiciary"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-02-04",
+                         "committee_id": 336,
+                         "chamber": "S",
+                         "chamber_id": 44,
+                         "name": "Committee on Committees"
+                    },
+                    {
+                         "date": "2025-02-06",
+                         "committee_id": 345,
+                         "chamber": "S",
+                         "chamber_id": 44,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-04",
+                         "action": "introduced in Senate",
+                         "chamber": "S",
+                         "chamber_id": 44,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-04",
+                         "action": "to Committee on Committees (S)",
+                         "chamber": "S",
+                         "chamber_id": 44,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-06",
+                         "action": "to Judiciary (S)",
+                         "chamber": "S",
+                         "chamber_id": 44,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 22180,
+                         "person_hash": "mcbwse4o",
+                         "party_id": "1",
+                         "state_id": 17,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "David Yates",
+                         "first_name": "David",
+                         "middle_name": "",
+                         "last_name": "Yates",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-037",
+                         "ftm_eid": 37966919,
+                         "votesmart_id": 132043,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 726044,
+                         "ballotpedia": "David_Yates",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 318554,
+                         "subject_name": "Courts"
+                    },
+                    {
+                         "subject_id": 318556,
+                         "subject_name": "Crimes and Punishments"
+                    },
+                    {
+                         "subject_id": 318557,
+                         "subject_name": "Criminal Procedure"
+                    },
+                    {
+                         "subject_id": 318700,
+                         "subject_name": "Deaths"
+                    },
+                    {
+                         "subject_id": 318670,
+                         "subject_name": "Probation and Parole"
+                    },
+                    {
+                         "subject_id": 318563,
+                         "subject_name": "Corrections Impact"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3100006,
+                         "date": "0000-00-00",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/KY/text/SB98/id/3100006",
+                         "state_link": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/sb98/orig_bill.pdf",
+                         "text_size": 101327,
+                         "text_hash": "eb1f6bab71e48a3d2a4d23b95a0723b4",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 504731,
+                         "date": "0000-00-00",
+                         "type": "Corrections Impact",
+                         "type_id": 6,
+                         "title": "Corrections Impact",
+                         "description": "Corrections Impact",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/KY/supplement/SB98/id/504731",
+                         "state_link": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/sb98/CI.pdf",
+                         "supplement_size": 3229,
+                         "supplement_hash": "972b023f7988423cf68a23e3f14e943a",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": []
+          }
+     },
+     "1910673": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "aefdb15313be93da1c6bc794d4458641",
+               "relevance": 66,
+               "state": "KY",
+               "bill number": "HB209",
+               "description": "Create a new section of KRS Chapter 532 to abolish the death penalty and replace it with life imprisonment without parole for inmates presently sentenced to death; amend KRS 532.030, relating to authorized dispositions for felony offenses, to remove the death penalty; amend KRS 533.010, relating to probation, to prohibit probation for a person sentenced to life without parole or life without parole for 25 years; amend KRS 640.010 to define terms; amend KRS 640.040, relating to penalties for juveniles convicted of felony offenses, to prohibit life imprisonment without benefit of parole for a capital offense; amend KRS 422.285, 532.050, and 532.100 to conform; repeal KRS 431.213, 431.2135, 431.218, 431.220, 431.223, 431.224, 431.240, 431.250, 431.260, 431.270, 507A.060, 532.025, 532.075, 532.130, 532.135, 532.140, 532.300, 532.305, and 532.309.",
+               "state link": "https://apps.legislature.ky.gov/record/25RS/hb209.html",
+               "legiscan link": "https://legiscan.com/KY/bill/HB209/2025",
+               "status": {
+                    "date": "02-04-2025",
+                    "label": "Refer",
+                    "action": "to Judiciary (H)"
+               },
+               "date introduced": "01-10-2025",
+               "party": "R",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "James Tipton",
+                         "co": "Nancy Tate",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 2"
+               }
+          },
+          "raw": {
+               "bill_id": 1910673,
+               "change_hash": "aefdb15313be93da1c6bc794d4458641",
+               "session_id": 2179,
+               "session": {
+                    "session_id": 2179,
+                    "state_id": 17,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/KY/bill/HB209/2025",
+               "state_link": "https://apps.legislature.ky.gov/record/25RS/hb209.html",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-01-10",
+               "progress": [
+                    {
+                         "date": "2025-01-10",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-01-10",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-02-04",
+                         "event": 9
+                    }
+               ],
+               "state": "KY",
+               "state_id": 17,
+               "bill_number": "HB209",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 43,
+               "current_body": "H",
+               "current_body_id": 43,
+               "title": "AN ACT relating to the abolition of the death penalty.",
+               "description": "Create a new section of KRS Chapter 532 to abolish the death penalty and replace it with life imprisonment without parole for inmates presently sentenced to death; amend KRS 532.030, relating to authorized dispositions for felony offenses, to remove the death penalty; amend KRS 533.010, relating to probation, to prohibit probation for a person sentenced to life without parole or life without parole for 25 years; amend KRS 640.010 to define terms; amend KRS 640.040, relating to penalties for juveniles convicted of felony offenses, to prohibit life imprisonment without benefit of parole for a capital offense; amend KRS 422.285, 532.050, and 532.100 to conform; repeal KRS 431.213, 431.2135, 431.218, 431.220, 431.223, 431.224, 431.240, 431.250, 431.260, 431.270, 507A.060, 532.025, 532.075, 532.130, 532.135, 532.140, 532.300, 532.305, and 532.309.",
+               "pending_committee_id": 327,
+               "committee": {
+                    "committee_id": 327,
+                    "chamber": "H",
+                    "chamber_id": 43,
+                    "name": "Judiciary"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-01-10",
+                         "committee_id": 317,
+                         "chamber": "H",
+                         "chamber_id": 43,
+                         "name": "Committee On Committees"
+                    },
+                    {
+                         "date": "2025-02-04",
+                         "committee_id": 327,
+                         "chamber": "H",
+                         "chamber_id": 43,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-01-10",
+                         "action": "introduced in House",
+                         "chamber": "H",
+                         "chamber_id": 43,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-01-10",
+                         "action": "to Committee on Committees (H)",
+                         "chamber": "H",
+                         "chamber_id": 43,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-04",
+                         "action": "to Judiciary (H)",
+                         "chamber": "H",
+                         "chamber_id": 43,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 16669,
+                         "person_hash": "tht4rsbu",
+                         "party_id": "2",
+                         "state_id": 17,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "James Tipton",
+                         "first_name": "James",
+                         "middle_name": "A.",
+                         "last_name": "Tipton",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-053",
+                         "ftm_eid": 9214003,
+                         "votesmart_id": 148972,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 475178,
+                         "ballotpedia": "James_A._Tipton",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 20483,
+                         "person_hash": "8ef49cdt",
+                         "party_id": "2",
+                         "state_id": 17,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Nancy Tate",
+                         "first_name": "Nancy",
+                         "middle_name": "J.",
+                         "last_name": "Tate",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-027",
+                         "ftm_eid": 44272749,
+                         "votesmart_id": 177937,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 647873,
+                         "ballotpedia": "Nancy_Tate",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 318563,
+                         "subject_name": "Corrections Impact"
+                    },
+                    {
+                         "subject_id": 318554,
+                         "subject_name": "Courts"
+                    },
+                    {
+                         "subject_id": 318556,
+                         "subject_name": "Crimes and Punishments"
+                    },
+                    {
+                         "subject_id": 318557,
+                         "subject_name": "Criminal Procedure"
+                    },
+                    {
+                         "subject_id": 318700,
+                         "subject_name": "Deaths"
+                    },
+                    {
+                         "subject_id": 318566,
+                         "subject_name": "Children and Minors"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3047532,
+                         "date": "0000-00-00",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/KY/text/HB209/id/3047532",
+                         "state_link": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb209/orig_bill.pdf",
+                         "text_size": 101423,
+                         "text_hash": "78028ad3fc48865b00cc5a280c6c356b",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 487047,
+                         "date": "0000-00-00",
+                         "type": "Corrections Impact",
+                         "type_id": 6,
+                         "title": "Corrections Impact",
+                         "description": "Corrections Impact",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/KY/supplement/HB209/id/487047",
+                         "state_link": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/hb209/CI.pdf",
+                         "supplement_size": 3229,
+                         "supplement_hash": "972b023f7988423cf68a23e3f14e943a",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": []
+          }
+     },
+     "1970258": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "16b68ed3684827e191d844b65171327d",
+               "relevance": 16,
+               "state": "KY",
+               "bill number": "HB523",
+               "description": "Create new sections of KRS Chapter 507, relating to criminal homicide, to allow a prosecution where the victim is an unborn child; provide exceptions for spontaneous miscarriages and lawful medical procedures; amend KRS 507.010 to define terms; create new sections of KRS Chapter 508, relating to assault, to define terms; allow a prosecution where the victim is an unborn child; provide exceptions for spontaneous miscarriages and lawful medical procedures; amend KRS 501.090 to allow the defense of duress in a prosecution of intentional homicide where the victim is an unborn child and the defendant is the child's mother; create a new section of KRS Chapter 15 to give the Attorney General concurrent jurisdiction with Commonwealth's and county attorneys; repeal KRS 507A.010, 507A.020, 507A.030, 507A.040, 507A.050, and 507A.060, relating to fetal homicide; amend KRS 311.732, 402.205, and 439.265 to conform; provide that the Act may be cited as the Prenatal Equal Protection Act.",
+               "state link": "https://apps.legislature.ky.gov/record/25RS/hb523.html",
+               "legiscan link": "https://legiscan.com/KY/bill/HB523/2025",
+               "status": {
+                    "date": "02-21-2025",
+                    "label": "Refer",
+                    "action": "to Judiciary (H)"
+               },
+               "date introduced": "02-13-2025",
+               "party": "R",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Richard White",
+                         "co": "Josh Calloway, Emily Callaway",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 3"
+               }
+          },
+          "raw": {
+               "bill_id": 1970258,
+               "change_hash": "16b68ed3684827e191d844b65171327d",
+               "session_id": 2179,
+               "session": {
+                    "session_id": 2179,
+                    "state_id": 17,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/KY/bill/HB523/2025",
+               "state_link": "https://apps.legislature.ky.gov/record/25RS/hb523.html",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-02-13",
+               "progress": [
+                    {
+                         "date": "2025-02-13",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-13",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-02-21",
+                         "event": 9
+                    }
+               ],
+               "state": "KY",
+               "state_id": 17,
+               "bill_number": "HB523",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 43,
+               "current_body": "H",
+               "current_body_id": 43,
+               "title": "AN ACT relating to unborn children.",
+               "description": "Create new sections of KRS Chapter 507, relating to criminal homicide, to allow a prosecution where the victim is an unborn child; provide exceptions for spontaneous miscarriages and lawful medical procedures; amend KRS 507.010 to define terms; create new sections of KRS Chapter 508, relating to assault, to define terms; allow a prosecution where the victim is an unborn child; provide exceptions for spontaneous miscarriages and lawful medical procedures; amend KRS 501.090 to allow the defense of duress in a prosecution of intentional homicide where the victim is an unborn child and the defendant is the child's mother; create a new section of KRS Chapter 15 to give the Attorney General concurrent jurisdiction with Commonwealth's and county attorneys; repeal KRS 507A.010, 507A.020, 507A.030, 507A.040, 507A.050, and 507A.060, relating to fetal homicide; amend KRS 311.732, 402.205, and 439.265 to conform; provide that the Act may be cited as the Prenatal Equal Protection Act.",
+               "pending_committee_id": 327,
+               "committee": {
+                    "committee_id": 327,
+                    "chamber": "H",
+                    "chamber_id": 43,
+                    "name": "Judiciary"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-02-13",
+                         "committee_id": 317,
+                         "chamber": "H",
+                         "chamber_id": 43,
+                         "name": "Committee On Committees"
+                    },
+                    {
+                         "date": "2025-02-21",
+                         "committee_id": 327,
+                         "chamber": "H",
+                         "chamber_id": 43,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-13",
+                         "action": "introduced in House",
+                         "chamber": "H",
+                         "chamber_id": 43,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-13",
+                         "action": "to Committee on Committees (H)",
+                         "chamber": "H",
+                         "chamber_id": 43,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-21",
+                         "action": "to Judiciary (H)",
+                         "chamber": "H",
+                         "chamber_id": 43,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 21616,
+                         "person_hash": "y4f5qdix",
+                         "party_id": "2",
+                         "state_id": 17,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Richard White",
+                         "first_name": "Richard",
+                         "middle_name": "",
+                         "last_name": "White",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-099",
+                         "ftm_eid": 13012046,
+                         "votesmart_id": 102319,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 729261,
+                         "ballotpedia": "Richard_White_(Kentucky)",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22053,
+                         "person_hash": "3t825xxq",
+                         "party_id": "2",
+                         "state_id": 17,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Josh Calloway",
+                         "first_name": "Josh",
+                         "middle_name": "",
+                         "last_name": "Calloway",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-010",
+                         "ftm_eid": 44272718,
+                         "votesmart_id": 177911,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 653031,
+                         "ballotpedia": "Josh_Calloway",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 23689,
+                         "person_hash": "z462ar7j",
+                         "party_id": "2",
+                         "state_id": 17,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Emily Callaway",
+                         "first_name": "Emily",
+                         "middle_name": "",
+                         "last_name": "Callaway",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-037",
+                         "ftm_eid": 55356501,
+                         "votesmart_id": 201593,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Emily_Callaway",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 318563,
+                         "subject_name": "Corrections Impact"
+                    },
+                    {
+                         "subject_id": 318556,
+                         "subject_name": "Crimes and Punishments"
+                    },
+                    {
+                         "subject_id": 318593,
+                         "subject_name": "Health and Medical Services"
+                    },
+                    {
+                         "subject_id": 318686,
+                         "subject_name": "Reproductive Issues"
+                    },
+                    {
+                         "subject_id": 318661,
+                         "subject_name": "Short Titles and Popular Names"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3119803,
+                         "date": "0000-00-00",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/KY/text/HB523/id/3119803",
+                         "state_link": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb523/orig_bill.pdf",
+                         "text_size": 74509,
+                         "text_hash": "2d5e849489a5d2df1aee2d93a3cbc7a9",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 515621,
+                         "date": "0000-00-00",
+                         "type": "Corrections Impact",
+                         "type_id": 6,
+                         "title": "Corrections Impact",
+                         "description": "Corrections Impact",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/KY/supplement/HB523/id/515621",
+                         "state_link": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/hb523/CI.pdf",
+                         "supplement_size": 3229,
+                         "supplement_hash": "972b023f7988423cf68a23e3f14e943a",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": []
+          }
+     },
+     "1967880": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "6703b8ed57b0cd9a2f9a77384d7a1c76",
+               "relevance": 12,
+               "state": "KY",
+               "bill number": "HB442",
+               "description": "Amend KRS 532.025 to include abuse of a corpse of the victim of kidnapping or murder by engaging in deviate sexual intercourse, sexual intercourse, or sexual contact as an aggravating circumstance; provide that the Act may be cited as Angela's Law.",
+               "state link": "https://apps.legislature.ky.gov/record/25RS/hb442.html",
+               "legiscan link": "https://legiscan.com/KY/bill/HB442/2025",
+               "status": {
+                    "date": "02-14-2025",
+                    "label": "Refer",
+                    "action": "to Judiciary (H)"
+               },
+               "date introduced": "02-12-2025",
+               "party": "R",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Samara Heavrin",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1967880,
+               "change_hash": "6703b8ed57b0cd9a2f9a77384d7a1c76",
+               "session_id": 2179,
+               "session": {
+                    "session_id": 2179,
+                    "state_id": 17,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/KY/bill/HB442/2025",
+               "state_link": "https://apps.legislature.ky.gov/record/25RS/hb442.html",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-02-12",
+               "progress": [
+                    {
+                         "date": "2025-02-12",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-12",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-02-14",
+                         "event": 9
+                    }
+               ],
+               "state": "KY",
+               "state_id": 17,
+               "bill_number": "HB442",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 43,
+               "current_body": "H",
+               "current_body_id": 43,
+               "title": "AN ACT relating to aggravating circumstances.",
+               "description": "Amend KRS 532.025 to include abuse of a corpse of the victim of kidnapping or murder by engaging in deviate sexual intercourse, sexual intercourse, or sexual contact as an aggravating circumstance; provide that the Act may be cited as Angela's Law.",
+               "pending_committee_id": 327,
+               "committee": {
+                    "committee_id": 327,
+                    "chamber": "H",
+                    "chamber_id": 43,
+                    "name": "Judiciary"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-02-12",
+                         "committee_id": 317,
+                         "chamber": "H",
+                         "chamber_id": 43,
+                         "name": "Committee On Committees"
+                    },
+                    {
+                         "date": "2025-02-14",
+                         "committee_id": 327,
+                         "chamber": "H",
+                         "chamber_id": 43,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-12",
+                         "action": "introduced in House",
+                         "chamber": "H",
+                         "chamber_id": 43,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-12",
+                         "action": "to Committee on Committees (H)",
+                         "chamber": "H",
+                         "chamber_id": 43,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-14",
+                         "action": "to Judiciary (H)",
+                         "chamber": "H",
+                         "chamber_id": 43,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 21424,
+                         "person_hash": "l5h1xbui",
+                         "party_id": "2",
+                         "state_id": 17,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Samara Heavrin",
+                         "first_name": "Samara",
+                         "middle_name": "Rae",
+                         "last_name": "Heavrin",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-018",
+                         "ftm_eid": 48057188,
+                         "votesmart_id": 187200,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 526520,
+                         "ballotpedia": "Samara_Heavrin",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 318555,
+                         "subject_name": "Crime Victims"
+                    },
+                    {
+                         "subject_id": 318556,
+                         "subject_name": "Crimes and Punishments"
+                    },
+                    {
+                         "subject_id": 318661,
+                         "subject_name": "Short Titles and Popular Names"
+                    },
+                    {
+                         "subject_id": 318563,
+                         "subject_name": "Corrections Impact"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3116640,
+                         "date": "0000-00-00",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/KY/text/HB442/id/3116640",
+                         "state_link": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb442/orig_bill.pdf",
+                         "text_size": 33531,
+                         "text_hash": "4665b3338913f5265bf53d9530dd4b4d",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 514190,
+                         "date": "0000-00-00",
+                         "type": "Corrections Impact",
+                         "type_id": 6,
+                         "title": "Corrections Impact",
+                         "description": "Corrections Impact",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/KY/supplement/HB442/id/514190",
+                         "state_link": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/hb442/CI.pdf",
+                         "supplement_size": 3229,
+                         "supplement_hash": "972b023f7988423cf68a23e3f14e943a",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": []
+          }
+     },
+     "1911429": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "718b5a1596b8a14524005b164e407f23",
+               "relevance": 12,
+               "state": "KY",
+               "bill number": "HB199",
+               "description": "Amend KRS 510.040, 510.070, and 510.110 to provide that rape in the first degree, sodomy in the first degree, and sexual abuse in the first degree shall be capital offenses when the victim is under 12 years old; amend KRS 532.025 to conform.",
+               "state link": "https://apps.legislature.ky.gov/record/25RS/hb199.html",
+               "legiscan link": "https://legiscan.com/KY/bill/HB199/2025",
+               "status": {
+                    "date": "02-04-2025",
+                    "label": "Refer",
+                    "action": "to Judiciary (H)"
+               },
+               "date introduced": "01-10-2025",
+               "party": "R",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Candy Massaroni",
+                         "co": "T.J. Roberts, Josh Calloway, Steven Doan, John Hodgson",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 5"
+               }
+          },
+          "raw": {
+               "bill_id": 1911429,
+               "change_hash": "718b5a1596b8a14524005b164e407f23",
+               "session_id": 2179,
+               "session": {
+                    "session_id": 2179,
+                    "state_id": 17,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/KY/bill/HB199/2025",
+               "state_link": "https://apps.legislature.ky.gov/record/25RS/hb199.html",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-01-10",
+               "progress": [
+                    {
+                         "date": "2025-01-10",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-01-10",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-02-04",
+                         "event": 9
+                    }
+               ],
+               "state": "KY",
+               "state_id": 17,
+               "bill_number": "HB199",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 43,
+               "current_body": "H",
+               "current_body_id": 43,
+               "title": "AN ACT relating to sexual offenses against children.",
+               "description": "Amend KRS 510.040, 510.070, and 510.110 to provide that rape in the first degree, sodomy in the first degree, and sexual abuse in the first degree shall be capital offenses when the victim is under 12 years old; amend KRS 532.025 to conform.",
+               "pending_committee_id": 327,
+               "committee": {
+                    "committee_id": 327,
+                    "chamber": "H",
+                    "chamber_id": 43,
+                    "name": "Judiciary"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-01-10",
+                         "committee_id": 317,
+                         "chamber": "H",
+                         "chamber_id": 43,
+                         "name": "Committee On Committees"
+                    },
+                    {
+                         "date": "2025-02-04",
+                         "committee_id": 327,
+                         "chamber": "H",
+                         "chamber_id": 43,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-01-10",
+                         "action": "introduced in House",
+                         "chamber": "H",
+                         "chamber_id": 43,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-01-10",
+                         "action": "to Committee on Committees (H)",
+                         "chamber": "H",
+                         "chamber_id": 43,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-04",
+                         "action": "to Judiciary (H)",
+                         "chamber": "H",
+                         "chamber_id": 43,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 23619,
+                         "person_hash": "9tyjaybl",
+                         "party_id": "2",
+                         "state_id": 17,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Candy Massaroni",
+                         "first_name": "Candy",
+                         "middle_name": "D.",
+                         "last_name": "Massaroni",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-050",
+                         "ftm_eid": 54452954,
+                         "votesmart_id": 201581,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Candy_Massaroni",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 25779,
+                         "person_hash": "bhkl7jfa",
+                         "party_id": "2",
+                         "state_id": 17,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "T.J. Roberts",
+                         "first_name": "T.J.",
+                         "middle_name": "",
+                         "last_name": "Roberts",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-066",
+                         "ftm_eid": 59516219,
+                         "votesmart_id": 214209,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "T.J._Roberts",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22053,
+                         "person_hash": "3t825xxq",
+                         "party_id": "2",
+                         "state_id": 17,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Josh Calloway",
+                         "first_name": "Josh",
+                         "middle_name": "",
+                         "last_name": "Calloway",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-010",
+                         "ftm_eid": 44272718,
+                         "votesmart_id": 177911,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 653031,
+                         "ballotpedia": "Josh_Calloway",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 23692,
+                         "person_hash": "rzhu8f4i",
+                         "party_id": "2",
+                         "state_id": 17,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Steven Doan",
+                         "first_name": "Steven",
+                         "middle_name": "",
+                         "last_name": "Doan",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-069",
+                         "ftm_eid": 48042396,
+                         "votesmart_id": 201558,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Steven_Doan",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 4,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 23620,
+                         "person_hash": "hxaukehh",
+                         "party_id": "2",
+                         "state_id": 17,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "John Hodgson",
+                         "first_name": "John",
+                         "middle_name": "F.",
+                         "last_name": "Hodgson",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-036",
+                         "ftm_eid": 54452945,
+                         "votesmart_id": 201590,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "John_Hodgson",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 5,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 318556,
+                         "subject_name": "Crimes and Punishments"
+                    },
+                    {
+                         "subject_id": 318566,
+                         "subject_name": "Children and Minors"
+                    },
+                    {
+                         "subject_id": 318563,
+                         "subject_name": "Corrections Impact"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3048159,
+                         "date": "0000-00-00",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/KY/text/HB199/id/3048159",
+                         "state_link": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb199/orig_bill.pdf",
+                         "text_size": 41544,
+                         "text_hash": "575437c2bbcfba8e8e63987d7753b8ee",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 499540,
+                         "date": "0000-00-00",
+                         "type": "Corrections Impact",
+                         "type_id": 6,
+                         "title": "Corrections Impact",
+                         "description": "Corrections Impact",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/KY/supplement/HB199/id/499540",
+                         "state_link": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/hb199/CI.pdf",
+                         "supplement_size": 3229,
+                         "supplement_hash": "972b023f7988423cf68a23e3f14e943a",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": []
+          }
+     },
+     "1908050": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "0e1e0e8f61a60fa09762c027360412af",
+               "relevance": 12,
+               "state": "KY",
+               "bill number": "HB124",
+               "description": "Create new sections of KRS Chapter 237 to define \"assault weapon,\" \"large capacity ammunition feeding device,\" and \"seller of ammunition\"; require background checks for private firearms sales; require reporting to law enforcement of firearm and ammunition thefts and losses; require the safe storage of firearms; require the Department of Kentucky State Police to promulgate administrative regulations relating to the licensing of persons to possess handguns and assault weapons, the registration of handguns and assault weapons, and the logging of firearms and ammunition sales effective January 1, 2026; amend KRS 237.990 to establish penalties; create a new section of KRS Chapter 527 to create the offense of criminal purchase or disposal of a weapon; amend KRS 395.250 to require an estate's inventory to list each firearm; amend KRS 403.735 to require judges, when issuing an order of protection, to consider whether a person against whom the order is entered should be prohibited from possessing an firearm; amend KRS 504.030 to require judges in criminal cases where a person is found not guilty by reason of insanity to demand the surrender of the defendant's firearms; amend KRS 506.080 to add that the offense of facilitation includes assistance in providing firearms; amend KRS 508.020 to include physical injury to a minor by virtue of the intentional discharge of a firearm within the offense of assault in the second degree; amend KRS 527.040 to require that the sentence for a felon in possession of a firearm be served consecutively to any other felony sentence; amend KRS 527.070 to include postsecondary education facilities within the existing ban on firearms in schools; amend KRS 532.030 to require the judge pronouncing a defendant guilty but mentally ill to demand the surrender of the person's firearms; amend KRS 65.1591, 237.104, 237.115, and 532.025 to conform; repeal KRS 65.870, relating to the prohibition of local firearm control ordinances; EFFECTIVE, in part, January 1, 2026; EMERGENCY.",
+               "state link": "https://apps.legislature.ky.gov/record/25RS/hb124.html",
+               "legiscan link": "https://legiscan.com/KY/bill/HB124/2025",
+               "status": {
+                    "date": "02-04-2025",
+                    "label": "Refer",
+                    "action": "to Judiciary (H)"
+               },
+               "date introduced": "01-08-2025",
+               "party": "D",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "George Brown",
+                         "co": "Beverly Chester-Burton",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 2"
+               }
+          },
+          "raw": {
+               "bill_id": 1908050,
+               "change_hash": "0e1e0e8f61a60fa09762c027360412af",
+               "session_id": 2179,
+               "session": {
+                    "session_id": 2179,
+                    "state_id": 17,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/KY/bill/HB124/2025",
+               "state_link": "https://apps.legislature.ky.gov/record/25RS/hb124.html",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-01-08",
+               "progress": [
+                    {
+                         "date": "2025-01-08",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-01-08",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-02-04",
+                         "event": 9
+                    }
+               ],
+               "state": "KY",
+               "state_id": 17,
+               "bill_number": "HB124",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 43,
+               "current_body": "H",
+               "current_body_id": 43,
+               "title": "AN ACT relating to firearms and declaring an emergency.",
+               "description": "Create new sections of KRS Chapter 237 to define \"assault weapon,\" \"large capacity ammunition feeding device,\" and \"seller of ammunition\"; require background checks for private firearms sales; require reporting to law enforcement of firearm and ammunition thefts and losses; require the safe storage of firearms; require the Department of Kentucky State Police to promulgate administrative regulations relating to the licensing of persons to possess handguns and assault weapons, the registration of handguns and assault weapons, and the logging of firearms and ammunition sales effective January 1, 2026; amend KRS 237.990 to establish penalties; create a new section of KRS Chapter 527 to create the offense of criminal purchase or disposal of a weapon; amend KRS 395.250 to require an estate's inventory to list each firearm; amend KRS 403.735 to require judges, when issuing an order of protection, to consider whether a person against whom the order is entered should be prohibited from possessing an firearm; amend KRS 504.030 to require judges in criminal cases where a person is found not guilty by reason of insanity to demand the surrender of the defendant's firearms; amend KRS 506.080 to add that the offense of facilitation includes assistance in providing firearms; amend KRS 508.020 to include physical injury to a minor by virtue of the intentional discharge of a firearm within the offense of assault in the second degree; amend KRS 527.040 to require that the sentence for a felon in possession of a firearm be served consecutively to any other felony sentence; amend KRS 527.070 to include postsecondary education facilities within the existing ban on firearms in schools; amend KRS 532.030 to require the judge pronouncing a defendant guilty but mentally ill to demand the surrender of the person's firearms; amend KRS 65.1591, 237.104, 237.115, and 532.025 to conform; repeal KRS 65.870, relating to the prohibition of local firearm control ordinances; EFFECTIVE, in part, January 1, 2026; EMERGENCY.",
+               "pending_committee_id": 327,
+               "committee": {
+                    "committee_id": 327,
+                    "chamber": "H",
+                    "chamber_id": 43,
+                    "name": "Judiciary"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-01-08",
+                         "committee_id": 317,
+                         "chamber": "H",
+                         "chamber_id": 43,
+                         "name": "Committee On Committees"
+                    },
+                    {
+                         "date": "2025-02-04",
+                         "committee_id": 327,
+                         "chamber": "H",
+                         "chamber_id": 43,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-01-08",
+                         "action": "introduced in House",
+                         "chamber": "H",
+                         "chamber_id": 43,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-01-08",
+                         "action": "to Committee on Committees (H)",
+                         "chamber": "H",
+                         "chamber_id": 43,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-04",
+                         "action": "to Judiciary (H)",
+                         "chamber": "H",
+                         "chamber_id": 43,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 16640,
+                         "person_hash": "map38vhf",
+                         "party_id": "1",
+                         "state_id": 17,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "George Brown",
+                         "first_name": "George",
+                         "middle_name": "A.",
+                         "last_name": "Brown",
+                         "suffix": "Jr.",
+                         "nickname": "",
+                         "district": "HD-077",
+                         "ftm_eid": 21078282,
+                         "votesmart_id": 148990,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 482215,
+                         "ballotpedia": "George_A._Brown_Jr.",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 23690,
+                         "person_hash": "hv75ymct",
+                         "party_id": "1",
+                         "state_id": 17,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Beverly Chester-Burton",
+                         "first_name": "Beverly",
+                         "middle_name": "",
+                         "last_name": "Chester-Burton",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-044",
+                         "ftm_eid": 55356072,
+                         "votesmart_id": 201606,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Beverly_Chester-Burton",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 318584,
+                         "subject_name": "Public Safety"
+                    },
+                    {
+                         "subject_id": 318556,
+                         "subject_name": "Crimes and Punishments"
+                    },
+                    {
+                         "subject_id": 318557,
+                         "subject_name": "Criminal Procedure"
+                    },
+                    {
+                         "subject_id": 318714,
+                         "subject_name": "Effective Dates, Delayed"
+                    },
+                    {
+                         "subject_id": 318565,
+                         "subject_name": "Effective Dates, Emergency"
+                    },
+                    {
+                         "subject_id": 318662,
+                         "subject_name": "Firearms and Weapons"
+                    },
+                    {
+                         "subject_id": 318577,
+                         "subject_name": "Local Government"
+                    },
+                    {
+                         "subject_id": 318689,
+                         "subject_name": "Police, State"
+                    },
+                    {
+                         "subject_id": 318583,
+                         "subject_name": "State Agencies"
+                    },
+                    {
+                         "subject_id": 318573,
+                         "subject_name": "Administrative Regulations and Proceedings"
+                    },
+                    {
+                         "subject_id": 318564,
+                         "subject_name": "Local Mandate"
+                    },
+                    {
+                         "subject_id": 318563,
+                         "subject_name": "Corrections Impact"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3043924,
+                         "date": "0000-00-00",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/KY/text/HB124/id/3043924",
+                         "state_link": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/hb124/orig_bill.pdf",
+                         "text_size": 180263,
+                         "text_hash": "3f94b7a69912bda35614483903e31c76",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 486951,
+                         "date": "0000-00-00",
+                         "type": "Local Mandate",
+                         "type_id": 5,
+                         "title": "Local Mandate Fiscal Impact",
+                         "description": "Local Mandate Fiscal Impact",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/KY/supplement/HB124/id/486951",
+                         "state_link": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/hb124/LM.pdf",
+                         "supplement_size": 3163,
+                         "supplement_hash": "be305d4dfc3658d80146f34ad3b42055",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    },
+                    {
+                         "supplement_id": 486952,
+                         "date": "0000-00-00",
+                         "type": "Corrections Impact",
+                         "type_id": 6,
+                         "title": "Corrections Impact",
+                         "description": "Corrections Impact",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/KY/supplement/HB124/id/486952",
+                         "state_link": "https://apps.legislature.ky.gov/recorddocuments/note/25RS/hb124/CI.pdf",
+                         "supplement_size": 3229,
+                         "supplement_hash": "972b023f7988423cf68a23e3f14e943a",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": []
+          }
+     },
+     "1994213": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "1f4a7ccad8e02f9f9c992b333dbfde95",
+               "relevance": 11,
+               "state": "KY",
+               "bill number": "SR141",
+               "description": "Adjourn in honor and loving memory of Jim Hatfield.",
+               "state link": "https://apps.legislature.ky.gov/record/25RS/sr141.html",
+               "legiscan link": "https://legiscan.com/KY/bill/SR141/2025",
+               "status": {
+                    "date": "03-12-2025",
+                    "label": "Passed",
+                    "action": "adopted by voice vote"
+               },
+               "date introduced": "03-06-2025",
+               "party": "R",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Greg Elkins",
+                         "co": "Amanda Mays Bledsoe, Jared Carpenter, Donald Douglas, Matt Nunn, Reginald Thomas, Steve West",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 1, republican: 6"
+               }
+          },
+          "raw": {
+               "bill_id": 1994213,
+               "change_hash": "1f4a7ccad8e02f9f9c992b333dbfde95",
+               "session_id": 2179,
+               "session": {
+                    "session_id": 2179,
+                    "state_id": 17,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/KY/bill/SR141/2025",
+               "state_link": "https://apps.legislature.ky.gov/record/25RS/sr141.html",
+               "completed": 1,
+               "status": 4,
+               "status_date": "2025-03-12",
+               "progress": [
+                    {
+                         "date": "2025-03-06",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-03-06",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-03-11",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-03-12",
+                         "event": 4
+                    }
+               ],
+               "state": "KY",
+               "state_id": 17,
+               "bill_number": "SR141",
+               "bill_type": "R",
+               "bill_type_id": "2",
+               "body": "S",
+               "body_id": 44,
+               "current_body": "S",
+               "current_body_id": 44,
+               "title": "A RESOLUTION adjourning the Senate in honor and loving memory of Jim Hatfield.",
+               "description": "Adjourn in honor and loving memory of Jim Hatfield.",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [
+                    {
+                         "date": "2025-03-06",
+                         "committee_id": 336,
+                         "chamber": "S",
+                         "chamber_id": 44,
+                         "name": "Committee on Committees"
+                    },
+                    {
+                         "date": "2025-03-11",
+                         "committee_id": 2721,
+                         "chamber": "S",
+                         "chamber_id": 44,
+                         "name": "Floor"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-03-06",
+                         "action": "introduced in Senate",
+                         "chamber": "S",
+                         "chamber_id": 44,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-06",
+                         "action": "to Committee on Committees (S)",
+                         "chamber": "S",
+                         "chamber_id": 44,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-11",
+                         "action": "to Senate Floor",
+                         "chamber": "S",
+                         "chamber_id": 44,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-12",
+                         "action": "adopted by voice vote",
+                         "chamber": "S",
+                         "chamber_id": 44,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 25002,
+                         "person_hash": "2eh9oxnj",
+                         "party_id": "2",
+                         "state_id": 17,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Greg Elkins",
+                         "first_name": "Greg",
+                         "middle_name": "",
+                         "last_name": "Elkins",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-028",
+                         "ftm_eid": 28062361,
+                         "votesmart_id": 212022,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Greg_Elkins",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 23627,
+                         "person_hash": "si39j30k",
+                         "party_id": "2",
+                         "state_id": 17,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Amanda Mays Bledsoe",
+                         "first_name": "Amanda",
+                         "middle_name": "",
+                         "last_name": "Mays Bledsoe",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-012",
+                         "ftm_eid": 54452908,
+                         "votesmart_id": 159716,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Amanda_Mays_Bledsoe",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 11094,
+                         "person_hash": "val4jdr7",
+                         "party_id": "2",
+                         "state_id": 17,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Jared Carpenter",
+                         "first_name": "Jared",
+                         "middle_name": "K.",
+                         "last_name": "Carpenter",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-034",
+                         "ftm_eid": 6682061,
+                         "votesmart_id": 117573,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 291530,
+                         "ballotpedia": "Jared_Carpenter",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 23014,
+                         "person_hash": "o420x9xb",
+                         "party_id": "2",
+                         "state_id": 17,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Donald Douglas",
+                         "first_name": "Donald",
+                         "middle_name": "",
+                         "last_name": "Douglas",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-022",
+                         "ftm_eid": 54347856,
+                         "votesmart_id": 200012,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 790591,
+                         "ballotpedia": "Donald_Douglas",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 4,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 25784,
+                         "person_hash": "hmc3hcdc",
+                         "party_id": "2",
+                         "state_id": 17,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Matt Nunn",
+                         "first_name": "Matt",
+                         "middle_name": "",
+                         "last_name": "Nunn",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-017",
+                         "ftm_eid": 59516399,
+                         "votesmart_id": 214137,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Matt_Nunn",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 5,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 16111,
+                         "person_hash": "1ep5953v",
+                         "party_id": "1",
+                         "state_id": 17,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Reginald Thomas",
+                         "first_name": "Reginald",
+                         "middle_name": "",
+                         "last_name": "Thomas",
+                         "suffix": "",
+                         "nickname": "Reggie",
+                         "district": "SD-013",
+                         "ftm_eid": 9210262,
+                         "votesmart_id": 146040,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 393204,
+                         "ballotpedia": "Reggie_Thomas",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 6,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 17672,
+                         "person_hash": "2q7ctdch",
+                         "party_id": "2",
+                         "state_id": 17,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Steve West",
+                         "first_name": "Steve",
+                         "middle_name": "",
+                         "last_name": "West",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-027",
+                         "ftm_eid": 6681931,
+                         "votesmart_id": 117598,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 291576,
+                         "ballotpedia": "Steve_West_(Kentucky)",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 7,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 318613,
+                         "subject_name": "Memorials"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3157541,
+                         "date": "0000-00-00",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/KY/text/SR141/id/3157541",
+                         "state_link": "https://apps.legislature.ky.gov/recorddocuments/bill/25RS/sr141/orig_bill.pdf",
+                         "text_size": 21768,
+                         "text_hash": "7dde3b8c81ce11b5068b8120060bbcb3",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     }
+}

@@ -1,0 +1,216 @@
+{
+     "2004373": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "af554350532bc4df54d3d216e1427417",
+               "relevance": 46,
+               "state": "MA",
+               "bill number": "H1666",
+               "description": "Relative to capital punishment for the murder of law enforcement officers. The Judiciary.",
+               "state link": "https://malegislature.gov/Bills/194/H1666",
+               "legiscan link": "https://legiscan.com/MA/bill/H1666/2025",
+               "status": {
+                    "date": "02-27-2025",
+                    "label": "Refer",
+                    "action": "Senate concurred"
+               },
+               "date introduced": "02-27-2025",
+               "party": "R",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "David DeCoste",
+                         "co": "Alyson Sullivan-Almeida, Steven Xiarhos",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 3"
+               }
+          },
+          "raw": {
+               "bill_id": 2004373,
+               "change_hash": "af554350532bc4df54d3d216e1427417",
+               "session_id": 2182,
+               "session": {
+                    "session_id": 2182,
+                    "state_id": 21,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 0,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "194th General Court"
+               },
+               "url": "https://legiscan.com/MA/bill/H1666/2025",
+               "state_link": "https://malegislature.gov/Bills/194/H1666",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-02-27",
+               "progress": [
+                    {
+                         "date": "2025-02-27",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-27",
+                         "event": 9
+                    }
+               ],
+               "state": "MA",
+               "state_id": 21,
+               "bill_number": "H1666",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 51,
+               "current_body": "H",
+               "current_body_id": 51,
+               "title": "Relative to capital punishment for the murder of law enforcement officers",
+               "description": "Relative to capital punishment for the murder of law enforcement officers. The Judiciary.",
+               "pending_committee_id": 766,
+               "committee": {
+                    "committee_id": 766,
+                    "chamber": "J",
+                    "chamber_id": 103,
+                    "name": "Judiciary"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-02-27",
+                         "committee_id": 766,
+                         "chamber": "J",
+                         "chamber_id": 103,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-27",
+                         "action": "Referred to the Joint Committee on The Judiciary",
+                         "chamber": "H",
+                         "chamber_id": 51,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-27",
+                         "action": "Senate concurred",
+                         "chamber": "S",
+                         "chamber_id": 52,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 17648,
+                         "person_hash": "9drr17vv",
+                         "party_id": "2",
+                         "state_id": 21,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "David DeCoste",
+                         "first_name": "David",
+                         "middle_name": "F.",
+                         "last_name": "DeCoste",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-05-PLY",
+                         "ftm_eid": 25004607,
+                         "votesmart_id": 154081,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 501410,
+                         "ballotpedia": "David_DeCoste",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 21148,
+                         "person_hash": "fg2j2ju0",
+                         "party_id": "2",
+                         "state_id": 21,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Alyson Sullivan-Almeida",
+                         "first_name": "Alyson",
+                         "middle_name": "M.",
+                         "last_name": "Sullivan-Almeida",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-07-PLY",
+                         "ftm_eid": 45365204,
+                         "votesmart_id": 184824,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 669320,
+                         "ballotpedia": "Alyson_Sullivan",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22681,
+                         "person_hash": "79t8i8ni",
+                         "party_id": "2",
+                         "state_id": 21,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Steven Xiarhos",
+                         "first_name": "Steven",
+                         "middle_name": "George",
+                         "last_name": "Xiarhos",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-05-BAR",
+                         "ftm_eid": 50861728,
+                         "votesmart_id": 194775,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 743330,
+                         "ballotpedia": "Steven_Xiarhos",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3170519,
+                         "date": "2025-02-27",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/MA/text/H1666/id/3170519",
+                         "state_link": "https://malegislature.gov/Bills/194/H1666.pdf",
+                         "text_size": 150606,
+                         "text_hash": "a2fe953c4b89e8e5440566bce53e2bdc",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     }
+}

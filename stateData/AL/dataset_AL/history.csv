@@ -1,0 +1,178 @@
+bill_id,date,chamber,sequence,action
+2037849,2025-05-22,Senate,1,Prefiled
+2037849,2026-01-13,Senate,2,"Read for the first time and referred to the Senate Committee on Education Policy"
+2037849,2026-01-13,Senate,3,"Pending Senate Education Policy"
+2037850,2025-05-22,Senate,1,Prefiled
+2037850,2026-01-13,Senate,2,"Read for the first time and referred to the Senate Committee on Education Policy"
+2037850,2026-01-13,Senate,3,"Pending Senate Education Policy"
+2037851,2025-05-15,Senate,1,Prefiled
+2037851,2026-01-13,Senate,2,"Read for the first time and referred to the Senate Committee on Fiscal Responsibility and Economic Development"
+2037851,2026-01-13,Senate,3,"Pending Senate Fiscal Responsibility and Economic Development"
+2037852,2025-05-15,Senate,1,Prefiled
+2037852,2026-01-13,Senate,2,"Read for the first time and referred to the Senate Committee on Healthcare"
+2037852,2026-01-13,Senate,3,"Pending Senate Healthcare"
+2038122,2025-06-25,House,1,Prefiled
+2038122,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Ways and Means General Fund"
+2038122,2026-01-13,House,3,"Pending House Ways and Means General Fund"
+2038126,2025-06-25,House,1,Prefiled
+2038126,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Public Safety and Homeland Security"
+2038126,2026-01-13,House,3,"Pending House Public Safety and Homeland Security"
+2038128,2025-06-25,House,1,Prefiled
+2038128,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Judiciary"
+2038128,2026-01-13,House,3,"Pending House Judiciary"
+2038131,2025-06-25,House,1,Prefiled
+2038131,2026-01-13,House,2,"Read for the first time and referred to the House Committee on County and Municipal Government"
+2038131,2026-01-13,House,3,"Pending House County and Municipal Government"
+2038134,2025-06-25,House,1,Prefiled
+2038134,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Judiciary"
+2038134,2026-01-13,House,3,"Pending House Judiciary"
+2038136,2025-06-25,House,1,Prefiled
+2038136,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Judiciary"
+2038136,2026-01-13,House,3,"Pending House Judiciary"
+2038139,2025-06-25,House,1,Prefiled
+2038139,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Commerce and Small Business"
+2038139,2026-01-13,House,3,"Pending House Commerce and Small Business"
+2038144,2025-06-25,House,1,Prefiled
+2038144,2026-01-13,House,2,"Read for the first time and referred to the House Committee on State Government"
+2038144,2026-01-13,House,3,"Pending House State Government"
+2038147,2025-06-25,House,1,Prefiled
+2038147,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Ways and Means Education"
+2038147,2026-01-13,House,3,"Pending House Ways and Means Education"
+2038149,2025-06-25,House,1,Prefiled
+2038149,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Judiciary"
+2038149,2026-01-13,House,3,"Pending House Judiciary"
+2038152,2025-06-25,House,1,Prefiled
+2038152,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Judiciary"
+2038152,2026-01-13,House,3,"Pending House Judiciary"
+2038155,2025-06-25,House,1,Prefiled
+2038155,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Judiciary"
+2038155,2026-01-13,House,3,"Pending House Judiciary"
+2038158,2025-06-25,House,1,Prefiled
+2038158,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Ways and Means Education"
+2038158,2026-01-13,House,3,"Pending House Ways and Means Education"
+2038160,2025-06-25,House,1,Prefiled
+2038160,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Commerce and Small Business"
+2038160,2026-01-13,House,3,"Pending House Commerce and Small Business"
+2038164,2025-06-25,House,1,Prefiled
+2038164,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Judiciary"
+2038164,2026-01-13,House,3,"Pending House Judiciary"
+2038167,2025-06-25,House,1,Prefiled
+2038167,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Children and Senior Advocacy"
+2038167,2026-01-13,House,3,"Pending House Children and Senior Advocacy"
+2038170,2025-06-25,House,1,Prefiled
+2038170,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Constitution, Campaigns and Elections"
+2038170,2026-01-13,House,3,"Pending House Constitution, Campaigns and Elections"
+2038172,2025-06-25,House,1,Prefiled
+2038172,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Ethics and Campaign Finance"
+2038172,2026-01-13,House,3,"Pending House Ethics and Campaign Finance"
+2038175,2025-06-25,House,1,Prefiled
+2038175,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Education Policy"
+2038175,2026-01-13,House,3,"Pending House Education Policy"
+2038178,2025-06-25,House,1,Prefiled
+2038178,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Ways and Means Education"
+2038178,2026-01-13,House,3,"Pending House Ways and Means Education"
+2038180,2025-06-25,House,1,Prefiled
+2038180,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Public Safety and Homeland Security"
+2038180,2026-01-13,House,3,"Pending House Public Safety and Homeland Security"
+2038272,2025-06-17,Senate,1,Prefiled
+2038272,2026-01-13,Senate,2,"Read for the first time and referred to the Senate Committee on County and Municipal Government"
+2038272,2026-01-13,Senate,3,"Pending Senate County and Municipal Government"
+2038290,2025-06-17,Senate,1,Prefiled
+2038290,2026-01-13,Senate,2,"Read for the first time and referred to the Senate Committee on Finance and Taxation General Fund"
+2038290,2026-01-13,Senate,3,"Pending Senate Finance and Taxation General Fund"
+2038308,2025-06-17,Senate,1,Prefiled
+2038308,2026-01-13,Senate,2,"Read for the first time and referred to the Senate Committee on State Governmental Affairs"
+2038308,2026-01-13,Senate,3,"Pending Senate State Governmental Affairs"
+2038324,2025-06-17,Senate,1,Prefiled
+2038324,2026-01-13,Senate,2,"Read for the first time and referred to the Senate Committee on Local Legislation "
+2038324,2026-01-13,Senate,3,"Pending Senate Local Legislation "
+2038343,2025-06-17,Senate,1,Prefiled
+2038343,2026-01-13,Senate,2,"Read for the first time and referred to the Senate Committee on Education Policy"
+2038343,2026-01-13,Senate,3,"Pending Senate Education Policy"
+2038361,2025-06-17,Senate,1,Prefiled
+2038361,2026-01-13,Senate,2,"Read for the first time and referred to the Senate Committee on Healthcare"
+2038361,2026-01-13,Senate,3,"Pending Senate Healthcare"
+2039139,2025-07-09,Senate,1,Prefiled
+2039139,2026-01-13,Senate,2,"Read for the first time and referred to the Senate Committee on County and Municipal Government"
+2039139,2026-01-13,Senate,3,"Pending Senate County and Municipal Government"
+2041204,2025-08-01,Senate,1,Prefiled
+2041204,2026-01-13,Senate,2,"Read for the first time and referred to the Senate Committee on County and Municipal Government"
+2041204,2026-01-13,Senate,3,"Pending Senate County and Municipal Government"
+2041624,2025-08-11,House,1,Prefiled
+2041624,2026-01-13,House,2,"Read for the first time and referred to the House Committee on County and Municipal Government"
+2041624,2026-01-13,House,3,"Pending House County and Municipal Government"
+2041628,2025-08-11,House,1,Prefiled
+2041628,2026-01-13,House,2,"Read for the first time and referred to the House Committee on State Government"
+2041628,2026-01-13,House,3,"Pending House State Government"
+2041629,2025-08-11,House,1,Prefiled
+2041629,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Education Policy"
+2041629,2026-01-13,House,3,"Pending House Education Policy"
+2041633,2025-08-11,House,1,Prefiled
+2041633,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Education Policy"
+2041633,2026-01-13,House,3,"Pending House Education Policy"
+2041636,2025-08-11,House,1,Prefiled
+2041636,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Ways and Means Education"
+2041636,2026-01-13,House,3,"Pending House Ways and Means Education"
+2041640,2025-08-11,House,1,Prefiled
+2041640,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Judiciary"
+2041640,2026-01-13,House,3,"Pending House Judiciary"
+2041643,2025-08-11,House,1,Prefiled
+2041643,2026-01-13,House,2,"Read for the first time and referred to the House Committee on County and Municipal Government"
+2041643,2026-01-13,House,3,"Pending House County and Municipal Government"
+2041648,2025-08-11,House,1,Prefiled
+2041648,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Insurance"
+2041648,2026-01-13,House,3,"Pending House Insurance"
+2041651,2025-08-11,House,1,Prefiled
+2041651,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Judiciary"
+2041651,2026-01-13,House,3,"Pending House Judiciary"
+2041833,2025-08-14,House,1,Prefiled
+2041833,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Public Safety and Homeland Security"
+2041833,2026-01-13,House,3,"Pending House Public Safety and Homeland Security"
+2041834,2025-08-14,House,1,Prefiled
+2041834,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Ports, Waterways and Intermodal Transit"
+2041834,2026-01-13,House,3,"Pending House Ports, Waterways and Intermodal Transit"
+2041835,2025-08-14,House,1,Prefiled
+2041835,2026-01-13,House,2,"Read for the first time and referred to the House Committee on County and Municipal Government"
+2041835,2026-01-13,House,3,"Pending House County and Municipal Government"
+2041836,2025-08-14,House,1,Prefiled
+2041836,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Public Safety and Homeland Security"
+2041836,2026-01-13,House,3,"Pending House Public Safety and Homeland Security"
+2041837,2025-08-14,House,1,Prefiled
+2041837,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Judiciary"
+2041837,2026-01-13,House,3,"Pending House Judiciary"
+2041838,2025-08-14,House,1,Prefiled
+2041838,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Public Safety and Homeland Security"
+2041838,2026-01-13,House,3,"Pending House Public Safety and Homeland Security"
+2041839,2025-08-14,House,1,Prefiled
+2041839,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Health"
+2041839,2026-01-13,House,3,"Pending House Health"
+2041840,2025-08-14,House,1,Prefiled
+2041840,2026-01-13,House,2,"Read for the first time and referred to the House Committee on Public Safety and Homeland Security"
+2041840,2026-01-13,House,3,"Pending House Public Safety and Homeland Security"
+2041841,2025-08-12,Senate,1,Prefiled
+2041841,2026-01-13,Senate,2,"Read for the first time and referred to the Senate Committee on Finance and Taxation Education"
+2041841,2026-01-13,Senate,3,"Pending Senate Finance and Taxation Education"
+2042446,2025-08-19,Senate,1,Prefiled
+2042446,2025-08-21,Senate,2,"Read for the first time and referred to the Senate Committee on Fiscal Responsibility and Economic Development"
+2042446,2025-08-21,Senate,3,"Pending Senate Fiscal Responsibility and Economic Development"
+2042544,2025-08-20,Senate,1,Prefiled
+2042544,2025-08-21,Senate,2,"Read for the first time and referred to the Senate Committee on Fiscal Responsibility and Economic Development"
+2042544,2025-08-21,Senate,3,"Pending Senate Fiscal Responsibility and Economic Development"
+2042827,2025-08-27,Senate,1,Prefiled
+2042827,2025-08-27,Senate,2,"Read for the first time and referred to the Senate Committee on Finance and Taxation Education"
+2042827,2025-08-27,Senate,3,"Pending Senate Finance and Taxation Education"
+2042866,2025-08-28,House,1,Prefiled
+2042866,2025-08-28,House,2,"Read for the first time and referred to the House Committee on Judiciary"
+2042866,2025-08-28,House,3,"Pending House Judiciary"
+2042872,2025-08-28,House,1,Prefiled
+2042872,2025-08-28,House,2,"Read for the first time and referred to the House Committee on Ports, Waterways and Intermodal Transit"
+2042872,2025-08-28,House,3,"Pending House Ports, Waterways and Intermodal Transit"
+2042878,2025-08-28,Senate,1,Prefiled
+2042878,2025-08-28,Senate,2,"Read for the first time and referred to the Senate Committee on Judiciary"
+2042878,2025-08-28,Senate,3,"Pending Senate Judiciary"
+2042883,2025-08-28,House,1,Prefiled
+2042883,2025-08-28,House,2,"Read for the first time and referred to the House Committee on Insurance"
+2042883,2025-08-28,House,3,"Pending House Insurance"
+2043025,2025-08-28,Senate,1,Prefiled
+2043025,2025-09-02,Senate,2,"Read for the first time and referred to the Senate Committee on Tourism"
+2043025,2025-09-02,Senate,3,"Pending Senate Tourism"

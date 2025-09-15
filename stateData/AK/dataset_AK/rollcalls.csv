@@ -1,0 +1,423 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1912436,1485307,2025-02-10,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",19,0,0,1,20
+1912436,1531261,2025-03-31,House,"House: Second Reading Amendment No. 3 as amended",11,25,0,4,40
+1912436,1534765,2025-04-02,House,"House: Third Reading Final Passage",32,8,0,0,40
+1912436,1537282,2025-04-04,Senate,"Senate: Shall the Senate Concur in the House Amendment to SB 15 Effective Date(s)",20,0,0,0,20
+1912443,1592106,2025-05-02,House,"House: Third Reading Final Passage",22,17,0,1,40
+1912444,1565200,2025-05-05,House,"House: Second Reading Amendment No. 1",34,6,0,0,40
+1912444,1567843,2025-05-07,House,"House: Third Reading Final Passage",23,17,0,0,40
+1912444,1567844,2025-05-07,House,"House: Third Reading Effective Date",31,9,0,0,40
+1912446,1569699,2025-05-12,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",18,2,0,0,20
+1912460,1559589,2025-04-28,House,"House: Third Reading Final Passage",40,0,0,0,40
+1912461,1569748,2025-05-12,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",15,5,0,0,20
+1912464,1569313,2025-05-10,House,"House: Second Reading Amendment No. 1",15,23,0,2,40
+1912464,1569314,2025-05-10,House,"House: Second Reading Amendment No. 2",15,23,0,2,40
+1912464,1569315,2025-05-10,House,"House: Second Reading Amendment No. 3",16,21,0,3,40
+1912464,1569316,2025-05-10,House,"House: Second Reading Amendment No. 4",15,23,0,2,40
+1912464,1569317,2025-05-10,House,"House: Second Reading Amendment No. 4",15,23,0,2,40
+1912464,1570028,2025-05-12,House,"House: Third Reading Final Passage",25,15,0,0,40
+1912466,1555443,2025-04-23,Senate,"Senate: Third Reading - Final Passage",20,0,0,0,20
+1912467,1546506,2025-04-11,House,"House: Third Reading Final Passage",37,0,0,3,40
+1912467,1574728,2025-05-20,Senate,"Senate: Third Reading - Final Passage",19,0,0,1,20
+1912477,1548753,2025-04-15,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",14,6,0,0,20
+1912477,1574409,2025-05-20,House,"House: Third Reading Final Passage",24,16,0,0,40
+1912477,1574410,2025-05-20,House,"House: Third Reading Final Passage",24,16,0,0,40
+1912481,1573012,2025-05-18,House,"House: Third Reading Final Passage",29,10,0,1,40
+1912486,1573003,2025-05-18,House,"House: Second Reading Amendment No. 2",19,21,0,0,40
+1912486,1573004,2025-05-18,House,"House: Second Reading Amendment No. 2",19,21,0,0,40
+1912486,1573375,2025-05-19,House,"House: Third Reading Final Passage",23,17,0,0,40
+1912486,1573376,2025-05-19,House,"House: Third Reading Effective Date",27,13,0,0,40
+1912487,1572937,2025-05-16,House,"House: Third Reading Final Passage",39,0,0,1,40
+1912488,1527864,2025-03-26,House,"House: Third Reading Final Passage",39,0,0,1,40
+1912490,1563205,2025-04-30,House,"House: Second Reading Amendment No. 1",18,21,0,1,40
+1912490,1563206,2025-04-30,House,"House: Second Reading Amendment No. 2",18,21,0,1,40
+1912490,1563207,2025-04-30,House,"House: Second Reading Amendment No. 4",11,28,0,1,40
+1912490,1564694,2025-05-02,House,"House: Third Reading Final Passage",31,8,0,1,40
+1912490,1574428,2025-05-20,Senate,"Senate: Third Reading - Final Passage",20,0,0,0,20
+1912490,1574429,2025-05-20,House,"House: Concur",28,12,0,0,40
+1912495,1570725,2025-05-13,House,"House: Third Reading Final Passage",28,12,0,0,40
+1912496,1571492,2025-05-14,Senate,"Senate: Third Reading - Final Passage",20,0,0,0,20
+1912500,1558453,2025-04-25,House,"House: Second Reading Amendment No. 1",17,21,0,2,40
+1912500,1558454,2025-04-25,House,"House: Second Reading Amendment No. 2",18,21,0,1,40
+1912500,1558455,2025-04-25,House,"House: Second Reading Amendment No. 2",18,21,0,1,40
+1912500,1558456,2025-04-25,House,"House: Second Reading Amendment No. 3",17,22,0,1,40
+1912500,1558457,2025-04-25,House,"House: Second Reading Amendment No. 4",16,23,0,1,40
+1912500,1558458,2025-04-25,House,"House: Second Reading Amendment No. 6",16,22,0,2,40
+1912500,1558459,2025-04-25,House,"House: Second Reading Amendment No. 6",16,22,0,2,40
+1912500,1558460,2025-04-25,House,"House: Second Reading Amendment No. 10",16,21,0,3,40
+1912500,1558461,2025-04-25,House,"House: Second Reading Amendment No. 11 as amended",14,23,0,3,40
+1912500,1558462,2025-04-25,House,"House: Second Reading Amendment No. 12",10,27,0,3,40
+1912500,1558463,2025-04-25,House,"House: Second Reading Amendment No. 13",16,21,0,3,40
+1912500,1559317,2025-04-28,House,"House: Third Reading Final Passage",22,18,0,0,40
+1912500,1559318,2025-04-28,House,"House: Third Reading Effective Date",28,12,0,0,40
+1912506,1571691,2025-05-14,House,"House: Third Reading Final Passage",40,0,0,0,40
+1927296,1509181,2025-03-10,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",18,1,0,1,20
+1927296,1564662,2025-05-02,House,"House: Third Reading Final Passage",35,4,0,1,40
+1927640,1518720,2025-03-17,Senate,"Senate: Third Reading - Final Passage",17,0,0,3,20
+1927640,1571715,2025-05-14,House,"House: Second Reading Amendment No. 1",19,21,0,0,40
+1927640,1572917,2025-05-16,House,"House: Third Reading Final Passage",22,17,0,1,40
+1928103,1547942,2025-04-14,Senate,"Senate: Third Reading - Final Passage",20,0,0,0,20
+1928218,1504045,2025-03-03,Senate,"Senate: Third Reading - Final Passage",19,0,0,1,20
+1928218,1530260,2025-03-28,House,"House: Third Reading Final Passage",33,2,0,5,40
+1931942,1473097,2025-01-21,House,"House: Second Reading Final Passage",38,1,0,1,40
+1932175,1473100,2025-01-21,House,"House: Second Reading Final Passage",32,8,0,0,40
+1932407,1473099,2025-01-21,House,"House: Second Reading Final Passage",39,1,0,0,40
+1932635,1472889,2025-01-21,Senate,"Senate: Final Passage",20,0,0,0,20
+1932865,1473098,2025-01-21,House,"House: Second Reading Final Passage",39,1,0,0,40
+1933087,1472890,2025-01-21,Senate,"Senate: Final Passage",14,6,0,0,20
+1934573,1563282,2025-04-30,House,"House: Third Reading Final Passage",27,12,0,1,40
+1934649,1546379,2025-04-11,House,"House: amendment deadline 5:00 p.m., April 14",21,16,0,3,40
+1934649,1550379,2025-04-16,House,"House: Second Reading Amendment No. 1",23,17,0,0,40
+1934649,1550380,2025-04-16,House,"House: Second Reading Amendment No. 1",19,21,0,0,40
+1934649,1550381,2025-04-16,House,"House: Second Reading Amendment No. 2",19,21,0,0,40
+1934649,1554309,2025-04-22,House,"House: Third Reading Final Passage",33,6,0,1,40
+1934649,1555580,2025-04-23,House,"House: Third Reading Final Passage Reconsideration",35,5,0,0,40
+1934649,1567957,2025-05-07,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",20,0,0,0,20
+1934649,1569092,2025-05-09,House,"House: Concur",13,25,0,2,40
+1934649,1574266,2025-05-20,Senate,"Senate: Shall the Senate Adopt the Conference Committee Report Effective Date(s)",20,0,0,0,20
+1934649,1575241,2025-05-20,House,"House: Adopt",33,7,0,0,40
+1934649,1599334,2025-05-07,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",20,0,0,0,20
+1934686,1475189,2025-01-27,House,"House: Second Reading Amendment No. 1",17,21,0,2,40
+1934686,1475190,2025-01-27,House,"House: Second Reading Amendment No. 1",17,21,0,2,40
+1934686,1476940,2025-01-29,House,"House: Third Reading Final Passage Reconsideration",31,8,0,1,40
+1934686,1484222,2025-02-07,Senate,"Senate: Third Reading - Final Passage",19,0,0,1,20
+1934721,1546486,2025-04-11,House,"House: Third Reading Final Passage",35,2,0,3,40
+1934799,1519166,2025-03-17,House,"House: Third Reading Final Passage",35,4,0,1,40
+1934799,1569084,2025-05-09,Senate,"Senate: Third Reading - Final Passage",19,1,0,0,20
+1934799,1571472,2025-05-14,House,"House: Concur",37,3,0,0,40
+1934839,1546423,2025-04-11,House,"House: Second Reading Amendment No. 2",19,18,0,3,40
+1934839,1546424,2025-04-11,House,"House: Second Reading Amendment No. 3",9,28,0,3,40
+1934839,1550600,2025-04-16,House,"House: Third Reading Final Passage",34,6,0,0,40
+1934839,1559131,2025-04-28,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",19,1,0,0,20
+1934839,1559132,2025-04-28,Senate,"Senate: Third Reading - On Reconsideration Effective Date(s)",19,1,0,0,20
+1934839,1559435,2025-04-28,Senate,"Senate: Second Reading Amendment No. 7",7,13,0,0,20
+1934839,1559436,2025-04-28,Senate,"Senate: Second Reading Amendment No. 8",6,14,0,0,20
+1934839,1559438,2025-04-28,Senate,"Senate: Second Reading Amendment No. 11",6,14,0,0,20
+1934839,1559439,2025-04-28,Senate,"Senate: Second Reading Amendment No. 14",8,12,0,0,20
+1934839,1559440,2025-04-28,Senate,"Senate: Second Reading Amendment No. 16",7,13,0,0,20
+1934839,1559441,2025-04-28,Senate,"Senate: Second Reading Amendment No. 16",7,13,0,0,20
+1934839,1559442,2025-04-28,Senate,"Senate: Second Reading Amendment No. 17",5,15,0,0,20
+1934839,1559443,2025-04-28,Senate,"Senate: Second Reading Amendment No. 22",6,14,0,0,20
+1934839,1559444,2025-04-28,Senate,"Senate: Second Reading Amendment No. 24",8,11,0,1,20
+1934839,1559445,2025-04-28,Senate,"Senate: Second Reading Amendment No. 24",8,11,0,1,20
+1934839,1559446,2025-04-28,Senate,"Senate: Second Reading Amendment No. 9",7,13,0,0,20
+1934839,1559447,2025-04-28,Senate,"Senate: Second Reading Amendment No. 12",5,15,0,0,20
+1934839,1559448,2025-04-28,Senate,"Senate: Second Reading Amendment No. 12",5,15,0,0,20
+1934839,1559449,2025-04-28,Senate,"Senate: Second Reading Amendment No. 13",5,15,0,0,20
+1934839,1559450,2025-04-28,Senate,"Senate: Second Reading Amendment No. 26",20,0,0,0,20
+1934839,1562692,2025-04-30,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",17,3,0,0,20
+1934839,1562693,2025-04-30,House,"House: Concur",31,8,0,1,40
+1934839,1593391,2025-05-20,House,"House: Veto Override SENATE",46,14,0,0,60
+1935103,1546407,2025-04-11,House,"House: Adjourn to 10:30 a.m., April 14",16,21,0,3,40
+1935103,1546408,2025-04-11,House,"House: Second Reading Amendment No. 1",20,17,0,3,40
+1935103,1547913,2025-04-14,House,"House: Second Reading Amendment No. 4",36,4,0,0,40
+1935103,1547914,2025-04-14,House,"House: Second Reading Amendment No. 4",36,4,0,0,40
+1935103,1547915,2025-04-14,House,"House: Second Reading Amendment No. 5",34,6,0,0,40
+1935103,1547916,2025-04-14,House,"House: Second Reading Amendment No. 7/Table",19,21,0,0,40
+1935103,1547917,2025-04-14,House,"House: Second Reading Amendment No. 7",21,19,0,0,40
+1935103,1547918,2025-04-14,House,"House: Second Reading Rescind Previous Action in Adopting Amendment No. 1",20,20,0,0,40
+1935103,1547919,2025-04-14,House,"House: Second Reading Amendment No. 9",14,26,0,0,40
+1935103,1547920,2025-04-14,House,"House: Second Reading Amendment No. 10",20,20,0,0,40
+1935103,1547921,2025-04-14,House,"House: Second Reading Rescind Previous Action in Failing to Adopt Amendment No. 10",20,20,0,0,40
+1935103,1547922,2025-04-14,House,"House: Second Reading Amendment No. 11",26,14,0,0,40
+1935103,1547923,2025-04-14,House,"House: Second Reading Amendment No. 12",19,21,0,0,40
+1935103,1547924,2025-04-14,House,"House: Second Reading Amendment No. 13",19,21,0,0,40
+1935103,1547925,2025-04-14,House,"House: Second Reading Amendment No. 14",13,27,0,0,40
+1935103,1547926,2025-04-14,House,"House: Second Reading Amendment No. 15",16,24,0,0,40
+1935103,1547927,2025-04-14,House,"House: Second Reading Amendment No. 17",19,21,0,0,40
+1935103,1547928,2025-04-14,House,"House: Second Reading Amendment No. 20 as amended",21,19,0,0,40
+1935103,1547929,2025-04-14,House,"House: Second Reading Amendment No. 22",19,20,0,1,40
+1935103,1547930,2025-04-14,House,"House: Second Reading Amendment No. 23",24,16,0,0,40
+1935103,1547931,2025-04-14,House,"House: Second Reading Amendment No. 25",17,23,0,0,40
+1935103,1547932,2025-04-14,House,"House: Second Reading Amendment No. 25",17,23,0,0,40
+1935103,1547933,2025-04-14,House,"House: Second Reading Amendment No. 26",17,23,0,0,40
+1935103,1547934,2025-04-14,House,"House: Second Reading Amendment No. 27",11,29,0,0,40
+1935103,1547935,2025-04-14,House,"House: Second Reading Amendment No. 30",26,12,0,2,40
+1935103,1547936,2025-04-14,House,"House: Second Reading Amendment No. 32",10,30,0,0,40
+1935103,1547937,2025-04-14,House,"House: Second Reading Amendment No. 33 as amended/Table",36,4,0,0,40
+1935103,1549390,2025-04-15,House,"House: Second Reading Amendment No. 35",17,23,0,0,40
+1935103,1549391,2025-04-15,House,"House: Second Reading Amendment No. 1 to Amendment No. 36",32,8,0,0,40
+1935103,1549392,2025-04-15,House,"House: Second Reading Amendment No. 36 as amended",25,15,0,0,40
+1935103,1549393,2025-04-15,House,"House: Second Reading Amendment No. 37",18,22,0,0,40
+1935103,1549394,2025-04-15,House,"House: Second Reading Amendment No. 37",18,22,0,0,40
+1935103,1549395,2025-04-15,House,"House: Second Reading Amendment No. 40",19,21,0,0,40
+1935103,1549396,2025-04-15,House,"House: Second Reading Amendment No. 40",19,21,0,0,40
+1935103,1549397,2025-04-15,House,"House: Second Reading Amendment No. 42",19,21,0,0,40
+1935103,1549398,2025-04-15,House,"House: Second Reading Amendment No. 43",20,20,0,0,40
+1935103,1549399,2025-04-15,House,"House: Second Reading Amendment No. 47",37,3,0,0,40
+1935103,1549400,2025-04-15,House,"House: Second Reading Amendment No. 47",37,3,0,0,40
+1935103,1549401,2025-04-15,House,"House: Second Reading Amendment No. 1 to Amendment No. 50/Out of Order",20,20,0,0,40
+1935103,1549402,2025-04-15,House,"House: Second Reading Amendment No. 1 to Amendment No. 50",16,24,0,0,40
+1935103,1549403,2025-04-15,House,"House: Second Reading Amendment No. 50 as amended",20,20,0,0,40
+1935103,1549404,2025-04-15,House,"House: Second Reading Amendment No. 51/Withdraw",19,21,0,0,40
+1935103,1549405,2025-04-15,House,"House: Second Reading Amendment No. 51/Withdraw",19,21,0,0,40
+1935103,1549406,2025-04-15,House,"House: Second Reading Amendment No. 51/Table",19,21,0,0,40
+1935103,1549407,2025-04-15,House,"House: Second Reading Amendment No. 57",38,2,0,0,40
+1935103,1549408,2025-04-15,House,"House: Second Reading Amendment No. 57",38,2,0,0,40
+1935103,1549409,2025-04-15,House,"House: Second Reading Amendment No. 58",32,8,0,0,40
+1935103,1549410,2025-04-15,House,"House: Second Reading Amendment No. 59",19,21,0,0,40
+1935103,1549411,2025-04-15,House,"House: Second Reading Amendment No. 61",17,23,0,0,40
+1935103,1549412,2025-04-15,House,"House: Second Reading Amendment No. 61",17,23,0,0,40
+1935103,1549413,2025-04-15,House,"House: Second Reading Amendment No. 62",19,21,0,0,40
+1935103,1549414,2025-04-15,House,"House: Second Reading Amendment No. 63",18,22,0,0,40
+1935103,1549415,2025-04-15,House,"House: Second Reading Amendment No. 64",19,21,0,0,40
+1935103,1549416,2025-04-15,House,"House: Second Reading Amendment No. 65",19,21,0,0,40
+1935103,1549417,2025-04-15,House,"House: Second Reading Rescind Previous Action in Failing to Adopt Amendment No. 67",20,20,0,0,40
+1935103,1549418,2025-04-15,House,"House: Second Reading Rescind Previous Action in Failing to Adopt Amendment No. 67",20,20,0,0,40
+1935103,1549419,2025-04-15,House,"House: Second Reading Amendment No. 51",15,25,0,0,40
+1935103,1549420,2025-04-15,House,"House: Second Reading Amendment No. 72",19,21,0,0,40
+1935103,1549421,2025-04-15,House,"House: Second Reading Amendment No. 73",19,21,0,0,40
+1935103,1549422,2025-04-15,House,"House: Second Reading Amendment No. 74 as amended",17,23,0,0,40
+1935103,1549423,2025-04-15,House,"House: Second Reading Amendment No. 76",20,20,0,0,40
+1935103,1549424,2025-04-15,House,"House: Second Reading Amendment No. 78 as amended",19,21,0,0,40
+1935103,1592107,2025-04-16,House,"House: Third Reading Final Passage",21,19,0,0,40
+1935103,1592108,2025-04-16,House,"House: Third Reading Constitutional Budget Reserve Appropriations",21,19,0,0,40
+1935103,1592109,2025-04-16,House,"House: Third Reading Effective Date",25,15,0,0,40
+1935103,1592110,2025-05-07,Senate,"Senate: Second Reading Amendment No. 2",6,14,0,0,20
+1935103,1592111,2025-05-07,Senate,"Senate: Second Reading Amendment No. 5",6,14,0,0,20
+1935103,1592112,2025-05-07,Senate,"Senate: Second Reading Amendment No. 6",19,1,0,0,20
+1935103,1592113,2025-05-07,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",16,4,0,0,20
+1935103,1592114,2025-05-09,House,"House: Concur",11,27,0,2,40
+1935103,1592115,2025-05-20,Senate,"Senate: Shall the Senate Adopt the Conference Committee Report Effective Date(s)",17,3,0,0,20
+1935103,1592116,2025-05-20,Senate,"Senate: Adopt Constitutional Budget Reserve Fund Section(s)",18,2,0,0,20
+1935103,1592117,2025-05-20,House,"House: Adopt",23,17,0,0,40
+1935103,1592118,2025-05-20,House,"House: Adopt Constitutional Budget Reserve Appropriations",22,18,0,0,40
+1935103,1592119,2025-05-20,House,"House: Adopt Effective Date",27,13,0,0,40
+1935141,1572882,2025-05-16,House,"House: Third Reading Final Passage",39,0,0,1,40
+1935214,1536437,2025-04-03,House,"House: Third Reading Final Passage",21,19,0,0,40
+1935214,1536438,2025-04-03,House,"House: Third Reading Constitutional Budget Reserve Appropriations",21,19,0,0,40
+1935214,1536439,2025-04-03,House,"House: Third Reading Constitutional Budget Reserve Appropriations",21,19,0,0,40
+1940572,1491509,2025-02-17,House,"House: Third Reading Final Passage",36,0,0,4,40
+1940572,1500811,2025-02-26,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",18,0,0,2,20
+1940708,1569683,2025-05-12,Senate,"Senate: Second Reading Amendment No. 2",17,3,0,0,20
+1940708,1569684,2025-05-12,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",14,6,0,0,20
+1940795,1555521,2025-04-23,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",18,2,0,0,20
+1940795,1574400,2025-05-20,House,"House: Third Reading Final Passage",30,10,0,0,40
+1940927,1549130,2025-04-15,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",20,0,0,0,20
+1940927,1549131,2025-04-15,Senate,"Senate: Third Reading - On Reconsideration Effective Date(s)",20,0,0,0,20
+1940927,1569953,2025-05-12,House,"House: Second Reading Amendment No. 1 to Amendment No. 2",17,22,0,1,40
+1940927,1569954,2025-05-12,House,"House: Second Reading Amendment No. 1 to Amendment No. 2",17,22,0,1,40
+1940927,1569955,2025-05-12,House,"House: Second Reading Amendment No. 4",16,24,0,0,40
+1940927,1569956,2025-05-12,House,"House: Second Reading Amendment No. 5",19,21,0,0,40
+1940927,1569957,2025-05-12,House,"House: Second Reading Amendment No. 6",19,21,0,0,40
+1940927,1569958,2025-05-12,House,"House: Second Reading Amendment No. 7",19,21,0,0,40
+1940927,1569959,2025-05-12,House,"House: Second Reading Amendment No. 7",19,21,0,0,40
+1940927,1569960,2025-05-12,House,"House: Second Reading Amendment No. 8",20,20,0,0,40
+1940927,1569961,2025-05-12,House,"House: Second Reading Amendment No. 10",15,25,0,0,40
+1940927,1570743,2025-05-13,House,"House: Third Reading Final Passage",21,19,0,0,40
+1940927,1570744,2025-05-13,House,"House: Third Reading Effective Date",22,18,0,0,40
+1941060,1494166,2025-02-19,House,"House: Discharge from Education Committee",21,18,0,1,40
+1941060,1494167,2025-02-19,House,"House: Discharge from Education Committee",21,18,0,1,40
+1941060,1496608,2025-02-21,House,"House: Bill to Calendar from Rules",18,20,0,2,40
+1941060,1497908,2025-02-24,House,"House: Bill to Calendar from Rules",19,19,0,2,40
+1941060,1512314,2025-03-10,House,"House: Set Amendment Deadline of noon",21,19,0,0,40
+1941060,1512315,2025-03-10,House,"House: Second Reading Amendment No. 8",15,25,0,0,40
+1941060,1512316,2025-03-10,House,"House: Second Reading Amendment No. 9",19,21,0,0,40
+1941060,1512317,2025-03-10,House,"House: Second Reading Amendment No. 9",19,21,0,0,40
+1941060,1512318,2025-03-10,House,"House: Second Reading Amendment No. 11",19,21,0,0,40
+1941060,1512319,2025-03-10,House,"House: Second Reading Amendment No. 13",20,20,0,0,40
+1941060,1512320,2025-03-10,House,"House: Second Reading Amendment No. 14",18,21,0,1,40
+1941060,1512321,2025-03-10,House,"House: Second Reading Amendment No. 20",17,23,0,0,40
+1941060,1512322,2025-03-10,House,"House: Second Reading Amendment No. 20",17,23,0,0,40
+1941060,1512323,2025-03-10,House,"House: Second Reading Amendment No. 25",19,21,0,0,40
+1941060,1512324,2025-03-10,House,"House: Second Reading Amendment No. 26",19,21,0,0,40
+1941060,1512325,2025-03-10,House,"House: Second Reading Amendment No. 26",19,21,0,0,40
+1941060,1512326,2025-03-10,House,"House: Second Reading Amendment No. 29",19,21,0,0,40
+1941060,1512327,2025-03-10,House,"House: Second Reading Amendment No. 31",19,21,0,0,40
+1941060,1512328,2025-03-10,House,"House: Second Reading Amendment No. 31",19,21,0,0,40
+1941060,1512329,2025-03-10,House,"House: Second Reading Amendment No. 27",2,38,0,0,40
+1941060,1512330,2025-03-10,House,"House: Second Reading Amendment No. 33",9,31,0,0,40
+1941060,1512331,2025-03-10,House,"House: Second Reading Amendment No. 34",19,21,0,0,40
+1941060,1512332,2025-03-10,House,"House: Second Reading Amendment No. 34",19,21,0,0,40
+1941060,1512333,2025-03-10,House,"House: Second Reading Amendment No. 41",25,15,0,0,40
+1941060,1512334,2025-03-10,House,"House: Second Reading Amendment No. 14",19,21,0,0,40
+1941060,1512335,2025-03-10,House,"House: Second Reading Amendment No. 45",19,21,0,0,40
+1941060,1512336,2025-03-10,House,"House: Second Reading Amendment No. 47",19,21,0,0,40
+1941060,1512337,2025-03-10,House,"House: Second Reading Amendment No. 51",19,21,0,0,40
+1941060,1512338,2025-03-10,House,"House: Second Reading Amendment No. 51",19,21,0,0,40
+1941060,1512339,2025-03-10,House,"House: Second Reading Amendment No. 52",19,21,0,0,40
+1941060,1512340,2025-03-10,House,"House: Second Reading Amendment No. 53",18,22,0,0,40
+1941060,1515356,2025-03-11,House,"House: Second Reading Amendment No. 12",19,21,0,0,40
+1941060,1515357,2025-03-11,House,"House: Second Reading Amendment No. 16",19,21,0,0,40
+1941060,1515358,2025-03-11,House,"House: Second Reading Amendment No. 42",15,25,0,0,40
+1941060,1515359,2025-03-11,House,"House: Second Reading Amendment No. 23",30,10,0,0,40
+1941060,1515360,2025-03-11,House,"House: Second Reading Amendment No. 24 as amended",19,21,0,0,40
+1941060,1515361,2025-03-11,House,"House: Second Reading Rescind Previous Action in failing to adopt Amendment No. 51",20,20,0,0,40
+1941060,1515362,2025-03-11,House,"House: Second Reading Rescind Previous Action in failing to adopt Amendment No. 12",20,20,0,0,40
+1941060,1515363,2025-03-11,House,"House: Second Reading Amendment No. 2",14,26,0,0,40
+1941060,1515364,2025-03-11,House,"House: Second Reading Amendment No. 2",14,26,0,0,40
+1941060,1515365,2025-03-11,House,"House: Second Reading Amendment No. 3",19,21,0,0,40
+1941060,1515366,2025-03-11,House,"House: Second Reading Amendment No. 5",19,21,0,0,40
+1941060,1516443,2025-03-12,House,"House: Third Reading Return to Education Committee",19,21,0,0,40
+1941060,1516444,2025-03-12,House,"House: Third Reading Final Passage",24,16,0,0,40
+1941060,1516445,2025-03-12,House,"House: Third Reading Effective Date",38,2,0,0,40
+1941060,1546119,2025-04-11,Senate,"Senate: Third Reading - Final Passage",11,9,0,0,20
+1941060,1546120,2025-04-11,Senate,"Senate: Effective Date Clause(s)",20,0,0,0,20
+1941060,1546121,2025-04-11,Senate,"Senate: Effective Date Clause(s)",20,0,0,0,20
+1941060,1546342,2025-04-11,Senate,"Senate: Second Reading Amendment No. 4",6,14,0,0,20
+1941060,1546343,2025-04-11,Senate,"Senate: Second Reading Amendment No. 4",6,14,0,0,20
+1941060,1546456,2025-04-11,House,"House: Concur",21,16,0,3,40
+1941060,1546457,2025-04-11,House,"House: Effective Date Concur",27,10,0,3,40
+1941060,1556378,2025-04-22,House,"House: Veto Override",33,27,0,0,60
+1941105,1498299,2025-02-24,Senate,"Senate: Third Reading - Final Passage",19,0,0,1,20
+1941105,1565417,2025-05-05,House,"House: Third Reading Final Passage",40,0,0,0,40
+1942388,1592120,2025-04-25,House,"House: Third Reading Final Passage",29,8,0,3,40
+1942388,1592121,2025-04-28,House,"House: Third Reading Final Passage Reconsideration",32,8,0,0,40
+1942388,1592122,2025-05-20,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",20,0,0,0,20
+1942388,1592123,2025-05-20,House,"House: Concur",34,6,0,0,40
+1942660,1571827,2025-05-14,House,"House: Third Reading Final Passage",40,0,0,0,40
+1946322,1518126,2025-03-14,House,"House: Second Reading Amendment No. 1",18,21,0,1,40
+1946322,1519263,2025-03-17,House,"House: Third Reading Final Passage",33,6,0,1,40
+1950277,1524964,2025-03-24,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",20,0,0,0,20
+1950277,1571731,2025-05-14,House,"House: Second Reading Amendment No. 1",14,26,0,0,40
+1950277,1572914,2025-05-16,House,"House: Third Reading Final Passage",38,0,0,2,40
+1950277,1572915,2025-05-16,House,"House: Third Reading Final Passage Reconsideration",39,0,0,1,40
+1950320,1592124,2025-05-07,Senate,"Senate: Second Reading Amendment to Amendment No. 1",12,8,0,0,20
+1950320,1592125,2025-05-07,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",14,6,0,0,20
+1950369,1497786,2025-02-24,Senate,"Senate: Third Reading - Final Passage",19,0,0,1,20
+1950508,1546521,2025-04-11,House,"House: Third Reading Final Passage",35,2,0,3,40
+1950508,1548038,2025-04-14,House,"House: Third Reading Final Passage Reconsideration",37,3,0,0,40
+1950600,1546517,2025-04-11,House,"House: Second Reading Amendment No. 1",12,25,0,3,40
+1950600,1550698,2025-04-16,House,"House: Third Reading Final Passage",35,5,0,0,40
+1950600,1550699,2025-04-16,House,"House: Third Reading Take Up Reconsideration on the Same Day",35,5,0,0,40
+1950600,1550700,2025-04-16,House,"House: Third Reading Final Passage Reconsideration",35,5,0,0,40
+1950600,1571675,2025-05-14,Senate,"Senate: Third Reading - Final Passage Effective Date(s) Letter of Intent",20,0,0,0,20
+1950600,1572913,2025-05-16,House,"House: Concur",30,9,0,1,40
+1950746,1569336,2025-05-10,House,"House: Second Reading Amendment No. 1",17,21,0,2,40
+1950746,1569337,2025-05-10,House,"House: Second Reading Amendment No. 2 Divide the Question",15,23,0,2,40
+1950746,1569338,2025-05-10,House,"House: Second Reading Amendment No. 2 Divide the Question",15,23,0,2,40
+1950746,1569339,2025-05-10,House,"House: Second Reading Amendment No. 2 as amended",21,17,0,2,40
+1950746,1569340,2025-05-10,House,"House: Second Reading Amendment No. 4",16,22,0,2,40
+1950746,1569341,2025-05-10,House,"House: Second Reading Amendment No. 5",13,25,0,2,40
+1950746,1569342,2025-05-10,House,"House: Second Reading Amendment No. 6",17,21,0,2,40
+1950746,1569343,2025-05-10,House,"House: Second Reading Amendment No. 9",17,21,0,2,40
+1950746,1569344,2025-05-10,House,"House: Second Reading Amendment No. 11",16,22,0,2,40
+1950746,1569345,2025-05-10,House,"House: Second Reading Amendment No. 12",17,21,0,2,40
+1950746,1569346,2025-05-10,House,"House: Second Reading Amendment No. 15",15,23,0,2,40
+1950746,1569935,2025-05-10,House,"House: Second Reading Amendment No. 5",13,25,0,2,40
+1950746,1570058,2025-05-12,House,"House: Point of Order/Ruled Out of Order Sustain Ruling of the Chair",21,19,0,0,40
+1950746,1570059,2025-05-12,House,"House: Third Reading Final Passage",21,19,0,0,40
+1950746,1570060,2025-05-12,House,"House: Third Reading Effective Date",21,19,0,0,40
+1956948,1487397,2025-02-07,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",19,0,0,1,20
+1956948,1503080,2025-02-28,House,"House: Third Reading Final Passage",36,0,0,4,40
+1957305,1564710,2025-05-02,Senate,"Senate: Third Reading - Final Passage Court Rule(s) Effective Date(s)",17,0,0,3,20
+1967100,1565169,2025-05-05,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",18,1,0,1,20
+1967100,1572903,2025-05-16,House,"House: Third Reading Final Passage",39,0,0,1,40
+1967180,1565099,2025-05-05,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",18,1,0,1,20
+1967180,1575093,2025-05-16,House,"House: Third Reading Final Passage",33,5,0,2,40
+1967180,1575094,2025-05-16,House,"House: Third Reading Final Passage Reconsideration",35,4,0,1,40
+1967357,1558576,2025-04-25,House,"House: Third Reading Final Passage",27,10,0,3,40
+1967357,1559620,2025-04-28,House,"House: Third Reading Final Passage Reconsideration",26,14,0,0,40
+1967357,1570485,2025-05-13,Senate,"Senate: Third Reading - Final Passage",15,5,0,0,20
+1967440,1573312,2025-05-19,House,"House: Third Reading Final Passage",39,0,0,1,40
+1967440,1573313,2025-05-19,House,"House: Third Reading Final Passage Reconsideration",39,0,0,1,40
+1967522,1565109,2025-05-05,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",16,3,0,1,20
+1967522,1572953,2025-05-17,House,"House: Third Reading Final Passage",27,12,0,1,40
+1971253,1569108,2025-05-09,Senate,"Senate: Third Reading - Final Passage",20,0,0,0,20
+1971253,1573001,2025-05-18,House,"House: Third Reading Final Passage",32,7,0,1,40
+1977773,1518514,2025-03-17,Senate,"Senate: Third Reading - Final Passage",17,0,0,3,20
+1977773,1563301,2025-04-30,House,"House: Third Reading Final Passage",39,0,0,1,40
+1977773,1565162,2025-05-05,Senate,"Senate: Shall the Senate Concur in the House Amendment to SJR 10",19,0,0,1,20
+1984559,1548818,2025-04-15,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",16,4,0,0,20
+1984559,1565163,2025-05-05,House,"House: Second Reading\Table",11,29,0,0,40
+1984559,1567929,2025-05-07,House,"House: Third Reading Final Passage",26,14,0,0,40
+1984559,1567930,2025-05-07,House,"House: Third Reading Effective Date",32,8,0,0,40
+1984700,1525219,2025-03-24,House,"House: Third Reading Final Passage",33,4,0,3,40
+1984700,1565411,2025-05-05,Senate,"Senate: Third Reading - Final Passage",13,6,0,1,20
+1984700,1567997,2025-05-07,House,"House: Concur",34,6,0,0,40
+1985139,1558323,2025-04-25,House,"House: Third Reading Final Passage",37,0,0,3,40
+1985139,1572904,2025-05-16,Senate,"Senate: Third Reading - Final Passage",20,0,0,0,20
+1985212,1537484,2025-04-04,Senate,"Senate: Third Reading - Final Passage",20,0,0,0,20
+1985212,1569139,2025-05-09,House,"House: Third Reading Final Passage",38,0,0,2,40
+1989325,1525239,2025-03-24,House,"House: Third Reading Final Passage",38,0,0,2,40
+1989325,1573474,2025-05-19,Senate,"Senate: Third Reading - Final Passage Court Rule(s) Effective Date(s)",20,0,0,0,20
+1989325,1582911,2025-05-20,House,"House: Concur",40,0,0,0,40
+1992048,1571820,2025-05-14,House,"House: Second Reading Amendment No. 1",19,21,0,0,40
+1992048,1571821,2025-05-14,House,"House: Second Reading Rescind Previous Action in adopting Resources CS",21,19,0,0,40
+1992048,1572922,2025-05-16,House,"House: Second Reading Amendment No. 5",18,21,0,1,40
+1992048,1572923,2025-05-16,House,"House: Second Reading Amendment No. 5",18,21,0,1,40
+1992048,1572924,2025-05-16,House,"House: Second Reading Amendment No. 7",17,22,0,1,40
+1992048,1572925,2025-05-16,House,"House: Second Reading Amendment No. 9",18,21,0,1,40
+1992048,1572926,2025-05-16,House,"House: Second Reading Amendment No. 9",18,21,0,1,40
+1992048,1572927,2025-05-16,House,"House: Second Reading Amendment No. 10",17,22,0,1,40
+1992048,1572928,2025-05-16,House,"House: Second Reading Amendment No. 12",16,23,0,1,40
+1992048,1572929,2025-05-16,House,"House: Second Reading Amendment No. 13",18,21,0,1,40
+1992048,1572962,2025-05-17,House,"House: Third Reading Final Passage",22,17,0,1,40
+1992169,1573008,2025-05-18,House,"House: Second Reading Amendment No. 1",23,17,0,0,40
+1992169,1573009,2025-05-18,House,"House: Second Reading Amendment No. 2",17,23,0,0,40
+1992169,1573010,2025-05-18,House,"House: Third Reading Final Passage",40,0,0,0,40
+1992632,1572234,2025-05-12,House,"House: Third Reading Final Passage",38,2,0,0,40
+1992632,1574778,2025-05-20,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",20,0,0,0,20
+1992632,1574779,2025-05-20,House,"House: Concur",39,1,0,0,40
+1992632,1574780,2025-05-20,House,"House: Effective Date Concur",40,0,0,0,40
+1992632,1575050,2025-05-20,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",20,0,0,0,20
+2008002,1572949,2025-05-17,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",19,0,0,1,20
+2008002,1573344,2025-05-19,House,"House: Third Reading Final Passage",40,0,0,0,40
+2008002,1573690,2025-05-19,Senate,"Senate: Shall the Senate Concur in the House Amendment(s) to CSSB 132(FIN) Effective Date(s)",20,0,0,0,20
+2009125,1569674,2025-05-12,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",19,0,0,1,20
+2009125,1573005,2025-05-18,House,"House: Second Reading Advance to Third Reading on the Same Day",33,7,0,0,40
+2009125,1573006,2025-05-18,House,"House: Third Reading Final Passage",40,0,0,0,40
+2009125,1573007,2025-05-18,House,"House: Third Reading Final Passage Reconsideration",40,0,0,0,40
+2009932,1570795,2025-05-13,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",20,0,0,0,20
+2010986,1565076,2025-05-05,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",19,0,0,1,20
+2010986,1574635,2025-05-20,House,"House: Third Reading Final Passage",40,0,0,0,40
+2011071,1569146,2025-05-09,Senate,"Senate: Third Reading - Final Passage",14,6,0,0,20
+2011071,1572957,2025-05-17,House,"House: Second Reading Amendment No. 1",36,1,0,3,40
+2011071,1573000,2025-05-18,House,"House: Third Reading Final Passage",27,13,0,0,40
+2011071,1573824,2025-05-19,Senate,"Senate: Shall the Senate Concur in the House Amendment(s) to CSSJR 15 (HSS)",14,6,0,0,20
+2012471,1568004,2025-05-07,House,"House: Third Reading Final Passage",40,0,0,0,40
+2012471,1574472,2025-05-20,Senate,"Senate: Third Reading - Final Passage",20,0,0,0,20
+2012560,1568005,2025-05-07,House,"House: Third Reading Final Passage",40,0,0,0,40
+2012560,1574440,2025-05-20,Senate,"Senate: Discharge from Rules Committee",6,14,0,0,20
+2013182,1573711,2025-05-19,House,"House: Second Reading Final Passage",38,0,0,2,40
+2013182,1573712,2025-05-19,House,"House: Second Reading Final Passage Reconsideration",39,0,0,1,40
+2013235,1558527,2025-04-25,House,"House: Third Reading Final Passage",37,0,0,3,40
+2013235,1569059,2025-05-09,Senate,"Senate: Third Reading - Final Passage",20,0,0,0,20
+2013235,1570048,2025-05-12,House,"House: Concur",35,5,0,0,40
+2013235,1597280,2025-05-09,Senate,"Senate: Third Reading - Final Passage",20,0,0,0,20
+2017284,1569046,2025-05-09,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",20,0,0,0,20
+2017284,1572963,2025-05-17,House,"House: Third Reading Final Passage",37,0,0,3,40
+2019073,1572947,2025-05-17,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",19,0,0,1,20
+2019073,1574549,2025-05-20,House,"House: Third Reading Final Passage",40,0,0,0,40
+2019073,1574550,2025-05-20,Senate,"Senate: Shall the Senate Concur in the House Amendment(s) to CSSB 156(FIN) Effective Date(s)",19,1,0,0,20
+2019101,1570067,2025-05-12,Senate,"Senate: Third Reading - Final Passage",20,0,0,0,20
+2019101,1572960,2025-05-17,House,"House: Second Reading Amendment No. 1",16,21,0,3,40
+2019101,1572999,2025-05-18,House,"House: Third Reading Final Passage",34,6,0,0,40
+2019127,1569982,2025-05-12,Senate,"Senate: Third Reading - Final Passage",20,0,0,0,20
+2019127,1574617,2025-05-20,House,"House: Third Reading Final Passage",40,0,0,0,40
+2021075,1572952,2025-05-17,House,"House: Third Reading Final Passage",34,5,0,1,40
+2021075,1574517,2025-05-20,Senate,"Senate: Third Reading - Final Passage",20,0,0,0,20
+2021075,1575346,2025-05-20,Senate,"Senate: Third Reading - Final Passage",20,0,0,0,20
+2021195,1569964,2025-05-12,House,"House: Third Reading Final Passage",40,0,0,0,40
+2022276,1569974,2025-05-12,House,"House: Third Reading Final Passage",36,4,0,0,40
+2022650,1546246,2025-04-11,Senate,"Senate: Final Passage",20,0,0,0,20
+2022650,1546503,2025-04-11,House,"House: Second Reading Final Passage",25,12,0,3,40
+2022838,1565180,2025-05-05,Senate,"Senate: Third Reading - Final Passage",19,0,0,1,20
+2022838,1572955,2025-05-17,House,"House: Second Reading Adopt Resources HCS",22,17,0,1,40
+2022838,1572956,2025-05-17,House,"House: Second Reading Amendment No. 1 as amended",18,21,0,1,40
+2022838,1573002,2025-05-18,House,"House: Third Reading Final Passage",38,2,0,0,40
+2022838,1573709,2025-05-19,Senate,"Senate: Shall the Senate Concur in the House Amendment(s) to CSSJR 19(RES)",20,0,0,0,20
+2023994,1569103,2025-05-09,House,"House: Third Reading Final Passage",38,0,0,2,40
+2024092,1564747,2025-05-02,Senate,"Senate: Final Passage",16,0,0,4,20
+2026124,1565413,2025-05-05,Senate,"Senate: Third Reading - Final Passage Effective Date(s)",19,0,0,1,20
+2026124,1569334,2025-05-10,House,"House: Third Reading Final Passage",31,7,0,2,40
+2026124,1572959,2025-05-12,House,"House: Third Reading Final Passage Reconsideration",30,10,0,0,40
+2026124,1599277,2025-08-02,Senate,"Senate: Schwanke, Stapp, Tilton, Tomaszewski, Underwood, Vance SENATE SB 183 Veto Override",16,3,0,1,20
+2026684,1559305,2025-04-28,Senate,"Senate: Final Passage",20,0,0,0,20
+2026684,1562740,2025-04-30,House,"House: Second Reading Final Passage",36,3,0,1,40
+2027607,1569335,2025-05-10,House,"House: Second Reading Final Passage",38,0,0,2,40
+2027607,1573820,2025-05-19,Senate,"Senate: Final Passage",20,0,0,0,20
+2029343,1570663,2025-05-13,House,"House: Third Reading Final Passage",40,0,0,0,40
+2029343,1573821,2025-05-19,Senate,"Senate: Third Reading - Final Passage",20,0,0,0,20
+2030100,1573808,2025-05-19,Senate,"Senate: Final Passage",16,4,0,0,20
+2030166,1570920,2025-05-13,House,"House: Second Reading Final Passage Special Order of Business",21,19,0,0,40
+2030227,1571724,2025-05-14,Senate,"Senate: Final Passage",20,0,0,0,20
+2030227,1572905,2025-05-16,House,"House: Special Order of Business",30,9,0,1,40
+2030325,1573704,2025-05-19,Senate,"Senate: Final Passage",20,0,0,0,20
+2030325,1574590,2025-05-20,House,"House: Special Order of Business",40,0,0,0,40
+2032232,1574581,2025-05-20,Senate,"Senate: Final Passage",20,0,0,0,20
+2032232,1574582,2025-05-20,House,"House: Special Order of Business",30,10,0,0,40
+2032325,1574583,2025-05-20,Senate,"Senate: Final Passage",20,0,0,0,20
+2032325,1574584,2025-05-20,House,"House: Special Order of Business",36,4,0,0,40
+2041329,1599240,2025-08-02,House,"House: Final Passage",21,19,0,0,40
+2041329,1599256,2025-08-02,Senate,"Senate: Final Passage",19,0,0,1,20

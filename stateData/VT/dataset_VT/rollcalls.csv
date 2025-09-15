@@ -1,0 +1,52 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1905031,1516356,2025-03-12,House,"Roll Call Results Failed -- Needed 71 of 141 to Pass -- Yeas = 55, Nays = 86",55,86,1,8,150
+1910242,1544746,2025-04-10,House,"Roll Call Results Passed -- Needed 72 of 144 to Pass -- Yeas = 143, Nays = 1",143,1,1,5,150
+1938244,1576463,2025-05-22,Senate,"Roll Call, requested by Senator Collamore, Passed -- Needed 15 of 30 to Pass -- Yeas = 17, Nays = 13",17,13,0,0,30
+1938244,1581397,2025-05-29,House,"Which was agreed to on a Roll Call Passed -- Needed 67 of 134 to Pass -- Yeas = 92, Nays = 42",92,42,1,15,150
+1946283,1519738,2025-03-18,House,"Roll Call Results Passed -- Needed 72 of 143 to Pass -- Yeas = 84, Nays = 59",84,59,1,6,150
+1946320,1551130,2025-04-17,House,"Roll Call Results Passed -- Needed 70 of 140 to Pass -- Yeas = 97, Nays = 43",97,43,1,9,150
+1953050,1483793,2025-02-06,House,"Roll Call Results Passed -- Needed 69 of 138 to Pass -- Yeas = 87, Nays = 51",87,51,1,11,150
+1953050,1499219,2025-02-25,Senate,"Proposal of amendment agreed to on roll call, requested by Senator Beck, Passed -- Needed 15 of 30 to Pass -- Yeas = 18, Nays = 12",18,12,0,0,30
+1953552,1517096,2025-03-13,Senate,"3rd reading ordered on roll call Passed -- Needed 15 of 30 to Pass -- Yeas = 29, Nays = 1",29,1,0,0,30
+1953620,1519363,2025-03-18,Senate,"3rd reading ordered on roll call Passed -- Needed 15 of 30 to Pass -- Yeas = 25, Nays = 5",25,5,0,0,30
+1960015,1565801,2025-05-06,House,"Roll Call Results Passed -- Needed 72 of 144 to Pass -- Yeas = 142, Nays = 2",142,2,1,5,150
+1960015,1592091,2025-06-16,Senate,"Committee of Conference report adopted on roll call Passed -- Needed 14 of 28 to Pass -- Yeas = 28, Nays = 0",28,0,1,1,30
+1969191,1498675,2025-02-25,Senate,"Roll Call, requested by Senator Williams, Failed -- Needed 15 of 30 to Pass -- Yeas = 12, Nays = 18",12,18,0,0,30
+1969191,1498676,2025-02-25,Senate,"Roll Call, requested by Senator Perchlik, Failed -- Needed 15 of 30 to Pass -- Yeas = 13, Nays = 17",13,17,0,0,30
+1969764,1528743,2025-03-27,House,"Roll Call Results Passed -- Needed 73 of 145 to Pass -- Yeas = 87, Nays = 58",87,58,1,4,150
+1969764,1529933,2025-03-28,House,"Roll Call Results Passed -- Needed 72 of 143 to Pass -- Yeas = 119, Nays = 24",119,24,1,6,150
+1969930,1515703,2025-03-12,Senate,"Recommendation of amendment by Committee on Institutions agreed to on roll call, requested by Senator Ram Hinsdale, Passed -- Needed 15 of 30 to Pass -- Yeas = 25, Nays = 5",25,5,0,0,30
+1969930,1576893,2025-05-23,House,"Which was agreed to on a Roll Call Passed -- Needed 71 of 142 to Pass -- Yeas = 133, Nays = 9",133,9,1,7,150
+1971487,1568201,2025-05-08,House,"Roll Call Results Failed -- Needed 72 of 144 to Pass -- Yeas = 20, Nays = 124",20,124,1,5,150
+1973283,1527338,2025-03-26,Senate,"Recommendation of amendment by Committee on Institutions agreed to on roll call, requested by Senator Beck, Passed -- Needed 15 of 29 to Pass -- Yeas = 29, Nays = 0",29,0,0,1,30
+1981539,1521292,2025-03-19,House,"Roll Call Results Passed -- Needed 72 of 144 to Pass -- Yeas = 99, Nays = 45",99,45,1,5,150
+1981539,1529873,2025-03-28,House,"Roll Call Results Passed -- Needed 72 of 144 to Pass -- Yeas = 106, Nays = 38",106,38,1,5,150
+1984665,1517984,2025-03-14,Senate,"Recommendation of amendment by Committee on Judiciary agreed to on roll call, requested by Senator Hardy, Passed -- Needed 15 of 30 to Pass -- Yeas = 30, Nays = 0",30,0,0,0,30
+1987746,1545459,2025-04-11,House,"Roll Call Results Failed -- Needed 72 of 143 to Pass -- Yeas = 60, Nays = 83",60,83,1,6,150
+1987746,1545932,2025-04-11,House,"Roll Call Results Passed -- Needed 71 of 142 to Pass -- Yeas = 87, Nays = 55",87,55,1,7,150
+1987746,1577052,2025-05-23,Senate,"Roll Call, requested by Senator Ingalls, Failed -- Needed 15 of 30 to Pass -- Yeas = 13, Nays = 17",13,17,0,0,30
+1987746,1591011,2025-06-16,Senate,"Roll Call, requested by Senator Gulick, Passed -- Needed 22 of 29 to Pass -- Yeas = 26, Nays = 3",26,3,0,1,30
+1987746,1591012,2025-06-16,Senate,"Committee of Conference report adopted on roll call Passed -- Needed 15 of 29 to Pass -- Yeas = 17, Nays = 12",17,12,0,1,30
+1987746,1591132,2025-06-16,House,"Which was agreed to on a Roll Call Passed -- Needed 71 of 141 to Pass -- Yeas = 96, Nays = 45",96,45,1,8,150
+2006940,1525964,2025-03-25,House,"Roll Call Results Failed -- Needed 72 of 143 to Pass -- Yeas = 36, Nays = 107",36,107,1,6,150
+2008937,1522699,2025-03-20,House,"Roll Call Results Failed -- Needed 70 of 140 to Pass -- Yeas = 49, Nays = 91",49,91,1,9,150
+2009663,1551408,2025-04-17,Senate,"Recommendation of amendment by Committee on Natural Resources and Energy agreed to on roll call, requested by Senator Beck, Passed -- Needed 15 of 29 to Pass -- Yeas = 29, Nays = 0",29,0,0,1,30
+2009726,1575144,2025-05-21,House,"Roll Call Results Passed -- Needed 69 of 137 to Pass -- Yeas = 99, Nays = 38",99,38,1,12,150
+2009757,1570635,2025-05-13,House,"Roll Call Results Passed -- Needed 66 of 132 to Pass -- Yeas = 81, Nays = 51",81,51,1,17,150
+2009863,1577098,2025-05-23,House,"Which was disagreed to on a Roll Call Failed -- Needed 70 of 139 to Pass -- Yeas = 53, Nays = 86",53,86,1,10,150
+2009863,1577099,2025-05-23,House,"Which was agreed to on a Roll Call Passed -- Needed 68 of 136 to Pass -- Yeas = 100, Nays = 36",100,36,1,13,150
+2009863,1585664,2025-05-30,House,"Which was agreed to on a Roll Call Passed -- Needed 70 of 139 to Pass -- Yeas = 137, Nays = 2",137,2,1,10,150
+2010899,1524170,2025-03-21,House,"Roll Call Results Passed -- Needed 73 of 146 to Pass -- Yeas = 91, Nays = 55",91,55,1,3,150
+2010899,1530079,2025-03-28,Senate,"Roll Call, requested by Senator White, Failed -- Needed 22 of 29 to Pass -- Yeas = 16, Nays = 13",16,13,0,1,30
+2010899,1535869,2025-04-03,Senate,"Roll Call, requested by Senator Hardy, Failed -- Needed 15 of 30 to Pass -- Yeas = 14, Nays = 16",14,16,0,0,30
+2010899,1535870,2025-04-03,Senate,"Read 3rd time & passed in concurrence on roll call, requested by Senator Beck, Passed -- Needed 15 of 30 to Pass -- Yeas = 17, Nays = 13",17,13,0,0,30
+2011563,1569045,2025-05-09,Senate,"Recommendation of amendment by Committee on Economic Development, Housing and General Affairs agreed to on roll call, requested by Senator Clarkson, Passed -- Needed 15 of 29 to Pass -- Yeas = 28, Nays = 1",28,1,0,1,30
+2012326,1556922,2025-04-24,Senate,"Recommendation of amendment by Committee on Government Operations agreed to on roll call, requested by Senator Collamore, Passed -- Needed 15 of 29 to Pass -- Yeas = 17, Nays = 12",17,12,0,1,30
+2012356,1564312,2025-05-01,Senate,"3rd reading ordered on roll call Passed -- Needed 14 of 27 to Pass -- Yeas = 27, Nays = 0",27,0,0,3,30
+2012878,1567360,2025-05-07,Senate,"Read 3rd time & passed in concurrence on roll call, requested by Senator Baruth, Passed -- Needed 14 of 28 to Pass -- Yeas = 26, Nays = 2",26,2,0,2,30
+2013747,1529447,2025-03-27,House,"Roll Call Results Passed -- Needed 71 of 142 to Pass -- Yeas = 104, Nays = 38",104,38,1,7,150
+2013747,1564061,2025-05-01,Senate,"Roll Call, requested by Senator Beck, Failed -- Needed 23 of 30 to Pass -- Yeas = 13, Nays = 17",13,17,0,0,30
+2013747,1564062,2025-05-01,Senate,"Roll Call, requested by Senator Ingalls, Failed -- Needed 23 of 30 to Pass -- Yeas = 14, Nays = 16",14,16,0,0,30
+2013747,1564063,2025-05-01,Senate,"Passed on roll call, requested by Senator Ram Hinsdale, Passed -- Needed 15 of 30 to Pass -- Yeas = 20, Nays = 10",20,10,0,0,30
+2013747,1572052,2025-05-15,House,"Roll Call Results Passed -- Needed 68 of 135 to Pass -- Yeas = 132, Nays = 3",132,3,1,14,150
+2025437,1560177,2025-04-29,Senate,"3rd reading ordered on roll call Passed -- Needed 15 of 29 to Pass -- Yeas = 24, Nays = 5",24,5,0,1,30

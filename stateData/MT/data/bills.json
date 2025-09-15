@@ -1,0 +1,2134 @@
+{
+     "1919758": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "5bfc9c0d63ad8bdc76f17557ab4582da",
+               "relevance": 33,
+               "state": "MT",
+               "bill number": "HB205",
+               "description": "Revise death penalty laws",
+               "state link": "https://bills.legmt.gov/#/laws/bill/2/LC0026",
+               "legiscan link": "https://legiscan.com/MT/bill/HB205/2025",
+               "status": {
+                    "date": "05-20-2025",
+                    "label": "Failed",
+                    "action": "(H) Died in Process"
+               },
+               "date introduced": "01-15-2025",
+               "party": "R",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Shannon Maness",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1919758,
+               "change_hash": "5bfc9c0d63ad8bdc76f17557ab4582da",
+               "session_id": 2159,
+               "session": {
+                    "session_id": 2159,
+                    "state_id": 26,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/MT/bill/HB205/2025",
+               "state_link": "https://bills.legmt.gov/#/laws/bill/2/LC0026",
+               "completed": 1,
+               "status": 6,
+               "status_date": "2025-05-20",
+               "progress": [
+                    {
+                         "date": "2025-01-15",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-01-15",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-05-20",
+                         "event": 6
+                    }
+               ],
+               "state": "MT",
+               "state_id": 26,
+               "bill_number": "HB205",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 61,
+               "current_body": "H",
+               "current_body_id": 61,
+               "title": "Revise death penalty laws",
+               "description": "Revise death penalty laws",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [
+                    {
+                         "date": "2025-01-15",
+                         "committee_id": 2077,
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2024-08-27",
+                         "action": "(LC) Drafter Assigned",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2024-12-06",
+                         "action": "(LC) Draft in Legal Review",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2024-12-10",
+                         "action": "(LC) Draft in Edit",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2024-12-16",
+                         "action": "(LC) Draft in Input/Proofing",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2024-12-16",
+                         "action": "(LC) Draft in Final Drafter Review",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2024-12-17",
+                         "action": "(LC) Draft in Assembly",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2024-12-20",
+                         "action": "(LC) Draft Ready for Delivery",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-13",
+                         "action": "(LC) Draft Delivered to Requester",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-15",
+                         "action": "(H) Introduced",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-01-15",
+                         "action": "(H) Referred to Committee (H) Judiciary",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-01-15",
+                         "action": "(H) First Reading",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-15",
+                         "action": "(H) Hearing Canceled (H) Judiciary",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-15",
+                         "action": "(H) Hearing (H) Judiciary",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-23",
+                         "action": "(H) Committee Executive Action--Bill Passed (H) Judiciary",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-23",
+                         "action": "(H) Committee Report--Bill Passed (H) Judiciary",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-27",
+                         "action": "(H) 2nd Reading Pass Consideration",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-30",
+                         "action": "(H) Scheduled for 2nd Reading",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-30",
+                         "action": "(H) 2nd Reading Not Passed",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-20",
+                         "action": "(H) Hearing Canceled (H) Judiciary",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-12",
+                         "action": "(H) Missed Deadline for General Bill Transmittal",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-05-20",
+                         "action": "(H) Died in Process",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 25410,
+                         "person_hash": "x5pd82rq",
+                         "party_id": "2",
+                         "state_id": 26,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Shannon Maness",
+                         "first_name": "Shannon",
+                         "middle_name": "",
+                         "last_name": "Maness",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-070",
+                         "ftm_eid": 59828550,
+                         "votesmart_id": 215429,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Shannon_Maness",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 11285,
+                         "subject_name": "Crimes"
+                    },
+                    {
+                         "subject_id": 11249,
+                         "subject_name": "Criminal Procedure"
+                    },
+                    {
+                         "subject_id": 11297,
+                         "subject_name": "Law Enforcement"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3056916,
+                         "date": "0000-00-00",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/MT/text/HB205/id/3056916",
+                         "state_link": "https://docs.legmt.gov/download-ticket?ticketId=3cae13fe-97bf-47ce-9e92-d585f31c5637",
+                         "text_size": 59527,
+                         "text_hash": "86c522d75feb25c445ecec9563560aff",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [
+                    {
+                         "roll_call_id": 1481939,
+                         "date": "2025-01-23",
+                         "desc": "(H) Judiciary--Do Pass",
+                         "yea": 33,
+                         "nay": 27,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 60,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "url": "https://legiscan.com/MT/rollcall/HB205/id/1481939",
+                         "state_link": "https://bills.legmt.gov/#/laws/bill/2/LC0026?open_tab=status#25348"
+                    },
+                    {
+                         "roll_call_id": 1481942,
+                         "date": "2025-01-30",
+                         "desc": "(H) 2nd Reading Not Passed",
+                         "yea": 49,
+                         "nay": 51,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 100,
+                         "passed": 0,
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "url": "https://legiscan.com/MT/rollcall/HB205/id/1481942",
+                         "state_link": "https://bills.legmt.gov/#/laws/bill/2/LC0026?open_tab=status#29286"
+                    }
+               ],
+               "amendments": [],
+               "supplements": [],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "3f44de56",
+                         "type": "Hearing",
+                         "date": "2025-01-21",
+                         "time": "08:00",
+                         "location": "Room 137",
+                         "description": "House Judiciary Hearing"
+                    }
+               ]
+          }
+     },
+     "1973065": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "f64e72cf2b7b8af10cc795cf04e05b2c",
+               "relevance": 17,
+               "state": "MT",
+               "bill number": "SB347",
+               "description": "Revise medical resident licensure laws",
+               "state link": "https://bills.legmt.gov/#/laws/bill/2/LC3474",
+               "legiscan link": "https://legiscan.com/MT/bill/SB347/2025",
+               "status": {
+                    "date": "04-16-2025",
+                    "label": "Passed",
+                    "action": "Chapter Number Assigned"
+               },
+               "date introduced": "02-18-2025",
+               "party": "R",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Sue Vinton",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1973065,
+               "change_hash": "f64e72cf2b7b8af10cc795cf04e05b2c",
+               "session_id": 2159,
+               "session": {
+                    "session_id": 2159,
+                    "state_id": 26,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/MT/bill/SB347/2025",
+               "state_link": "https://bills.legmt.gov/#/laws/bill/2/LC3474",
+               "completed": 1,
+               "status": 4,
+               "status_date": "2025-04-16",
+               "progress": [
+                    {
+                         "date": "2025-02-18",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-19",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-03-03",
+                         "event": 2
+                    },
+                    {
+                         "date": "2025-03-04",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-03-31",
+                         "event": 3
+                    },
+                    {
+                         "date": "2025-04-16",
+                         "event": 4
+                    }
+               ],
+               "state": "MT",
+               "state_id": 26,
+               "bill_number": "SB347",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "S",
+               "body_id": 62,
+               "current_body": "S",
+               "current_body_id": 62,
+               "title": "Revise medical resident licensure laws",
+               "description": "Revise medical resident licensure laws",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [
+                    {
+                         "date": "2025-02-19",
+                         "committee_id": 2086,
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "name": "Business, Labor and Economic Affairs"
+                    },
+                    {
+                         "date": "2025-03-04",
+                         "committee_id": 2071,
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "name": "Business & Labor"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2024-12-14",
+                         "action": "(LC) Drafter Assigned",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-13",
+                         "action": "(LC) Draft in Legal Review",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-13",
+                         "action": "(LC) Draft in Edit",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-15",
+                         "action": "(LC) Draft in Input/Proofing",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-16",
+                         "action": "(LC) Draft in Final Drafter Review",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-16",
+                         "action": "(LC) Draft in Assembly",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-17",
+                         "action": "(LC) Draft Ready for Delivery",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-18",
+                         "action": "(S) Introduced",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-18",
+                         "action": "(LC) Draft Delivered to Requester",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-18",
+                         "action": "(S) First Reading",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-19",
+                         "action": "(S) Referred to Committee (S) Business, Labor  and Economic Affairs",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-21",
+                         "action": "(S) Hearing (S) Business, Labor  and Economic Affairs",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-26",
+                         "action": "(S) Committee Executive Action--Bill Passed (S) Business, Labor  and Economic Affairs",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-26",
+                         "action": "(S) Committee Report--Bill Passed (S) Business, Labor  and Economic Affairs",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-01",
+                         "action": "(S) Scheduled for 2nd Reading",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-01",
+                         "action": "(S) 2nd Reading Passed",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-03",
+                         "action": "(S) Scheduled for 3rd Reading",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-03",
+                         "action": "(S) 3rd Reading Passed",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-03",
+                         "action": "(S) Transmitted to House",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-04",
+                         "action": "(H) Referred to Committee (H) Business and Labor",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-04",
+                         "action": "(H) First Reading",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-06",
+                         "action": "(H) Hearing (H) Business and Labor",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-19",
+                         "action": "(H) Committee Executive Action--Bill Concurred (H) Business and Labor",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-20",
+                         "action": "(H) Committee Report--Bill Concurred (H) Business and Labor",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-29",
+                         "action": "(H) Scheduled for 2nd Reading",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-29",
+                         "action": "(H) 2nd Reading Concurred",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-31",
+                         "action": "(H) Scheduled for 3rd Reading",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-31",
+                         "action": "(H) 3rd Reading Concurred",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-31",
+                         "action": "(S) Sent to Enrolling",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-04-02",
+                         "action": "(S) Returned from Enrolling",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-07",
+                         "action": "(S) Signed by President",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-08",
+                         "action": "(H) Signed by Speaker",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-08",
+                         "action": "(S) Transmitted to Governor",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-16",
+                         "action": "(S) Signed by Governor",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-04-17",
+                         "action": "Chapter Number Assigned",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 18389,
+                         "person_hash": "qrkm8lgj",
+                         "party_id": "2",
+                         "state_id": 26,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Sue Vinton",
+                         "first_name": "Sue",
+                         "middle_name": "",
+                         "last_name": "Vinton",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-020",
+                         "ftm_eid": 39289421,
+                         "votesmart_id": 168517,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 566393,
+                         "ballotpedia": "Sue_Vinton",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 11269,
+                         "subject_name": "Health Care Services"
+                    },
+                    {
+                         "subject_id": 11267,
+                         "subject_name": "Health"
+                    },
+                    {
+                         "subject_id": 383533,
+                         "subject_name": "Professions and Occupations  Generally"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3127450,
+                         "date": "0000-00-00",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/MT/text/SB347/id/3127450",
+                         "state_link": "https://docs.legmt.gov/download-ticket?ticketId=805e3b77-891c-4fe6-85d7-3c9d1332df3b",
+                         "text_size": 78740,
+                         "text_hash": "9297f75243e546b618c47172d9b29a0d",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3212750,
+                         "date": "0000-00-00",
+                         "type": "Enrolled",
+                         "type_id": 5,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/MT/text/SB347/id/3212750",
+                         "state_link": "https://docs.legmt.gov/download-ticket?ticketId=8b0a6608-daf6-422e-b11c-f259419acbe4",
+                         "text_size": 128946,
+                         "text_hash": "0024cf28e259c49f3f73aa0d98430e26",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [
+                    {
+                         "roll_call_id": 1500510,
+                         "date": "2025-02-26",
+                         "desc": "(S) Business, Labor  and Economic Affairs--Do Pass",
+                         "yea": 12,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 12,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "url": "https://legiscan.com/MT/rollcall/SB347/id/1500510",
+                         "state_link": "https://bills.legmt.gov/#/laws/bill/2/LC3474?open_tab=status#46926"
+                    },
+                    {
+                         "roll_call_id": 1502927,
+                         "date": "2025-03-01",
+                         "desc": "(S) 2nd Reading Passed",
+                         "yea": 50,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 50,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "url": "https://legiscan.com/MT/rollcall/SB347/id/1502927",
+                         "state_link": "https://bills.legmt.gov/#/laws/bill/2/LC3474?open_tab=status#49326"
+                    },
+                    {
+                         "roll_call_id": 1503774,
+                         "date": "2025-03-03",
+                         "desc": "(S) 3rd Reading Passed",
+                         "yea": 50,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 50,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "url": "https://legiscan.com/MT/rollcall/SB347/id/1503774",
+                         "state_link": "https://bills.legmt.gov/#/laws/bill/2/LC3474?open_tab=status#50410"
+                    },
+                    {
+                         "roll_call_id": 1521337,
+                         "date": "2025-03-19",
+                         "desc": "(H) Business and Labor--Be Concurred In",
+                         "yea": 20,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 20,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "url": "https://legiscan.com/MT/rollcall/SB347/id/1521337",
+                         "state_link": "https://bills.legmt.gov/#/laws/bill/2/LC3474?open_tab=status#57775"
+                    },
+                    {
+                         "roll_call_id": 1530666,
+                         "date": "2025-03-29",
+                         "desc": "(H) 2nd Reading Concurred",
+                         "yea": 99,
+                         "nay": 1,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 100,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "url": "https://legiscan.com/MT/rollcall/SB347/id/1530666",
+                         "state_link": "https://bills.legmt.gov/#/laws/bill/2/LC3474?open_tab=status#64475"
+                    },
+                    {
+                         "roll_call_id": 1531527,
+                         "date": "2025-03-31",
+                         "desc": "(H) 3rd Reading Concurred",
+                         "yea": 98,
+                         "nay": 1,
+                         "nv": 0,
+                         "absent": 1,
+                         "total": 100,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "url": "https://legiscan.com/MT/rollcall/SB347/id/1531527",
+                         "state_link": "https://bills.legmt.gov/#/laws/bill/2/LC3474?open_tab=status#65486"
+                    }
+               ],
+               "amendments": [],
+               "supplements": [],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "503fa3f9",
+                         "type": "Hearing",
+                         "date": "2025-02-25",
+                         "time": "07:00",
+                         "location": "Room 422",
+                         "description": "Senate Business, Labor  and Economic Affairs Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "bcde9cbb",
+                         "type": "Hearing",
+                         "date": "2025-03-18",
+                         "time": "08:00",
+                         "location": "Room 172",
+                         "description": "House Business and Labor Hearing"
+                    }
+               ]
+          }
+     },
+     "1981266": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "8f8f1a60f1108172a1c7f8f25b91b588",
+               "relevance": 16,
+               "state": "MT",
+               "bill number": "SB438",
+               "description": "Revise telehealth and telemedicine laws",
+               "state link": "https://bills.legmt.gov/#/laws/bill/2/LC0300",
+               "legiscan link": "https://legiscan.com/MT/bill/SB438/2025",
+               "status": {
+                    "date": "05-23-2025",
+                    "label": "Failed",
+                    "action": "(S) Died in Process"
+               },
+               "date introduced": "02-24-2025",
+               "party": "R",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Daniel Zolnikov",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1981266,
+               "change_hash": "8f8f1a60f1108172a1c7f8f25b91b588",
+               "session_id": 2159,
+               "session": {
+                    "session_id": 2159,
+                    "state_id": 26,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/MT/bill/SB438/2025",
+               "state_link": "https://bills.legmt.gov/#/laws/bill/2/LC0300",
+               "completed": 1,
+               "status": 6,
+               "status_date": "2025-05-23",
+               "progress": [
+                    {
+                         "date": "2025-02-24",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-24",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-05-23",
+                         "event": 6
+                    }
+               ],
+               "state": "MT",
+               "state_id": 26,
+               "bill_number": "SB438",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "S",
+               "body_id": 62,
+               "current_body": "S",
+               "current_body_id": 62,
+               "title": "Revise telehealth and telemedicine laws",
+               "description": "Revise telehealth and telemedicine laws",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [
+                    {
+                         "date": "2025-02-24",
+                         "committee_id": 2086,
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "name": "Business, Labor and Economic Affairs"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2024-09-24",
+                         "action": "(LC) Drafter Assigned",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2024-09-26",
+                         "action": "(LC) Draft On Hold",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2024-10-08",
+                         "action": "(LC) Draft Taken Off Hold",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2024-10-08",
+                         "action": "(LC) Draft On Hold",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2024-10-25",
+                         "action": "(LC) Draft Taken Off Hold",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2024-10-25",
+                         "action": "(LC) Draft On Hold",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-08",
+                         "action": "(LC) Draft Taken Off Hold",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-08",
+                         "action": "(LC) Draft Taken Off Hold",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-08",
+                         "action": "(LC) Draft Taken Off Hold",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-18",
+                         "action": "(LC) Draft in Legal Review",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-18",
+                         "action": "(LC) Draft in Edit",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-21",
+                         "action": "(LC) Draft in Input/Proofing",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-22",
+                         "action": "(LC) Draft in Final Drafter Review",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-22",
+                         "action": "(LC) Draft in Assembly",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-24",
+                         "action": "(LC) Draft Ready for Delivery",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-24",
+                         "action": "(LC) Draft Delivered to Requester",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-24",
+                         "action": "(S) Introduced",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-24",
+                         "action": "(S) First Reading",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-24",
+                         "action": "(S) Fiscal Note Requested",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-24",
+                         "action": "(S) Referred to Committee (S) Business, Labor  and Economic Affairs",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-28",
+                         "action": "(S) Hearing (S) Business, Labor  and Economic Affairs",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-03",
+                         "action": "(S) Fiscal Note Received",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-03",
+                         "action": "(S) Fiscal Note Unsigned",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-04",
+                         "action": "(S) Fiscal Note Printed",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-04",
+                         "action": "(S) Tabled in Committee (S) Business, Labor  and Economic Affairs",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-12",
+                         "action": "(S) Missed Deadline for General Bill Transmittal",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-05-23",
+                         "action": "(S) Died in Process",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 14351,
+                         "person_hash": "t8gv9tn0",
+                         "party_id": "2",
+                         "state_id": 26,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Daniel Zolnikov",
+                         "first_name": "Daniel",
+                         "middle_name": "",
+                         "last_name": "Zolnikov",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-022",
+                         "ftm_eid": 10885857,
+                         "votesmart_id": 136897,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 389755,
+                         "ballotpedia": "Daniel_Zolnikov",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 11269,
+                         "subject_name": "Health Care Services"
+                    },
+                    {
+                         "subject_id": 11267,
+                         "subject_name": "Health"
+                    },
+                    {
+                         "subject_id": 11286,
+                         "subject_name": "Labor and Employment"
+                    },
+                    {
+                         "subject_id": 11272,
+                         "subject_name": "Unemployment Insurance"
+                    },
+                    {
+                         "subject_id": 383535,
+                         "subject_name": "Workers' Comp"
+                    },
+                    {
+                         "subject_id": 11248,
+                         "subject_name": "Safety"
+                    },
+                    {
+                         "subject_id": 383533,
+                         "subject_name": "Professions and Occupations  Generally"
+                    },
+                    {
+                         "subject_id": 11235,
+                         "subject_name": "Revenue, State"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3138409,
+                         "date": "0000-00-00",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/MT/text/SB438/id/3138409",
+                         "state_link": "https://docs.legmt.gov/download-ticket?ticketId=cfa767d9-f816-4a6d-ba09-6d8ab37a43b8",
+                         "text_size": 77409,
+                         "text_hash": "984c156c6235175b1fcc1390e205219f",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [
+                    {
+                         "roll_call_id": 1504526,
+                         "date": "2025-03-04",
+                         "desc": "(S) Business, Labor  and Economic Affairs--To Table",
+                         "yea": 11,
+                         "nay": 1,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 12,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "url": "https://legiscan.com/MT/rollcall/SB438/id/1504526",
+                         "state_link": "https://bills.legmt.gov/#/laws/bill/2/LC0300?open_tab=status#51198"
+                    }
+               ],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 536193,
+                         "date": "0000-00-00",
+                         "type": "Fiscal Note",
+                         "type_id": 1,
+                         "title": "Fiscal Note",
+                         "description": "Fiscal Note SB0438_1",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/MT/supplement/SB438/id/536193",
+                         "state_link": "https://docs.legmt.gov/download-ticket?ticketId=a6166b8c-08ba-4e80-921e-45b999ce5ee3",
+                         "supplement_size": 1287742,
+                         "supplement_hash": "ef83df7e3010fba5ead9dd96bfdac702",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "1612625f",
+                         "type": "Hearing",
+                         "date": "2025-03-03",
+                         "time": "08:00",
+                         "location": "Room 422",
+                         "description": "Senate Business, Labor  and Economic Affairs Hearing"
+                    }
+               ]
+          }
+     },
+     "2012288": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "16fd98fe68b1bcb52b83e38d4cc91886",
+               "relevance": 16,
+               "state": "MT",
+               "bill number": "SB535",
+               "description": "Revise laws related to experimental treatments",
+               "state link": "https://bills.legmt.gov/#/laws/bill/2/LC0780",
+               "legiscan link": "https://legiscan.com/MT/bill/SB535/2025",
+               "status": {
+                    "date": "05-12-2025",
+                    "label": "Passed",
+                    "action": "Chapter Number Assigned"
+               },
+               "date introduced": "03-21-2025",
+               "party": "R",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Kenneth Bogner",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 2012288,
+               "change_hash": "16fd98fe68b1bcb52b83e38d4cc91886",
+               "session_id": 2159,
+               "session": {
+                    "session_id": 2159,
+                    "state_id": 26,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/MT/bill/SB535/2025",
+               "state_link": "https://bills.legmt.gov/#/laws/bill/2/LC0780",
+               "completed": 1,
+               "status": 4,
+               "status_date": "2025-05-12",
+               "progress": [
+                    {
+                         "date": "2025-03-21",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-03-21",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-04-05",
+                         "event": 2
+                    },
+                    {
+                         "date": "2025-04-07",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-04-29",
+                         "event": 3
+                    },
+                    {
+                         "date": "2025-05-12",
+                         "event": 4
+                    }
+               ],
+               "state": "MT",
+               "state_id": 26,
+               "bill_number": "SB535",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "S",
+               "body_id": 62,
+               "current_body": "S",
+               "current_body_id": 62,
+               "title": "Revise laws related to experimental treatments",
+               "description": "Revise laws related to experimental treatments",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [
+                    {
+                         "date": "2025-03-21",
+                         "committee_id": 2098,
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "name": "Public Health, Welfare, and Safety"
+                    },
+                    {
+                         "date": "2025-04-07",
+                         "committee_id": 2076,
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "name": "Human Services"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2024-11-04",
+                         "action": "(LC) Drafter Assigned",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2024-11-04",
+                         "action": "(LC) Draft On Hold",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-13",
+                         "action": "(LC) Draft Taken Off Hold",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-17",
+                         "action": "(LC) Draft in Legal Review",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-18",
+                         "action": "(LC) Draft in Edit",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-20",
+                         "action": "(LC) Draft in Input/Proofing",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-20",
+                         "action": "(LC) Draft in Final Drafter Review",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-20",
+                         "action": "(LC) Draft in Assembly",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-20",
+                         "action": "(LC) Draft Ready for Delivery",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-21",
+                         "action": "(LC) Draft Delivered to Requester",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-21",
+                         "action": "(S) Introduced",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-21",
+                         "action": "(S) Referred to Committee (S) Public Health, Welfare and Safety",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-21",
+                         "action": "(S) Fiscal Note Requested",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-21",
+                         "action": "(S) Hearing (S) Public Health, Welfare and Safety",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-26",
+                         "action": "(S) Fiscal Note Received",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-27",
+                         "action": "(S) Fiscal Note Unsigned",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-28",
+                         "action": "(S) Fiscal Note Printed",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-02",
+                         "action": "(S) Committee Executive Action--Bill Passed as Amended (S) Public Health, Welfare and Safety",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-03",
+                         "action": "(S) Committee Report--Bill Passed as Amended (S) Public Health, Welfare and Safety",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-04",
+                         "action": "(S) 2nd Reading Passed",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-05",
+                         "action": "(S) 3rd Reading Passed",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-05",
+                         "action": "(S) Transmitted to House",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-04-07",
+                         "action": "(S) Revised Fiscal Note Requested",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-07",
+                         "action": "(H) Hearing (H) Human Services",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-07",
+                         "action": "(H) Referred to Committee (H) Human Services",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-04-07",
+                         "action": "(H) First Reading",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-10",
+                         "action": "(S) Revised Fiscal Note Received",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-11",
+                         "action": "(S) Fiscal Note Unsigned",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-12",
+                         "action": "(S) Revised Fiscal Note Printed",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-22",
+                         "action": "(H) Committee Executive Action--Bill Concurred as Amended (H) Human Services",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-22",
+                         "action": "(H) Committee Report--Bill Concurred as Amended (H) Human Services",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-24",
+                         "action": "(H) Scheduled for 2nd Reading",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-24",
+                         "action": "(H) 2nd Reading Concurred",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-25",
+                         "action": "(H) 3rd Reading Failed",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-25",
+                         "action": "(H) Scheduled for 3rd Reading",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-25",
+                         "action": "(H) Scheduled for 3rd Reading",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-25",
+                         "action": "(H) 3rd Reading Concurred",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-25",
+                         "action": "(H) Returned to Senate with Amendments",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-25",
+                         "action": "(S) Scheduled for 2nd Reading",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-25",
+                         "action": "(H) Reconsidered Previous Action; Remains in 3rd Reading Process",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-28",
+                         "action": "(S) Scheduled for 2nd Reading",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-28",
+                         "action": "(S) 2nd Reading House Amendments Concurred",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-29",
+                         "action": "(S) Scheduled for 3rd Reading",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-29",
+                         "action": "(S) 3rd Reading Passed as Amended by House",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-29",
+                         "action": "(S) Sent to Enrolling",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-04-30",
+                         "action": "(S) Returned from Enrolling",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-05-02",
+                         "action": "(S) Signed by President",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-05-05",
+                         "action": "(H) Signed by Speaker",
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-05-05",
+                         "action": "(S) Transmitted to Governor",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-05-12",
+                         "action": "(S) Signed by Governor",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-05-16",
+                         "action": "Chapter Number Assigned",
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 20760,
+                         "person_hash": "pmhhemuf",
+                         "party_id": "2",
+                         "state_id": 26,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Kenneth Bogner",
+                         "first_name": "Kenneth",
+                         "middle_name": "",
+                         "last_name": "Bogner",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-019",
+                         "ftm_eid": 44494140,
+                         "votesmart_id": 180640,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 636431,
+                         "ballotpedia": "Kenneth_Bogner",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 11267,
+                         "subject_name": "Health"
+                    },
+                    {
+                         "subject_id": 11269,
+                         "subject_name": "Health Care Services"
+                    },
+                    {
+                         "subject_id": 11248,
+                         "subject_name": "Safety"
+                    },
+                    {
+                         "subject_id": 11235,
+                         "subject_name": "Revenue, State"
+                    },
+                    {
+                         "subject_id": 11213,
+                         "subject_name": "Rule Making"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3184427,
+                         "date": "0000-00-00",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/MT/text/SB535/id/3184427",
+                         "state_link": "https://docs.legmt.gov/download-ticket?ticketId=1231daa3-7415-4496-9e36-681907ecad78",
+                         "text_size": 121114,
+                         "text_hash": "2d3e869e18c02370826bf5a25ecc34b1",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3201250,
+                         "date": "0000-00-00",
+                         "type": "Amended",
+                         "type_id": 3,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/MT/text/SB535/id/3201250",
+                         "state_link": "https://docs.legmt.gov/download-ticket?ticketId=7fc73525-657e-4476-b41d-210c72b738d7",
+                         "text_size": 122449,
+                         "text_hash": "341973b1def07f0286c6be925f5db7c0",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3218627,
+                         "date": "0000-00-00",
+                         "type": "Amended",
+                         "type_id": 3,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/MT/text/SB535/id/3218627",
+                         "state_link": "https://docs.legmt.gov/download-ticket?ticketId=7b9c8dea-ab62-4217-9815-82426fd55506",
+                         "text_size": 148286,
+                         "text_hash": "7179a5c5664e92e431d552712812d20b",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3224711,
+                         "date": "0000-00-00",
+                         "type": "Enrolled",
+                         "type_id": 5,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/MT/text/SB535/id/3224711",
+                         "state_link": "https://docs.legmt.gov/download-ticket?ticketId=119c659f-6bfa-4fab-9cc7-03f29493943f",
+                         "text_size": 187151,
+                         "text_hash": "fbcadef8c626116dca15f284823a111a",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [
+                    {
+                         "roll_call_id": 1535262,
+                         "date": "2025-04-02",
+                         "desc": "(S) Public Health, Welfare and Safety--Do Pass As Amended",
+                         "yea": 9,
+                         "nay": 2,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 11,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "url": "https://legiscan.com/MT/rollcall/SB535/id/1535262",
+                         "state_link": "https://bills.legmt.gov/#/laws/bill/2/LC0780?open_tab=status#67729"
+                    },
+                    {
+                         "roll_call_id": 1537422,
+                         "date": "2025-04-04",
+                         "desc": "(S) 2nd Reading Passed",
+                         "yea": 41,
+                         "nay": 9,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 50,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "url": "https://legiscan.com/MT/rollcall/SB535/id/1537422",
+                         "state_link": "https://bills.legmt.gov/#/laws/bill/2/LC0780?open_tab=status#69096"
+                    },
+                    {
+                         "roll_call_id": 1537690,
+                         "date": "2025-04-05",
+                         "desc": "(S) 3rd Reading Passed",
+                         "yea": 39,
+                         "nay": 9,
+                         "nv": 0,
+                         "absent": 2,
+                         "total": 50,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "url": "https://legiscan.com/MT/rollcall/SB535/id/1537690",
+                         "state_link": "https://bills.legmt.gov/#/laws/bill/2/LC0780?open_tab=status#69503"
+                    },
+                    {
+                         "roll_call_id": 1553576,
+                         "date": "2025-04-22",
+                         "desc": "(H) Human Services--Be Concurred In As Amended",
+                         "yea": 12,
+                         "nay": 9,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 21,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "url": "https://legiscan.com/MT/rollcall/SB535/id/1553576",
+                         "state_link": "https://bills.legmt.gov/#/laws/bill/2/LC0780?open_tab=status#81217"
+                    },
+                    {
+                         "roll_call_id": 1557313,
+                         "date": "2025-04-24",
+                         "desc": "(H) 2nd Reading Concurred",
+                         "yea": 57,
+                         "nay": 43,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 100,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "url": "https://legiscan.com/MT/rollcall/SB535/id/1557313",
+                         "state_link": "https://bills.legmt.gov/#/laws/bill/2/LC0780?open_tab=status#82914"
+                    },
+                    {
+                         "roll_call_id": 1558163,
+                         "date": "2025-04-25",
+                         "desc": "(H) 3rd Reading Failed",
+                         "yea": 50,
+                         "nay": 50,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 100,
+                         "passed": 0,
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "url": "https://legiscan.com/MT/rollcall/SB535/id/1558163",
+                         "state_link": "https://bills.legmt.gov/#/laws/bill/2/LC0780?open_tab=status#83772"
+                    },
+                    {
+                         "roll_call_id": 1558164,
+                         "date": "2025-04-25",
+                         "desc": "(H) Reconsidered Previous Action; Remains in 3rd Reading Process",
+                         "yea": 50,
+                         "nay": 48,
+                         "nv": 0,
+                         "absent": 2,
+                         "total": 100,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "url": "https://legiscan.com/MT/rollcall/SB535/id/1558164",
+                         "state_link": "https://bills.legmt.gov/#/laws/bill/2/LC0780?open_tab=status#83850"
+                    },
+                    {
+                         "roll_call_id": 1558165,
+                         "date": "2025-04-25",
+                         "desc": "(H) 3rd Reading Concurred",
+                         "yea": 49,
+                         "nay": 48,
+                         "nv": 0,
+                         "absent": 3,
+                         "total": 100,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "url": "https://legiscan.com/MT/rollcall/SB535/id/1558165",
+                         "state_link": "https://bills.legmt.gov/#/laws/bill/2/LC0780?open_tab=status#83893"
+                    },
+                    {
+                         "roll_call_id": 1558767,
+                         "date": "2025-04-25",
+                         "desc": "(H) Reconsidered Previous Action; Remains in 3rd Reading Process",
+                         "yea": 50,
+                         "nay": 48,
+                         "nv": 0,
+                         "absent": 2,
+                         "total": 100,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 61,
+                         "url": "https://legiscan.com/MT/rollcall/SB535/id/1558767",
+                         "state_link": "https://bills.legmt.gov/#/laws/bill/2/LC0780?open_tab=status#84723"
+                    },
+                    {
+                         "roll_call_id": 1559140,
+                         "date": "2025-04-28",
+                         "desc": "(S) 2nd Reading House Amendments Concurred",
+                         "yea": 26,
+                         "nay": 24,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 50,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "url": "https://legiscan.com/MT/rollcall/SB535/id/1559140",
+                         "state_link": "https://bills.legmt.gov/#/laws/bill/2/LC0780?open_tab=status#84884"
+                    },
+                    {
+                         "roll_call_id": 1559961,
+                         "date": "2025-04-29",
+                         "desc": "(S) 3rd Reading Passed as Amended by House",
+                         "yea": 29,
+                         "nay": 21,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 50,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 62,
+                         "url": "https://legiscan.com/MT/rollcall/SB535/id/1559961",
+                         "state_link": "https://bills.legmt.gov/#/laws/bill/2/LC0780?open_tab=status#85473"
+                    }
+               ],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 560110,
+                         "date": "0000-00-00",
+                         "type": "Fiscal Note",
+                         "type_id": 1,
+                         "title": "Fiscal Note",
+                         "description": "Fiscal Note SB0535_1",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/MT/supplement/SB535/id/560110",
+                         "state_link": "https://docs.legmt.gov/download-ticket?ticketId=6aab457b-2971-4cc0-887a-352a0e87a366",
+                         "supplement_size": 902758,
+                         "supplement_hash": "68902de46aa6d227ae95f7b3e3abc494",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    },
+                    {
+                         "supplement_id": 576732,
+                         "date": "0000-00-00",
+                         "type": "Fiscal Note",
+                         "type_id": 1,
+                         "title": "Fiscal Note",
+                         "description": "Fiscal Note SB0535_2",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/MT/supplement/SB535/id/576732",
+                         "state_link": "https://docs.legmt.gov/download-ticket?ticketId=56c5d48d-467b-4726-9819-7de014006702",
+                         "supplement_size": 1247244,
+                         "supplement_hash": "6f7433fbf69085feff7ab5ce0867691e",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "8fca77ec",
+                         "type": "Hearing",
+                         "date": "2025-03-28",
+                         "time": "15:00",
+                         "location": "Room 317",
+                         "description": "Senate Public Health, Welfare and Safety Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "e0690c00",
+                         "type": "Hearing",
+                         "date": "2025-04-09",
+                         "time": "15:00",
+                         "location": "Room 152",
+                         "description": "House Human Services Hearing"
+                    }
+               ]
+          }
+     }
+}

@@ -1,0 +1,1576 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1893476,1472745,2025-01-21,Senate,"S06 - Travel:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1893476,1474923,2025-01-27,Senate,"3rd Reading:Failed 12-19-0-0-0",12,19,0,0,31
+1894419,1471724,2025-01-15,Senate,"S04 - Education:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1894419,1472419,2025-01-20,Senate,"S02 - Appropriations:Recommend Do Pass 3-1-1-0-0",3,1,0,1,5
+1894419,1472732,2025-01-21,Senate,"COW:Failed 6-23-2-0-0",6,23,0,2,31
+1894641,1472177,2025-01-17,Senate,"S09 - Minerals:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1894641,1474347,2025-01-24,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1894641,1474983,2025-01-27,Senate,"COW:Failed 9-22-0-0-0",9,22,0,0,31
+1894646,1473435,2025-01-22,House,"H09 - Minerals:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1894646,1476056,2025-01-28,House,"COW:Failed 17-39-5-0-1",17,39,1,5,62
+1894769,1472461,2025-01-20,Senate,"S04 - Education:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1894769,1472812,2025-01-21,Senate,"COW:Failed 7-21-3-0-0",7,21,0,3,31
+1895006,1472668,2025-01-21,Senate,"S08 - Transportation:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1895006,1472887,2025-01-21,Senate,"COW:Failed 11-17-3-0-0",11,17,0,3,31
+1895023,1472664,2025-01-21,Senate,"S08 - Transportation:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1895023,1472873,2025-01-21,Senate,"COW:Failed 2-26-3-0-0",2,26,0,3,31
+1896800,1471936,2025-01-16,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1896800,1472463,2025-01-20,Senate,"S02 - Appropriations:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1896800,1474960,2025-01-27,Senate,"SF0041S2001 Amendment adopted 22-9-0-0-0",22,9,0,0,31
+1896800,1475412,2025-01-28,Senate,"3rd Reading:Failed 14-14-2-0-1",14,14,1,2,31
+1896800,1476040,2025-01-28,Senate,"3rd Reading:S Bill Reconsideration Motion Passed by Roll Call 16-13-2-0-0",16,13,0,2,31
+1896800,1476041,2025-01-28,Senate,"3rd Reading:Failed 15-13-2-0-1",15,13,1,2,31
+1896823,1472092,2025-01-17,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1896823,1472801,2025-01-21,Senate,"3rd Reading:Passed 29-0-2-0-0",29,0,0,2,31
+1896823,1488197,2025-02-12,House,"H02 - Appropriations:Recommend Amend and Do Pass 5-1-1-0-0",5,1,0,1,7
+1896823,1490337,2025-02-14,House,"SF0040H2002 Amendment failed 22-37-3-0-0",22,37,0,3,62
+1896823,1492660,2025-02-18,House,"3rd Reading:Passed 52-9-1-0-0",52,9,0,1,62
+1896823,1494106,2025-02-19,Senate,"Concur:Failed 1-30-0-0-0",1,30,0,0,31
+1896823,1502524,2025-02-28,Senate,"Recede from Non-Concurrence Failed : 8-23-0-0-0",8,23,0,0,31
+1896828,1472516,2025-01-20,House,"H04 - Education:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1896828,1477404,2025-01-30,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1896828,1497755,2025-02-24,Senate,"S04 - Education:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1896828,1499810,2025-02-26,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1896828,1500835,2025-02-26,House,"Concur:Passed 59-0-3-0-0",59,0,0,3,62
+1896828,1505168,2025-03-04,House,"HB0036VT001 Amendment Reconsideration Motion Passed by Roll Call 55-5-2-0-0",55,5,0,2,62
+1896828,1506616,2025-03-05,Senate,"HB0036VT001 Veto Override 23-8-0-0-0",23,8,0,0,31
+1897143,1472077,2025-01-16,House,"H09 - Minerals:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1897143,1472160,2025-01-17,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1897143,1473591,2025-01-23,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1897143,1487407,2025-02-12,Senate,"S07 - Corporations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1897143,1500626,2025-02-26,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1897143,1503636,2025-03-03,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1897143,1503637,2025-03-03,House,"Concur:Failed 13-47-2-0-0",13,47,0,2,62
+1897187,1472507,2025-01-20,House,"H01 - Judiciary:Recommend Amend and Do Pass 7-2-0-0-0",7,2,0,0,9
+1897187,1472870,2025-01-21,House,"COW:Failed 21-36-5-0-0",21,36,0,5,62
+1897190,1472508,2025-01-20,House,"H01 - Judiciary:Recommend Do Pass 6-3-0-0-0",6,3,0,0,9
+1897190,1473413,2025-01-22,House,"COW:Failed 21-38-3-0-0",21,38,0,3,62
+1897604,1473325,2025-01-22,House,"H10 - Labor:Recommend Do Pass 7-1-1-0-0",7,1,0,1,9
+1897604,1477252,2025-01-30,House,"3rd Reading:Passed 48-13-1-0-0",48,13,0,1,62
+1897604,1491833,2025-02-18,Senate,"S10 - Labor:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1897604,1498981,2025-02-25,Senate,"3rd Reading:Passed 24-7-0-0-0",24,7,0,0,31
+1897604,1499839,2025-02-26,House,"Concur:Passed 47-12-3-0-0",47,12,0,3,62
+1897604,1504299,2025-03-04,House,"HB0064VT001 Amendment Reconsideration Motion Passed by Roll Call 45-16-1-0-0",45,16,0,1,62
+1897604,1506086,2025-03-05,Senate,"HB0064VT001 Veto Override 22-9-0-0-0",22,9,0,0,31
+1898811,1473691,2025-01-23,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1898811,1475266,2025-01-28,Senate,"3rd Reading:Passed 22-7-2-0-0",22,7,0,2,31
+1898811,1498204,2025-02-24,House,"H04 - Education:Recommend Do Pass 6-3-0-0-0",6,3,0,0,9
+1898811,1502509,2025-02-28,House,"COW:Failed 25-32-5-0-0",25,32,0,5,62
+1899713,1472318,2025-01-20,House,"H07 - Corporations:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1899713,1475209,2025-01-27,House,"3rd Reading:Passed 57-4-1-0-0",57,4,0,1,62
+1899713,1497803,2025-02-24,Senate,"S07 - Corporations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1899713,1502606,2025-02-28,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1899713,1502607,2025-02-28,House,"Concur:Passed 52-7-3-0-0",52,7,0,3,62
+1899713,1506783,2025-03-05,House,"HB0079VT001 Did Not Override Veto 35-27-0-0-0",35,27,0,0,62
+1899819,1475462,2025-01-28,Senate,"S03 - Revenue:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1899819,1477436,2025-01-30,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1899819,1479779,2025-02-04,Senate,"COW:Failed 11-16-3-0-1",11,16,1,3,31
+1899822,1471698,2025-01-15,Senate,"S03 - Revenue:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1899822,1476065,2025-01-28,Senate,"COW:Failed 13-15-1-0-2",13,15,2,1,31
+1900322,1472470,2025-01-20,House,"H04 - Education:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1900322,1474243,2025-01-24,House,"3rd Reading:Passed 45-16-1-0-0",45,16,0,1,62
+1900322,1497763,2025-02-24,Senate,"S04 - Education:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1900322,1499946,2025-02-26,Senate,"3rd Reading:Passed 28-3-0-0-0",28,3,0,0,31
+1900322,1500482,2025-02-26,House,"Concur:Passed 53-6-3-0-0",53,6,0,3,62
+1900322,1504519,2025-03-04,House,"HB0094VT001 Amendment Reconsideration Motion Passed by Roll Call 44-15-3-0-0",44,15,0,3,62
+1900322,1506250,2025-03-05,Senate,"HB0094VT001 Veto Override 21-10-0-0-0",21,10,0,0,31
+1900326,1471987,2025-01-16,House,"H05 - Agriculture:Recommend Do Pass 6-3-0-0-0",6,3,0,0,9
+1900326,1472586,2025-01-21,House,"3rd Reading:Failed 27-33-2-0-0",27,33,0,2,62
+1900345,1472660,2025-01-21,House,"H05 - Agriculture:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1900345,1474748,2025-01-27,House,"3rd Reading:Passed 57-4-1-0-0",57,4,0,1,62
+1900345,1485874,2025-02-11,Senate,"S05 - Agriculture:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1900345,1490345,2025-02-14,Senate,"COW:Failed 11-20-0-0-0",11,20,0,0,31
+1900420,1472252,2025-01-17,Senate,"S04 - Education:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1900420,1472982,2025-01-22,Senate,"3rd Reading:Passed 17-13-1-0-0",17,13,0,1,31
+1900420,1490298,2025-02-14,House,"H04 - Education:Recommend Do Pass 6-2-1-0-0",6,2,0,1,9
+1900420,1497771,2025-02-24,House,"SF0072H3002 Amendment failed 28-32-2-0-0",28,32,0,2,62
+1900420,1497772,2025-02-24,House,"3rd Reading:Failed 5-52-5-0-0",5,52,0,5,62
+1900445,1472692,2025-01-21,House,"H05 - Agriculture:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1900445,1474937,2025-01-27,House,"3rd Reading:Passed 58-3-1-0-0",58,3,0,1,62
+1900445,1485988,2025-02-11,Senate,"S05 - Agriculture:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1900445,1501650,2025-02-27,Senate,"COW:Failed 9-19-3-0-0",9,19,0,3,31
+1901420,1477282,2025-01-30,Senate,"S05 - Agriculture:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1901420,1483126,2025-02-06,Senate,"COW:Failed 14-16-1-0-0",14,16,0,1,31
+1901420,1483334,2025-02-06,Senate,"COW:S Bill Reconsideration Motion Passed by Roll Call 16-15-0-0-0",16,15,0,0,31
+1901420,1483335,2025-02-06,Senate,"COW:Passed 16-15-0-0-0",16,15,0,0,31
+1901420,1484772,2025-02-10,Senate,"SJ0002S3001 Amendment adopted 24-6-1-0-0",24,6,0,1,31
+1901420,1484773,2025-02-10,Senate,"3rd Reading:Failed 15-15-1-0-0",15,15,0,1,31
+1901420,1484774,2025-02-10,Senate,"3rd Reading:S Bill Reconsideration Motion Failed by Roll Call 14-16-1-0-0",14,16,0,1,31
+1901648,1477041,2025-01-29,Senate,"S03 - Revenue:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1901648,1480405,2025-02-04,Senate,"COW:Failed 6-23-2-0-0",6,23,0,2,31
+1904307,1472173,2025-01-17,House,"H10 - Labor:Recommend Do Pass 7-0-2-0-0",7,0,0,2,9
+1904307,1474779,2025-01-27,House,"3rd Reading:Passed 58-3-1-0-0",58,3,0,1,62
+1904307,1496749,2025-02-21,Senate,"S10 - Labor:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1904307,1505163,2025-03-04,Senate,"3rd Reading:Failed 14-16-0-0-1",14,16,1,0,31
+1907968,1473912,2025-01-23,House,"H03 - Revenue:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1907968,1477281,2025-01-30,House,"3rd Reading:Passed 58-2-1-0-1",58,2,1,1,62
+1907968,1493785,2025-02-19,Senate,"S03 - Revenue:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1907968,1497700,2025-02-24,Senate,"COW:Failed 6-21-3-0-1",6,21,1,3,31
+1908020,1473347,2025-01-22,Senate,"S04 - Education:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1908020,1483644,2025-02-06,Senate,"3rd Reading:Passed 18-12-1-0-0",18,12,0,1,31
+1908020,1491901,2025-02-18,House,"H07 - Corporations:Recommend Amend and Do Pass 7-2-0-0-0",7,2,0,0,9
+1908020,1498899,2025-02-25,House,"3rd Reading:Failed 23-38-1-0-0",23,38,0,1,62
+1911910,1477304,2025-01-30,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1911910,1484849,2025-02-10,Senate,"3rd Reading:Passed 26-4-1-0-0",26,4,0,1,31
+1911910,1496545,2025-02-21,House,"H10 - Labor:Recommend Amend and Do Pass 7-1-1-0-0",7,1,0,1,9
+1911910,1501124,2025-02-27,House,"SF0103H3002 Amendment adopted 32-27-3-0-0",32,27,0,3,62
+1911910,1501125,2025-02-27,House,"3rd Reading:Passed 52-7-3-0-0",52,7,0,3,62
+1911910,1501575,2025-02-27,Senate,"Concur:Failed 1-28-2-0-0",1,28,0,2,31
+1911910,1502265,2025-02-28,Senate,"Recede from Non-Concurrence : 27-4-0-0-0",27,4,0,0,31
+1912227,1483787,2025-02-06,House,"H07 - Corporations:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1912227,1487482,2025-02-12,House,"3rd Reading:Passed 59-1-2-0-0",59,1,0,2,62
+1912227,1498987,2025-02-25,Senate,"S07 - Corporations:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1912227,1505463,2025-03-04,Senate,"3rd Reading:Failed 14-17-0-0-0",14,17,0,0,31
+1916118,1477040,2025-01-29,House,"H07 - Corporations:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1916118,1482288,2025-02-05,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1916118,1494436,2025-02-19,Senate,"S07 - Corporations:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1916118,1502427,2025-02-28,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1916118,1502428,2025-02-28,House,"Concur:Failed 1-57-4-0-0",1,57,0,4,62
+1916118,1505440,2025-03-04,House,"HB0154JC001 Adopted HB0154JC001: 60-0-2-0-0",60,0,0,2,62
+1916118,1506636,2025-03-05,Senate,"HB0154JC001 Did Not Adopt HB0154JC001: 14-17-0-0-0",14,17,0,0,31
+1916653,1474697,2025-01-27,Senate,"S07 - Corporations:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1916653,1482974,2025-02-05,Senate,"3rd Reading:Failed 10-17-4-0-0",10,17,0,4,31
+1916786,1474908,2025-01-27,Senate,"S04 - Education:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1916786,1477342,2025-01-30,Senate,"3rd Reading:Passed 26-4-1-0-0",26,4,0,1,31
+1916786,1498216,2025-02-24,House,"H04 - Education:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1916786,1502500,2025-02-28,House,"COW:Failed 16-40-6-0-0",16,40,0,6,62
+1916865,1475427,2025-01-28,House,"H05 - Agriculture:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1916865,1479531,2025-02-04,House,"3rd Reading:Passed 42-17-3-0-0",42,17,0,3,62
+1916865,1488672,2025-02-13,Senate,"S05 - Agriculture:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1916865,1494977,2025-02-20,Senate,"3rd Reading:Failed 12-19-0-0-0",12,19,0,0,31
+1919113,1477036,2025-01-29,House,"H01 - Judiciary:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1919113,1482619,2025-02-05,House,"3rd Reading:Passed 59-1-2-0-0",59,1,0,2,62
+1919113,1487807,2025-02-12,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1919113,1496879,2025-02-21,Senate,"COW:Failed 4-26-1-0-0",4,26,0,1,31
+1919160,1477842,2025-01-30,House,"H05 - Agriculture:Recommend Amend and Do Pass 5-4-0-0-0",5,4,0,0,9
+1919160,1480041,2025-02-04,House,"COW:Failed 26-32-4-0-0",26,32,0,4,62
+1919241,1478391,2025-01-31,House,"H09 - Minerals:Recommend Do Pass 7-0-2-0-0",7,0,0,2,9
+1919241,1480563,2025-02-05,House,"3rd Reading:Passed 56-4-2-0-0",56,4,0,2,62
+1919241,1494008,2025-02-19,Senate,"S09 - Minerals:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1919241,1505517,2025-03-04,Senate,"3rd Reading:Failed 15-16-0-0-0",15,16,0,0,31
+1921174,1485148,2025-02-10,House,"H01 - Judiciary:Do Pass Failed 3-6-0-0-0",3,6,0,0,9
+1922257,1477985,2025-01-30,House,"H05 - Agriculture:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1922257,1483321,2025-02-06,House,"3rd Reading:Failed 13-46-3-0-0",13,46,0,3,62
+1924513,1476472,2025-01-29,Senate,"S04 - Education:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1924513,1484791,2025-02-10,Senate,"3rd Reading:Passed 18-12-1-0-0",18,12,0,1,31
+1924513,1494073,2025-02-19,House,"H04 - Education:Recommend Amend and Do Pass 5-4-0-0-0",5,4,0,0,9
+1924513,1502289,2025-02-28,House,"COW:Failed 24-32-6-0-0",24,32,0,6,62
+1924598,1478243,2025-01-31,Senate,"S04 - Education:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1924598,1484252,2025-02-07,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1924598,1485466,2025-02-10,Senate,"COW:Failed 10-20-1-0-0",10,20,0,1,31
+1924853,1480122,2025-02-04,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1924853,1484072,2025-02-07,Senate,"S02 - Appropriations:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1924853,1485470,2025-02-10,Senate,"COW:Failed 10-20-1-0-0",10,20,0,1,31
+1925450,1483245,2025-02-06,Senate,"S10 - Labor:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1925450,1487639,2025-02-12,Senate,"3rd Reading:Passed 24-6-1-0-0",24,6,0,1,31
+1925450,1498213,2025-02-24,House,"H10 - Labor:Recommend Amend and Do Pass 7-1-1-0-0",7,1,0,1,9
+1925450,1503765,2025-03-03,House,"SF0125H2001 Amendment adopted 57-1-4-0-0",57,1,0,4,62
+1925450,1504199,2025-03-04,House,"3rd Reading:Passed 51-9-2-0-0",51,9,0,2,62
+1925450,1505210,2025-03-04,Senate,"Concur:Passed 26-5-0-0-0",26,5,0,0,31
+1925702,1473708,2025-01-23,House,"H05 - Agriculture:Do Pass Failed 3-6-0-0-0",3,6,0,0,9
+1925702,1475465,2025-01-28,House,"H05 - Agriculture:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1925702,1478712,2025-02-03,House,"3rd Reading:Passed 55-2-5-0-0",55,2,0,5,62
+1925702,1495191,2025-02-20,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1925702,1496469,2025-02-21,Senate,"COW:Failed 11-19-1-0-0",11,19,0,1,31
+1926046,1475564,2025-01-28,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1926046,1477408,2025-01-30,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1926046,1484236,2025-02-07,Senate,"3rd Reading:Passed 25-6-0-0-0",25,6,0,0,31
+1926046,1491979,2025-02-18,House,"H07 - Corporations:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1926046,1494462,2025-02-19,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1926046,1499543,2025-02-25,House,"3rd Reading:Passed 56-5-1-0-0",56,5,0,1,62
+1926046,1499544,2025-02-25,Senate,"Concur:Failed 0-30-1-0-0",0,30,0,1,31
+1926046,1501983,2025-02-27,Senate,"SF0127JC001 Adopted SF0127JC001: 26-3-2-0-0",26,3,0,2,31
+1926046,1501984,2025-02-27,House,"SF0127JC001 Adopted SF0127JC001: 54-4-4-0-0",54,4,0,4,62
+1926046,1506705,2025-03-05,Senate,"SF0127VT001 Veto Override 21-10-0-0-0",21,10,0,0,31
+1926046,1507345,2025-03-06,House,"SF0127VT001 Amendment Reconsideration Motion Passed by Roll Call 48-13-1-0-0",48,13,0,1,62
+1926110,1473415,2025-01-22,House,"H04 - Education:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1926110,1473850,2025-01-23,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1926110,1483594,2025-02-06,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1926110,1494182,2025-02-19,Senate,"S04 - Education:Recommend Amend and Do Pass 3-1-1-0-0",3,1,0,1,5
+1926110,1496922,2025-02-21,Senate,"S02 - Appropriations:Recommend Do Pass 3-0-2-0-0",3,0,0,2,5
+1926110,1499166,2025-02-25,Senate,"COW:Failed 4-27-0-0-0",4,27,0,0,31
+1926173,1478099,2025-01-31,House,"H01 - Judiciary:Recommend Do Pass 7-1-1-0-0",7,1,0,1,9
+1926173,1484696,2025-02-10,House,"3rd Reading:Passed 56-3-3-0-0",56,3,0,3,62
+1926173,1491875,2025-02-18,Senate,"S05 - Agriculture:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1926173,1496377,2025-02-21,Senate,"3rd Reading:Failed 14-17-0-0-0",14,17,0,0,31
+1928907,1479712,2025-02-04,Senate,"S06 - Travel:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1928907,1484325,2025-02-07,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1928907,1498486,2025-02-24,House,"H09 - Minerals:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1928907,1500267,2025-02-26,House,"SF0132H2002 Amendment failed 6-53-3-0-0",6,53,0,3,62
+1928907,1501148,2025-02-27,House,"SF0132H3002 Amendment failed 2-57-3-0-0",2,57,0,3,62
+1928907,1501149,2025-02-27,House,"3rd Reading:Passed 50-9-3-0-0",50,9,0,3,62
+1928907,1501751,2025-02-27,Senate,"Concur:Passed 25-4-2-0-0",25,4,0,2,31
+1928907,1504898,2025-03-04,Senate,"SF0132VT001 Veto Override 23-8-0-0-0",23,8,0,0,31
+1928907,1504899,2025-03-04,House,"SF0132VT001 Amendment Reconsideration Motion Passed by Roll Call 47-13-2-0-0",47,13,0,2,62
+1929050,1475387,2025-01-28,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 3-1-1-0-0",3,1,0,1,5
+1929050,1483715,2025-02-06,Senate,"COW:Passed 17-14-0-0-0",17,14,0,0,31
+1932174,1478745,2025-02-03,Senate,"S04 - Education:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1932174,1485512,2025-02-10,Senate,"3rd Reading:Failed 18-12-1-0-0",18,12,0,1,31
+1932861,1476889,2025-01-29,Senate,"S03 - Revenue:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1932861,1484266,2025-02-07,Senate,"COW:Failed 12-17-2-0-0",12,17,0,2,31
+1934526,1477034,2025-01-29,Senate,"S03 - Revenue:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1934526,1483584,2025-02-06,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1934526,1492675,2025-02-18,House,"H03 - Revenue:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1934526,1505335,2025-03-04,House,"SF0153H3003 Amendment failed 17-43-2-0-0",17,43,0,2,62
+1934526,1505336,2025-03-04,House,"SF0153H3004 Amendment failed 19-41-2-0-0",19,41,0,2,62
+1934526,1505337,2025-03-04,House,"3rd Reading:Passed 51-9-2-0-0",51,9,0,2,62
+1934526,1506729,2025-03-05,Senate,"Concur:Failed 7-24-0-0-0",7,24,0,0,31
+1936454,1482340,2025-02-05,Senate,"S04 - Education:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1937158,1477945,2025-01-30,House,"H03 - Revenue:Recommend Do Pass 6-2-1-0-0",6,2,0,1,9
+1937158,1483363,2025-02-06,House,"3rd Reading:Passed 35-25-2-0-0",35,25,0,2,62
+1937158,1498132,2025-02-24,Senate,"S03 - Revenue:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1937158,1502577,2025-02-28,Senate,"COW:Failed 8-21-2-0-0",8,21,0,2,31
+1941814,1482484,2025-02-05,Senate,"S10 - Labor:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1941814,1483478,2025-02-06,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1941814,1486325,2025-02-11,Senate,"3rd Reading:Passed 24-6-1-0-0",24,6,0,1,31
+1941814,1500699,2025-02-26,House,"H10 - Labor:Recommend Amend and Do Pass 7-1-1-0-0",7,1,0,1,9
+1941814,1501235,2025-02-27,House,"H02 - Appropriations:Recommend Do Pass 6-1-0-0-0",6,1,0,0,7
+1941814,1502669,2025-02-28,House,"COW:Failed 23-36-3-0-0",23,36,0,3,62
+1941815,1482712,2025-02-05,Senate,"S04 - Education:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1941815,1487679,2025-02-12,Senate,"3rd Reading:Failed 6-24-1-0-0",6,24,0,1,31
+1942356,1484498,2025-02-07,Senate,"S03 - Revenue:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1942356,1485815,2025-02-10,Senate,"COW:Failed 9-21-1-0-0",9,21,0,1,31
+1942387,1480436,2025-02-04,House,"H06 - Travel:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1942387,1485559,2025-02-10,House,"3rd Reading:Passed 45-14-3-0-0",45,14,0,3,62
+1942387,1498941,2025-02-25,Senate,"S06 - Travel:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1942387,1502056,2025-02-27,Senate,"COW:Failed 12-12-7-0-0",12,12,0,7,31
+1942524,1478451,2025-01-31,Senate,"S03 - Revenue:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1942524,1484442,2025-02-07,Senate,"COW:Failed 6-20-4-0-1",6,20,1,4,31
+1942659,1483828,2025-02-06,Senate,"S02 - Appropriations:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1942659,1487405,2025-02-12,Senate,"3rd Reading:Failed 10-20-1-0-0",10,20,0,1,31
+1943012,1479811,2025-02-04,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1943012,1485205,2025-02-10,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1943012,1500680,2025-02-26,House,"H02 - Appropriations:Recommend Amend and Do Pass 6-1-0-0-0",6,1,0,0,7
+1943012,1503410,2025-03-03,House,"3rd Reading:Passed 53-7-2-0-0",53,7,0,2,62
+1943012,1503411,2025-03-03,Senate,"Concur:Failed 5-26-0-0-0",5,26,0,0,31
+1943012,1504368,2025-03-04,Senate,"SF0196JC001 Adopted SF0196JC001: 31-0-0-0-0",31,0,0,0,31
+1943012,1505127,2025-03-04,House,"SF0196JC001 Adopted SF0196JC001: 54-4-4-0-0",54,4,0,4,62
+1943120,1483567,2025-02-06,House,"H05 - Agriculture:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1943120,1485256,2025-02-10,House,"COW:Failed 10-50-2-0-0",10,50,0,2,62
+1945158,1482989,2025-02-05,House,"H02 - Appropriations:Recommend Amend and Do Pass 6-1-0-0-0",6,1,0,0,7
+1945158,1486705,2025-02-11,House,"3rd Reading:Failed 25-36-1-0-0",25,36,0,1,62
+1945813,1482857,2025-02-05,House,"HB0001H2001 Amendment failed 22-38-2-0-0",22,38,0,2,62
+1945813,1482858,2025-02-05,House,"HB0001H2002 Amendment failed 15-46-1-0-0",15,46,0,1,62
+1945813,1482859,2025-02-05,House,"HB0001H2004 Amendment failed 10-51-1-0-0",10,51,0,1,62
+1945813,1482860,2025-02-05,House,"HB0001H2005 Amendment adopted 47-14-1-0-0",47,14,0,1,62
+1945813,1482861,2025-02-05,House,"HB0001H2006 Amendment failed 19-42-1-0-0",19,42,0,1,62
+1945813,1482862,2025-02-05,House,"HB0001H2007 Amendment failed 18-43-1-0-0",18,43,0,1,62
+1945813,1482863,2025-02-05,House,"HB0001H2008 Amendment adopted 40-21-1-0-0",40,21,0,1,62
+1945813,1482864,2025-02-05,House,"HB0001H2010 Amendment failed 24-37-1-0-0",24,37,0,1,62
+1945813,1482865,2025-02-05,House,"HB0001H2012 Amendment adopted 61-0-1-0-0",61,0,0,1,62
+1945813,1482866,2025-02-05,House,"HB0001H2013 Amendment failed 23-38-1-0-0",23,38,0,1,62
+1945813,1482867,2025-02-05,House,"HB0001H2014 Amendment failed 23-38-1-0-0",23,38,0,1,62
+1945813,1482868,2025-02-05,House,"HB0001H2015 Amendment failed 23-38-1-0-0",23,38,0,1,62
+1945813,1482869,2025-02-05,House,"HB0001H2016 Amendment failed 29-32-1-0-0",29,32,0,1,62
+1945813,1482870,2025-02-05,House,"HB0001H2017 Amendment failed 20-41-1-0-0",20,41,0,1,62
+1945813,1482871,2025-02-05,House,"HB0001H2018 Amendment failed 22-39-1-0-0",22,39,0,1,62
+1945813,1482872,2025-02-05,House,"HB0001H2019 Amendment adopted 33-28-1-0-0",33,28,0,1,62
+1945813,1482873,2025-02-05,House,"HB0001H2020 Amendment failed 15-46-1-0-0",15,46,0,1,62
+1945813,1482874,2025-02-05,House,"HB0001H2022 Amendment failed 10-51-1-0-0",10,51,0,1,62
+1945813,1482875,2025-02-05,House,"HB0001H2023 Amendment failed 29-32-1-0-0",29,32,0,1,62
+1945813,1482876,2025-02-05,House,"HB0001H2024 Amendment failed 19-42-1-0-0",19,42,0,1,62
+1945813,1482877,2025-02-05,House,"HB0001H2025 Amendment failed 11-50-1-0-0",11,50,0,1,62
+1945813,1482878,2025-02-05,House,"HB0001H2028 Amendment failed 25-36-1-0-0",25,36,0,1,62
+1945813,1482879,2025-02-05,House,"HB0001H2029 Amendment failed 28-32-2-0-0",28,32,0,2,62
+1945813,1482880,2025-02-05,House,"HB0001H2031 Amendment failed 30-30-2-0-0",30,30,0,2,62
+1945813,1482881,2025-02-05,House,"HB0001H2032 Amendment failed 17-43-2-0-0",17,43,0,2,62
+1945813,1482882,2025-02-05,House,"HB0001H2035 Amendment failed 13-48-1-0-0",13,48,0,1,62
+1945813,1482883,2025-02-05,House,"HB0001H2036 Amendment failed 23-38-1-0-0",23,38,0,1,62
+1945813,1482884,2025-02-05,House,"HB0001H2040 Amendment failed 25-35-2-0-0",25,35,0,2,62
+1945813,1482885,2025-02-05,House,"HB0001H2043 Amendment failed 22-36-4-0-0",22,36,0,4,62
+1945813,1484406,2025-02-07,House,"HB0001H3001 Amendment adopted 32-28-2-0-0",32,28,0,2,62
+1945813,1484407,2025-02-07,House,"HB0001H3002 Amendment failed 15-45-2-0-0",15,45,0,2,62
+1945813,1484408,2025-02-07,House,"HB0001H3003 Amendment adopted 53-7-2-0-0",53,7,0,2,62
+1945813,1484409,2025-02-07,House,"HB0001H3005 Amendment failed 13-47-2-0-0",13,47,0,2,62
+1945813,1484410,2025-02-07,House,"HB0001H3007 Amendment adopted 33-27-2-0-0",33,27,0,2,62
+1945813,1484411,2025-02-07,House,"HB0001H3010 Amendment failed 22-38-2-0-0",22,38,0,2,62
+1945813,1484412,2025-02-07,House,"HB0001H3011 Amendment failed 20-39-3-0-0",20,39,0,3,62
+1945813,1484413,2025-02-07,House,"HB0001H3012 Amendment adopted 38-21-3-0-0",38,21,0,3,62
+1945813,1484414,2025-02-07,House,"HB0001H3015 Amendment failed 26-33-3-0-0",26,33,0,3,62
+1945813,1484415,2025-02-07,House,"HB0001H3016 Amendment failed 27-32-3-0-0",27,32,0,3,62
+1945813,1484416,2025-02-07,House,"HB0001H3017 Amendment adopted 35-24-3-0-0",35,24,0,3,62
+1945813,1484417,2025-02-07,House,"HB0001H3018 Amendment failed 21-38-3-0-0",21,38,0,3,62
+1945813,1484418,2025-02-07,House,"HB0001H3019 Amendment adopted 35-24-3-0-0",35,24,0,3,62
+1945813,1484419,2025-02-07,House,"HB0001H3021.01 Amendment failed 7-52-3-0-0",7,52,0,3,62
+1945813,1484420,2025-02-07,House,"HB0001H3021.02 Amendment failed 10-49-3-0-0",10,49,0,3,62
+1945813,1484421,2025-02-07,House,"HB0001H3022 Amendment failed 25-34-3-0-0",25,34,0,3,62
+1945813,1484422,2025-02-07,House,"HB0001H3023 Amendment failed 27-32-3-0-0",27,32,0,3,62
+1945813,1484423,2025-02-07,House,"HB0001H3024 Amendment failed 12-45-5-0-0",12,45,0,5,62
+1945813,1484424,2025-02-07,House,"HB0001H3025 Amendment failed 16-43-3-0-0",16,43,0,3,62
+1945813,1484425,2025-02-07,House,"HB0001H3027 Amendment failed 15-44-3-0-0",15,44,0,3,62
+1945813,1484426,2025-02-07,House,"HB0001H3042 Amendment failed 29-29-4-0-0",29,29,0,4,62
+1945813,1484427,2025-02-07,House,"HB0001H3031 Amendment failed 21-37-4-0-0",21,37,0,4,62
+1945813,1484428,2025-02-07,House,"HB0001H3034 Amendment adopted 35-23-4-0-0",35,23,0,4,62
+1945813,1484429,2025-02-07,House,"3rd Reading:Passed 43-14-5-0-0",43,14,0,5,62
+1945993,1482904,2025-02-05,Senate,"SF0001S2001 Amendment adopted 15-12-4-0-0",15,12,0,4,31
+1945993,1482905,2025-02-05,Senate,"SF0001S2002 Amendment failed 7-20-4-0-0",7,20,0,4,31
+1945993,1482906,2025-02-05,Senate,"SF0001S2003 Amendment adopted 21-6-4-0-0",21,6,0,4,31
+1945993,1482907,2025-02-05,Senate,"SF0001S2004 Amendment adopted 20-8-3-0-0",20,8,0,3,31
+1945993,1482908,2025-02-05,Senate,"SF0001S2005 Amendment adopted 22-6-3-0-0",22,6,0,3,31
+1945993,1482909,2025-02-05,Senate,"SF0001S2006 Amendment adopted 16-12-3-0-0",16,12,0,3,31
+1945993,1482910,2025-02-05,Senate,"SF0001S2007 Amendment failed 8-20-3-0-0",8,20,0,3,31
+1945993,1482911,2025-02-05,Senate,"SF0001S2008 Amendment adopted 24-4-3-0-0",24,4,0,3,31
+1945993,1482912,2025-02-05,Senate,"SF0001S2009 Amendment adopted 23-5-3-0-0",23,5,0,3,31
+1945993,1482913,2025-02-05,Senate,"SF0001S2010 Amendment adopted 21-7-3-0-0",21,7,0,3,31
+1945993,1482914,2025-02-05,Senate,"SF0001S2011 Amendment adopted 24-4-3-0-0",24,4,0,3,31
+1945993,1482915,2025-02-05,Senate,"SF0001S2012 Amendment adopted 18-10-3-0-0",18,10,0,3,31
+1945993,1482916,2025-02-05,Senate,"SF0001S2013 Amendment failed 10-19-2-0-0",10,19,0,2,31
+1945993,1482917,2025-02-05,Senate,"SF0001S2014 Amendment failed 14-15-2-0-0",14,15,0,2,31
+1945993,1482918,2025-02-05,Senate,"SF0001S2016 Amendment adopted 23-6-2-0-0",23,6,0,2,31
+1945993,1482919,2025-02-05,Senate,"SF0001S2017 Amendment failed 7-22-2-0-0",7,22,0,2,31
+1945993,1482920,2025-02-05,Senate,"SF0001S2018 Amendment adopted 23-6-2-0-0",23,6,0,2,31
+1945993,1482921,2025-02-05,Senate,"SF0001S2019 Amendment adopted 27-2-2-0-0",27,2,0,2,31
+1945993,1482922,2025-02-05,Senate,"SF0001S2020 Amendment adopted 29-0-2-0-0",29,0,0,2,31
+1945993,1482923,2025-02-05,Senate,"SF0001S2021 Amendment adopted 27-2-2-0-0",27,2,0,2,31
+1945993,1482924,2025-02-05,Senate,"SF0001S2022 Amendment adopted 28-1-2-0-0",28,1,0,2,31
+1945993,1482925,2025-02-05,Senate,"SF0001S2023 Amendment failed 5-24-2-0-0",5,24,0,2,31
+1945993,1482926,2025-02-05,Senate,"SF0001S2024 Amendment failed 12-17-2-0-0",12,17,0,2,31
+1945993,1482927,2025-02-05,Senate,"SF0001S2025 Amendment adopted 17-12-2-0-0",17,12,0,2,31
+1945993,1482928,2025-02-05,Senate,"SF0001S2026 Amendment adopted 16-11-4-0-0",16,11,0,4,31
+1945993,1484461,2025-02-07,Senate,"SF0001S3001 Amendment adopted 26-5-0-0-0",26,5,0,0,31
+1945993,1484462,2025-02-07,Senate,"SF0001S3003 Amendment adopted 24-7-0-0-0",24,7,0,0,31
+1945993,1484463,2025-02-07,Senate,"SF0001S3004 Amendment failed 8-23-0-0-0",8,23,0,0,31
+1945993,1484464,2025-02-07,Senate,"SF0001S3005 Amendment failed 15-16-0-0-0",15,16,0,0,31
+1945993,1484465,2025-02-07,Senate,"SF0001S3006 Amendment adopted 18-13-0-0-0",18,13,0,0,31
+1945993,1484466,2025-02-07,Senate,"SF0001S3007 Amendment failed 11-20-0-0-0",11,20,0,0,31
+1945993,1484467,2025-02-07,Senate,"SF0001S3008 Amendment failed 3-28-0-0-0",3,28,0,0,31
+1945993,1484468,2025-02-07,Senate,"SF0001S3009 Amendment failed 7-24-0-0-0",7,24,0,0,31
+1945993,1484469,2025-02-07,Senate,"SF0001S3011 Amendment failed 11-20-0-0-0",11,20,0,0,31
+1945993,1484470,2025-02-07,Senate,"SF0001S3013 Amendment adopted 23-8-0-0-0",23,8,0,0,31
+1945993,1484471,2025-02-07,Senate,"SF0001S3014 Amendment failed 10-21-0-0-0",10,21,0,0,31
+1945993,1484472,2025-02-07,Senate,"SF0001S3015 Amendment adopted 19-12-0-0-0",19,12,0,0,31
+1945993,1484473,2025-02-07,Senate,"SF0001S3018 Amendment failed 13-18-0-0-0",13,18,0,0,31
+1945993,1484474,2025-02-07,Senate,"SF0001S3020 Amendment adopted 16-15-0-0-0",16,15,0,0,31
+1945993,1484475,2025-02-07,Senate,"SF0001S3023 Amendment failed 10-21-0-0-0",10,21,0,0,31
+1945993,1484476,2025-02-07,Senate,"SF0001S3024 Amendment failed 3-28-0-0-0",3,28,0,0,31
+1945993,1484477,2025-02-07,Senate,"SF0001S3025 Amendment failed 13-18-0-0-0",13,18,0,0,31
+1945993,1484478,2025-02-07,Senate,"SF0001S3027 Amendment failed 11-20-0-0-0",11,20,0,0,31
+1945993,1484479,2025-02-07,Senate,"SF0001S3028 Amendment adopted 18-13-0-0-0",18,13,0,0,31
+1945993,1484480,2025-02-07,Senate,"SF0001S3029 Amendment adopted 30-1-0-0-0",30,1,0,0,31
+1945993,1484481,2025-02-07,Senate,"3rd Reading:Passed 28-3-0-0-0",28,3,0,0,31
+1946577,1483676,2025-02-06,House,"H08 - Transportation:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1946577,1484490,2025-02-07,House,"H02 - Appropriations:Recommend Do Pass 6-1-0-0-0",6,1,0,0,7
+1946577,1485640,2025-02-10,House,"COW:Failed 25-34-3-0-0",25,34,0,3,62
+1893468,1471942,2025-01-16,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1893468,1472821,2025-01-21,Senate,"3rd Reading:Passed 29-0-2-0-0",29,0,0,2,31
+1893468,1490342,2025-02-14,House,"H01 - Judiciary:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1893470,1472109,2025-01-17,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1893470,1472663,2025-01-21,Senate,"3rd Reading:Passed 27-2-2-0-0",27,2,0,2,31
+1893470,1488365,2025-02-12,House,"H01 - Judiciary:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1893470,1493160,2025-02-19,House,"3rd Reading:Passed 58-3-1-0-0",58,3,0,1,62
+1893470,1496038,2025-02-20,Senate,"Concur:Passed 31-0-0-0-0",31,0,0,0,31
+1893471,1475573,2025-01-28,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1893471,1478402,2025-01-31,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1893471,1496659,2025-02-21,House,"H04 - Education:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1893471,1499938,2025-02-26,House,"3rd Reading:Passed 59-0-3-0-0",59,0,0,3,62
+1893473,1474251,2025-01-24,House,"H06 - Travel:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1893473,1478710,2025-02-03,House,"3rd Reading:Passed 35-22-5-0-0",35,22,0,5,62
+1893473,1491987,2025-02-18,Senate,"S06 - Travel:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1893473,1497393,2025-02-24,Senate,"3rd Reading:Passed 19-11-1-0-0",19,11,0,1,31
+1893473,1498255,2025-02-24,House,"Concur:Passed 33-22-7-0-0",33,22,0,7,62
+1893474,1471718,2025-01-15,Senate,"S04 - Education:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1893474,1472114,2025-01-17,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1893474,1488119,2025-02-12,House,"H04 - Education:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1893474,1491786,2025-02-18,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1893474,1493075,2025-02-19,Senate,"Concur:Passed 31-0-0-0-0",31,0,0,0,31
+1893477,1477805,2025-01-30,House,"H06 - Travel:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1893477,1483175,2025-02-06,House,"3rd Reading:Passed 54-7-1-0-0",54,7,0,1,62
+1893477,1488968,2025-02-13,Senate,"S06 - Travel:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1893477,1491771,2025-02-18,Senate,"3rd Reading:Passed 19-12-0-0-0",19,12,0,0,31
+1893477,1492707,2025-02-18,House,"Concur:Passed 38-22-2-0-0",38,22,0,2,62
+1893479,1477292,2025-01-30,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1893479,1483131,2025-02-06,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1893479,1489344,2025-02-13,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1893479,1494718,2025-02-20,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1893479,1495822,2025-02-20,House,"Concur:Passed 55-0-7-0-0",55,0,0,7,62
+1893480,1473753,2025-01-23,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1893480,1475703,2025-01-28,Senate,"3rd Reading:Passed 29-0-2-0-0",29,0,0,2,31
+1893480,1497471,2025-02-24,House,"H01 - Judiciary:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1893480,1503188,2025-03-03,House,"SF0010H2001 Amendment failed 25-35-2-0-0",25,35,0,2,62
+1893480,1504415,2025-03-04,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1893481,1471941,2025-01-16,Senate,"S06 - Travel:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1893481,1472543,2025-01-21,Senate,"3rd Reading:Passed 21-8-2-0-0",21,8,0,2,31
+1893481,1492663,2025-02-18,House,"H06 - Travel:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1893481,1498230,2025-02-24,House,"3rd Reading:Passed 40-20-2-0-0",40,20,0,2,62
+1893483,1472841,2025-01-21,Senate,"S01 - Judiciary:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1893483,1474448,2025-01-24,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1893483,1493116,2025-02-19,House,"H01 - Judiciary:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1893483,1499468,2025-02-25,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1893485,1483613,2025-02-06,House,"H06 - Travel:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1893486,1472101,2025-01-17,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1893486,1473003,2025-01-22,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1893486,1493052,2025-02-19,House,"H01 - Judiciary:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1893486,1498832,2025-02-25,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1893488,1472570,2025-01-21,Senate,"S06 - Travel:Recommend Amend and Do Pass 3-1-1-0-0",3,1,0,1,5
+1893488,1474797,2025-01-27,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1893488,1501620,2025-02-27,House,"H06 - Travel:Do Pass Failed 2-7-0-0-0",2,7,0,0,9
+1893489,1474150,2025-01-23,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1893489,1475696,2025-01-28,Senate,"3rd Reading:Passed 27-2-2-0-0",27,2,0,2,31
+1893489,1496616,2025-02-21,House,"H01 - Judiciary:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1893489,1501883,2025-02-27,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1894642,1471721,2025-01-15,Senate,"S09 - Minerals:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1894642,1472116,2025-01-17,Senate,"3rd Reading:Passed 23-7-1-0-0",23,7,0,1,31
+1894642,1487372,2025-02-12,House,"H09 - Minerals:Recommend Do Pass 7-0-2-0-0",7,0,0,2,9
+1894642,1491990,2025-02-18,House,"3rd Reading:Passed 60-1-1-0-0",60,1,0,1,62
+1894644,1473179,2025-01-22,Senate,"S09 - Minerals:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1894644,1474808,2025-01-27,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1894644,1487576,2025-02-12,House,"H09 - Minerals:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1894644,1491820,2025-02-18,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1894648,1471707,2025-01-15,Senate,"S09 - Minerals:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1894648,1472166,2025-01-17,Senate,"3rd Reading:Passed 17-13-1-0-0",17,13,0,1,31
+1894648,1487318,2025-02-12,House,"H09 - Minerals:Recommend Do Pass 7-0-2-0-0",7,0,0,2,9
+1894648,1492574,2025-02-18,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1894650,1472073,2025-01-15,House,"H09 - Minerals:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1894650,1472317,2025-01-20,House,"3rd Reading:Passed 59-0-3-0-0",59,0,0,3,62
+1894650,1487886,2025-02-12,Senate,"S09 - Minerals:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1894650,1491813,2025-02-18,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1894651,1472333,2025-01-20,Senate,"S09 - Minerals:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1894651,1474366,2025-01-24,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1894651,1476159,2025-01-29,Senate,"3rd Reading:Passed 22-9-0-0-0",22,9,0,0,31
+1894651,1496500,2025-02-21,House,"H09 - Minerals:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1894651,1498706,2025-02-25,House,"H02 - Appropriations:Recommend Do Pass 6-1-0-0-0",6,1,0,0,7
+1894651,1503354,2025-03-03,House,"3rd Reading:Passed 55-5-2-0-0",55,5,0,2,62
+1894651,1503355,2025-03-03,Senate,"Concur:Failed 12-19-0-0-0",12,19,0,0,31
+1894651,1506124,2025-03-05,Senate,"SF0017JC001 Adopted SF0017JC001: 27-4-0-0-0",27,4,0,0,31
+1894651,1506566,2025-03-05,House,"SF0017JC001 Adopted SF0017JC001: 55-3-4-0-0",55,3,0,4,62
+1894652,1472403,2025-01-20,Senate,"S09 - Minerals:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1894652,1473807,2025-01-23,Senate,"3rd Reading:Passed 24-6-1-0-0",24,6,0,1,31
+1894652,1498964,2025-02-25,House,":Recall from Committee failed Pursuant to HR 5-6 16-45-1-0-0",16,45,0,1,62
+1894653,1485522,2025-02-10,House,"H09 - Minerals:Do Pass Failed 2-6-1-0-0",2,6,0,1,9
+1894655,1472072,2025-01-16,House,"H03 - Revenue:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1894655,1472210,2025-01-17,House,"HB0011HW001 Amendment adopted 36-25-1-0-0",36,25,0,1,62
+1894655,1472316,2025-01-20,House,"HB0011H2001 Amendment failed 28-31-3-0-0",28,31,0,3,62
+1894655,1472775,2025-01-21,House,"3rd Reading:Passed 55-5-2-0-0",55,5,0,2,62
+1894655,1488400,2025-02-12,Senate,"S03 - Revenue:Recommend Do Pass 3-1-1-0-0",3,1,0,1,5
+1894655,1492710,2025-02-18,Senate,"3rd Reading:Passed 27-4-0-0-0",27,4,0,0,31
+1894655,1492711,2025-02-18,House,"Concur:Failed 11-49-2-0-0",11,49,0,2,62
+1894655,1499221,2025-02-25,House,"HB0011JC001 Adopted HB0011JC001: 43-17-2-0-0",43,17,0,2,62
+1894655,1499222,2025-02-25,Senate,"HB0011JC001 Adopted HB0011JC001: 27-4-0-0-0",27,4,0,0,31
+1894721,1479133,2025-02-03,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1894721,1485980,2025-02-11,Senate,"3rd Reading:Passed 19-11-1-0-0",19,11,0,1,31
+1894721,1496266,2025-02-21,House,"H01 - Judiciary:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1894721,1503133,2025-03-03,House,"SF0022H2002 Amendment adopted 55-5-2-0-0",55,5,0,2,62
+1894721,1504465,2025-03-04,House,"3rd Reading:Passed 44-17-1-0-0",44,17,0,1,62
+1894721,1505211,2025-03-04,Senate,"Concur:Passed 16-15-0-0-0",16,15,0,0,31
+1894738,1472001,2025-01-16,House,"H04 - Education:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1894738,1472477,2025-01-20,House,"3rd Reading:Passed 59-0-3-0-0",59,0,0,3,62
+1894738,1490021,2025-02-14,Senate,"S04 - Education:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1894738,1494853,2025-02-20,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1894754,1472144,2025-01-17,House,"H04 - Education:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1894754,1472442,2025-01-20,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1894754,1473725,2025-01-23,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1894754,1493531,2025-02-19,Senate,"S04 - Education:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1894754,1495281,2025-02-20,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1894754,1501569,2025-02-27,Senate,"3rd Reading:Passed 29-0-2-0-0",29,0,0,2,31
+1894754,1502005,2025-02-27,House,"Concur:Passed 58-1-3-0-0",58,1,0,3,62
+1894786,1471703,2025-01-15,Senate,"S10 - Labor:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1894786,1472313,2025-01-20,Senate,"3rd Reading:Passed 20-7-4-0-0",20,7,0,4,31
+1894786,1487726,2025-02-12,House,"H10 - Labor:Recommend Do Pass 7-0-2-0-0",7,0,0,2,9
+1894786,1492351,2025-02-18,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1894852,1485422,2025-02-10,House,"H02 - Appropriations:Do Pass Failed 3-3-1-0-0",3,3,0,1,7
+1894879,1472494,2025-01-20,House,"H04 - Education:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1894879,1475147,2025-01-27,House,"3rd Reading:Passed 38-23-1-0-0",38,23,0,1,62
+1894879,1497752,2025-02-24,Senate,"S04 - Education:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1894879,1500280,2025-02-26,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1894967,1473718,2025-01-23,Senate,"S08 - Transportation:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1894967,1475356,2025-01-28,Senate,"3rd Reading:Passed 29-0-2-0-0",29,0,0,2,31
+1894967,1499038,2025-02-25,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1894980,1472501,2025-01-20,House,"H07 - Corporations:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1894980,1475095,2025-01-27,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1894980,1487714,2025-02-12,Senate,"S09 - Minerals:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1894980,1492314,2025-02-18,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1894996,1472138,2025-01-17,Senate,"S04 - Education:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1894996,1472466,2025-01-20,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1894996,1474378,2025-01-24,Senate,"3rd Reading:Passed 21-9-1-0-0",21,9,0,1,31
+1894996,1501323,2025-02-27,House,"H02 - Appropriations:Recommend Do Pass 5-2-0-0-0",5,2,0,0,7
+1894996,1504264,2025-03-04,House,"SF0034H3001 Amendment adopted 35-26-1-0-0",35,26,0,1,62
+1894996,1504265,2025-03-04,House,"3rd Reading:Passed 38-23-1-0-0",38,23,0,1,62
+1894996,1505448,2025-03-04,Senate,"Concur:Failed 0-31-0-0-0",0,31,0,0,31
+1894996,1507367,2025-03-06,Senate,"Recede from Non-Concurrence Passed: 20-7-4-0-0",20,7,0,4,31
+1895001,1473809,2025-01-23,Senate,"S08 - Transportation:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1895001,1475777,2025-01-28,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1895001,1477323,2025-01-30,Senate,"3rd Reading:Passed 20-10-1-0-0",20,10,0,1,31
+1895013,1472669,2025-01-21,Senate,"S08 - Transportation:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1895013,1473789,2025-01-23,Senate,"3rd Reading:Passed 27-3-1-0-0",27,3,0,1,31
+1895013,1501477,2025-02-27,House,"H08 - Transportation:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1895017,1471938,2025-01-16,Senate,"S08 - Transportation:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1895017,1473303,2025-01-22,Senate,"3rd Reading:Passed 27-3-1-0-0",27,3,0,1,31
+1895017,1489466,2025-02-13,House,"H08 - Transportation:Recommend Amend and Do Pass 5-4-0-0-0",5,4,0,0,9
+1895017,1493002,2025-02-19,House,"SF0033H2001 Amendment failed 26-35-1-0-0",26,35,0,1,62
+1895017,1494787,2025-02-20,House,"3rd Reading:Passed 53-7-2-0-0",53,7,0,2,62
+1895017,1495312,2025-02-20,Senate,"Concur:Failed 6-25-0-0-0",6,25,0,0,31
+1895017,1498871,2025-02-25,Senate,"Rescind from Non-Concurrence : 28-3-0-0-0",28,3,0,0,31
+1895030,1472677,2025-01-21,Senate,"S08 - Transportation:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1895030,1474514,2025-01-24,Senate,"3rd Reading:Passed 23-7-1-0-0",23,7,0,1,31
+1895035,1472616,2025-01-21,Senate,"S08 - Transportation:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1895035,1474293,2025-01-24,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1895035,1496064,2025-02-20,House,"H08 - Transportation:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1895035,1500110,2025-02-26,House,"3rd Reading:Passed 59-0-3-0-0",59,0,0,3,62
+1895035,1501138,2025-02-27,Senate,"Concur:Passed 28-1-2-0-0",28,1,0,2,31
+1895039,1471913,2025-01-16,Senate,"S08 - Transportation:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1895039,1472337,2025-01-20,Senate,"3rd Reading:Passed 23-4-4-0-0",23,4,0,4,31
+1895039,1486986,2025-02-11,House,"H08 - Transportation:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1895039,1489194,2025-02-13,House,"COW:Failed 24-34-4-0-0",24,34,0,4,62
+1895039,1489566,2025-02-13,House,"COW:H Pursuant to HR 11-5 Rejected the CoW Report for SF0032 20-37-5-0-0",20,37,0,5,62
+1895039,1495013,2025-02-20,House,"3rd Reading:Passed 48-13-1-0-0",48,13,0,1,62
+1895039,1496290,2025-02-21,Senate,"Concur:Failed 1-30-0-0-0",1,30,0,0,31
+1895039,1499882,2025-02-25,Senate,"SF0032JC001 Did Not Adopt SF0032JC001: 9-22-0-0-0",9,22,0,0,31
+1895039,1504181,2025-03-04,Senate,"SF0032JC002 Adopted SF0032JC002: 22-9-0-0-0",22,9,0,0,31
+1895039,1504895,2025-03-04,House,"SF0032JC002 Adopted SF0032JC002: 46-13-3-0-0",46,13,0,3,62
+1895046,1484515,2025-02-07,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1895053,1471916,2025-01-16,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1895053,1472603,2025-01-21,Senate,"3rd Reading:Passed 28-1-2-0-0",28,1,0,2,31
+1895053,1486832,2025-02-11,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1895053,1491776,2025-02-18,House,"3rd Reading:Passed 60-1-1-0-0",60,1,0,1,62
+1895827,1472863,2025-01-21,House,"H08 - Transportation:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1895827,1475039,2025-01-27,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1895827,1489366,2025-02-13,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1895827,1491794,2025-02-18,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1895829,1472074,2025-01-16,House,"H08 - Transportation:Do Pass Failed 2-7-0-0-0",2,7,0,0,9
+1895831,1474121,2025-01-23,House,"H08 - Transportation:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1895831,1477389,2025-01-30,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1895831,1486193,2025-02-11,Senate,"S08 - Transportation:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1895831,1490024,2025-02-14,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1895831,1492880,2025-02-18,House,"Concur:Passed 60-0-2-0-0",60,0,0,2,62
+1895832,1472865,2025-01-21,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1895832,1475101,2025-01-27,House,"3rd Reading:Passed 53-8-1-0-0",53,8,0,1,62
+1895832,1485878,2025-02-11,Senate,"S08 - Transportation:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1895832,1490390,2025-02-14,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1895834,1472398,2025-01-20,Senate,"S10 - Labor:Recommend Amend and Do Pass 3-1-1-0-0",3,1,0,1,5
+1895834,1473467,2025-01-23,Senate,"3rd Reading:Passed 17-13-1-0-0",17,13,0,1,31
+1895835,1472869,2025-01-21,House,"H08 - Transportation:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1895835,1474751,2025-01-27,House,"3rd Reading:Passed 60-1-1-0-0",60,1,0,1,62
+1895835,1488653,2025-02-13,Senate,"S08 - Transportation:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1895835,1492783,2025-02-18,Senate,"3rd Reading:Passed 25-6-0-0-0",25,6,0,0,31
+1895835,1492784,2025-02-18,House,"Concur:Failed 2-58-2-0-0",2,58,0,2,62
+1895835,1499167,2025-02-25,House,"HB0028JC001 Adopted HB0028JC001: 61-0-1-0-0",61,0,0,1,62
+1895835,1499168,2025-02-25,Senate,"HB0028JC001 Adopted HB0028JC001: 21-10-0-0-0",21,10,0,0,31
+1895837,1474147,2025-01-23,House,"H08 - Transportation:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1895837,1477147,2025-01-30,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1895837,1486203,2025-02-11,Senate,"S08 - Transportation:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1895837,1490608,2025-02-14,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1895840,1473911,2025-01-23,House,"H08 - Transportation:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1895973,1471909,2025-01-16,House,"H10 - Labor:Recommend Amend and Do Pass 7-1-1-0-0",7,1,0,1,9
+1895973,1472330,2025-01-20,House,"3rd Reading:Passed 50-9-3-0-0",50,9,0,3,62
+1895973,1495429,2025-02-20,Senate,"S05 - Agriculture:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1895973,1505045,2025-03-04,Senate,"3rd Reading:Passed 28-3-0-0-0",28,3,0,0,31
+1895973,1505771,2025-03-05,House,"Concur:Passed 52-10-0-0-0",52,10,0,0,62
+1895987,1475621,2025-01-28,House,"H04 - Education:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1895987,1479107,2025-02-03,House,"3rd Reading:Passed 56-0-6-0-0",56,0,0,6,62
+1895987,1500930,2025-02-26,Senate,"S04 - Education:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1896451,1472075,2025-01-16,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1896451,1472155,2025-01-17,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1896451,1474728,2025-01-27,House,"3rd Reading:Passed 48-13-1-0-0",48,13,0,1,62
+1896451,1486064,2025-02-11,Senate,"S08 - Transportation:Recommend Do Pass 3-1-1-0-0",3,1,0,1,5
+1896451,1491922,2025-02-18,Senate,"S02 - Appropriations:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1896451,1496430,2025-02-21,Senate,"HB0033S2001 Amendment adopted 16-15-0-0-0",16,15,0,0,31
+1896451,1499886,2025-02-26,Senate,"HB0033S3005 Amendment adopted 29-2-0-0-0",29,2,0,0,31
+1896451,1499887,2025-02-26,Senate,"3rd Reading:Passed 25-6-0-0-0",25,6,0,0,31
+1896451,1500379,2025-02-26,House,"Concur:Passed 57-2-3-0-0",57,2,0,3,62
+1896487,1472102,2025-01-17,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1896487,1472986,2025-01-22,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1896487,1498592,2025-02-25,House,"H03 - Revenue:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1896487,1504838,2025-03-04,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1896526,1472738,2025-01-21,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1896526,1476223,2025-01-29,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1896526,1494177,2025-02-19,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1896526,1498932,2025-02-25,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1896526,1498933,2025-02-25,Senate,"Concur:Passed 31-0-0-0-0",31,0,0,0,31
+1896563,1476092,2025-01-28,House,"H08 - Transportation:Recommend Amend and Do Pass 7-2-0-0-0",7,2,0,0,9
+1896563,1476933,2025-01-29,House,"H02 - Appropriations:Do Pass Failed 2-5-0-0-0",2,5,0,0,7
+1896810,1472606,2025-01-21,House,"H03 - Revenue:Recommend Do Pass 7-1-1-0-0",7,1,0,1,9
+1896810,1474763,2025-01-27,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1896810,1491859,2025-02-18,Senate,"S03 - Revenue:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1896810,1494904,2025-02-20,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1896817,1472686,2025-01-21,House,"H03 - Revenue:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1896817,1474726,2025-01-27,House,"3rd Reading:Passed 60-1-1-0-0",60,1,0,1,62
+1896817,1492383,2025-02-18,Senate,"S03 - Revenue:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1896817,1496225,2025-02-21,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1896833,1472682,2025-01-21,House,"H03 - Revenue:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1896833,1475742,2025-01-28,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1896833,1492515,2025-02-18,Senate,"S03 - Revenue:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1896833,1498301,2025-02-24,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1896839,1472506,2025-01-20,House,"H09 - Minerals:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1896839,1475091,2025-01-27,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1896839,1487641,2025-02-12,Senate,"S09 - Minerals:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1896839,1492561,2025-02-18,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1896893,1473178,2025-01-22,Senate,"S07 - Corporations:Recommend Do Pass 3-1-0-0-1",3,1,1,0,5
+1896893,1476268,2025-01-29,Senate,"3rd Reading:Passed 23-5-0-0-3",23,5,3,0,31
+1896893,1486968,2025-02-11,House,"H06 - Travel:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1896893,1491845,2025-02-18,House,"3rd Reading:Passed 43-18-1-0-0",43,18,0,1,62
+1896893,1492394,2025-02-18,Senate,"Concur:Passed 20-8-1-0-2",20,8,2,1,31
+1896910,1473310,2025-01-22,House,"H01 - Judiciary:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1896910,1476246,2025-01-29,House,"HB0043H2001 Amendment failed 9-52-1-0-0",9,52,0,1,62
+1896910,1477146,2025-01-30,House,"3rd Reading:Passed 59-1-2-0-0",59,1,0,2,62
+1896910,1495501,2025-02-20,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1896910,1505251,2025-03-04,Senate,"3rd Reading:Passed 28-3-0-0-0",28,3,0,0,31
+1896928,1474439,2025-01-24,House,"H10 - Labor:Recommend Amend and Do Pass 7-1-1-0-0",7,1,0,1,9
+1896928,1477210,2025-01-30,House,"3rd Reading:Passed 52-8-2-0-0",52,8,0,2,62
+1896928,1491854,2025-02-18,Senate,"S10 - Labor:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1896928,1496298,2025-02-21,Senate,"3rd Reading:Passed 24-7-0-0-0",24,7,0,0,31
+1896928,1497678,2025-02-24,House,"Concur:Passed 55-6-1-0-0",55,6,0,1,62
+1896944,1472076,2025-01-16,House,"H06 - Travel:Recommend Do Pass 6-2-1-0-0",6,2,0,1,9
+1896944,1472559,2025-01-21,House,"3rd Reading:Passed 52-8-2-0-0",52,8,0,2,62
+1896944,1486419,2025-02-11,Senate,"S06 - Travel:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1896944,1491791,2025-02-18,Senate,"3rd Reading:Passed 22-9-0-0-0",22,9,0,0,31
+1896944,1492308,2025-02-18,House,"Concur:Passed 53-7-2-0-0",53,7,0,2,62
+1897053,1471939,2025-01-16,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1897053,1472314,2025-01-20,Senate,"3rd Reading:Passed 23-4-4-0-0",23,4,0,4,31
+1897053,1492520,2025-02-18,House,"H05 - Agriculture:Recommend Do Pass 6-3-0-0-0",6,3,0,0,9
+1897053,1497746,2025-02-24,House,"3rd Reading:Passed 56-3-3-0-0",56,3,0,3,62
+1897053,1499763,2025-02-26,Senate,"Concur:Failed 0-31-0-0-0",0,31,0,0,31
+1897053,1503409,2025-03-03,Senate,"SF0043JC001 Adopted SF0043JC001: 28-2-1-0-0",28,2,0,1,31
+1897053,1504132,2025-03-03,House,"SF0043JC001 Adopted SF0043JC001: 60-0-2-0-0",60,0,0,2,62
+1897090,1472190,2025-01-17,House,"H04 - Education:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1897090,1473575,2025-01-23,House,"3rd Reading:Passed 54-6-2-0-0",54,6,0,2,62
+1897090,1493167,2025-02-19,Senate,"S04 - Education:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1897090,1497348,2025-02-24,Senate,"3rd Reading:Passed 28-2-1-0-0",28,2,0,1,31
+1897115,1472176,2025-01-17,Senate,"S04 - Education:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1897115,1473041,2025-01-22,Senate,"3rd Reading:Passed 27-3-1-0-0",27,3,0,1,31
+1897115,1500683,2025-02-26,House,"H04 - Education:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1897115,1505153,2025-03-04,House,"3rd Reading:Passed 52-8-2-0-0",52,8,0,2,62
+1897115,1505869,2025-03-05,Senate,"Concur:Passed 23-8-0-0-0",23,8,0,0,31
+1897139,1475556,2025-01-28,Senate,"S08 - Transportation:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1897196,1474879,2025-01-27,House,"H01 - Judiciary:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1897196,1479517,2025-02-04,House,"3rd Reading:Passed 58-1-3-0-0",58,1,0,3,62
+1897196,1487603,2025-02-12,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1897196,1490010,2025-02-14,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1897196,1492926,2025-02-18,House,"Concur:Passed 60-0-2-0-0",60,0,0,2,62
+1897206,1471712,2025-01-15,House,"H01 - Judiciary:Do Pass Failed 4-5-0-0-0",4,5,0,0,9
+1897212,1471800,2025-01-15,House,"H01 - Judiciary:Do Pass Failed 4-5-0-0-0",4,5,0,0,9
+1897409,1474144,2025-01-23,House,"H05 - Agriculture:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1897409,1477340,2025-01-30,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1897409,1486984,2025-02-11,Senate,"S05 - Agriculture:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1897409,1492042,2025-02-18,Senate,"3rd Reading:Passed 30-0-0-0-1",30,0,1,0,31
+1897417,1474227,2025-01-24,House,"H01 - Judiciary:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1897417,1477763,2025-01-30,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1897417,1500841,2025-02-26,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1897417,1504059,2025-03-03,Senate,"3rd Reading:Passed 17-14-0-0-0",17,14,0,0,31
+1897417,1504060,2025-03-03,House,"Concur:Passed 57-2-3-0-0",57,2,0,3,62
+1897425,1474423,2025-01-24,House,"H04 - Education:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1897425,1478824,2025-02-03,House,"3rd Reading:Passed 51-6-5-0-0",51,6,0,5,62
+1897430,1474127,2025-01-23,House,"H05 - Agriculture:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1897430,1477901,2025-01-30,House,"3rd Reading:Passed 53-8-1-0-0",53,8,0,1,62
+1897430,1498920,2025-02-25,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1897433,1475164,2025-01-27,House,"H09 - Minerals:Recommend Amend and Do Pass 7-1-1-0-0",7,1,0,1,9
+1897575,1473337,2025-01-22,Senate,"S07 - Corporations:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1897575,1475110,2025-01-27,Senate,"3rd Reading:Passed 19-12-0-0-0",19,12,0,0,31
+1897575,1494179,2025-02-19,House,"H07 - Corporations:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1897575,1500449,2025-02-26,House,"3rd Reading:Passed 38-21-3-0-0",38,21,0,3,62
+1897575,1501398,2025-02-27,Senate,"Concur:Passed 26-2-3-0-0",26,2,0,3,31
+1897816,1472410,2025-01-20,Senate,"S03 - Revenue:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1897816,1473871,2025-01-23,Senate,"3rd Reading:Passed 27-4-0-0-0",27,4,0,0,31
+1897816,1487227,2025-02-11,House,"H03 - Revenue:Recommend Amend and Do Pass 7-1-1-0-0",7,1,0,1,9
+1897816,1491896,2025-02-18,House,"3rd Reading:Passed 57-4-1-0-0",57,4,0,1,62
+1897816,1493212,2025-02-19,Senate,"Concur:Passed 31-0-0-0-0",31,0,0,0,31
+1897817,1472147,2025-01-17,Senate,"S03 - Revenue:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1897817,1474010,2025-01-23,Senate,"3rd Reading:Passed 22-9-0-0-0",22,9,0,0,31
+1897817,1487150,2025-02-11,House,"H03 - Revenue:Recommend Do Pass 5-3-1-0-0",5,3,0,1,9
+1897817,1494761,2025-02-20,House,"3rd Reading:Passed 56-4-2-0-0",56,4,0,2,62
+1897817,1496007,2025-02-20,Senate,"Concur:Passed 20-11-0-0-0",20,11,0,0,31
+1898152,1472465,2025-01-20,Senate,"S03 - Revenue:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1898152,1475281,2025-01-28,Senate,"3rd Reading:Passed 25-4-2-0-0",25,4,0,2,31
+1898152,1502174,2025-02-27,House,"H03 - Revenue:Do Pass Failed 3-5-1-0-0",3,5,0,1,9
+1898158,1472480,2025-01-20,Senate,"S07 - Corporations:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1898158,1474511,2025-01-24,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1898158,1475725,2025-01-28,Senate,"3rd Reading:Passed 22-7-2-0-0",22,7,0,2,31
+1898158,1497724,2025-02-24,House,"H07 - Corporations:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1898158,1503100,2025-03-03,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1898158,1503948,2025-03-03,Senate,"Concur:Passed 28-3-0-0-0",28,3,0,0,31
+1898175,1472408,2025-01-20,Senate,"S07 - Corporations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1898175,1473005,2025-01-22,Senate,"3rd Reading:Passed 16-14-1-0-0",16,14,0,1,31
+1898175,1500978,2025-02-26,House,"H09 - Minerals:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1898175,1504225,2025-03-04,House,"3rd Reading:Passed 56-4-2-0-0",56,4,0,2,62
+1898183,1471709,2025-01-15,Senate,"S07 - Corporations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1898183,1472167,2025-01-17,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1898183,1497880,2025-02-24,House,"H07 - Corporations:Recommend Do Pass 8-0-0-0-1",8,0,1,0,9
+1898183,1503674,2025-03-03,House,"3rd Reading:Passed 54-5-2-0-1",54,5,1,2,62
+1898196,1471694,2025-01-15,Senate,"S07 - Corporations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1898196,1472327,2025-01-20,Senate,"3rd Reading:Passed 20-7-4-0-0",20,7,0,4,31
+1898196,1497552,2025-02-24,House,"H07 - Corporations:Recommend Do Pass 8-0-0-0-1",8,0,1,0,9
+1898196,1503148,2025-03-03,House,"3rd Reading:Passed 49-10-2-0-1",49,10,1,2,62
+1898202,1472412,2025-01-20,Senate,"S07 - Corporations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1898202,1473866,2025-01-23,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1898202,1494453,2025-02-19,House,"H07 - Corporations:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1898202,1500335,2025-02-26,House,"3rd Reading:Passed 59-0-3-0-0",59,0,0,3,62
+1898202,1500336,2025-02-26,Senate,"Concur:Passed 30-1-0-0-0",30,1,0,0,31
+1898206,1472517,2025-01-20,Senate,"S07 - Corporations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1898206,1473901,2025-01-23,Senate,"3rd Reading:Passed 27-3-1-0-0",27,3,0,1,31
+1898206,1501500,2025-02-27,House,"H07 - Corporations:Recommend Do Pass 5-0-4-0-0",5,0,0,4,9
+1898206,1505314,2025-03-04,House,"3rd Reading:Passed 59-1-2-0-0",59,1,0,2,62
+1898214,1472513,2025-01-20,House,"H07 - Corporations:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1898214,1474786,2025-01-27,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1898214,1487620,2025-02-12,Senate,"S07 - Corporations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1898214,1492736,2025-02-18,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1898242,1472343,2025-01-20,Senate,"S07 - Corporations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1898242,1474247,2025-01-24,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1898242,1475328,2025-01-28,Senate,"3rd Reading:Passed 27-2-2-0-0",27,2,0,2,31
+1898242,1501215,2025-02-27,House,"H07 - Corporations:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1898311,1472404,2025-01-20,Senate,"S07 - Corporations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1898311,1473794,2025-01-23,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1898311,1501581,2025-02-27,House,"H07 - Corporations:Do Pass Failed 1-8-0-0-0",1,8,0,0,9
+1898339,1473351,2025-01-22,Senate,"S03 - Revenue:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1898339,1474484,2025-01-24,Senate,"SF0060S2001 Amendment adopted 16-14-1-0-0",16,14,0,1,31
+1898339,1476861,2025-01-29,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1898364,1484518,2025-02-07,Senate,"S03 - Revenue:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1898364,1488320,2025-02-12,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1898364,1492908,2025-02-18,House,"H03 - Revenue:Recommend Do Pass 5-3-1-0-0",5,3,0,1,9
+1898364,1498009,2025-02-24,House,"3rd Reading:Passed 57-3-2-0-0",57,3,0,2,62
+1898822,1472378,2025-01-20,House,"H09 - Minerals:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1898822,1474759,2025-01-27,House,"3rd Reading:Passed 57-4-1-0-0",57,4,0,1,62
+1898822,1487894,2025-02-12,Senate,"S03 - Revenue:Recommend Do Pass 3-1-1-0-0",3,1,0,1,5
+1898822,1491770,2025-02-18,Senate,"3rd Reading:Passed 23-8-0-0-0",23,8,0,0,31
+1898833,1474300,2025-01-24,House,"H04 - Education:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1898833,1484016,2025-02-07,House,"3rd Reading:Passed 52-8-2-0-0",52,8,0,2,62
+1898833,1495560,2025-02-20,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1898833,1496685,2025-02-21,Senate,"COW:Passed 16-14-1-0-0",16,14,0,1,31
+1898833,1499857,2025-02-26,Senate,"3rd Reading:Passed 25-6-0-0-0",25,6,0,0,31
+1898833,1500349,2025-02-26,House,"Concur:Failed 2-57-3-0-0",2,57,0,3,62
+1898833,1501412,2025-02-27,House,"HB0072JC001 Adopted : 56-5-1-0-0",56,5,0,1,62
+1898833,1501413,2025-02-27,House,"Concur:Passed 54-7-1-0-0",54,7,0,1,62
+1898852,1472078,2025-01-16,House,"H06 - Travel:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1898852,1472820,2025-01-21,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1898852,1488936,2025-02-13,Senate,"S06 - Travel:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1898852,1491861,2025-02-18,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1899711,1474229,2025-01-24,Senate,"S04 - Education:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1899711,1476287,2025-01-29,Senate,"3rd Reading:Passed 27-3-1-0-0",27,3,0,1,31
+1899711,1487660,2025-02-12,House,"H10 - Labor:Recommend Amend and Do Pass 6-1-2-0-0",6,1,0,2,9
+1899711,1500203,2025-02-26,House,"3rd Reading:Passed 51-6-5-0-0",51,6,0,5,62
+1899711,1501304,2025-02-27,Senate,"Concur:Passed 26-3-2-0-0",26,3,0,2,31
+1899715,1472654,2025-01-21,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1899715,1474203,2025-01-24,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1899715,1486645,2025-02-11,House,"H05 - Agriculture:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1899715,1495019,2025-02-20,House,"SF0063H3001 Amendment failed 8-51-3-0-0",8,51,0,3,62
+1899715,1495020,2025-02-20,House,"3rd Reading:Passed 50-8-4-0-0",50,8,0,4,62
+1899715,1495949,2025-02-20,Senate,"Concur:Passed 30-0-0-0-1",30,0,1,0,31
+1899720,1473698,2025-01-23,Senate,"S05 - Agriculture:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1899720,1478700,2025-02-03,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1899720,1487015,2025-02-11,House,"H05 - Agriculture:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1899720,1495524,2025-02-20,House,"3rd Reading:Passed 54-3-5-0-0",54,3,0,5,62
+1899720,1496282,2025-02-21,Senate,"Concur:Passed 30-1-0-0-0",30,1,0,0,31
+1899821,1474434,2025-01-24,Senate,"S09 - Minerals:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1899821,1478662,2025-02-03,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1899821,1500689,2025-02-26,House,"H09 - Minerals:Recommend Amend and Do Pass 7-1-1-0-0",7,1,0,1,9
+1899851,1472354,2025-01-20,House,"H09 - Minerals:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1899851,1473772,2025-01-23,House,"3rd Reading:Passed 44-16-2-0-0",44,16,0,2,62
+1899865,1474939,2025-01-27,House,"H07 - Corporations:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1899865,1484882,2025-02-10,House,"3rd Reading:Passed 59-0-3-0-0",59,0,0,3,62
+1899865,1497747,2025-02-24,Senate,"S09 - Minerals:Do Pass Failed 2-2-1-0-0",2,2,0,1,5
+1899885,1471700,2025-01-15,House,"H10 - Labor:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1899885,1472483,2025-01-20,House,"3rd Reading:Passed 55-4-3-0-0",55,4,0,3,62
+1899885,1487968,2025-02-12,Senate,"S10 - Labor:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1899885,1492376,2025-02-18,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1899979,1474479,2025-01-24,House,"H01 - Judiciary:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1899979,1483428,2025-02-06,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1899979,1500982,2025-02-26,Senate,"S01 - Judiciary:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1899979,1503652,2025-03-03,Senate,"3rd Reading:Passed 27-4-0-0-0",27,4,0,0,31
+1900013,1479128,2025-02-03,House,"H06 - Travel:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1900013,1483211,2025-02-06,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1900045,1474244,2025-01-24,House,"H08 - Transportation:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1900045,1478683,2025-02-03,House,"3rd Reading:Passed 57-0-5-0-0",57,0,0,5,62
+1900045,1489208,2025-02-13,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1900045,1493189,2025-02-19,Senate,"HB0086S3001 Amendment failed 3-28-0-0-0",3,28,0,0,31
+1900045,1493190,2025-02-19,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1900340,1472407,2025-01-20,Senate,"S03 - Revenue:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1900340,1478278,2025-01-31,Senate,"SF0069S2001 Amendment failed 9-21-1-0-0",9,21,0,1,31
+1900340,1478279,2025-01-31,Senate,"SF0069S2003 Amendment failed 10-20-1-0-0",10,20,0,1,31
+1900340,1478280,2025-01-31,Senate,"SF0069S2004 Amendment adopted 19-12-0-0-0",19,12,0,0,31
+1900340,1479939,2025-02-04,Senate,"SF0069S3001 Amendment failed 11-20-0-0-0",11,20,0,0,31
+1900340,1479940,2025-02-04,Senate,"SF0069S3002 Amendment adopted 19-12-0-0-0",19,12,0,0,31
+1900340,1479941,2025-02-04,Senate,"3rd Reading:Passed 23-8-0-0-0",23,8,0,0,31
+1900340,1483685,2025-02-06,House,"H02 - Appropriations:Recommend Do Pass 6-1-0-0-0",6,1,0,0,7
+1900340,1489044,2025-02-13,House,"SF0069H2003 Amendment adopted 56-4-2-0-0",56,4,0,2,62
+1900340,1489045,2025-02-13,House,"SF0069H2004.01 Amendment failed 27-33-2-0-0",27,33,0,2,62
+1900340,1489046,2025-02-13,House,"SF0069H2004.02 Amendment adopted 40-20-2-0-0",40,20,0,2,62
+1900340,1494191,2025-02-19,House,"SF0069H3001 Amendment adopted 48-3-11-0-0",48,3,0,11,62
+1900340,1494192,2025-02-19,House,"SF0069H3003 Amendment failed 10-51-1-0-0",10,51,0,1,62
+1900340,1494193,2025-02-19,House,"SF0069H3004 Amendment failed 7-54-1-0-0",7,54,0,1,62
+1900340,1494194,2025-02-19,House,"SF0069H3005 Amendment failed 19-42-1-0-0",19,42,0,1,62
+1900340,1494195,2025-02-19,House,"SF0069H3006 Amendment failed 22-39-1-0-0",22,39,0,1,62
+1900340,1494196,2025-02-19,House,"SF0069H3007 Amendment failed 27-34-1-0-0",27,34,0,1,62
+1900340,1494197,2025-02-19,House,"SF0069H3008 Amendment failed 10-51-1-0-0",10,51,0,1,62
+1900340,1494198,2025-02-19,House,"SF0069H3010 Amendment adopted 34-26-2-0-0",34,26,0,2,62
+1900340,1494199,2025-02-19,House,"SF0069H3011 Amendment adopted 44-17-1-0-0",44,17,0,1,62
+1900340,1494200,2025-02-19,House,"SF0069H3012 Amendment adopted 39-21-2-0-0",39,21,0,2,62
+1900340,1494201,2025-02-19,House,"SF0069H3014 Amendment failed 18-42-2-0-0",18,42,0,2,62
+1900340,1494202,2025-02-19,House,"SF0069H3019 Amendment failed 6-55-1-0-0",6,55,0,1,62
+1900340,1494203,2025-02-19,House,"SF0069H3020 Amendment failed 14-45-3-0-0",14,45,0,3,62
+1900340,1494204,2025-02-19,House,"3rd Reading:Passed 42-19-1-0-0",42,19,0,1,62
+1900340,1495443,2025-02-20,Senate,"Concur:Failed 6-25-0-0-0",6,25,0,0,31
+1900340,1501779,2025-02-27,Senate,"SF0069JC001 Adopted SF0069JC001: 26-3-2-0-0",26,3,0,2,31
+1900340,1501780,2025-02-27,House,"SF0069JC001 Adopted SF0069JC001: 49-7-6-0-0",49,7,0,6,62
+1900343,1472842,2025-01-21,House,"H05 - Agriculture:Recommend Amend and Do Pass 7-2-0-0-0",7,2,0,0,9
+1900343,1475353,2025-01-28,House,"3rd Reading:Passed 59-2-1-0-0",59,2,0,1,62
+1900343,1488654,2025-02-13,Senate,"S05 - Agriculture:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1900343,1491843,2025-02-18,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1900349,1483680,2025-02-06,House,"H05 - Agriculture:Recommend Do Pass 6-3-0-0-0",6,3,0,0,9
+1900349,1487456,2025-02-12,House,"3rd Reading:Passed 43-17-2-0-0",43,17,0,2,62
+1900349,1499070,2025-02-25,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1900349,1502229,2025-02-28,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1900349,1502453,2025-02-28,House,"Concur:Passed 58-0-4-0-0",58,0,0,4,62
+1900395,1473152,2025-01-22,Senate,"S04 - Education:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1900395,1475120,2025-01-27,Senate,"3rd Reading:Passed 28-3-0-0-0",28,3,0,0,31
+1900395,1488349,2025-02-12,House,"H04 - Education:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1900395,1493297,2025-02-19,House,"3rd Reading:Passed 58-3-1-0-0",58,3,0,1,62
+1900395,1493298,2025-02-19,Senate,"Concur:Passed 30-1-0-0-0",30,1,0,0,31
+1900408,1474462,2025-01-24,Senate,"S10 - Labor:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1900408,1478469,2025-01-31,Senate,"3rd Reading:Passed 28-3-0-0-0",28,3,0,0,31
+1900408,1499953,2025-02-26,House,"H01 - Judiciary:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1900458,1472158,2025-01-17,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1900458,1473078,2025-01-22,Senate,"3rd Reading:Passed 23-7-1-0-0",23,7,0,1,31
+1900458,1498468,2025-02-24,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1900458,1505515,2025-03-04,House,"SF0070H3001 Amendment failed 24-36-2-0-0",24,36,0,2,62
+1900458,1505516,2025-03-04,House,"3rd Reading:Passed 58-2-2-0-0",58,2,0,2,62
+1900478,1472472,2025-01-20,House,"H10 - Labor:Recommend Amend and Do Pass 7-1-1-0-0",7,1,0,1,9
+1900478,1474259,2025-01-24,House,"HB0096H3001 Amendment failed 28-33-1-0-0",28,33,0,1,62
+1900478,1474260,2025-01-24,House,"3rd Reading:Passed 45-16-1-0-0",45,16,0,1,62
+1900478,1500168,2025-02-26,Senate,"S10 - Labor:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1900519,1474549,2025-01-24,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1900519,1477329,2025-01-30,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1900519,1490364,2025-02-14,House,"H10 - Labor:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1900519,1498027,2025-02-24,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1900519,1498028,2025-02-24,Senate,"Concur:Passed 29-0-2-0-0",29,0,0,2,31
+1900551,1472099,2025-01-17,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1900591,1474280,2025-01-24,Senate,"S07 - Corporations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1900591,1476234,2025-01-29,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1900591,1488110,2025-02-12,House,"H07 - Corporations:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1900591,1493083,2025-02-19,House,"3rd Reading:Passed 57-4-1-0-0",57,4,0,1,62
+1900628,1473229,2025-01-22,Senate,"S10 - Labor:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1900628,1475842,2025-01-28,Senate,"3rd Reading:Passed 29-0-2-0-0",29,0,0,2,31
+1900628,1494481,2025-02-19,House,"H10 - Labor:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1900628,1500629,2025-02-26,House,"3rd Reading:Passed 58-0-4-0-0",58,0,0,4,62
+1900628,1501806,2025-02-27,Senate,"Concur:Failed 3-26-2-0-0",3,26,0,2,31
+1900628,1502365,2025-02-28,Senate,"SF0074JC001 Adopted SF0074JC001: 31-0-0-0-0",31,0,0,0,31
+1900628,1502725,2025-02-28,House,"SF0074JC001 Adopted SF0074JC001: 55-0-7-0-0",55,0,0,7,62
+1900667,1477042,2025-01-29,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1900667,1480843,2025-02-05,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1900667,1489850,2025-02-13,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1900667,1497842,2025-02-24,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1900667,1497843,2025-02-24,House,"Concur:Passed 58-0-4-0-0",58,0,0,4,62
+1900703,1476184,2025-01-29,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1900703,1483096,2025-02-06,Senate,"3rd Reading:Passed 27-3-1-0-0",27,3,0,1,31
+1900703,1487681,2025-02-12,House,"H01 - Judiciary:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1900703,1493176,2025-02-19,House,"3rd Reading:Passed 54-7-1-0-0",54,7,0,1,62
+1900703,1493802,2025-02-19,Senate,"Concur:Failed 14-17-0-0-0",14,17,0,0,31
+1900703,1496320,2025-02-21,Senate,"SF0077JC001 Adopted SF0077JC001: 29-2-0-0-0",29,2,0,0,31
+1900703,1497675,2025-02-24,House,"SF0077JC001 Adopted SF0077JC001: 54-6-2-0-0",54,6,0,2,62
+1900947,1472680,2025-01-21,Senate,"S05 - Agriculture:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1900947,1474216,2025-01-24,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1900947,1489365,2025-02-13,House,"H05 - Agriculture:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1900947,1494070,2025-02-19,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1900955,1473740,2025-01-23,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1900955,1476144,2025-01-29,Senate,"3rd Reading:Passed 28-3-0-0-0",28,3,0,0,31
+1900955,1489151,2025-02-13,House,"H05 - Agriculture:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1900955,1495500,2025-02-20,House,"3rd Reading:Passed 59-1-2-0-0",59,1,0,2,62
+1900955,1496256,2025-02-21,Senate,"Concur:Failed 0-31-0-0-0",0,31,0,0,31
+1900955,1499830,2025-02-26,Senate,"SF0084JC001 Adopted SF0084JC001: 29-2-0-0-0",29,2,0,0,31
+1900955,1500728,2025-02-26,House,"SF0084JC001 Adopted SF0084JC001: 57-0-5-0-0",57,0,0,5,62
+1900980,1485480,2025-02-10,House,"H03 - Revenue:Do Pass Failed 3-4-2-0-0",3,4,0,2,9
+1900992,1474417,2025-01-24,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1900992,1477397,2025-01-30,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1900992,1496989,2025-02-21,Senate,"S10 - Labor:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1900992,1500003,2025-02-26,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1901002,1471937,2025-01-16,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1901002,1472514,2025-01-20,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1901002,1475067,2025-01-27,Senate,"3rd Reading:Passed 18-13-0-0-0",18,13,0,0,31
+1901002,1487231,2025-02-11,House,"H05 - Agriculture:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1901002,1492819,2025-02-18,House,"3rd Reading:Passed 57-4-1-0-0",57,4,0,1,62
+1901002,1494316,2025-02-19,Senate,"Concur:Passed 29-2-0-0-0",29,2,0,0,31
+1901015,1482755,2025-02-05,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1901025,1474517,2025-01-24,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1901025,1477102,2025-01-30,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1901025,1494164,2025-02-19,House,"H01 - Judiciary:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1901025,1498936,2025-02-25,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1901036,1472676,2025-01-21,Senate,"S05 - Agriculture:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1901036,1474364,2025-01-24,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1901036,1478868,2025-02-03,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1901036,1491804,2025-02-18,House,"H05 - Agriculture:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1901036,1494405,2025-02-19,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1901036,1498293,2025-02-24,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1901047,1482785,2025-02-05,House,"H01 - Judiciary:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1901095,1473247,2025-01-22,House,"H04 - Education:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1901095,1483147,2025-02-06,House,"3rd Reading:Passed 57-4-1-0-0",57,4,0,1,62
+1901095,1500161,2025-02-26,Senate,"S04 - Education:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1901095,1503513,2025-03-03,Senate,"3rd Reading:Passed 25-6-0-0-0",25,6,0,0,31
+1901095,1503514,2025-03-03,House,"Concur:Passed 60-0-2-0-0",60,0,0,2,62
+1901180,1483555,2025-02-06,House,"H06 - Travel:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1901259,1483845,2025-02-06,House,"H06 - Travel:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1901259,1484509,2025-02-07,House,"H02 - Appropriations:Do Pass Failed 2-5-0-0-0",2,5,0,0,7
+1901341,1476133,2025-01-29,House,":Recalled from Committee Pursuant to House Rule 5-6: 54-7-1-0-0",54,7,0,1,62
+1901499,1483600,2025-02-06,House,"H06 - Travel:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1901650,1480437,2025-02-04,House,"H03 - Revenue:Recommend Do Pass 5-3-1-0-0",5,3,0,1,9
+1901651,1472409,2025-01-20,House,"H07 - Corporations:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1901651,1472878,2025-01-21,House,"COW:Passed 34-23-5-0-0",34,23,0,5,62
+1901651,1473778,2025-01-23,House,"3rd Reading:Passed 45-15-2-0-0",45,15,0,2,62
+1901651,1491986,2025-02-18,Senate,"S08 - Transportation:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1901651,1497435,2025-02-24,Senate,"3rd Reading:Passed 22-8-1-0-0",22,8,0,1,31
+1901651,1497984,2025-02-24,House,"Concur:Passed 52-6-4-0-0",52,6,0,4,62
+1901653,1484503,2025-02-07,House,"H01 - Judiciary:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1901653,1487422,2025-02-12,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1901653,1493805,2025-02-19,Senate,"S01 - Judiciary:Do Pass Failed 1-4-0-0-0",1,4,0,0,5
+1901655,1474781,2025-01-27,Senate,"S04 - Education:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1901655,1478660,2025-02-03,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1901655,1496529,2025-02-21,House,"H04 - Education:Recommend Do Pass 6-3-0-0-0",6,3,0,0,9
+1901655,1500553,2025-02-26,House,"3rd Reading:Passed 32-28-2-0-0",32,28,0,2,62
+1901655,1501111,2025-02-27,Senate,"Concur:Failed 1-27-3-0-0",1,27,0,3,31
+1901655,1503395,2025-03-03,Senate,"SF0086JC001 Adopted SF0086JC001: 28-3-0-0-0",28,3,0,0,31
+1901655,1503934,2025-03-03,House,"SF0086JC001 Adopted SF0086JC001: 37-23-2-0-0",37,23,0,2,62
+1902973,1473329,2025-01-22,Senate,"S10 - Labor:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1903112,1482617,2025-02-05,Senate,"S03 - Revenue:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1903150,1484431,2025-02-07,House,"H04 - Education:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1903184,1471983,2025-01-16,House,"H05 - Agriculture:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1903184,1472312,2025-01-20,House,"HB0118H2001 Amendment failed 25-34-3-0-0",25,34,0,3,62
+1903184,1473431,2025-01-22,House,"HB0118H3003 Amendment failed 25-36-1-0-0",25,36,0,1,62
+1903184,1473432,2025-01-22,House,"HB0118H3006 Amendment failed 24-37-1-0-0",24,37,0,1,62
+1903184,1473433,2025-01-22,House,"3rd Reading:Passed 35-26-1-0-0",35,26,0,1,62
+1903220,1473695,2025-01-23,Senate,"S06 - Travel:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1903220,1475334,2025-01-28,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1903220,1478750,2025-02-03,Senate,"3rd Reading:Passed 25-6-0-0-0",25,6,0,0,31
+1903220,1489380,2025-02-13,House,"H06 - Travel:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1903220,1490416,2025-02-14,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1903220,1494818,2025-02-20,House,"3rd Reading:Passed 59-2-1-0-0",59,2,0,1,62
+1903257,1473766,2025-01-23,Senate,"S06 - Travel:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1903257,1475509,2025-01-28,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1903257,1478992,2025-02-03,Senate,"3rd Reading:Passed 27-4-0-0-0",27,4,0,0,31
+1903257,1502137,2025-02-27,House,"H06 - Travel:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1903257,1504315,2025-03-04,House,"3rd Reading:Passed 56-4-2-0-0",56,4,0,2,62
+1903257,1505497,2025-03-04,Senate,"Concur:Passed 25-6-0-0-0",25,6,0,0,31
+1903290,1472464,2025-01-20,Senate,"S04 - Education:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1903290,1473884,2025-01-23,Senate,"3rd Reading:Passed 28-3-0-0-0",28,3,0,0,31
+1903290,1501307,2025-02-27,House,"H04 - Education:Do Pass Failed 4-4-1-0-0",4,4,0,1,9
+1903324,1480446,2025-02-04,House,"H05 - Agriculture:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1903324,1483815,2025-02-06,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1903324,1486962,2025-02-11,House,"HB0117H2001 Amendment adopted 46-14-1-0-1",46,14,1,1,62
+1903324,1487719,2025-02-12,House,"3rd Reading:Passed 58-2-2-0-0",58,2,0,2,62
+1903324,1492372,2025-02-18,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1903324,1495332,2025-02-20,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1903324,1499328,2025-02-25,Senate,"HB0117S2001 Amendment failed 15-16-0-0-0",15,16,0,0,31
+1903324,1502367,2025-02-28,Senate,"HB0117S3003 Amendment adopted 26-5-0-0-0",26,5,0,0,31
+1903324,1502368,2025-02-28,Senate,"HB0117S3004 Amendment failed 15-16-0-0-0",15,16,0,0,31
+1903324,1502369,2025-02-28,Senate,"HB0117S3005 Amendment adopted 22-9-0-0-0",22,9,0,0,31
+1903324,1502370,2025-02-28,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1903324,1502833,2025-02-28,House,"Concur:Passed 34-26-2-0-0",34,26,0,2,62
+1904365,1477986,2025-01-30,House,"H05 - Agriculture:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1904365,1483179,2025-02-06,House,"3rd Reading:Passed 40-21-1-0-0",40,21,0,1,62
+1904424,1479295,2025-02-03,House,"H01 - Judiciary:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1904424,1488381,2025-02-12,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1904424,1496555,2025-02-21,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1904424,1500163,2025-02-26,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1904488,1474482,2025-01-24,Senate,"S03 - Revenue:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1904488,1478429,2025-01-31,Senate,"3rd Reading:Passed 25-6-0-0-0",25,6,0,0,31
+1904488,1489402,2025-02-13,House,"H02 - Appropriations:Recommend Amend and Do Pass 5-1-1-0-0",5,1,0,1,7
+1904488,1492145,2025-02-18,House,"SF0096H2002 Amendment failed 14-46-2-0-0",14,46,0,2,62
+1904488,1493518,2025-02-19,House,"3rd Reading:Passed 44-17-1-0-0",44,17,0,1,62
+1904488,1493519,2025-02-19,Senate,"Concur:Passed 23-8-0-0-0",23,8,0,0,31
+1904549,1473126,2025-01-22,Senate,"S09 - Minerals:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1904549,1474889,2025-01-27,Senate,"3rd Reading:Passed 28-3-0-0-0",28,3,0,0,31
+1904549,1501146,2025-02-27,House,"H07 - Corporations:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1904549,1504004,2025-03-03,House,"SF0095H2001 Amendment adopted 40-19-3-0-0",40,19,0,3,62
+1904549,1505279,2025-03-04,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1904613,1472319,2025-01-20,House,"H07 - Corporations:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1904613,1475076,2025-01-27,House,"3rd Reading:Passed 44-17-1-0-0",44,17,0,1,62
+1904613,1499079,2025-02-25,Senate,"S07 - Corporations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1904613,1502401,2025-02-28,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1904670,1484605,2025-02-10,House,"H03 - Revenue:Do Pass Failed 2-6-1-0-0",2,6,0,1,9
+1904730,1482590,2025-02-05,Senate,"S03 - Revenue:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1906012,1473580,2025-01-23,House,"H03 - Revenue:Do Pass Failed 2-6-1-0-0",2,6,0,1,9
+1907593,1472270,2025-01-17,House,"H04 - Education:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1907593,1474799,2025-01-27,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1907593,1496292,2025-02-21,Senate,"S04 - Education:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1907593,1499777,2025-02-26,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1907702,1483861,2025-02-06,House,"H03 - Revenue:Recommend Amend and Do Pass 7-1-1-0-0",7,1,0,1,9
+1907702,1484455,2025-02-07,House,"H02 - Appropriations:Recommend Do Pass 6-1-0-0-0",6,1,0,0,7
+1907755,1474912,2025-01-27,Senate,"S09 - Minerals:Recommend Do Pass 3-0-2-0-0",3,0,0,2,5
+1907755,1478698,2025-02-03,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1907755,1498517,2025-02-24,House,"H09 - Minerals:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1907755,1503603,2025-03-03,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1907805,1473426,2025-01-22,House,"H07 - Corporations:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1907805,1477206,2025-01-30,House,"3rd Reading:Passed 51-10-1-0-0",51,10,0,1,62
+1907805,1493860,2025-02-19,Senate,"S07 - Corporations:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1907861,1477981,2025-01-30,House,"H05 - Agriculture:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1907861,1482282,2025-02-05,House,"3rd Reading:Passed 59-1-2-0-0",59,1,0,2,62
+1907861,1491988,2025-02-18,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1907861,1495927,2025-02-20,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1907861,1495928,2025-02-20,House,"Concur:Passed 49-4-9-0-0",49,4,0,9,62
+1908727,1474076,2025-01-23,Senate,"S08 - Transportation:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1908727,1475274,2025-01-28,Senate,"3rd Reading:Passed 29-0-2-0-0",29,0,0,2,31
+1908727,1496068,2025-02-20,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1908727,1503750,2025-03-03,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1908804,1473436,2025-01-22,House,"H10 - Labor:Recommend Do Pass 6-2-1-0-0",6,2,0,1,9
+1908804,1477336,2025-01-30,House,"3rd Reading:Passed 57-3-2-0-0",57,3,0,2,62
+1908804,1500583,2025-02-26,Senate,"S10 - Labor:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1908882,1480435,2025-02-04,House,"H06 - Travel:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1908882,1488270,2025-02-12,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1908882,1501147,2025-02-27,Senate,"S10 - Labor:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1908882,1503522,2025-03-03,Senate,"3rd Reading:Passed 23-8-0-0-0",23,8,0,0,31
+1908882,1503992,2025-03-03,House,"Concur:Passed 60-0-2-0-0",60,0,0,2,62
+1908962,1477982,2025-01-30,Senate,"S01 - Judiciary:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1908962,1482692,2025-02-05,Senate,"3rd Reading:Passed 27-0-4-0-0",27,0,0,4,31
+1908962,1500160,2025-02-26,House,"H01 - Judiciary:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1908962,1504408,2025-03-04,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1908962,1505408,2025-03-04,Senate,"Concur:Passed 31-0-0-0-0",31,0,0,0,31
+1909041,1477032,2025-01-29,House,"H09 - Minerals:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1909041,1478829,2025-02-03,House,"3rd Reading:Passed 57-0-5-0-0",57,0,0,5,62
+1909041,1500157,2025-02-26,Senate,"S09 - Minerals:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1909041,1505577,2025-03-04,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1909041,1505754,2025-03-05,House,"Concur:Passed 62-0-0-0-0",62,0,0,0,62
+1909126,1471885,2025-01-16,Senate,"S06 - Travel:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1909126,1472467,2025-01-20,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1909126,1473656,2025-01-23,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1909206,1479303,2025-02-03,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1909206,1484330,2025-02-07,Senate,"3rd Reading:Passed 27-4-0-0-0",27,4,0,0,31
+1909206,1496697,2025-02-21,House,"H01 - Judiciary:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1909206,1503249,2025-03-03,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1909288,1479083,2025-02-03,House,"H04 - Education:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1909288,1487665,2025-02-12,House,"3rd Reading:Passed 53-7-2-0-0",53,7,0,2,62
+1909288,1494095,2025-02-19,Senate,"S03 - Revenue:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1909368,1474674,2025-01-27,House,"H07 - Corporations:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1909368,1478674,2025-02-03,House,"3rd Reading:Passed 51-6-5-0-0",51,6,0,5,62
+1909368,1502273,2025-02-28,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1909368,1505392,2025-03-04,Senate,"3rd Reading:Passed 27-4-0-0-0",27,4,0,0,31
+1909368,1506521,2025-03-05,House,"Concur:Passed 56-6-0-0-0",56,6,0,0,62
+1909880,1484482,2025-02-07,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1910669,1476058,2025-01-28,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1912033,1474071,2025-01-23,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1912033,1483134,2025-02-06,Senate,"3rd Reading:Passed 25-5-1-0-0",25,5,0,1,31
+1912033,1498524,2025-02-24,House,"H09 - Minerals:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1912033,1503867,2025-03-03,House,"SF0104H2001 Amendment failed 8-50-4-0-0",8,50,0,4,62
+1912033,1505268,2025-03-04,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1912033,1505269,2025-03-04,Senate,"Concur:Passed 30-1-0-0-0",30,1,0,0,31
+1912163,1483150,2025-02-06,Senate,"S05 - Agriculture:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1912290,1474916,2025-01-27,Senate,"S04 - Education:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1912290,1476150,2025-01-29,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1912290,1486639,2025-02-11,House,"H06 - Travel:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1912290,1492539,2025-02-18,House,"3rd Reading:Passed 50-11-1-0-0",50,11,0,1,62
+1912290,1494044,2025-02-19,Senate,"Concur:Passed 31-0-0-0-0",31,0,0,0,31
+1912355,1477037,2025-01-29,House,"H04 - Education:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1912355,1483646,2025-02-06,House,"3rd Reading:Passed 34-17-11-0-0",34,17,0,11,62
+1912355,1497578,2025-02-24,Senate,"S04 - Education:Recommend Do Not Pass 3-2-0-0-0",3,2,0,0,5
+1912371,1471954,2025-01-16,House,"H04 - Education:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1912371,1472485,2025-01-20,House,"3rd Reading:Passed 51-8-3-0-0",51,8,0,3,62
+1912371,1502013,2025-02-27,Senate,"S05 - Agriculture:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1912371,1503598,2025-03-03,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1912371,1503599,2025-03-03,House,"Concur:Passed 55-5-2-0-0",55,5,0,2,62
+1914938,1474535,2025-01-24,Senate,"S01 - Judiciary:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1914938,1478998,2025-02-03,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1914938,1501081,2025-02-27,House,"H07 - Corporations:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1914938,1504261,2025-03-04,House,"3rd Reading:Passed 39-21-2-0-0",39,21,0,2,62
+1914938,1505447,2025-03-04,Senate,"Concur:Passed 30-1-0-0-0",30,1,0,0,31
+1915054,1475563,2025-01-28,Senate,"S08 - Transportation:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1915054,1478304,2025-01-31,Senate,"3rd Reading:Passed 25-6-0-0-0",25,6,0,0,31
+1915054,1492755,2025-02-18,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1915054,1500558,2025-02-26,House,"3rd Reading:Passed 59-0-3-0-0",59,0,0,3,62
+1915168,1475559,2025-01-28,Senate,"S06 - Travel:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1915168,1478970,2025-02-03,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1915168,1489500,2025-02-13,House,"H06 - Travel:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1915168,1504286,2025-03-04,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1916031,1478252,2025-01-31,House,"H01 - Judiciary:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1916031,1480679,2025-02-05,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1916031,1489644,2025-02-13,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1916031,1494087,2025-02-19,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1916031,1495793,2025-02-20,House,"Concur:Passed 61-0-1-0-0",61,0,0,1,62
+1916162,1479362,2025-02-03,House,"H02 - Appropriations:Recommend Do Pass 5-1-1-0-0",5,1,0,1,7
+1916162,1487903,2025-02-12,House,"3rd Reading:Passed 47-13-2-0-0",47,13,0,2,62
+1916162,1500501,2025-02-26,Senate,"S03 - Revenue:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1916162,1505470,2025-03-04,Senate,"3rd Reading:Passed 28-3-0-0-0",28,3,0,0,31
+1916208,1474201,2025-01-24,House,"H10 - Labor:Recommend Do Pass 6-2-1-0-0",6,2,0,1,9
+1916249,1472080,2025-01-16,House,"H07 - Corporations:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1916249,1472384,2025-01-20,House,"3rd Reading:Passed 53-6-3-0-0",53,6,0,3,62
+1916385,1477983,2025-01-30,House,"H05 - Agriculture:Recommend Amend and Do Pass 7-2-0-0-0",7,2,0,0,9
+1916429,1474342,2025-01-24,House,"H07 - Corporations:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1916429,1477343,2025-01-30,House,"3rd Reading:Passed 53-8-1-0-0",53,8,0,1,62
+1916472,1472079,2025-01-16,House,"H07 - Corporations:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1916472,1472234,2025-01-17,House,"HB0156H2001 Amendment failed 11-50-1-0-0",11,50,0,1,62
+1916472,1472492,2025-01-20,House,"3rd Reading:Passed 51-8-3-0-0",51,8,0,3,62
+1916472,1495423,2025-02-20,Senate,"S07 - Corporations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1916472,1502410,2025-02-28,Senate,"3rd Reading:Passed 26-4-1-0-0",26,4,0,1,31
+1916472,1502767,2025-02-28,House,"Concur:Passed 54-3-5-0-0",54,3,0,5,62
+1916561,1474950,2025-01-27,House,"H10 - Labor:Recommend Amend and Do Pass 7-1-1-0-0",7,1,0,1,9
+1916561,1478820,2025-02-03,House,"3rd Reading:Passed 42-15-5-0-0",42,15,0,5,62
+1916561,1501226,2025-02-27,Senate,"S10 - Labor:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1916561,1505253,2025-03-04,Senate,"3rd Reading:Passed 22-9-0-0-0",22,9,0,0,31
+1916561,1505940,2025-03-05,House,"Concur:Passed 54-7-1-0-0",54,7,0,1,62
+1916680,1472474,2025-01-20,House,"H03 - Revenue:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1916680,1472475,2025-01-20,House,"H02 - Appropriations:Recommend Amend and Do Pass 6-1-0-0-0",6,1,0,0,7
+1916680,1473523,2025-01-23,House,"HB0169H3001 Amendment failed 30-30-2-0-0",30,30,0,2,62
+1916680,1473524,2025-01-23,House,"HB0169H3005 Amendment failed 25-35-2-0-0",25,35,0,2,62
+1916680,1473525,2025-01-23,House,"3rd Reading:Passed 40-20-2-0-0",40,20,0,2,62
+1916706,1479242,2025-02-03,House,"H04 - Education:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1916706,1488042,2025-02-12,House,"3rd Reading:Passed 59-1-2-0-0",59,1,0,2,62
+1916706,1498911,2025-02-25,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1916733,1479377,2025-02-03,House,"H07 - Corporations:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1916759,1472393,2025-01-20,House,"H01 - Judiciary:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1916759,1473855,2025-01-23,House,"HB0172H3002 Amendment failed 27-32-3-0-0",27,32,0,3,62
+1916759,1473856,2025-01-23,House,"3rd Reading:Passed 50-10-2-0-0",50,10,0,2,62
+1916759,1493203,2025-02-19,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1916759,1496443,2025-02-21,Senate,"HB0172S3001 Amendment failed 13-18-0-0-0",13,18,0,0,31
+1916759,1496444,2025-02-21,Senate,"HB0172S3002 Amendment failed 8-23-0-0-0",8,23,0,0,31
+1916759,1496445,2025-02-21,Senate,"3rd Reading:Passed 25-6-0-0-0",25,6,0,0,31
+1916759,1496778,2025-02-21,House,"Concur:Passed 47-7-8-0-0",47,7,0,8,62
+1916812,1474546,2025-01-24,House,"H02 - Appropriations:Recommend Amend and Do Pass 6-1-0-0-0",6,1,0,0,7
+1916812,1477553,2025-01-30,House,"3rd Reading:Passed 49-11-2-0-0",49,11,0,2,62
+1916812,1495387,2025-02-20,Senate,"S07 - Corporations:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1916839,1475567,2025-01-28,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1916839,1478645,2025-02-03,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1916839,1492849,2025-02-18,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1916839,1498889,2025-02-25,House,"3rd Reading:Passed 58-3-1-0-0",58,3,0,1,62
+1917215,1475820,2025-01-28,Senate,"S10 - Labor:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1917215,1477368,2025-01-30,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1917215,1478926,2025-02-03,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1917432,1475087,2025-01-27,House,"H07 - Corporations:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1917432,1478822,2025-02-03,House,"3rd Reading:Passed 32-25-5-0-0",32,25,0,5,62
+1917642,1483778,2025-02-06,House,"H02 - Appropriations:Recommend Amend and Do Pass 6-1-0-0-0",6,1,0,0,7
+1917642,1488424,2025-02-12,House,"3rd Reading:Passed 55-3-4-0-0",55,3,0,4,62
+1919068,1480445,2025-02-04,House,"H08 - Transportation:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1919102,1484910,2025-02-10,House,"H04 - Education:Do Pass Failed 3-6-0-0-0",3,6,0,0,9
+1919125,1475467,2025-01-28,House,"H03 - Revenue:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1919125,1483410,2025-02-06,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1919125,1494418,2025-02-19,Senate,"S09 - Minerals:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1919125,1498290,2025-02-24,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1919137,1477980,2025-01-30,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1919137,1482807,2025-02-05,Senate,"3rd Reading:Passed 27-0-4-0-0",27,0,0,4,31
+1919137,1490434,2025-02-14,House,"H01 - Judiciary:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1919137,1497897,2025-02-24,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1919137,1497898,2025-02-24,Senate,"Concur:Passed 30-0-1-0-0",30,0,0,1,31
+1919148,1475654,2025-01-28,Senate,"S10 - Labor:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1919148,1479131,2025-02-03,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1919148,1494319,2025-02-19,House,"H10 - Labor:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1919148,1500638,2025-02-26,House,"3rd Reading:Passed 58-1-3-0-0",58,1,0,3,62
+1919148,1500639,2025-02-26,Senate,"Concur:Passed 29-2-0-0-0",29,2,0,0,31
+1919194,1477038,2025-01-29,House,"H10 - Labor:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1919194,1482449,2025-02-05,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1919194,1496610,2025-02-21,Senate,"S10 - Labor:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1919194,1500617,2025-02-26,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1919206,1484405,2025-02-07,House,"H02 - Appropriations:Recommend Do Pass 6-1-0-0-0",6,1,0,0,7
+1919206,1488145,2025-02-12,House,"3rd Reading:Passed 54-5-3-0-0",54,5,0,3,62
+1919206,1500707,2025-02-26,Senate,"S07 - Corporations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1919218,1476982,2025-01-29,House,"H07 - Corporations:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1919229,1474548,2025-01-24,Senate,"S01 - Judiciary:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1919229,1477089,2025-01-30,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1919229,1497886,2025-02-24,House,"H01 - Judiciary:Recommend Do Pass 5-4-0-0-0",5,4,0,0,9
+1919931,1475283,2025-01-28,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1919931,1479100,2025-02-03,Senate,"3rd Reading:Passed 21-10-0-0-0",21,10,0,0,31
+1919931,1499808,2025-02-26,House,"H01 - Judiciary:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1920375,1482735,2025-02-05,House,"H09 - Minerals:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1920375,1487883,2025-02-12,House,"3rd Reading:Passed 52-8-2-0-0",52,8,0,2,62
+1920375,1496477,2025-02-21,Senate,"S07 - Corporations:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1920375,1502467,2025-02-28,Senate,"3rd Reading:Passed 29-0-1-0-1",29,0,1,1,31
+1920375,1502817,2025-02-28,House,"Concur:Passed 57-0-5-0-0",57,0,0,5,62
+1921062,1479169,2025-02-03,House,"H04 - Education:Recommend Amend and Do Pass 7-2-0-0-0",7,2,0,0,9
+1921062,1483543,2025-02-06,House,"3rd Reading:Passed 34-26-2-0-0",34,26,0,2,62
+1921062,1501191,2025-02-27,Senate,"S06 - Travel:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1921391,1473320,2025-01-22,House,"H04 - Education:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1921391,1473869,2025-01-23,House,"H02 - Appropriations:Recommend Amend and Do Pass 6-1-0-0-0",6,1,0,0,7
+1921391,1475403,2025-01-28,House,"HB0199H2004 Amendment failed 25-36-1-0-0",25,36,0,1,62
+1921391,1476529,2025-01-29,House,"HB0199H3001 Amendment failed 17-42-3-0-0",17,42,0,3,62
+1921391,1476530,2025-01-29,House,"HB0199H3003 Amendment failed 20-39-3-0-0",20,39,0,3,62
+1921391,1476531,2025-01-29,House,"HB0199H3005 Amendment failed 24-36-2-0-0",24,36,0,2,62
+1921391,1476532,2025-01-29,House,"3rd Reading:Passed 39-21-2-0-0",39,21,0,2,62
+1921391,1487825,2025-02-12,Senate,"S04 - Education:Recommend Amend and Do Pass 3-2-0-0-0",3,2,0,0,5
+1921391,1489271,2025-02-13,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1921391,1492001,2025-02-18,Senate,"HB0199S2001 Amendment adopted 26-5-0-0-0",26,5,0,0,31
+1921391,1492002,2025-02-18,Senate,"HB0199S2002 Amendment adopted 21-10-0-0-0",21,10,0,0,31
+1921391,1493279,2025-02-19,Senate,"3rd Reading:Passed 20-11-0-0-0",20,11,0,0,31
+1921391,1495763,2025-02-20,House,"Concur:Failed 14-41-7-0-0",14,41,0,7,62
+1921391,1501515,2025-02-27,House,"HB0199JC001 Adopted HB0199JC001: 42-19-1-0-0",42,19,0,1,62
+1921391,1501902,2025-02-27,Senate,"HB0199JC001 Adopted HB0199JC001: 21-8-2-0-0",21,8,0,2,31
+1921613,1475454,2025-01-28,Senate,"S05 - Agriculture:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1921613,1478691,2025-02-03,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1921613,1489244,2025-02-13,House,"H05 - Agriculture:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1921613,1495015,2025-02-20,House,"3rd Reading:Passed 57-4-1-0-0",57,4,0,1,62
+1921723,1484684,2025-02-10,House,"H10 - Labor:Do Pass Failed 3-5-1-0-0",3,5,0,1,9
+1921833,1477243,2025-01-30,Senate,"S08 - Transportation:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1921833,1479137,2025-02-03,Senate,"3rd Reading:Passed 26-5-0-0-0",26,5,0,0,31
+1921833,1492927,2025-02-18,House,"H08 - Transportation:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1921833,1499392,2025-02-25,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1921833,1500278,2025-02-26,Senate,"Concur:Passed 29-2-0-0-0",29,2,0,0,31
+1922052,1476466,2025-01-29,Senate,"S07 - Corporations:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1922052,1484635,2025-02-10,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1922052,1500971,2025-02-26,House,"H09 - Minerals:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1922052,1504990,2025-03-04,House,"3rd Reading:Passed 55-5-2-0-0",55,5,0,2,62
+1922172,1475157,2025-01-27,House,"H07 - Corporations:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1922172,1478664,2025-02-03,House,"3rd Reading:Passed 49-8-5-0-0",49,8,0,5,62
+1922172,1501199,2025-02-27,Senate,"S07 - Corporations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1922191,1474914,2025-01-27,House,"H01 - Judiciary:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1922191,1477130,2025-01-30,House,"3rd Reading:Passed 57-3-2-0-0",57,3,0,2,62
+1922191,1496849,2025-02-21,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1922191,1503451,2025-03-03,Senate,"3rd Reading:Passed 28-3-0-0-0",28,3,0,0,31
+1922191,1503983,2025-03-03,House,"Concur:Passed 57-3-2-0-0",57,3,0,2,62
+1922201,1482787,2025-02-05,House,"H09 - Minerals:Recommend Do Pass 7-0-2-0-0",7,0,0,2,9
+1922201,1486965,2025-02-11,House,"3rd Reading:Passed 60-1-1-0-0",60,1,0,1,62
+1922210,1485353,2025-02-10,House,"H09 - Minerals:Do Pass Failed 1-7-1-0-0",1,7,0,1,9
+1922220,1475922,2025-01-28,House,"H06 - Travel:Recommend Amend and Do Pass 7-2-0-0-0",7,2,0,0,9
+1922220,1486552,2025-02-11,House,"3rd Reading:Passed 59-2-1-0-0",59,2,0,1,62
+1922220,1494673,2025-02-20,Senate,"S06 - Travel:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1922220,1499990,2025-02-26,Senate,"3rd Reading:Passed 27-4-0-0-0",27,4,0,0,31
+1922228,1473918,2025-01-23,House,"H06 - Travel:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1922238,1475198,2025-01-27,House,"H04 - Education:Recommend Do Pass 6-3-0-0-0",6,3,0,0,9
+1922238,1484090,2025-02-07,House,"3rd Reading:Passed 40-20-2-0-0",40,20,0,2,62
+1922247,1482828,2025-02-05,House,"H08 - Transportation:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1922506,1475438,2025-01-28,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1922506,1478678,2025-02-03,Senate,"3rd Reading:Passed 28-3-0-0-0",28,3,0,0,31
+1922506,1492400,2025-02-18,House,"H05 - Agriculture:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1922506,1500252,2025-02-26,House,"3rd Reading:Passed 50-9-3-0-0",50,9,0,3,62
+1922506,1500253,2025-02-26,Senate,"Concur:Passed 24-7-0-0-0",24,7,0,0,31
+1923780,1474149,2025-01-23,House,"H03 - Revenue:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1923780,1477120,2025-01-30,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1923780,1492086,2025-02-18,Senate,"S09 - Minerals:Recommend Do Pass 3-0-2-0-0",3,0,0,2,5
+1923780,1494936,2025-02-20,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1924348,1480431,2025-02-04,House,"H02 - Appropriations:Recommend Do Pass 5-1-1-0-0",5,1,0,1,7
+1924348,1486914,2025-02-11,House,"3rd Reading:Passed 57-4-1-0-0",57,4,0,1,62
+1924348,1501501,2025-02-27,Senate,"S07 - Corporations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1924348,1503843,2025-03-03,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1924348,1503844,2025-03-03,House,"Concur:Passed 56-4-2-0-0",56,4,0,2,62
+1924429,1477987,2025-01-30,House,"H08 - Transportation:Recommend Amend and Do Pass 6-3-0-0-0",6,3,0,0,9
+1924680,1479067,2025-02-03,House,"H10 - Labor:Recommend Do Pass 7-1-0-1-0",7,1,0,1,9
+1924680,1487449,2025-02-12,House,"3rd Reading:Passed 51-9-2-0-0",51,9,0,2,62
+1924680,1501234,2025-02-27,Senate,"S10 - Labor:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1924767,1475560,2025-01-28,House,"H03 - Revenue:Recommend Do Pass 7-1-1-0-0",7,1,0,1,9
+1924767,1487544,2025-02-12,House,"3rd Reading:Passed 58-2-2-0-0",58,2,0,2,62
+1924767,1497580,2025-02-24,Senate,"S07 - Corporations:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1924936,1477039,2025-01-29,House,"H07 - Corporations:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1924936,1480662,2025-02-05,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1925019,1475399,2025-01-28,Senate,"S01 - Judiciary:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1925019,1477331,2025-01-30,Senate,"3rd Reading:Passed 21-7-3-0-0",21,7,0,3,31
+1925019,1499812,2025-02-26,House,"H01 - Judiciary:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1925111,1480439,2025-02-04,House,"H05 - Agriculture:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1925111,1484676,2025-02-10,House,"3rd Reading:Passed 58-1-3-0-0",58,1,0,3,62
+1925111,1495287,2025-02-20,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1925111,1499490,2025-02-25,Senate,"S02 - Appropriations:No Recommendation 4-0-1-0-0",4,0,0,1,5
+1925111,1503625,2025-03-03,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1925278,1477942,2025-01-30,House,"H08 - Transportation:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1925278,1480810,2025-02-05,House,"3rd Reading:Passed 58-2-2-0-0",58,2,0,2,62
+1925278,1494411,2025-02-19,Senate,"S08 - Transportation:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1925278,1498241,2025-02-24,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1925278,1498242,2025-02-24,House,"Concur:Passed 58-2-2-0-0",58,2,0,2,62
+1925533,1484520,2025-02-07,House,"H07 - Corporations:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1925533,1488374,2025-02-12,House,"3rd Reading:Passed 49-9-2-0-2",49,9,2,2,62
+1925618,1484361,2025-02-07,House,"H05 - Agriculture:Recommend Amend and Do Pass 7-1-1-0-0",7,1,0,1,9
+1925618,1487867,2025-02-12,House,"3rd Reading:Passed 54-6-2-0-0",54,6,0,2,62
+1925618,1499066,2025-02-25,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1925792,1474460,2025-01-24,Senate,"S03 - Revenue:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1925982,1484653,2025-02-10,House,"H02 - Appropriations:Do Pass Failed 3-3-1-0-0",3,3,0,1,7
+1926237,1476731,2025-01-29,Senate,"S10 - Labor:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1926237,1478761,2025-02-03,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1926237,1490339,2025-02-14,House,"H10 - Labor:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1926237,1498245,2025-02-24,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1926377,1474946,2025-01-27,House,"H02 - Appropriations:Recommend Amend and Do Pass 6-1-0-0-0",6,1,0,0,7
+1926377,1477154,2025-01-30,House,"3rd Reading:Passed 51-9-2-0-0",51,9,0,2,62
+1926441,1474292,2025-01-24,Senate,"S10 - Labor:Do Pass Failed 1-3-1-0-0",1,3,0,1,5
+1927040,1484933,2025-02-10,House,"H02 - Appropriations:Do Pass Failed 1-6-0-0-0",1,6,0,0,7
+1927179,1476475,2025-01-29,Senate,"S04 - Education:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1927179,1479121,2025-02-03,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1927179,1488539,2025-02-12,House,"H04 - Education:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1927179,1493878,2025-02-19,House,"3rd Reading:Passed 56-5-1-0-0",56,5,0,1,62
+1928478,1477294,2025-01-30,Senate,"S06 - Travel:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1928478,1482660,2025-02-05,Senate,"3rd Reading:Passed 16-11-4-0-0",16,11,0,4,31
+1928577,1477979,2025-01-30,House,"H08 - Transportation:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1928668,1476979,2025-01-29,Senate,"S09 - Minerals:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1928668,1478893,2025-02-03,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1928718,1477033,2025-01-29,House,"H02 - Appropriations:Recommend Amend and Do Pass 6-1-0-0-0",6,1,0,0,7
+1928718,1479566,2025-02-04,House,"HB0238H2001 Amendment failed 26-33-3-0-0",26,33,0,3,62
+1928718,1480569,2025-02-05,House,"HB0238H3001 Amendment failed 7-53-2-0-0",7,53,0,2,62
+1928718,1480570,2025-02-05,House,"HB0238H3002 Amendment adopted 56-4-2-0-0",56,4,0,2,62
+1928718,1480571,2025-02-05,House,"3rd Reading:Passed 52-8-2-0-0",52,8,0,2,62
+1928718,1495258,2025-02-20,Senate,"S07 - Corporations:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1928764,1477087,2025-01-30,Senate,"S08 - Transportation:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1928764,1478930,2025-02-03,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1928812,1478502,2025-01-31,Senate,"S04 - Education:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1928812,1483133,2025-02-06,Senate,"3rd Reading:Passed 23-7-1-0-0",23,7,0,1,31
+1928812,1490404,2025-02-14,House,"H04 - Education:Recommend Do Pass 7-1-1-0-0",7,1,0,1,9
+1928812,1499570,2025-02-25,House,"3rd Reading:Passed 41-20-1-0-0",41,20,0,1,62
+1928858,1475617,2025-01-28,Senate,"S09 - Minerals:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1928858,1478667,2025-02-03,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1928858,1496397,2025-02-21,House,"H09 - Minerals:Recommend Do Pass 7-0-2-0-0",7,0,0,2,9
+1928858,1499909,2025-02-26,House,"3rd Reading:Passed 59-0-3-0-0",59,0,0,3,62
+1929056,1476091,2025-01-28,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1929056,1482655,2025-02-05,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1929056,1494854,2025-02-20,Senate,"S08 - Transportation:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1929056,1499479,2025-02-25,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1929221,1475571,2025-01-28,House,"H03 - Revenue:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1929221,1488373,2025-02-12,House,"3rd Reading:Passed 46-14-2-0-0",46,14,0,2,62
+1929221,1498773,2025-02-25,Senate,"S08 - Transportation:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1929221,1500964,2025-02-26,Senate,"COW:Passed 16-14-1-0-0",16,14,0,1,31
+1929221,1502703,2025-02-28,Senate,"3rd Reading:Passed 22-9-0-0-0",22,9,0,0,31
+1929221,1502704,2025-02-28,House,"Concur:Failed 17-40-5-0-0",17,40,0,5,62
+1929221,1505366,2025-03-04,House,"HB0246JC001 Adopted HB0246JC001: 56-4-2-0-0",56,4,0,2,62
+1929221,1506050,2025-03-05,Senate,"HB0246JC001 Adopted HB0246JC001: 25-6-0-0-0",25,6,0,0,31
+1929398,1476683,2025-01-29,House,"H02 - Appropriations:Recommend Do Pass 6-1-0-0-0",6,1,0,0,7
+1929398,1483146,2025-02-06,House,"HB0245H2002 Amendment failed 7-54-1-0-0",7,54,0,1,62
+1929398,1483926,2025-02-07,House,"3rd Reading:Passed 44-16-2-0-0",44,16,0,2,62
+1929978,1477035,2025-01-29,House,"H02 - Appropriations:Recommend Do Pass 6-1-0-0-0",6,1,0,0,7
+1929993,1482902,2025-02-05,House,"H07 - Corporations:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1929993,1485283,2025-02-10,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1929993,1487808,2025-02-12,House,"3rd Reading:Passed 38-22-2-0-0",38,22,0,2,62
+1929993,1500677,2025-02-26,Senate,"S07 - Corporations:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1929993,1502349,2025-02-28,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 3-1-1-0-0",3,1,0,1,5
+1929993,1504433,2025-03-04,Senate,"S: Motion To Place Bill on General File Failed by Roll Call 5-26-0-0-0",5,26,0,0,31
+1930007,1483792,2025-02-06,House,"H05 - Agriculture:Recommend Do Pass 6-3-0-0-0",6,3,0,0,9
+1930023,1476483,2025-01-29,Senate,"S09 - Minerals:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1930023,1479457,2025-02-04,Senate,"SF0143S2001 Amendment failed 12-19-0-0-0",12,19,0,0,31
+1930023,1482359,2025-02-05,Senate,"3rd Reading:Passed 19-8-4-0-0",19,8,0,4,31
+1930023,1490029,2025-02-14,House,"H09 - Minerals:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1930023,1497483,2025-02-24,House,"3rd Reading:Passed 46-14-2-0-0",46,14,0,2,62
+1930052,1484514,2025-02-07,House,"H10 - Labor:Recommend Do Pass 7-1-1-0-0",7,1,0,1,9
+1930112,1482936,2025-02-05,House,"H04 - Education:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1930143,1482694,2025-02-05,House,"H04 - Education:Recommend Do Pass 8-1-0-0-0",8,1,0,0,9
+1930175,1475246,2025-01-28,Senate,"S09 - Minerals:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1930175,1478663,2025-02-03,Senate,"3rd Reading:Passed 23-8-0-0-0",23,8,0,0,31
+1930175,1501458,2025-02-27,House,"H06 - Travel:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1930235,1476665,2025-01-29,House,"H04 - Education:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1930288,1476464,2025-01-29,Senate,"S07 - Corporations:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1930288,1485639,2025-02-10,Senate,"3rd Reading:Passed 27-3-1-0-0",27,3,0,1,31
+1930288,1495805,2025-02-20,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1930288,1500397,2025-02-26,House,"3rd Reading:Passed 54-6-2-0-0",54,6,0,2,62
+1930288,1501856,2025-02-27,Senate,"Concur:Passed 27-2-2-0-0",27,2,0,2,31
+1930396,1483840,2025-02-06,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1930451,1473475,2025-01-23,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1930451,1476872,2025-01-29,House,"HB0258H2003 Amendment failed 24-37-1-0-0",24,37,0,1,62
+1930451,1477857,2025-01-30,House,"HB0258H3001 Amendment failed 30-31-1-0-0",30,31,0,1,62
+1930451,1477858,2025-01-30,House,"HB0258H3002 Amendment failed 23-38-1-0-0",23,38,0,1,62
+1930451,1477859,2025-01-30,House,"HB0258H3003 Amendment adopted 53-8-1-0-0",53,8,0,1,62
+1930451,1477860,2025-01-30,House,"HB0258H3004 Amendment adopted 53-8-1-0-0",53,8,0,1,62
+1930451,1477861,2025-01-30,House,"HB0258H3005 Amendment failed 13-48-1-0-0",13,48,0,1,62
+1930451,1477862,2025-01-30,House,"HB0258H3006 Amendment failed 19-42-1-0-0",19,42,0,1,62
+1930451,1477863,2025-01-30,House,"3rd Reading:Passed 56-5-1-0-0",56,5,0,1,62
+1930505,1479116,2025-02-03,House,"H02 - Appropriations:Recommend Do Pass 5-1-1-0-0",5,1,0,1,7
+1930505,1485448,2025-02-10,House,"3rd Reading:Passed 50-9-3-0-0",50,9,0,3,62
+1930505,1491789,2025-02-18,Senate,"S09 - Minerals:Recommend Amend and Do Pass 4-0-1-0-0",4,0,0,1,5
+1930505,1496243,2025-02-21,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1930505,1496772,2025-02-21,House,"Concur:Passed 49-3-10-0-0",49,3,0,10,62
+1930560,1473738,2025-01-23,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1930560,1475720,2025-01-28,House,"3rd Reading:Passed 59-1-2-0-0",59,1,0,2,62
+1930560,1500885,2025-02-26,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1930560,1503114,2025-03-03,Senate,"HB0259S2001 Amendment failed 15-16-0-0-0",15,16,0,0,31
+1930560,1505442,2025-03-04,Senate,"HB0259S3002 Amendment adopted 24-7-0-0-0",24,7,0,0,31
+1930560,1505443,2025-03-04,Senate,"HB0259S3004 Amendment adopted 31-0-0-0-0",31,0,0,0,31
+1930560,1505444,2025-03-04,Senate,"3rd Reading:Passed 23-8-0-0-0",23,8,0,0,31
+1930560,1506487,2025-03-05,House,"Concur:Passed 62-0-0-0-0",62,0,0,0,62
+1930815,1475207,2025-01-27,House,"H02 - Appropriations:Recommend Do Pass 6-1-0-0-0",6,1,0,0,7
+1930815,1479492,2025-02-04,House,"3rd Reading:Passed 33-26-3-0-0",33,26,0,3,62
+1930922,1476465,2025-01-29,Senate,"S07 - Corporations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1930922,1479159,2025-02-03,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1930922,1495960,2025-02-20,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1930922,1500233,2025-02-26,House,"3rd Reading:Passed 59-0-3-0-0",59,0,0,3,62
+1931035,1475719,2025-01-28,Senate,"S01 - Judiciary:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1931945,1478255,2025-01-31,Senate,"S03 - Revenue:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1931945,1484654,2025-02-10,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1931945,1489501,2025-02-13,House,"H03 - Revenue:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1931945,1497437,2025-02-24,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1932402,1475554,2025-01-28,Senate,"S06 - Travel:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1932402,1477969,2025-01-30,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1932402,1483565,2025-02-06,Senate,"3rd Reading:Passed 27-3-1-0-0",27,3,0,1,31
+1932402,1501453,2025-02-27,House,"H02 - Appropriations:Recommend Amend and Do Pass 4-3-0-0-0",4,3,0,0,7
+1932634,1476498,2025-01-29,Senate,"S10 - Labor:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1932634,1478655,2025-02-03,Senate,"3rd Reading:Passed 30-1-0-0-0",30,1,0,0,31
+1932634,1495811,2025-02-20,House,"H05 - Agriculture:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1932634,1501131,2025-02-27,House,"3rd Reading:Passed 56-4-2-0-0",56,4,0,2,62
+1932634,1501582,2025-02-27,Senate,"Concur:Passed 28-1-2-0-0",28,1,0,2,31
+1933089,1477318,2025-01-30,Senate,"S06 - Travel:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1933089,1482368,2025-02-05,Senate,"3rd Reading:Passed 26-1-4-0-0",26,1,0,4,31
+1933089,1486669,2025-02-11,House,"H06 - Travel:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1933089,1492065,2025-02-18,House,"3rd Reading:Passed 58-3-1-0-0",58,3,0,1,62
+1933160,1479175,2025-02-03,House,"H10 - Labor:Recommend Amend and Do Pass 7-1-0-1-0",7,1,0,1,9
+1933160,1482933,2025-02-05,House,"H02 - Appropriations:Recommend Do Pass 6-1-0-0-0",6,1,0,0,7
+1933193,1475921,2025-01-28,House,"H06 - Travel:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1933193,1483301,2025-02-06,House,"3rd Reading:Passed 57-3-2-0-0",57,3,0,2,62
+1933193,1494792,2025-02-20,Senate,"S06 - Travel:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1933193,1500102,2025-02-26,Senate,"3rd Reading:Passed 27-4-0-0-0",27,4,0,0,31
+1933193,1500631,2025-02-26,House,"Concur:Passed 57-2-3-0-0",57,2,0,3,62
+1933225,1475098,2025-01-27,House,"H02 - Appropriations:Recommend Do Pass 6-1-0-0-0",6,1,0,0,7
+1933225,1479590,2025-02-04,House,"3rd Reading:Passed 32-27-3-0-0",32,27,0,3,62
+1933258,1476939,2025-01-29,House,"H10 - Labor:Recommend Do Pass 7-1-1-0-0",7,1,0,1,9
+1933258,1483944,2025-02-07,House,"3rd Reading:Passed 46-14-2-0-0",46,14,0,2,62
+1933258,1498155,2025-02-24,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 3-0-2-0-0",3,0,0,2,5
+1933290,1474279,2025-01-24,House,"H02 - Appropriations:Do Pass Failed 3-4-0-0-0",3,4,0,0,7
+1934072,1475566,2025-01-28,Senate,"S06 - Travel:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1934072,1477344,2025-01-30,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1934072,1483278,2025-02-06,Senate,"3rd Reading:Passed 24-6-1-0-0",24,6,0,1,31
+1934072,1496117,2025-02-20,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1934072,1500222,2025-02-26,House,"SF0152H3001 Amendment adopted 32-27-3-0-0",32,27,0,3,62
+1934072,1500223,2025-02-26,House,"SF0152H3002 Amendment adopted 31-29-2-0-0",31,29,0,2,62
+1934072,1500224,2025-02-26,House,"SF0152H3003 Amendment adopted 34-26-2-0-0",34,26,0,2,62
+1934072,1500225,2025-02-26,House,"3rd Reading:Passed 46-14-2-0-0",46,14,0,2,62
+1934072,1502736,2025-02-28,Senate,"Concur:Passed 26-5-0-0-0",26,5,0,0,31
+1934306,1482371,2025-02-05,Senate,"S09 - Minerals:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1934306,1484891,2025-02-10,Senate,"3rd Reading:Passed 26-4-1-0-0",26,4,0,1,31
+1934306,1496499,2025-02-21,House,"H09 - Minerals:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1934306,1500095,2025-02-26,House,"3rd Reading:Passed 36-23-3-0-0",36,23,0,3,62
+1934306,1500096,2025-02-26,Senate,"Concur:Passed 30-1-0-0-0",30,1,0,0,31
+1935518,1479385,2025-02-03,Senate,"S10 - Labor:Recommend Amend and Do Pass 3-0-2-0-0",3,0,0,2,5
+1935518,1484649,2025-02-10,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1935518,1500985,2025-02-26,House,"H10 - Labor:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1935704,1480442,2025-02-04,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1935704,1486951,2025-02-11,Senate,"3rd Reading:Passed 22-8-1-0-0",22,8,0,1,31
+1935704,1501478,2025-02-27,House,"H10 - Labor:Do Pass Failed 4-4-1-0-0",4,4,0,1,9
+1935895,1478360,2025-01-31,Senate,"S10 - Labor:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1935895,1483207,2025-02-06,Senate,"3rd Reading:Passed 27-3-1-0-0",27,3,0,1,31
+1935895,1498166,2025-02-24,House,"H10 - Labor:Recommend Do Pass 6-1-2-0-0",6,1,0,2,9
+1935895,1503230,2025-03-03,House,"3rd Reading:Passed 40-20-2-0-0",40,20,0,2,62
+1936272,1480443,2025-02-04,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1936272,1483948,2025-02-07,Senate,"3rd Reading:Passed 27-4-0-0-0",27,4,0,0,31
+1936272,1498016,2025-02-24,House,"H01 - Judiciary:Recommend Do Pass 5-4-0-0-0",5,4,0,0,9
+1936272,1504563,2025-03-04,House,"3rd Reading:Passed 38-22-2-0-0",38,22,0,2,62
+1936272,1505582,2025-03-04,Senate,"Concur:Passed 28-3-0-0-0",28,3,0,0,31
+1936479,1484430,2025-02-07,House,"H07 - Corporations:Recommend Amend and Do Pass 9-0-0-0-0",9,0,0,0,9
+1936499,1482854,2025-02-05,House,"H01 - Judiciary:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1936499,1487916,2025-02-12,House,"3rd Reading:Passed 57-3-2-0-0",57,3,0,2,62
+1936499,1501450,2025-02-27,Senate,"S06 - Travel:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1936499,1505478,2025-03-04,Senate,"3rd Reading:Passed 27-4-0-0-0",27,4,0,0,31
+1936520,1477978,2025-01-30,House,"H03 - Revenue:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1936520,1480675,2025-02-05,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1936520,1500973,2025-02-26,Senate,"S03 - Revenue:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1936520,1503782,2025-03-03,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1936520,1503783,2025-03-03,House,"Concur:Passed 60-0-2-0-0",60,0,0,2,62
+1936560,1479250,2025-02-03,Senate,"S03 - Revenue:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1936581,1477425,2025-01-30,Senate,"S08 - Transportation:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1936581,1479160,2025-02-03,Senate,"3rd Reading:Passed 24-7-0-0-0",24,7,0,0,31
+1936581,1499636,2025-02-25,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1936601,1478202,2025-01-31,Senate,"S04 - Education:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1936601,1484660,2025-02-10,Senate,"3rd Reading:Passed 18-12-1-0-0",18,12,0,1,31
+1936933,1479854,2025-02-04,Senate,"S06 - Travel:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1936933,1486355,2025-02-11,Senate,"3rd Reading:Passed 17-13-1-0-0",17,13,0,1,31
+1936933,1495990,2025-02-20,House,"H06 - Travel:Recommend Do Pass 7-2-0-0-0",7,2,0,0,9
+1937468,1478241,2025-01-31,Senate,"S07 - Corporations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1937468,1482810,2025-02-05,Senate,"3rd Reading:Passed 27-0-4-0-0",27,0,0,4,31
+1937468,1501465,2025-02-27,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1937468,1504842,2025-03-04,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1938096,1478551,2025-01-31,Senate,"S07 - Corporations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1938096,1488130,2025-02-12,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1938096,1501462,2025-02-27,House,"H08 - Transportation:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1938096,1504348,2025-03-04,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1939026,1475374,2025-01-28,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1939026,1478425,2025-01-31,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1939026,1489251,2025-02-13,House,"H02 - Appropriations:Recommend Do Pass 6-0-1-0-0",6,0,0,1,7
+1939026,1496121,2025-02-20,House,"3rd Reading:Passed 45-15-2-0-0",45,15,0,2,62
+1939047,1478253,2025-01-31,Senate,"S10 - Labor:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1939047,1482686,2025-02-05,Senate,"3rd Reading:Passed 26-1-4-0-0",26,1,0,4,31
+1939047,1498005,2025-02-24,House,"H10 - Labor:Recommend Amend and Do Pass 7-0-2-0-0",7,0,0,2,9
+1939047,1504487,2025-03-04,House,"3rd Reading:Passed 55-5-2-0-0",55,5,0,2,62
+1939047,1505202,2025-03-04,Senate,"Concur:Passed 30-1-0-0-0",30,1,0,0,31
+1939068,1478245,2025-01-31,Senate,"S07 - Corporations:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1939068,1484138,2025-02-07,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1939068,1499604,2025-02-25,House,"H06 - Travel:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1939068,1504679,2025-03-04,House,"3rd Reading:Passed 59-1-2-0-0",59,1,0,2,62
+1939068,1505570,2025-03-04,Senate,"Concur:Passed 28-3-0-0-0",28,3,0,0,31
+1939111,1482970,2025-02-05,Senate,"S01 - Judiciary:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1939111,1485987,2025-02-11,Senate,"3rd Reading:Passed 17-13-1-0-0",17,13,0,1,31
+1939111,1501622,2025-02-27,House,"H06 - Travel:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1939132,1479261,2025-02-03,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1939132,1486463,2025-02-11,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1939132,1498607,2025-02-25,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1939132,1503721,2025-03-03,House,"SF0169H2002 Amendment failed 20-40-2-0-0",20,40,0,2,62
+1939132,1503722,2025-03-03,House,"SF0169H2003 Amendment failed 21-40-1-0-0",21,40,0,1,62
+1939132,1505237,2025-03-04,House,"SF0169H3001 Amendment adopted 42-19-1-0-0",42,19,0,1,62
+1939132,1505238,2025-03-04,House,"SF0169H3002.02 Amendment adopted 34-27-1-0-0",34,27,0,1,62
+1939132,1505239,2025-03-04,House,"SF0169H3004 Amendment failed 28-33-1-0-0",28,33,0,1,62
+1939132,1505240,2025-03-04,House,"3rd Reading:Passed 46-14-2-0-0",46,14,0,2,62
+1939132,1505785,2025-03-05,Senate,"Concur:Failed 1-30-0-0-0",1,30,0,0,31
+1939132,1507351,2025-03-06,Senate,"SF0169JC002 Adopted SF0169JC002: 19-9-3-0-0",19,9,0,3,31
+1939132,1507352,2025-03-06,House,"SF0169JC002 Adopted SF0169JC002: 38-15-9-0-0",38,15,0,9,62
+1939153,1479115,2025-02-03,Senate,"S10 - Labor:Recommend Do Pass 3-0-2-0-0",3,0,0,2,5
+1939153,1485178,2025-02-10,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1939153,1501292,2025-02-27,House,"H07 - Corporations:Recommend Do Pass 6-3-0-0-0",6,3,0,0,9
+1941813,1482477,2025-02-05,Senate,"S09 - Minerals:Recommend Do Pass 4-0-1-0-0",4,0,0,1,5
+1941813,1486285,2025-02-11,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1941813,1492353,2025-02-18,House,"H06 - Travel:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1941813,1498934,2025-02-25,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1941816,1482845,2025-02-05,Senate,"S07 - Corporations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1941816,1488269,2025-02-12,Senate,"3rd Reading:Passed 30-0-1-0-0",30,0,0,1,31
+1941816,1501798,2025-02-27,House,"H07 - Corporations:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1941816,1505263,2025-03-04,House,"3rd Reading:Passed 54-6-2-0-0",54,6,0,2,62
+1941818,1479147,2025-02-03,Senate,"S03 - Revenue:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1941820,1478914,2025-02-03,Senate,"S07 - Corporations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1941820,1488127,2025-02-12,Senate,"3rd Reading:Passed 27-3-1-0-0",27,3,0,1,31
+1941820,1496059,2025-02-20,House,"H05 - Agriculture:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1941820,1499484,2025-02-25,House,"3rd Reading:Passed 57-4-1-0-0",57,4,0,1,62
+1941821,1484404,2025-02-07,House,"H10 - Labor:Recommend Do Pass 8-0-1-0-0",8,0,0,1,9
+1941821,1487465,2025-02-12,House,"3rd Reading:Passed 58-2-2-0-0",58,2,0,2,62
+1941821,1494412,2025-02-19,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1941821,1501640,2025-02-27,Senate,"3rd Reading:Passed 24-5-2-0-0",24,5,0,2,31
+1941822,1477864,2025-01-30,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1941823,1482164,2025-02-05,Senate,"S01 - Judiciary:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1941828,1478669,2025-02-03,Senate,"S07 - Corporations:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1941915,1482903,2025-02-05,House,"H02 - Appropriations:Recommend Do Pass 6-1-0-0-0",6,1,0,0,7
+1942062,1482998,2025-02-05,House,"H07 - Corporations:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1942217,1480447,2025-02-04,House,"H02 - Appropriations:Recommend Do Pass 5-1-1-0-0",5,1,0,1,7
+1942217,1486963,2025-02-11,House,"3rd Reading:Passed 56-5-1-0-0",56,5,0,1,62
+1942313,1478568,2025-01-31,House,"H02 - Appropriations:Recommend Do Pass 6-0-1-0-0",6,0,0,1,7
+1942313,1482219,2025-02-05,House,"3rd Reading:Passed 53-7-2-0-0",53,7,0,2,62
+1942422,1478289,2025-01-31,Senate,"S09 - Minerals:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1942422,1482422,2025-02-05,Senate,"3rd Reading:Passed 21-6-4-0-0",21,6,0,4,31
+1942422,1501531,2025-02-27,House,"H09 - Minerals:Do Pass Failed 3-5-1-0-0",3,5,0,1,9
+1942454,1479106,2025-02-03,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1942454,1485443,2025-02-10,Senate,"3rd Reading:Passed 28-2-1-0-0",28,2,0,1,31
+1942489,1482166,2025-02-05,Senate,"S03 - Revenue:Do Pass Failed 1-4-0-0-0",1,4,0,0,5
+1942559,1479704,2025-02-04,Senate,"S05 - Agriculture:Do Pass Failed 2-3-0-0-0",2,3,0,0,5
+1942694,1483699,2025-02-06,Senate,"S02 - Appropriations:Recommend Do Pass 3-2-0-0-0",3,2,0,0,5
+1942694,1488058,2025-02-12,Senate,"3rd Reading:Passed 20-10-1-0-0",20,10,0,1,31
+1942694,1498519,2025-02-24,House,"H10 - Labor:Recommend Do Pass 4-3-2-0-0",4,3,0,2,9
+1942694,1498610,2025-02-25,House,"H02 - Appropriations:Do Pass Failed 0-6-1-0-0",0,6,0,1,7
+1942762,1479334,2025-02-03,Senate,"S02 - Appropriations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1942762,1484663,2025-02-10,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1942762,1494393,2025-02-19,House,"H02 - Appropriations:Recommend Amend and Do Pass 6-1-0-0-0",6,1,0,0,7
+1942762,1503938,2025-03-03,House,"SF0191H2001 Amendment failed 17-44-1-0-0",17,44,0,1,62
+1942762,1503939,2025-03-03,House,"SF0191H2002 Amendment failed 22-37-3-0-0",22,37,0,3,62
+1942762,1504993,2025-03-04,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1942762,1504994,2025-03-04,House,"SF0191H3001 Amendment adopted 36-23-3-0-0",36,23,0,3,62
+1942762,1504995,2025-03-04,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1942762,1507651,2025-03-06,Senate,"Concur:Passed 24-2-5-0-0",24,2,0,5,31
+1942829,1484271,2025-02-07,Senate,"S07 - Corporations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1942829,1487700,2025-02-12,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1942829,1501418,2025-02-27,House,"H07 - Corporations:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1942829,1502238,2025-02-28,House,"H02 - Appropriations:Recommend Do Pass 4-3-0-0-0",4,3,0,0,7
+1942872,1478652,2025-02-03,House,"H04 - Education:Recommend Amend and Do Pass 8-1-0-0-0",8,1,0,0,9
+1942872,1488390,2025-02-12,House,"3rd Reading:Passed 54-6-2-0-0",54,6,0,2,62
+1942872,1501385,2025-02-27,Senate,"S06 - Travel:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1942943,1483336,2025-02-06,Senate,"S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1942943,1484502,2025-02-07,Senate,"S02 - Appropriations:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1942943,1487648,2025-02-12,Senate,"SF0195S3001 Amendment adopted 16-14-1-0-0",16,14,0,1,31
+1942943,1487649,2025-02-12,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1942943,1490637,2025-02-14,House,"H09 - Minerals:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1942943,1494491,2025-02-19,House,"H02 - Appropriations:Recommend Amend and Do Pass 7-0-0-0-0",7,0,0,0,7
+1942943,1499448,2025-02-25,House,"3rd Reading:Passed 61-0-1-0-0",61,0,0,1,62
+1942943,1500807,2025-02-26,Senate,"Concur:Passed 29-1-1-0-0",29,1,0,1,31
+1944320,1480374,2025-02-04,House,"H03 - Revenue:Recommend Do Pass 6-2-1-0-0",6,2,0,1,9
+1944320,1485451,2025-02-10,House,"3rd Reading:Passed 55-4-3-0-0",55,4,0,3,62
+1944320,1494421,2025-02-19,Senate,"S03 - Revenue:Recommend Amend and Do Pass 4-1-0-0-0",4,1,0,0,5
+1944320,1502014,2025-02-27,Senate,"3rd Reading:Passed 28-1-2-0-0",28,1,0,2,31
+1944320,1502015,2025-02-27,House,"Concur:Passed 56-3-3-0-0",56,3,0,3,62
+1945105,1479396,2025-02-03,House,"H10 - Labor:Recommend Amend and Do Pass 7-1-0-1-0",7,1,0,1,9
+1945105,1485546,2025-02-10,House,"3rd Reading:Passed 48-11-3-0-0",48,11,0,3,62
+1945122,1478232,2025-01-31,House,"H02 - Appropriations:Recommend Amend and Do Pass 6-0-1-0-0",6,0,0,1,7
+1945122,1482667,2025-02-05,House,"3rd Reading:Passed 60-0-2-0-0",60,0,0,2,62
+1945122,1490110,2025-02-14,Senate,"S04 - Education:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1945122,1492812,2025-02-18,Senate,"S02 - Appropriations:Recommend Do Pass 4-1-0-0-0",4,1,0,0,5
+1945122,1498127,2025-02-24,Senate,"HB0316S2001 Amendment adopted 22-8-1-0-0",22,8,0,1,31
+1945122,1502697,2025-02-28,Senate,"HB0316S3001 Amendment adopted 19-12-0-0-0",19,12,0,0,31
+1945122,1502698,2025-02-28,Senate,"HB0316S3002 Amendment failed 11-20-0-0-0",11,20,0,0,31
+1945122,1502699,2025-02-28,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1945122,1504134,2025-03-03,House,"Concur:Passed 60-0-2-0-0",60,0,0,2,62
+1945177,1484531,2025-02-07,House,"H09 - Minerals:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1945185,1484485,2025-02-07,House,"H09 - Minerals:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1945185,1488229,2025-02-12,House,"3rd Reading:Passed 47-13-2-0-0",47,13,0,2,62
+1945185,1501343,2025-02-27,Senate,"S07 - Corporations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1945185,1503728,2025-03-03,Senate,"3rd Reading:Passed 29-2-0-0-0",29,2,0,0,31
+1945632,1478706,2025-02-03,House,"H04 - Education:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1945632,1480441,2025-02-04,House,"H02 - Appropriations:Recommend Do Pass 6-0-1-0-0",6,0,0,1,7
+1945632,1487935,2025-02-12,House,"3rd Reading:Passed 41-19-2-0-0",41,19,0,2,62
+1945632,1498321,2025-02-24,Senate,"S01 - Judiciary:Recommend Amend and Do Pass 2-1-2-0-0",2,1,0,2,5
+1946059,1482897,2025-02-05,House,"H01 - Judiciary:Recommend Do Pass 9-0-0-0-0",9,0,0,0,9
+1946180,1484452,2025-02-07,Senate,"S02 - Appropriations:Recommend Amend and Do Pass 5-0-0-0-0",5,0,0,0,5
+1946180,1488059,2025-02-12,Senate,"3rd Reading:Passed 29-1-1-0-0",29,1,0,1,31
+1946180,1496898,2025-02-21,House,"H02 - Appropriations:Recommend Amend and Do Pass 4-3-0-0-0",4,3,0,0,7
+1946478,1483796,2025-02-06,House,"H03 - Revenue:Recommend Amend and Do Pass 7-1-1-0-0",7,1,0,1,9
+1946661,1484511,2025-02-07,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1946661,1488404,2025-02-12,House,"3rd Reading:Passed 58-2-2-0-0",58,2,0,2,62
+1946661,1501800,2025-02-27,Senate,"S07 - Corporations:Recommend Do Pass 5-0-0-0-0",5,0,0,0,5
+1946661,1503710,2025-03-03,Senate,"3rd Reading:Passed 31-0-0-0-0",31,0,0,0,31
+1947005,1484517,2025-02-07,House,"H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",7,0,0,0,7
+1947173,1482984,2025-02-05,House,"H10 - Labor:Recommend Amend and Do Pass 8-0-1-0-0",8,0,0,1,9
+1947345,1484590,2025-02-10,House,"H05 - Agriculture:Do Pass Failed 4-4-1-0-0",4,4,0,1,9
+1991441,1505155,2025-03-04,Senate,"Suspension of the rules and referred directly to COW 27-4-0-0-0",27,4,0,0,31
+1991441,1505156,2025-03-04,Senate,"2nd Reading:Suspension of Rules and Accelerated to 2nd Reading 25-5-1-0-0",25,5,0,1,31
+1991441,1505157,2025-03-04,Senate,"3rd Reading:Suspension of Rules and Accelerated to 3rd Reading 25-5-1-0-0",25,5,0,1,31
+1991441,1505158,2025-03-04,Senate,"3rd Reading:Passed 24-7-0-0-0",24,7,0,0,31

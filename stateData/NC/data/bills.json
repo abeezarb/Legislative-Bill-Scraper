@@ -1,0 +1,2450 @@
+{
+     "1968548": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "cd92688704b2d7c0225a557094e4e14a",
+               "relevance": 33,
+               "state": "NC",
+               "bill number": "S94",
+               "description": "Repeal Death Penalty",
+               "state link": "https://www.ncleg.gov/BillLookUp/2025/S94",
+               "legiscan link": "https://legiscan.com/NC/bill/S94/2025",
+               "status": {
+                    "date": "02-17-2025",
+                    "label": "Refer",
+                    "action": "Ref To Com On Rules and Operations of the Senate"
+               },
+               "date introduced": "02-13-2025",
+               "party": "D",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Julie Mayfield, Graig Meyer, Natalie Murdock",
+                         "co": "Sophia Chitlik, Kandie Smith, Joyce Waddell",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 6"
+               }
+          },
+          "raw": {
+               "bill_id": 1968548,
+               "change_hash": "cd92688704b2d7c0225a557094e4e14a",
+               "session_id": 2189,
+               "session": {
+                    "session_id": 2189,
+                    "state_id": 33,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 0,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 Session"
+               },
+               "url": "https://legiscan.com/NC/bill/S94/2025",
+               "state_link": "https://www.ncleg.gov/BillLookUp/2025/S94",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-02-13",
+               "progress": [
+                    {
+                         "date": "2025-02-13",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-17",
+                         "event": 9
+                    }
+               ],
+               "state": "NC",
+               "state_id": 33,
+               "bill_number": "S94",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "S",
+               "body_id": 76,
+               "current_body": "S",
+               "current_body_id": 76,
+               "title": "Repeal Death Penalty",
+               "description": "Repeal Death Penalty",
+               "pending_committee_id": 698,
+               "committee": {
+                    "committee_id": 698,
+                    "chamber": "S",
+                    "chamber_id": 76,
+                    "name": "Rules and Operations of the Senate"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-02-17",
+                         "committee_id": 698,
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "name": "Rules and Operations of the Senate"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-13",
+                         "action": "Filed",
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-17",
+                         "action": "Passed 1st Reading",
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-17",
+                         "action": "Ref To Com On Rules and Operations of the Senate",
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 22425,
+                         "person_hash": "eel0s6ko",
+                         "party_id": "1",
+                         "state_id": 33,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Julie Mayfield",
+                         "first_name": "Julie",
+                         "middle_name": "Virginia",
+                         "last_name": "Mayfield",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-049",
+                         "ftm_eid": 48546424,
+                         "votesmart_id": 174283,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 726620,
+                         "ballotpedia": "Julie_Mayfield",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 16251,
+                         "person_hash": "5u4t66fm",
+                         "party_id": "1",
+                         "state_id": 33,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Graig Meyer",
+                         "first_name": "Graig",
+                         "middle_name": "Roy",
+                         "last_name": "Meyer",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-023",
+                         "ftm_eid": 12542277,
+                         "votesmart_id": 149829,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 473421,
+                         "ballotpedia": "Graig_Meyer",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 21633,
+                         "person_hash": "u9d4sxae",
+                         "party_id": "1",
+                         "state_id": 33,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Natalie Murdock",
+                         "first_name": "Natalie",
+                         "middle_name": "",
+                         "last_name": "Murdock",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-020",
+                         "ftm_eid": 45528077,
+                         "votesmart_id": 189039,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 726546,
+                         "ballotpedia": "Natalie_Murdock",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 25858,
+                         "person_hash": "tdmtcx3f",
+                         "party_id": "1",
+                         "state_id": 33,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Sophia Chitlik",
+                         "first_name": "Sophia",
+                         "middle_name": "",
+                         "last_name": "Chitlik",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-022",
+                         "ftm_eid": 59507326,
+                         "votesmart_id": 213763,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Sophia_Chitlik",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 4,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 20524,
+                         "person_hash": "pmxuxnau",
+                         "party_id": "1",
+                         "state_id": 33,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Kandie Smith",
+                         "first_name": "Kandie",
+                         "middle_name": "Diane",
+                         "last_name": "Smith",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-005",
+                         "ftm_eid": 38445521,
+                         "votesmart_id": 132843,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 564220,
+                         "ballotpedia": "Kandie_Smith",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 5,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 17163,
+                         "person_hash": "tkg633cs",
+                         "party_id": "1",
+                         "state_id": 33,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Joyce Waddell",
+                         "first_name": "Joyce",
+                         "middle_name": "D.",
+                         "last_name": "Waddell",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-040",
+                         "ftm_eid": 6408760,
+                         "votesmart_id": 149844,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 487128,
+                         "ballotpedia": "Joyce_Waddell",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 6,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 343143,
+                         "subject_name": "Attorney General"
+                    },
+                    {
+                         "subject_id": 344066,
+                         "subject_name": "Capital Punishment"
+                    },
+                    {
+                         "subject_id": 342244,
+                         "subject_name": "Council Of State"
+                    },
+                    {
+                         "subject_id": 342180,
+                         "subject_name": "Courts"
+                    },
+                    {
+                         "subject_id": 342182,
+                         "subject_name": "Criminal Procedure"
+                    },
+                    {
+                         "subject_id": 343153,
+                         "subject_name": "Justice Dept."
+                    },
+                    {
+                         "subject_id": 342116,
+                         "subject_name": "Public"
+                    },
+                    {
+                         "subject_id": 342250,
+                         "subject_name": "Public Officials"
+                    },
+                    {
+                         "subject_id": 342188,
+                         "subject_name": "Sentencing"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3117792,
+                         "date": "2025-02-13",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NC/text/S94/id/3117792",
+                         "state_link": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S94v0.pdf",
+                         "text_size": 122721,
+                         "text_hash": "0a6aa31fbed79e11673696b42a01ece9",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3126624,
+                         "date": "2025-02-17",
+                         "type": "Amended",
+                         "type_id": 3,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NC/text/S94/id/3126624",
+                         "state_link": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S94v1.pdf",
+                         "text_size": 165025,
+                         "text_hash": "789a9b0d5687a605e90d8621598126cb",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     },
+     "1990140": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "eaa1e4750db2bfa0057ea42ca14abfa5",
+               "relevance": 33,
+               "state": "NC",
+               "bill number": "H270",
+               "description": "Revise Law on the Death Penalty",
+               "state link": "https://www.ncleg.gov/BillLookUp/2025/H270",
+               "legiscan link": "https://legiscan.com/NC/bill/H270/2025",
+               "status": {
+                    "date": "05-06-2025",
+                    "label": "Refer",
+                    "action": "Re-ref Com On Rules, Calendar, and Operations of the House"
+               },
+               "date introduced": "03-03-2025",
+               "party": "R",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "David Willis, Reece Pyrtle, Charles Miller, Bill Ward",
+                         "co": "Jonathan Almond, Jennifer Balkcom, Richard Carver, Neal Jackson, Keith Kidwell, Paul Scott",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 10"
+               }
+          },
+          "raw": {
+               "bill_id": 1990140,
+               "change_hash": "eaa1e4750db2bfa0057ea42ca14abfa5",
+               "session_id": 2189,
+               "session": {
+                    "session_id": 2189,
+                    "state_id": 33,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 0,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 Session"
+               },
+               "url": "https://legiscan.com/NC/bill/H270/2025",
+               "state_link": "https://www.ncleg.gov/BillLookUp/2025/H270",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-03-03",
+               "progress": [
+                    {
+                         "date": "2025-03-03",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-03-05",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-04-29",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-04-29",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-05-06",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-05-06",
+                         "event": 9
+                    }
+               ],
+               "state": "NC",
+               "state_id": 33,
+               "bill_number": "H270",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 75,
+               "current_body": "H",
+               "current_body_id": 75,
+               "title": "Revise Law on the Death Penalty",
+               "description": "Revise Law on the Death Penalty",
+               "pending_committee_id": 673,
+               "committee": {
+                    "committee_id": 673,
+                    "chamber": "H",
+                    "chamber_id": 75,
+                    "name": "Rules, Calendar, and Operations of the House"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-03-05",
+                         "committee_id": 663,
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "name": "Judiciary II"
+                    },
+                    {
+                         "date": "2025-04-29",
+                         "committee_id": 3971,
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "name": "State and Local Government"
+                    },
+                    {
+                         "date": "2025-05-06",
+                         "committee_id": 673,
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "name": "Rules, Calendar, and Operations of the House"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-03-03",
+                         "action": "Filed",
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-05",
+                         "action": "Passed 1st Reading",
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-05",
+                         "action": "Ref to the Com on Judiciary 2, if favorable, State and Local Government, if favorable, Rules, Calendar, and Operations of the House",
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-04-29",
+                         "action": "Reptd Fav",
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-04-29",
+                         "action": "Re-ref Com On State and Local Government",
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-05-06",
+                         "action": "Reptd Fav",
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-05-06",
+                         "action": "Re-ref Com On Rules, Calendar, and Operations of the House",
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 22609,
+                         "person_hash": "dmgm4qch",
+                         "party_id": "2",
+                         "state_id": 33,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "David Willis",
+                         "first_name": "David",
+                         "middle_name": "Allen",
+                         "last_name": "Willis",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-068",
+                         "ftm_eid": 48626907,
+                         "votesmart_id": 189259,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 726458,
+                         "ballotpedia": "David_Willis",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22946,
+                         "person_hash": "sezx6vnk",
+                         "party_id": "2",
+                         "state_id": 33,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Reece Pyrtle",
+                         "first_name": "Reece",
+                         "middle_name": "",
+                         "last_name": "Pyrtle",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-065",
+                         "ftm_eid": 0,
+                         "votesmart_id": 198983,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 784387,
+                         "ballotpedia": "A._Reece_Pyrtle,_Jr.",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22612,
+                         "person_hash": "hcdg5t37",
+                         "party_id": "2",
+                         "state_id": 33,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Charles Miller",
+                         "first_name": "Charles",
+                         "middle_name": "William",
+                         "last_name": "Miller",
+                         "suffix": "",
+                         "nickname": "Charlie",
+                         "district": "HD-019",
+                         "ftm_eid": 48626827,
+                         "votesmart_id": 188953,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 726287,
+                         "ballotpedia": "Charles_Miller_(North_Carolina)",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24219,
+                         "person_hash": "dusez2gc",
+                         "party_id": "2",
+                         "state_id": 33,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Bill Ward",
+                         "first_name": "William",
+                         "middle_name": "Thomas",
+                         "last_name": "Ward",
+                         "suffix": "",
+                         "nickname": "Bill",
+                         "district": "HD-005",
+                         "ftm_eid": 55294382,
+                         "votesmart_id": 202664,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Bill_Ward_(North_Carolina)",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 4,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 25841,
+                         "person_hash": "k14ndjk2",
+                         "party_id": "2",
+                         "state_id": 33,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Jonathan Almond",
+                         "first_name": "Jonathan",
+                         "middle_name": "L.",
+                         "last_name": "Almond",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-073",
+                         "ftm_eid": 59506484,
+                         "votesmart_id": 213862,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Jonathan_Almond",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 5,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24196,
+                         "person_hash": "l531uyb6",
+                         "party_id": "2",
+                         "state_id": 33,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Jennifer Balkcom",
+                         "first_name": "Jennifer",
+                         "middle_name": "",
+                         "last_name": "Capps Balkcom",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-117",
+                         "ftm_eid": 55294798,
+                         "votesmart_id": 202758,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 801694,
+                         "ballotpedia": "Jennifer_Capps_Balkcom",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 6,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 25857,
+                         "person_hash": "yrrc8o8f",
+                         "party_id": "2",
+                         "state_id": 33,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Richard Carver",
+                         "first_name": "Richard",
+                         "middle_name": "Todd",
+                         "last_name": "Carver",
+                         "suffix": "",
+                         "nickname": "Todd",
+                         "district": "HD-095",
+                         "ftm_eid": 59507425,
+                         "votesmart_id": 213884,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Todd_Carver",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 7,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24207,
+                         "person_hash": "g6e5mgtd",
+                         "party_id": "2",
+                         "state_id": 33,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Neal Jackson",
+                         "first_name": "Maze",
+                         "middle_name": "O'Neal",
+                         "last_name": "Jackson",
+                         "suffix": "",
+                         "nickname": "Neal",
+                         "district": "HD-078",
+                         "ftm_eid": 55294671,
+                         "votesmart_id": 202734,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Neal_Jackson",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 8,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 20519,
+                         "person_hash": "v77cebce",
+                         "party_id": "2",
+                         "state_id": 33,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Keith Kidwell",
+                         "first_name": "Keith",
+                         "middle_name": "D.",
+                         "last_name": "Kidwell",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-079",
+                         "ftm_eid": 16221293,
+                         "votesmart_id": 178403,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 656204,
+                         "ballotpedia": "Keith_Kidwell",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 9,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 25856,
+                         "person_hash": "wltl7ou6",
+                         "party_id": "2",
+                         "state_id": 33,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Paul Scott",
+                         "first_name": "Paul",
+                         "middle_name": "",
+                         "last_name": "Scott",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-111",
+                         "ftm_eid": 59507234,
+                         "votesmart_id": 213902,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Paul_Scott_(North_Carolina)",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 10,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 344066,
+                         "subject_name": "Capital Punishment"
+                    },
+                    {
+                         "subject_id": 343444,
+                         "subject_name": "Correctional Institutions"
+                    },
+                    {
+                         "subject_id": 342180,
+                         "subject_name": "Courts"
+                    },
+                    {
+                         "subject_id": 342182,
+                         "subject_name": "Criminal Procedure"
+                    },
+                    {
+                         "subject_id": 342116,
+                         "subject_name": "Public"
+                    },
+                    {
+                         "subject_id": 342188,
+                         "subject_name": "Sentencing"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3150611,
+                         "date": "2025-03-03",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NC/text/H270/id/3150611",
+                         "state_link": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H270v0.pdf",
+                         "text_size": 30349,
+                         "text_hash": "60bda56f1e5049fc220dbd3482f0d39f",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3155498,
+                         "date": "2025-03-05",
+                         "type": "Amended",
+                         "type_id": 3,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NC/text/H270/id/3155498",
+                         "state_link": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H270v1.pdf",
+                         "text_size": 28073,
+                         "text_hash": "d2d26c6c580f4dc01f83e3040f925b02",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 588308,
+                         "date": "2025-04-29",
+                         "type": "Analysis",
+                         "type_id": 2,
+                         "title": "Analysis",
+                         "description": "Summary H270-SMSA-32(e1)-v-2",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NC/supplement/H270/id/588308",
+                         "state_link": "https://dashboard.ncleg.gov/api/Services/BillSummary/2025/H270-SMSA-32(e1)-v-2",
+                         "supplement_size": 49182,
+                         "supplement_hash": "bcc489fd14b0f2772ffe615f915a62b3",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "5683690f",
+                         "type": "Hearing",
+                         "date": "2025-04-29",
+                         "time": "13:00",
+                         "location": "421 LOB ",
+                         "description": "Judiciary 2 Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "d6358495",
+                         "type": "Hearing",
+                         "date": "2025-04-29",
+                         "time": "13:00",
+                         "location": "421 LOB",
+                         "description": "Judiciary 2 Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "fa43576e",
+                         "type": "Hearing",
+                         "date": "2025-05-06",
+                         "time": "14:00",
+                         "location": "422 LOB ",
+                         "description": "State and Local Government Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "9c432bb3",
+                         "type": "Hearing",
+                         "date": "2025-05-06",
+                         "time": "14:00",
+                         "location": "422 LOB",
+                         "description": "State and Local Government Hearing"
+                    }
+               ]
+          }
+     },
+     "2012938": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "e92f0c545c8a8459e5ac691eef6a75b1",
+               "relevance": 16,
+               "state": "NC",
+               "bill number": "S421",
+               "description": "Prison Reform Omnibus",
+               "state link": "https://www.ncleg.gov/BillLookUp/2025/S421",
+               "legiscan link": "https://legiscan.com/NC/bill/S421/2025",
+               "status": {
+                    "date": "03-25-2025",
+                    "label": "Refer",
+                    "action": "Ref To Com On Rules and Operations of the Senate"
+               },
+               "date introduced": "03-24-2025",
+               "party": "D",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Val Applewhite",
+                         "co": "Kandie Smith, Joyce Waddell",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 3"
+               }
+          },
+          "raw": {
+               "bill_id": 2012938,
+               "change_hash": "e92f0c545c8a8459e5ac691eef6a75b1",
+               "session_id": 2189,
+               "session": {
+                    "session_id": 2189,
+                    "state_id": 33,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 0,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 Session"
+               },
+               "url": "https://legiscan.com/NC/bill/S421/2025",
+               "state_link": "https://www.ncleg.gov/BillLookUp/2025/S421",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-03-24",
+               "progress": [
+                    {
+                         "date": "2025-03-24",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-03-25",
+                         "event": 9
+                    }
+               ],
+               "state": "NC",
+               "state_id": 33,
+               "bill_number": "S421",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "S",
+               "body_id": 76,
+               "current_body": "S",
+               "current_body_id": 76,
+               "title": "Prison Reform Omnibus",
+               "description": "Prison Reform Omnibus",
+               "pending_committee_id": 698,
+               "committee": {
+                    "committee_id": 698,
+                    "chamber": "S",
+                    "chamber_id": 76,
+                    "name": "Rules and Operations of the Senate"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-03-25",
+                         "committee_id": 698,
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "name": "Rules and Operations of the Senate"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-03-24",
+                         "action": "Filed",
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-25",
+                         "action": "Passed 1st Reading",
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-25",
+                         "action": "Ref To Com On Rules and Operations of the Senate",
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 24220,
+                         "person_hash": "yjghxi8d",
+                         "party_id": "1",
+                         "state_id": 33,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Val Applewhite",
+                         "first_name": "Valencia",
+                         "middle_name": "",
+                         "last_name": "Applewhite",
+                         "suffix": "",
+                         "nickname": "Val",
+                         "district": "SD-019",
+                         "ftm_eid": 45949457,
+                         "votesmart_id": 73772,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Val_Applewhite",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 20524,
+                         "person_hash": "pmxuxnau",
+                         "party_id": "1",
+                         "state_id": 33,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Kandie Smith",
+                         "first_name": "Kandie",
+                         "middle_name": "Diane",
+                         "last_name": "Smith",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-005",
+                         "ftm_eid": 38445521,
+                         "votesmart_id": 132843,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 564220,
+                         "ballotpedia": "Kandie_Smith",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 17163,
+                         "person_hash": "tkg633cs",
+                         "party_id": "1",
+                         "state_id": 33,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Joyce Waddell",
+                         "first_name": "Joyce",
+                         "middle_name": "D.",
+                         "last_name": "Waddell",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-040",
+                         "ftm_eid": 6408760,
+                         "votesmart_id": 149844,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 487128,
+                         "ballotpedia": "Joyce_Waddell",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 342320,
+                         "subject_name": "Agriculture"
+                    },
+                    {
+                         "subject_id": 342103,
+                         "subject_name": "Boards"
+                    },
+                    {
+                         "subject_id": 343444,
+                         "subject_name": "Correctional Institutions"
+                    },
+                    {
+                         "subject_id": 342109,
+                         "subject_name": "Education"
+                    },
+                    {
+                         "subject_id": 342163,
+                         "subject_name": "Employment"
+                    },
+                    {
+                         "subject_id": 342239,
+                         "subject_name": "Environment"
+                    },
+                    {
+                         "subject_id": 344555,
+                         "subject_name": "Forestry"
+                    },
+                    {
+                         "subject_id": 342173,
+                         "subject_name": "Personnel"
+                    },
+                    {
+                         "subject_id": 348362,
+                         "subject_name": "Prison Labor"
+                    },
+                    {
+                         "subject_id": 343446,
+                         "subject_name": "Inmates"
+                    },
+                    {
+                         "subject_id": 342116,
+                         "subject_name": "Public"
+                    },
+                    {
+                         "subject_id": 343895,
+                         "subject_name": "Vocational Education"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3185613,
+                         "date": "2025-03-24",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NC/text/S421/id/3185613",
+                         "state_link": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S421v0.pdf",
+                         "text_size": 243825,
+                         "text_hash": "46dda86434ae5eff5f2aacd6357f018a",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3188405,
+                         "date": "2025-03-25",
+                         "type": "Amended",
+                         "type_id": 3,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NC/text/S421/id/3188405",
+                         "state_link": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S421v1.pdf",
+                         "text_size": 246256,
+                         "text_hash": "7fd97392fae11e93630164a59cec5352",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     },
+     "2012983": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "b4c43297cc0eb0bb8190825dfeb1ef62",
+               "relevance": 14,
+               "state": "NC",
+               "bill number": "S429",
+               "description": "2025 Public Safety Act",
+               "state link": "https://www.ncleg.gov/BillLookUp/2025/S429",
+               "legiscan link": "https://legiscan.com/NC/bill/S429/2025",
+               "status": {
+                    "date": "07-09-2025",
+                    "label": "Passed",
+                    "action": "Ch. SL 2025-70"
+               },
+               "date introduced": "03-24-2025",
+               "party": "R",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Danny Britt, Buck Newton, Warren Daniel",
+                         "co": "David Craven, Bobby Hanig, Thomas McInnis",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 6"
+               }
+          },
+          "raw": {
+               "bill_id": 2012983,
+               "change_hash": "b4c43297cc0eb0bb8190825dfeb1ef62",
+               "session_id": 2189,
+               "session": {
+                    "session_id": 2189,
+                    "state_id": 33,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 0,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 Session"
+               },
+               "url": "https://legiscan.com/NC/bill/S429/2025",
+               "state_link": "https://www.ncleg.gov/BillLookUp/2025/S429",
+               "completed": 1,
+               "status": 4,
+               "status_date": "2025-07-09",
+               "progress": [
+                    {
+                         "date": "2025-03-24",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-03-25",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-04-09",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-04-16",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-04-16",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-04-29",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-05-01",
+                         "event": 2
+                    },
+                    {
+                         "date": "2025-05-05",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-06-10",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-06-17",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-06-17",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-06-24",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-06-25",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-06-26",
+                         "event": 3
+                    },
+                    {
+                         "date": "2025-07-09",
+                         "event": 8
+                    },
+                    {
+                         "date": "2025-07-09",
+                         "event": 4
+                    }
+               ],
+               "state": "NC",
+               "state_id": 33,
+               "bill_number": "S429",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "S",
+               "body_id": 76,
+               "current_body": "S",
+               "current_body_id": 76,
+               "title": "2025 Public Safety Act",
+               "description": "2025 Public Safety Act",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [
+                    {
+                         "date": "2025-03-25",
+                         "committee_id": 698,
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "name": "Rules and Operations of the Senate"
+                    },
+                    {
+                         "date": "2025-04-09",
+                         "committee_id": 3692,
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "name": "Judiciary"
+                    },
+                    {
+                         "date": "2025-04-16",
+                         "committee_id": 698,
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "name": "Rules and Operations of the Senate"
+                    },
+                    {
+                         "date": "2025-05-05",
+                         "committee_id": 673,
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "name": "Rules, Calendar, and Operations of the House"
+                    },
+                    {
+                         "date": "2025-06-10",
+                         "committee_id": 663,
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "name": "Judiciary II"
+                    },
+                    {
+                         "date": "2025-06-17",
+                         "committee_id": 673,
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "name": "Rules, Calendar, and Operations of the House"
+                    },
+                    {
+                         "date": "2025-06-25",
+                         "committee_id": 698,
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "name": "Rules and Operations of the Senate"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-03-24",
+                         "action": "Filed",
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-25",
+                         "action": "Passed 1st Reading",
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-25",
+                         "action": "Ref To Com On Rules and Operations of the Senate",
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-04-09",
+                         "action": "Withdrawn From Com",
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-09",
+                         "action": "Re-ref to Judiciary. If fav, re-ref to Rules and Operations of the Senate",
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-04-16",
+                         "action": "Reptd Fav Com Substitute",
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-04-16",
+                         "action": "Com Substitute Adopted",
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-16",
+                         "action": "Re-ref Com On Rules and Operations of the Senate",
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-04-29",
+                         "action": "Reptd Fav",
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-04-30",
+                         "action": "Amend Tabled A1",
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-30",
+                         "action": "Passed 2nd Reading",
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-30",
+                         "action": "Passed 3rd Reading",
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-05-01",
+                         "action": "Regular Message Sent To House",
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-05-01",
+                         "action": "Regular Message Received From Senate",
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-05-05",
+                         "action": "Passed 1st Reading",
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-05-05",
+                         "action": "Ref To Com On Rules, Calendar, and Operations of the House",
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-06-10",
+                         "action": "Withdrawn From Com",
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-06-10",
+                         "action": "Re-ref to the Com on Judiciary 2, if favorable, Rules, Calendar, and Operations of the House",
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-06-17",
+                         "action": "Reptd Fav Com Substitute",
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-06-17",
+                         "action": "Re-ref Com On Rules, Calendar, and Operations of the House",
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-06-24",
+                         "action": "Reptd Fav Com Sub 2",
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-06-24",
+                         "action": "Cal Pursuant Rule 36(b)",
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-06-24",
+                         "action": "Added to Calendar",
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-06-24",
+                         "action": "Withdrawn From Cal",
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-06-24",
+                         "action": "Placed On Cal For 06/25/2025",
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-06-25",
+                         "action": "Amend Tabled A1",
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-06-25",
+                         "action": "Passed 2nd Reading",
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-06-25",
+                         "action": "Passed 3rd Reading",
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-06-25",
+                         "action": "Special Message Sent To Senate",
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-06-25",
+                         "action": "Special Message Received For Concurrence in H Com Sub",
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-06-25",
+                         "action": "Ref To Com On Rules and Operations of the Senate",
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-06-26",
+                         "action": "Withdrawn From Com",
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-06-26",
+                         "action": "Placed on Today's Calendar",
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-06-26",
+                         "action": "Concurred In H Com Sub",
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-06-26",
+                         "action": "Ordered Enrolled",
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-06-30",
+                         "action": "Ratified",
+                         "chamber": "",
+                         "chamber_id": 0,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-06-30",
+                         "action": "Pres. To Gov. 6/30/2025",
+                         "chamber": "",
+                         "chamber_id": 0,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-07-09",
+                         "action": "Signed by Gov. 7/9/2025",
+                         "chamber": "",
+                         "chamber_id": 0,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-07-09",
+                         "action": "Ch. SL 2025-70",
+                         "chamber": "",
+                         "chamber_id": 0,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 18465,
+                         "person_hash": "mmq16cl2",
+                         "party_id": "2",
+                         "state_id": 33,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Danny Britt",
+                         "first_name": "Danny",
+                         "middle_name": "Earl",
+                         "last_name": "Britt",
+                         "suffix": "Jr.",
+                         "nickname": "",
+                         "district": "SD-024",
+                         "ftm_eid": 5874219,
+                         "votesmart_id": 166587,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 564380,
+                         "ballotpedia": "Danny_Earl_Britt",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24224,
+                         "person_hash": "7sri271r",
+                         "party_id": "2",
+                         "state_id": 33,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Buck Newton",
+                         "first_name": "Eldon",
+                         "middle_name": "Sharpe",
+                         "last_name": "Newton",
+                         "suffix": "III",
+                         "nickname": "Buck",
+                         "district": "SD-004",
+                         "ftm_eid": 55294819,
+                         "votesmart_id": 119350,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Buck_Newton",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 12033,
+                         "person_hash": "srp6rgev",
+                         "party_id": "2",
+                         "state_id": 33,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Warren Daniel",
+                         "first_name": "Warren",
+                         "middle_name": "Todd",
+                         "last_name": "Daniel",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-046",
+                         "ftm_eid": 6685849,
+                         "votesmart_id": 117792,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 292215,
+                         "ballotpedia": "Warren_Daniel",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 21663,
+                         "person_hash": "9q4jjex7",
+                         "party_id": "2",
+                         "state_id": 33,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "David Craven",
+                         "first_name": "David",
+                         "middle_name": "W.",
+                         "last_name": "Craven",
+                         "suffix": "Jr.",
+                         "nickname": "Dave",
+                         "district": "SD-029",
+                         "ftm_eid": 52364685,
+                         "votesmart_id": 57723,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 747016,
+                         "ballotpedia": "Dave_Craven",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 4,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 20513,
+                         "person_hash": "c1gbaqub",
+                         "party_id": "2",
+                         "state_id": 33,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Bobby Hanig",
+                         "first_name": "Robert",
+                         "middle_name": "Otho",
+                         "last_name": "Hanig",
+                         "suffix": "",
+                         "nickname": "Bobby",
+                         "district": "SD-001",
+                         "ftm_eid": 44884400,
+                         "votesmart_id": 178365,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 656062,
+                         "ballotpedia": "Robert_Hanig",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 5,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 17437,
+                         "person_hash": "rg2j38um",
+                         "party_id": "2",
+                         "state_id": 33,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Thomas McInnis",
+                         "first_name": "Thomas",
+                         "middle_name": "Moses",
+                         "last_name": "McInnis",
+                         "suffix": "",
+                         "nickname": "Tom",
+                         "district": "SD-021",
+                         "ftm_eid": 6045803,
+                         "votesmart_id": 149828,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 487123,
+                         "ballotpedia": "Tom_McInnis",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 6,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 342320,
+                         "subject_name": "Agriculture"
+                    },
+                    {
+                         "subject_id": 342308,
+                         "subject_name": "Attorneys"
+                    },
+                    {
+                         "subject_id": 346564,
+                         "subject_name": "Biotechnology"
+                    },
+                    {
+                         "subject_id": 342459,
+                         "subject_name": "Buildings"
+                    },
+                    {
+                         "subject_id": 344473,
+                         "subject_name": "Child Abuse"
+                    },
+                    {
+                         "subject_id": 343382,
+                         "subject_name": "Computers"
+                    },
+                    {
+                         "subject_id": 344895,
+                         "subject_name": "Consumer Credit"
+                    },
+                    {
+                         "subject_id": 343463,
+                         "subject_name": "Controlled Substances"
+                    },
+                    {
+                         "subject_id": 342180,
+                         "subject_name": "Courts"
+                    },
+                    {
+                         "subject_id": 342181,
+                         "subject_name": "Crimes"
+                    },
+                    {
+                         "subject_id": 342182,
+                         "subject_name": "Criminal Procedure"
+                    },
+                    {
+                         "subject_id": 342529,
+                         "subject_name": "Data & Records Systems"
+                    },
+                    {
+                         "subject_id": 342225,
+                         "subject_name": "Death & Dying"
+                    },
+                    {
+                         "subject_id": 342124,
+                         "subject_name": "Dhhs"
+                    },
+                    {
+                         "subject_id": 342209,
+                         "subject_name": "Disabled Persons"
+                    },
+                    {
+                         "subject_id": 342293,
+                         "subject_name": "Domestic Violence"
+                    },
+                    {
+                         "subject_id": 342109,
+                         "subject_name": "Education"
+                    },
+                    {
+                         "subject_id": 342341,
+                         "subject_name": "Evidence"
+                    },
+                    {
+                         "subject_id": 343356,
+                         "subject_name": "Financial Services"
+                    },
+                    {
+                         "subject_id": 348672,
+                         "subject_name": "Genetics"
+                    },
+                    {
+                         "subject_id": 342111,
+                         "subject_name": "Health Services"
+                    },
+                    {
+                         "subject_id": 342186,
+                         "subject_name": "Id Systems"
+                    },
+                    {
+                         "subject_id": 342134,
+                         "subject_name": "Information Technology"
+                    },
+                    {
+                         "subject_id": 343532,
+                         "subject_name": "Medical Examiners"
+                    },
+                    {
+                         "subject_id": 342247,
+                         "subject_name": "Minors"
+                    },
+                    {
+                         "subject_id": 342187,
+                         "subject_name": "Motor Vehicles"
+                    },
+                    {
+                         "subject_id": 342116,
+                         "subject_name": "Public"
+                    },
+                    {
+                         "subject_id": 342138,
+                         "subject_name": "Public Health"
+                    },
+                    {
+                         "subject_id": 342250,
+                         "subject_name": "Public Officials"
+                    },
+                    {
+                         "subject_id": 342492,
+                         "subject_name": "Religion & Religious Institutions"
+                    },
+                    {
+                         "subject_id": 370290,
+                         "subject_name": "School Buildings & Property"
+                    },
+                    {
+                         "subject_id": 342188,
+                         "subject_name": "Sentencing"
+                    },
+                    {
+                         "subject_id": 342462,
+                         "subject_name": "Sex Offenses"
+                    },
+                    {
+                         "subject_id": 369097,
+                         "subject_name": "Trespassing"
+                    },
+                    {
+                         "subject_id": 347964,
+                         "subject_name": "Victims Rights"
+                    },
+                    {
+                         "subject_id": 342349,
+                         "subject_name": "Weapons"
+                    },
+                    {
+                         "subject_id": 344478,
+                         "subject_name": "Witnesses"
+                    },
+                    {
+                         "subject_id": 342165,
+                         "subject_name": "Women"
+                    },
+                    {
+                         "subject_id": 344682,
+                         "subject_name": "District Attorneys"
+                    },
+                    {
+                         "subject_id": 342531,
+                         "subject_name": "Records"
+                    },
+                    {
+                         "subject_id": 342189,
+                         "subject_name": "Traffic Offenses"
+                    },
+                    {
+                         "subject_id": 348673,
+                         "subject_name": "Dna"
+                    },
+                    {
+                         "subject_id": 342524,
+                         "subject_name": "Public Buildings"
+                    },
+                    {
+                         "subject_id": 350934,
+                         "subject_name": "Property-local Government"
+                    },
+                    {
+                         "subject_id": 345462,
+                         "subject_name": "Forensic Sciences"
+                    },
+                    {
+                         "subject_id": 343991,
+                         "subject_name": "Cash Crops"
+                    },
+                    {
+                         "subject_id": 342253,
+                         "subject_name": "Family Issues"
+                    },
+                    {
+                         "subject_id": 362100,
+                         "subject_name": "Chief Medical Examiner"
+                    },
+                    {
+                         "subject_id": 348961,
+                         "subject_name": "Hemp & Hemp Products"
+                    },
+                    {
+                         "subject_id": 342303,
+                         "subject_name": "District Court"
+                    },
+                    {
+                         "subject_id": 342304,
+                         "subject_name": "Judges"
+                    },
+                    {
+                         "subject_id": 342199,
+                         "subject_name": "Licensing & Certification"
+                    },
+                    {
+                         "subject_id": 342200,
+                         "subject_name": "Occupations"
+                    },
+                    {
+                         "subject_id": 347932,
+                         "subject_name": "State Bar"
+                    },
+                    {
+                         "subject_id": 342548,
+                         "subject_name": "Presented"
+                    },
+                    {
+                         "subject_id": 342549,
+                         "subject_name": "Ratified"
+                    },
+                    {
+                         "subject_id": 342639,
+                         "subject_name": "Chaptered"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3185657,
+                         "date": "2025-03-24",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NC/text/S429/id/3185657",
+                         "state_link": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S429v0.pdf",
+                         "text_size": 216465,
+                         "text_hash": "aaac6cefacd428cc8ce6eff36c2a3d21",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3188421,
+                         "date": "2025-03-25",
+                         "type": "Amended",
+                         "type_id": 3,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NC/text/S429/id/3188421",
+                         "state_link": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S429v1.pdf",
+                         "text_size": 251239,
+                         "text_hash": "a11e289858ea771a3aa9847c0fb3979e",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3214326,
+                         "date": "2025-04-16",
+                         "type": "Amended",
+                         "type_id": 3,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NC/text/S429/id/3214326",
+                         "state_link": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S429v2.pdf",
+                         "text_size": 262259,
+                         "text_hash": "2c7849cc3e7c6f48131516e6a4e077c6",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3256584,
+                         "date": "2025-06-17",
+                         "type": "Amended",
+                         "type_id": 3,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NC/text/S429/id/3256584",
+                         "state_link": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S429v3.pdf",
+                         "text_size": 331121,
+                         "text_hash": "2680ba7a4ae6796e62aab1c2c1c82e85",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3258196,
+                         "date": "2025-06-24",
+                         "type": "Amended",
+                         "type_id": 3,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NC/text/S429/id/3258196",
+                         "state_link": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S429v4.pdf",
+                         "text_size": 307089,
+                         "text_hash": "f12381e86f2e5a4ccd0afd2509e7875a",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3259827,
+                         "date": "2025-06-30",
+                         "type": "Enrolled",
+                         "type_id": 5,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NC/text/S429/id/3259827",
+                         "state_link": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S429v5.pdf",
+                         "text_size": 289816,
+                         "text_hash": "b699f97c72a59aea272ddb6257ac35a9",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3261148,
+                         "date": "2025-07-09",
+                         "type": "Chaptered",
+                         "type_id": 6,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NC/text/S429/id/3261148",
+                         "state_link": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S429v6.pdf",
+                         "text_size": 290326,
+                         "text_hash": "c88b59c3d81d6371d12976982746f621",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [
+                    {
+                         "roll_call_id": 1562391,
+                         "date": "2025-04-30",
+                         "desc": "Amendment 1 Motion 1 To Table",
+                         "yea": 29,
+                         "nay": 17,
+                         "nv": 0,
+                         "absent": 4,
+                         "total": 50,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "url": "https://legiscan.com/NC/rollcall/S429/id/1562391",
+                         "state_link": "https://www.ncleg.gov/Legislation/Votes/RollCallVoteTranscript/2025/S/150"
+                    },
+                    {
+                         "roll_call_id": 1562392,
+                         "date": "2025-04-30",
+                         "desc": "Second Reading",
+                         "yea": 46,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 4,
+                         "total": 50,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "url": "https://legiscan.com/NC/rollcall/S429/id/1562392",
+                         "state_link": "https://www.ncleg.gov/Legislation/Votes/RollCallVoteTranscript/2025/S/151"
+                    },
+                    {
+                         "roll_call_id": 1594999,
+                         "date": "2025-06-25",
+                         "desc": "A1 Morey Second Reading M3 To Lay On The Table",
+                         "yea": 64,
+                         "nay": 49,
+                         "nv": 2,
+                         "absent": 5,
+                         "total": 120,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "url": "https://legiscan.com/NC/rollcall/S429/id/1594999",
+                         "state_link": "https://www.ncleg.gov/Legislation/Votes/RollCallVoteTranscript/2025/H/518"
+                    },
+                    {
+                         "roll_call_id": 1595000,
+                         "date": "2025-06-25",
+                         "desc": "Second Reading",
+                         "yea": 108,
+                         "nay": 6,
+                         "nv": 1,
+                         "absent": 5,
+                         "total": 120,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 75,
+                         "url": "https://legiscan.com/NC/rollcall/S429/id/1595000",
+                         "state_link": "https://www.ncleg.gov/Legislation/Votes/RollCallVoteTranscript/2025/H/519"
+                    },
+                    {
+                         "roll_call_id": 1595448,
+                         "date": "2025-06-26",
+                         "desc": "Motion 9 To Concur",
+                         "yea": 34,
+                         "nay": 7,
+                         "nv": 0,
+                         "absent": 9,
+                         "total": 50,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 76,
+                         "url": "https://legiscan.com/NC/rollcall/S429/id/1595448",
+                         "state_link": "https://www.ncleg.gov/Legislation/Votes/RollCallVoteTranscript/2025/S/417"
+                    }
+               ],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 586603,
+                         "date": "2025-04-28",
+                         "type": "Analysis",
+                         "type_id": 2,
+                         "title": "Analysis",
+                         "description": "Summary S429-SMCE-40(e2)-v-2",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NC/supplement/S429/id/586603",
+                         "state_link": "https://dashboard.ncleg.gov/api/Services/BillSummary/2025/S429-SMCE-40(e2)-v-2",
+                         "supplement_size": 155757,
+                         "supplement_hash": "bdd9e6c0248f6dac4f22e61e82d23a9e",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    },
+                    {
+                         "supplement_id": 610693,
+                         "date": "2025-06-17",
+                         "type": "Analysis",
+                         "type_id": 2,
+                         "title": "Analysis",
+                         "description": "Summary S429-SMCV-74(CSCV-29)-v-7",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NC/supplement/S429/id/610693",
+                         "state_link": "https://dashboard.ncleg.gov/api/Services/BillSummary/2025/S429-SMCV-74(CSCV-29)-v-7",
+                         "supplement_size": 169305,
+                         "supplement_hash": "c92f69b0b05d152707c1d8aa4542e30d",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    },
+                    {
+                         "supplement_id": 612902,
+                         "date": "2025-06-24",
+                         "type": "Analysis",
+                         "type_id": 2,
+                         "title": "Analysis",
+                         "description": "Summary S429-SMCV-76(CSCV-30)-v-9",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NC/supplement/S429/id/612902",
+                         "state_link": "https://dashboard.ncleg.gov/api/Services/BillSummary/2025/S429-SMCV-76(CSCV-30)-v-9",
+                         "supplement_size": 171454,
+                         "supplement_hash": "094c5067963ed8759955d4b0ef6c9983",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    },
+                    {
+                         "supplement_id": 613347,
+                         "date": "2025-06-24",
+                         "type": "Analysis",
+                         "type_id": 2,
+                         "title": "Analysis",
+                         "description": "Summary S429-SMCV-80(e4)-v-1",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NC/supplement/S429/id/613347",
+                         "state_link": "https://dashboard.ncleg.gov/api/Services/BillSummary/2025/S429-SMCV-80(e4)-v-1",
+                         "supplement_size": 170771,
+                         "supplement_hash": "bb608c6b2545c48bdfe2cc3cde0ed2b1",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    },
+                    {
+                         "supplement_id": 617484,
+                         "date": "2025-08-27",
+                         "type": "Analysis",
+                         "type_id": 2,
+                         "title": "Analysis",
+                         "description": "Summary S429-SMCV-82(sl)-v-3",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NC/supplement/S429/id/617484",
+                         "state_link": "https://dashboard.ncleg.gov/api/Services/BillSummary/2025/S429-SMCV-82(sl)-v-3",
+                         "supplement_size": 329427,
+                         "supplement_hash": "6047daafbacdd97d792054accc14eba8",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "367ee88f",
+                         "type": "Hearing",
+                         "date": "2025-04-16",
+                         "time": "11:00",
+                         "location": "544 LOB ",
+                         "description": "Judiciary Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "1ac181e8",
+                         "type": "Hearing",
+                         "date": "2025-04-16",
+                         "time": "11:00",
+                         "location": "544 LOB",
+                         "description": "Judiciary Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "3c10f7d3",
+                         "type": "Hearing",
+                         "date": "2025-04-29",
+                         "time": "09:00",
+                         "location": "1027/1128 LB ",
+                         "description": "Rules and Operations of the Senate Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "ef1bbd68",
+                         "type": "Hearing",
+                         "date": "2025-04-29",
+                         "time": "09:00",
+                         "location": "1027/1128 LB",
+                         "description": "Rules and Operations of the Senate Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "9fe9c69a",
+                         "type": "Hearing",
+                         "date": "2025-06-17",
+                         "time": "13:00",
+                         "location": "421 LOB ",
+                         "description": "Judiciary 2 Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "cff344c2",
+                         "type": "Hearing",
+                         "date": "2025-06-17",
+                         "time": "13:00",
+                         "location": "421 LOB",
+                         "description": "Judiciary 2 Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "a0b8cbe1",
+                         "type": "Hearing",
+                         "date": "2025-06-24",
+                         "time": "14:00",
+                         "location": "Auditorium LB ",
+                         "description": "Rules, Calendar, and Operations of the House Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "249d3a96",
+                         "type": "Hearing",
+                         "date": "2025-06-24",
+                         "time": "14:00",
+                         "location": "Auditorium LB",
+                         "description": "Rules, Calendar, and Operations of the House Hearing"
+                    }
+               ]
+          }
+     }
+}

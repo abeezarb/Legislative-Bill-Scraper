@@ -1,0 +1,51 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+2036176,1587402,2025-06-09,Senate,"Senate: Third reading Passed",38,29,0,0,67
+2036176,1587403,2025-06-09,Senate,"Senate: Urgency declared rules suspended",48,19,0,0,67
+2036176,1588506,2025-06-09,House,"House: Gordon - Amendment - S0003A3",41,87,0,0,128
+2036176,1588507,2025-06-09,House,"House: S.F. NO. 3",105,26,0,0,131
+2036179,1587237,2025-06-09,Senate,"Senate: Third reading Passed",36,31,0,0,67
+2036179,1587238,2025-06-09,Senate,"Senate: Urgency declared rules suspended",47,20,0,0,67
+2036179,1588808,2025-06-09,House,"House: S.F. NO. 1",95,36,0,0,131
+2036183,1587233,2025-06-09,Senate,"Senate: Third reading Passed",46,21,0,0,67
+2036183,1587234,2025-06-09,Senate,"Senate: Urgency declared rules suspended",46,21,0,0,67
+2036183,1588466,2025-06-09,House,"House: S.F. NO. 2",90,41,0,0,131
+2036184,1587916,2025-06-09,Senate,"Senate: Third reading Passed",56,10,0,0,66
+2036184,1587917,2025-06-09,Senate,"Senate: Third reading Passed as amended",58,1,0,0,59
+2036184,1587918,2025-06-09,Senate,"Senate: Urgency declared rules suspended",56,10,0,0,66
+2036184,1588999,2025-06-09,House,"House: S.F. NO. 9",132,0,0,0,132
+2036192,1587564,2025-06-09,Senate,"Senate: Third reading Passed",35,32,0,0,67
+2036192,1587565,2025-06-09,Senate,"Senate: Urgency declared rules suspended",45,20,0,0,65
+2036192,1588770,2025-06-09,House,"House: H.F. NO. 3",96,37,0,0,133
+2036205,1587281,2025-06-09,Senate,"Senate: Third reading Passed",45,21,0,0,66
+2036205,1587282,2025-06-09,Senate,"Senate: Urgency declared rules suspended",45,21,0,0,66
+2036205,1588492,2025-06-09,House,"House: Niska - Amendment - 1SS-H0014A2",62,67,0,0,129
+2036205,1588493,2025-06-09,House,"House: H.F. NO. 14",78,55,0,0,133
+2036206,1587239,2025-06-09,Senate,"Senate: Third reading Passed",48,16,0,0,64
+2036206,1587240,2025-06-09,Senate,"Senate: Urgency declared rules suspended",48,16,0,0,64
+2036206,1588801,2025-06-09,House,"House: Sencer-Mura - Amendment - H0001A3",64,67,0,0,131
+2036206,1588802,2025-06-09,House,"House: H.F. NO. 1",68,65,0,0,133
+2036208,1587414,2025-06-09,Senate,"Senate: Third reading Passed",31,34,0,0,65
+2036208,1587415,2025-06-09,Senate,"Senate: Urgency declared rules suspended",46,20,0,0,66
+2036208,1588602,2025-06-09,House,"House: H.F. NO. 9",93,39,0,0,132
+2036214,1589074,2025-06-09,Senate,"Senate: Adopted",61,3,0,0,64
+2036218,1587492,2025-06-09,Senate,"Senate: Third reading Passed",40,27,0,0,67
+2036218,1587493,2025-06-09,Senate,"Senate: Urgency declared rules suspended",49,18,0,0,67
+2036218,1588696,2025-06-09,House,"House: S.F. NO. 17",96,37,0,0,133
+2036222,1587330,2025-06-09,Senate,"Senate: Third reading Passed",35,32,0,0,67
+2036222,1587331,2025-06-09,Senate,"Senate: Urgency declared rules suspended",45,20,0,0,65
+2036222,1588442,2025-06-09,House,"House: H.F. NO. 5",97,36,0,0,133
+2036224,1587337,2025-06-09,Senate,"Senate: Third reading Passed",34,33,0,0,67
+2036224,1587338,2025-06-09,Senate,"Senate: Urgency declared rules suspended",45,22,0,0,67
+2036224,1588434,2025-06-09,House,"House: H.F. NO. 2",73,58,0,0,131
+2036225,1587277,2025-06-09,Senate,"Senate: Third reading Passed",48,18,0,0,66
+2036225,1587278,2025-06-09,Senate,"Senate: Urgency declared rules suspended",47,20,0,0,67
+2036225,1588596,2025-06-09,House,"House: H.F. NO. 4",112,19,0,0,131
+2036267,1587441,2025-06-09,Senate,"Senate: Third reading Passed",45,21,0,0,66
+2036267,1587442,2025-06-09,Senate,"Senate: Urgency declared rules suspended",45,21,0,0,66
+2036267,1588638,2025-06-09,House,"House: H.F. NO. 17",96,34,0,0,130
+2036279,1587420,2025-06-09,Senate,"Senate: Third reading Passed",50,17,0,0,67
+2036279,1587421,2025-06-09,Senate,"Senate: Urgency declared rules suspended",50,17,0,0,67
+2036279,1588613,2025-06-09,House,"House: H.F. NO. 18",116,15,0,0,131
+2036286,1587406,2025-06-09,Senate,"Senate: Third reading Passed",40,26,0,0,66
+2036286,1587407,2025-06-09,Senate,"Senate: Urgency declared rules suspended",46,19,0,0,65
+2036286,1588462,2025-06-09,House,"House: H.F. NO. 16",85,43,0,0,128

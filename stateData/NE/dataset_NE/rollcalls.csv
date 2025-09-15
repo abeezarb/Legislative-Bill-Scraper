@@ -1,0 +1,948 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1908242,1476106,2025-01-29,Legislature,"Advanced to Enrollment and Review Initial",47,0,1,1,49
+1908242,1496208,2025-02-21,Legislature,"Passed on Final Reading with Emergency Clause 48-0-1",48,0,0,1,49
+1908297,1505941,2025-03-05,Legislature,"Cavanaugh, M. AM516 adopted",35,11,3,0,49
+1908297,1505942,2025-03-05,Legislature,"Health and Human Services AM249 adopted",40,5,4,0,49
+1908297,1506914,2025-03-05,Legislature,"Advanced to Enrollment and Review Initial",25,14,10,0,49
+1908449,1540474,2025-04-08,Legislature,"Lippincott MO158 failed",31,18,0,0,49
+1908470,1477080,2025-01-29,Legislature,"Advanced to Enrollment and Review Initial",47,0,1,1,49
+1908470,1496191,2025-02-21,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+1908493,1480482,2025-02-05,Legislature,"Health and Human Services AM12 adopted",39,0,3,7,49
+1908493,1480483,2025-02-05,Legislature,"Advanced to Enrollment and Review Initial",39,0,3,7,49
+1908493,1507007,2025-03-06,Legislature,"Passed on Final Reading with Emergency Clause 46-0-3",46,0,0,3,49
+1908551,1520760,2025-03-19,Legislature,"Raybould AM646 lost",5,24,17,3,49
+1908551,1520761,2025-03-19,Legislature,"General Affairs AM549 adopted",39,0,7,3,49
+1908551,1520762,2025-03-19,Legislature,"Advanced to Enrollment and Review Initial",41,0,5,3,49
+1908551,1558108,2025-04-25,Legislature,"Passed on Final Reading 34-10-5",34,10,0,5,49
+1908593,1484550,2025-02-10,Legislature,"Health and Human Services AM102 adopted",43,0,3,3,49
+1908593,1484551,2025-02-10,Legislature,"Advanced to Enrollment and Review Initial",43,0,3,3,49
+1908593,1514341,2025-03-11,Legislature,"Dungan AM258 adopted",44,0,3,2,49
+1908593,1514342,2025-03-11,Legislature,"Raybould AM348 adopted",38,0,10,1,49
+1908593,1536663,2025-04-03,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1908629,1476753,2025-01-29,Legislature,"Cavanaugh, J. AM69 adopted",44,0,2,3,49
+1908629,1476754,2025-01-29,Legislature,"Advanced to Enrollment and Review Initial",41,0,5,3,49
+1908629,1496236,2025-02-21,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+1908676,1478329,2025-01-31,Legislature,"Advanced to Enrollment and Review Initial",36,0,8,5,49
+1908676,1507006,2025-03-06,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1908696,1501018,2025-02-27,Legislature,"DeKay AM310 adopted",43,0,3,3,49
+1908696,1501019,2025-02-27,Legislature,"Agriculture AM77 adopted",44,0,4,1,49
+1908696,1501020,2025-02-27,Legislature,"Advanced to Enrollment and Review Initial",43,0,5,1,49
+1908696,1535715,2025-04-03,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1908740,1476112,2025-01-29,Legislature,"Natural Resources AM48 adopted",41,0,5,3,49
+1908740,1476113,2025-01-29,Legislature,"Advanced to Enrollment and Review Initial",41,0,5,3,49
+1908760,1546868,2025-04-14,Legislature,"Judiciary AM801 adopted",38,0,6,5,49
+1908760,1547558,2025-04-14,Legislature,"Advanced to Enrollment and Review Initial",35,1,8,5,49
+1908760,1571341,2025-05-14,Legislature,"Passed on Final Reading 46-3-0",46,3,0,0,49
+1908794,1477287,2025-01-30,Legislature,"Advanced to Enrollment and Review Initial",41,0,4,4,49
+1908794,1496199,2025-02-21,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+1908849,1497385,2025-02-24,Legislature,"Conrad AM358 lost",16,27,4,2,49
+1908876,1521117,2025-03-19,Legislature,"Guereca AM737 adopted",33,2,8,6,49
+1908876,1521118,2025-03-19,Legislature,"Advanced to Enrollment and Review Initial",43,0,3,3,49
+1908876,1541649,2025-04-09,Legislature,"Bostar AM784 adopted",39,0,9,1,49
+1908876,1571304,2025-05-14,Legislature,"Passed on Final Reading 49-0-0",49,0,0,0,49
+1908945,1568867,2025-05-09,Legislature,"Bostar AM1261 adopted",31,0,18,0,49
+1908945,1568868,2025-05-09,Legislature,"Banking, Commerce and Insurance AM1187 adopted",32,0,17,0,49
+1908945,1568869,2025-05-09,Legislature,"Advanced to Enrollment and Review Initial",37,0,12,0,49
+1908945,1582030,2025-05-30,Legislature,"Passed on Final Reading 46-2-1",46,2,0,1,49
+1908957,1477096,2025-01-30,Legislature,"Natural Resources AM17 adopted",39,0,7,3,49
+1908957,1477097,2025-01-30,Legislature,"Advanced to Enrollment and Review Initial",42,0,4,3,49
+1908957,1483899,2025-02-07,Legislature,"Jacobson AM141 adopted",34,0,11,4,49
+1908957,1496151,2025-02-21,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+1909004,1477297,2025-01-30,Legislature,"Advanced to Enrollment and Review Initial",39,0,7,3,49
+1909004,1483922,2025-02-07,Legislature,"Advanced to Enrollment and Review for Engrossment",32,1,12,4,49
+1909004,1496141,2025-02-21,Legislature,"Passed on Final Reading 47-1-1",47,1,0,1,49
+1909017,1542616,2025-04-09,Legislature,"Prokop AM930 adopted",41,0,8,0,49
+1909017,1542617,2025-04-09,Legislature,"Natural Resources AM635 adopted",37,0,12,0,49
+1909017,1542618,2025-04-09,Legislature,"Advanced to Enrollment and Review Initial",38,0,11,0,49
+1909017,1556212,2025-04-23,Legislature,"Brandt AM998 adopted",36,0,11,2,49
+1909017,1571374,2025-05-14,Legislature,"Passed on Final Reading 43-6-0",43,6,0,0,49
+1909029,1482227,2025-02-05,Legislature,"Advanced to Enrollment and Review Initial",40,0,1,8,49
+1909029,1507904,2025-03-06,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1909052,1485133,2025-02-10,Legislature,"Health and Human Services AM62 adopted",43,0,3,3,49
+1909052,1485134,2025-02-10,Legislature,"Advanced to Enrollment and Review Initial",46,0,0,3,49
+1909052,1522443,2025-03-20,Legislature,"Returned to Select File for specific amendment",44,0,1,4,49
+1909052,1522444,2025-03-20,Legislature,"Riepe AM637 adopted",44,0,1,4,49
+1909052,1535960,2025-04-03,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1909090,1477444,2025-01-30,Legislature,"Natural Resources AM43 adopted",41,0,5,3,49
+1909090,1477445,2025-01-30,Legislature,"Advanced to Enrollment and Review Initial",39,0,7,3,49
+1909090,1489200,2025-02-13,Legislature,"DeKay AM215 adopted",39,0,4,6,49
+1909090,1496182,2025-02-21,Legislature,"Passed on Final Reading with Emergency Clause 48-0-1",48,0,0,1,49
+1909101,1563317,2025-05-01,Legislature,"Government, Military and Veterans Affairs AM895 adopted",38,0,8,3,49
+1909101,1563318,2025-05-01,Legislature,"Advanced to Enrollment and Review Initial",40,0,6,3,49
+1909101,1571958,2025-05-15,Legislature,"Passed on Final Reading 45-3-1",45,3,0,1,49
+1909149,1563898,2025-05-01,Legislature,"Advanced to Enrollment and Review Initial",38,0,10,1,49
+1909149,1582146,2025-05-30,Legislature,"Passed on Final Reading 45-3-1",45,3,0,1,49
+1909162,1494623,2025-02-20,Legislature,"Advanced to Enrollment and Review Initial",29,13,2,5,49
+1909162,1512920,2025-03-11,Legislature,"Advanced to Enrollment and Review for Engrossment",27,18,4,0,49
+1909197,1564091,2025-05-01,Legislature,"Government, Military and Veterans Affairs AM254 adopted",38,0,10,1,49
+1909197,1564092,2025-05-01,Legislature,"Advanced to Enrollment and Review Initial",38,0,10,1,49
+1909197,1571214,2025-05-14,Legislature,"Passed on Final Reading 47-2-0",47,2,0,0,49
+1909246,1476850,2025-01-29,Legislature,"Advanced to Enrollment and Review Initial",42,0,4,3,49
+1909246,1496186,2025-02-21,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+1909320,1482313,2025-02-05,Legislature,"Government, Military and Veterans Affairs AM13 adopted",37,0,7,5,49
+1909320,1482314,2025-02-05,Legislature,"Advanced to Enrollment and Review Initial",35,0,9,5,49
+1909320,1507010,2025-03-06,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1909343,1477769,2025-01-30,Legislature,"Advanced to Enrollment and Review Initial",38,0,7,4,49
+1909343,1483998,2025-02-07,Legislature,"Advanced to Enrollment and Review for Engrossment",29,1,15,4,49
+1909343,1496248,2025-02-21,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+1909354,1535928,2025-04-03,Legislature,"Health and Human Services AM680 adopted",29,8,10,2,49
+1909354,1535929,2025-04-03,Legislature,"Failed to advance to Enrollment and Review Initial",22,14,11,2,49
+1909354,1568362,2025-05-08,Legislature,"Advanced to Enrollment and Review Initial",30,7,9,3,49
+1909354,1571336,2025-05-14,Legislature,"Advanced to Enrollment and Review for Engrossment",30,13,4,2,49
+1909354,1580580,2025-05-28,Legislature,"Returned to Select File for specific amendment",35,0,13,1,49
+1909354,1580581,2025-05-28,Legislature,"McKinney AM1465 adopted",31,1,16,1,49
+1909354,1580582,2025-05-28,Legislature,"Returned to Select File for specific amendment",32,0,16,1,49
+1909354,1580583,2025-05-28,Legislature,"McKinney FA329 adopted",35,0,13,1,49
+1909354,1582058,2025-05-30,Legislature,"Failed on Final Reading with Emergency Clause 26-22-1",26,22,0,1,49
+1909354,1582059,2025-05-30,Legislature,"Passed on Final Reading 27-21-1",27,21,0,1,49
+1910260,1516959,2025-03-13,Legislature,"Dover FA33 adopted",26,0,22,1,49
+1910260,1516960,2025-03-13,Legislature,"von Gillern AM507 adopted",30,5,13,1,49
+1910260,1516961,2025-03-13,Legislature,"Transportation and Telecommunications AM292 adopted",37,0,11,1,49
+1910260,1516962,2025-03-13,Legislature,"Advanced to Enrollment and Review Initial",38,0,10,1,49
+1910260,1543239,2025-04-10,Legislature,"Passed on Final Reading with Emergency Clause 46-0-3",46,0,0,3,49
+1910328,1477865,2025-01-30,Legislature,"Advanced to Enrollment and Review Initial",42,0,4,3,49
+1910328,1496207,2025-02-21,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+1910349,1557962,2025-04-25,Legislature,"Advanced to Enrollment and Review Initial",40,0,2,7,49
+1910349,1568831,2025-05-09,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+1910395,1553973,2025-04-22,Legislature,"Hunt MO185 failed",15,32,2,0,49
+1910395,1553974,2025-04-22,Legislature,"Hunt MO5 failed",16,33,0,0,49
+1910395,1553975,2025-04-22,Legislature,"Government, Military and Veterans Affairs AM701 adopted",33,11,5,0,49
+1910395,1553976,2025-04-22,Legislature,"Kauth MO193 prevailed",33,16,0,0,49
+1910395,1553977,2025-04-22,Legislature,"Advanced to Enrollment and Review Initial",33,16,0,0,49
+1910395,1555014,2025-04-22,Legislature,"Hunt MO4 failed",15,33,1,0,49
+1910395,1571405,2025-05-14,Legislature,"Riepe AM1138 adopted",34,8,6,1,49
+1910395,1571406,2025-05-14,Legislature,"Kauth MO258 prevailed",33,14,2,0,49
+1910395,1571407,2025-05-14,Legislature,"Cavanaugh, J. MO257 failed",13,33,3,0,49
+1910395,1571408,2025-05-14,Legislature,"Cavanaugh, M. FA240 lost",15,33,1,0,49
+1910395,1571409,2025-05-14,Legislature,"Dungan FA239 lost",15,33,1,0,49
+1910395,1571410,2025-05-14,Legislature,"Advanced to Enrollment and Review for Engrossment",33,15,1,0,49
+1910395,1580667,2025-05-28,Legislature,"Kauth MO328 prevailed",33,16,0,0,49
+1910395,1580668,2025-05-28,Legislature,"Hunt MO192 failed",16,33,0,0,49
+1910395,1580669,2025-05-28,Legislature,"Passed on Final Reading 33-16-0",33,16,0,0,49
+1910417,1484055,2025-02-07,Legislature,"Advanced to Enrollment and Review Initial",33,0,13,3,49
+1910417,1507154,2025-03-06,Legislature,"Passed on Final Reading with Emergency Clause 47-0-2",47,0,0,2,49
+1910488,1477596,2025-01-30,Legislature,"Advanced to Enrollment and Review Initial",40,0,6,3,49
+1910488,1496149,2025-02-21,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+1910665,1515870,2025-03-12,Legislature,"Advanced to Enrollment and Review Initial",32,0,16,1,49
+1910665,1543876,2025-04-10,Legislature,"Passed on Final Reading 46-0-3",46,0,0,3,49
+1910774,1564405,2025-05-01,Legislature,"Transportation and Telecommunications AM247 adopted",37,0,8,4,49
+1910774,1564406,2025-05-01,Legislature,"Advanced to Enrollment and Review Initial",38,0,7,4,49
+1910774,1572006,2025-05-15,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1910949,1476505,2025-01-29,Legislature,"Advanced to Enrollment and Review Initial",41,0,5,3,49
+1910949,1496161,2025-02-21,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+1911053,1484038,2025-02-07,Legislature,"Hardin FA17 adopted",41,0,5,3,49
+1911053,1484039,2025-02-07,Legislature,"Hardin AM179 adopted",43,0,3,3,49
+1911053,1484040,2025-02-07,Legislature,"Advanced to Enrollment and Review Initial",43,0,3,3,49
+1911053,1507136,2025-03-06,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1911192,1476302,2025-01-29,Legislature,"Advanced to Enrollment and Review Initial",36,1,9,3,49
+1911192,1483999,2025-02-07,Legislature,"Conrad AM192 adopted",37,0,6,6,49
+1911192,1484000,2025-02-07,Legislature,"Conrad AM197 adopted",36,0,9,4,49
+1911192,1484001,2025-02-07,Legislature,"Advanced to Enrollment and Review for Engrossment",32,1,12,4,49
+1911192,1522602,2025-03-20,Legislature,"Passed on Final Reading 43-2-4",43,2,0,4,49
+1911227,1509016,2025-03-10,Legislature,"Advanced to Enrollment and Review Initial",38,0,10,1,49
+1911227,1535630,2025-04-03,Legislature,"Passed on Final Reading with Emergency Clause 46-1-2",46,1,0,2,49
+1911368,1496235,2025-02-21,Legislature,"Advanced to Enrollment and Review Initial",37,0,11,1,49
+1911368,1513825,2025-03-11,Legislature,"Sanders AM407 adopted",29,0,20,0,49
+1911368,1522291,2025-03-20,Legislature,"Passed on Final Reading 45-0-4",45,0,0,4,49
+1911473,1504395,2025-03-04,Legislature,"General Affairs AM232 adopted",36,3,8,2,49
+1911473,1504396,2025-03-04,Legislature,"Raybould FA27 lost",12,30,6,1,49
+1911473,1504397,2025-03-04,Legislature,"Cavanaugh, M. MO60 prevailed",43,0,5,1,49
+1911473,1504398,2025-03-04,Legislature,"Raybould FA27 lost",10,33,5,1,49
+1911473,1504399,2025-03-04,Legislature,"Advanced to Enrollment and Review Initial",36,5,7,1,49
+1911473,1530864,2025-03-31,Legislature,"Raybould MO143 failed",1,26,18,4,49
+1911473,1530865,2025-03-31,Legislature,"Raybould AM811 lost",1,33,12,3,49
+1911473,1530866,2025-03-31,Legislature,"Clements AM624 lost",10,25,11,3,49
+1911473,1530867,2025-03-31,Legislature,"Dover AM843 adopted",35,0,12,2,49
+1911473,1530868,2025-03-31,Legislature,"Holdcroft AM851 adopted",40,1,7,1,49
+1911473,1530869,2025-03-31,Legislature,"Advanced to Enrollment and Review for Engrossment",33,2,13,1,49
+1911473,1543896,2025-04-10,Legislature,"Passed on Final Reading 33-13-3",33,13,0,3,49
+1911817,1478308,2025-01-31,Legislature,"Advanced to Enrollment and Review Initial",35,0,9,5,49
+1911817,1496280,2025-02-21,Legislature,"Passed on Final Reading with Emergency Clause 48-0-1",48,0,0,1,49
+1915272,1503097,2025-03-03,Legislature,"Advanced to Enrollment and Review Initial",44,0,1,4,49
+1915272,1503463,2025-03-03,Legislature,"Education AM203 adopted",42,0,3,4,49
+1915272,1571106,2025-05-14,Legislature,"Passed on Final Reading with Emergency Clause 48-1-0",48,1,0,0,49
+1915310,1477724,2025-01-30,Legislature,"Advanced to Enrollment and Review Initial",40,0,5,4,49
+1915310,1496211,2025-02-21,Legislature,"Passed on Final Reading with Emergency Clause 47-1-1",47,1,0,1,49
+1915325,1482317,2025-02-05,Legislature,"Advanced to Enrollment and Review Initial",43,0,1,5,49
+1915325,1507466,2025-03-06,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+1915344,1504254,2025-03-04,Legislature,"General Affairs AM87 adopted",35,0,13,1,49
+1915344,1504255,2025-03-04,Legislature,"Advanced to Enrollment and Review Initial",35,0,13,1,49
+1915344,1582142,2025-05-30,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+1915364,1484047,2025-02-07,Legislature,"Advanced to Enrollment and Review Initial",35,0,11,3,49
+1915364,1498548,2025-02-25,Legislature,"Rountree AM391 adopted",43,0,4,2,49
+1915364,1543837,2025-04-10,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1915403,1477872,2025-01-30,Legislature,"Advanced to Enrollment and Review Initial",37,0,8,4,49
+1915403,1484002,2025-02-07,Legislature,"Bostar AM106 adopted",37,1,7,4,49
+1915403,1484003,2025-02-07,Legislature,"Advanced to Enrollment and Review for Engrossment",36,1,8,4,49
+1915403,1496437,2025-02-21,Legislature,"Passed on Final Reading 46-2-1",46,2,0,1,49
+1915429,1501010,2025-02-27,Legislature,"Judiciary AM75 adopted",38,0,4,7,49
+1915429,1501011,2025-02-27,Legislature,"Advanced to Enrollment and Review Initial",38,0,5,6,49
+1915429,1535686,2025-04-03,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1915446,1476656,2025-01-29,Legislature,"Advanced to Enrollment and Review Initial",44,0,3,2,49
+1915446,1496190,2025-02-21,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1915466,1482333,2025-02-05,Legislature,"Advanced to Enrollment and Review Initial",40,0,3,6,49
+1915466,1507917,2025-03-06,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+1915571,1484557,2025-02-10,Legislature,"Riepe AM189 adopted",43,0,2,4,49
+1915571,1484558,2025-02-10,Legislature,"Health and Human Services AM124 adopted",41,0,4,4,49
+1915571,1484559,2025-02-10,Legislature,"Advanced to Enrollment and Review Initial",39,0,6,4,49
+1915571,1498554,2025-02-25,Legislature,"Riepe AM264 adopted",42,0,5,2,49
+1915571,1507302,2025-03-06,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+1915593,1504262,2025-03-04,Legislature,"General Affairs AM199 adopted",30,6,12,1,49
+1915593,1504263,2025-03-04,Legislature,"Failed to advance to Enrollment and Review Initial",9,26,13,1,49
+1915609,1501017,2025-02-27,Legislature,"Advanced to Enrollment and Review Initial",37,0,11,1,49
+1915609,1514388,2025-03-11,Legislature,"Juarez AM592 adopted",30,0,19,0,49
+1915609,1536499,2025-04-03,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1915629,1489051,2025-02-13,Legislature,"Hardin MO34 prevailed",37,0,3,9,49
+1915639,1503340,2025-03-03,Legislature,"Business and Labor AM175 adopted",40,1,4,4,49
+1915639,1503341,2025-03-03,Legislature,"Advanced to Enrollment and Review Initial",39,0,6,4,49
+1915639,1535903,2025-04-03,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1915650,1562316,2025-04-29,Legislature,"Government, Military and Veterans Affairs AM612 adopted",37,0,12,0,49
+1915650,1562317,2025-04-29,Legislature,"Advanced to Enrollment and Review Initial",39,0,10,0,49
+1915650,1571215,2025-05-14,Legislature,"Passed on Final Reading 48-1-0",48,1,0,0,49
+1915678,1542183,2025-04-09,Legislature,"Judiciary AM251 adopted",40,0,7,2,49
+1915678,1542184,2025-04-09,Legislature,"Advanced to Enrollment and Review Initial",33,2,12,2,49
+1915678,1571034,2025-05-14,Legislature,"Passed on Final Reading with Emergency Clause 42-7-0",42,7,0,0,49
+1915696,1507312,2025-03-06,Legislature,"Passed on Final Reading with Emergency Clause 48-0-1",48,0,0,1,49
+1915707,1558042,2025-04-25,Legislature,"Government, Military and Veterans Affairs AM308 adopted",40,0,2,7,49
+1915707,1558043,2025-04-25,Legislature,"Advanced to Enrollment and Review Initial",41,0,1,7,49
+1915707,1568870,2025-05-09,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1915765,1498890,2025-02-25,Legislature,"Advanced to Enrollment and Review Initial",39,0,8,2,49
+1915765,1535820,2025-04-03,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1915790,1505913,2025-03-05,Legislature,"Cavanaugh, M. MO59 failed",0,37,4,8,49
+1915790,1505914,2025-03-05,Legislature,"Banking, Commerce and Insurance AM225 adopted",42,0,3,4,49
+1915790,1505915,2025-03-05,Legislature,"Advanced to Enrollment and Review Initial",41,0,4,4,49
+1915790,1535647,2025-04-03,Legislature,"Passed on Final Reading with Emergency Clause 42-5-2",42,5,0,2,49
+1915818,1573061,2025-05-19,Legislature,"Cavanaugh, M. MO116 failed",4,28,13,4,49
+1915818,1573062,2025-05-19,Legislature,"Dungan MO260 failed",7,35,3,4,49
+1915818,1573352,2025-05-19,Legislature,"Cavanaugh, M. MO114 failed",4,32,10,3,49
+1915818,1573353,2025-05-19,Legislature,"Dungan MO267 failed",10,32,3,4,49
+1915818,1573354,2025-05-19,Legislature,"Cavanaugh, M. MO115 failed",5,31,10,3,49
+1915818,1573355,2025-05-19,Legislature,"Dungan MO271 failed",8,32,6,3,49
+1915818,1573356,2025-05-19,Legislature,"Brandt MO275 failed",30,15,2,2,49
+1915818,1573828,2025-05-19,Legislature,"Brandt MO273 prevailed",33,8,6,2,49
+1915827,1515678,2025-03-12,Legislature,"Government, Military and Veterans Affairs AM99 adopted",30,4,13,2,49
+1915827,1515679,2025-03-12,Legislature,"Holdcroft AM477 adopted",30,3,14,2,49
+1915827,1515680,2025-03-12,Legislature,"Advanced to Enrollment and Review Initial",27,9,11,2,49
+1915827,1529849,2025-03-28,Legislature,"Holdcroft AM779 adopted",33,0,13,3,49
+1915827,1529850,2025-03-28,Legislature,"Failed to advance to Enrollment and Review for Engrossment",16,16,14,3,49
+1915859,1535246,2025-04-02,Legislature,"Advanced to Enrollment and Review Initial",33,0,13,3,49
+1915859,1555872,2025-04-23,Legislature,"Andersen AM1131 lost",22,14,11,2,49
+1915859,1555873,2025-04-23,Legislature,"Advanced to Enrollment and Review for Engrossment",29,9,9,2,49
+1915859,1571818,2025-05-14,Legislature,"Returned to Select File for specific amendment",26,16,6,1,49
+1915859,1571819,2025-05-14,Legislature,"Andersen AM1225 adopted",28,14,5,2,49
+1915859,1579944,2025-05-28,Legislature,"Passed on Final Reading 41-8-0",41,8,0,0,49
+1915866,1488748,2025-02-13,Legislature,"Hardin MO33 prevailed",37,0,3,9,49
+1915881,1574804,2025-05-20,Legislature,"Holdcroft AM1421 adopted",40,0,8,1,49
+1915881,1574805,2025-05-20,Legislature,"Guereca AM1491 adopted",44,0,4,1,49
+1915881,1574806,2025-05-20,Legislature,"Hallstrom AM1536 adopted",41,0,7,1,49
+1915881,1574807,2025-05-20,Legislature,"Dungan AM1485 adopted",46,0,2,1,49
+1915881,1574808,2025-05-20,Legislature,"Judiciary AM1370 adopted",42,0,6,1,49
+1915881,1574809,2025-05-20,Legislature,"Advanced to Enrollment and Review Initial",40,2,6,1,49
+1915881,1579540,2025-05-28,Legislature,"Bosn AM1617 adopted",39,0,7,3,49
+1915881,1579541,2025-05-28,Legislature,"Advanced to Enrollment and Review for Engrossment",37,0,9,3,49
+1915881,1582017,2025-05-30,Legislature,"Passed on Final Reading with Emergency Clause 43-5-1",43,5,0,1,49
+1917027,1478237,2025-01-31,Legislature,"Advanced to Enrollment and Review Initial",39,0,3,7,49
+1917027,1496170,2025-02-21,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1917091,1478050,2025-01-31,Legislature,"Advanced to Enrollment and Review Initial",39,0,5,5,49
+1917091,1507452,2025-03-06,Legislature,"Passed on Final Reading 47-0-2",47,0,1,1,49
+1917125,1486264,2025-02-11,Legislature,"Advanced to Enrollment and Review Initial",39,0,4,6,49
+1917125,1507213,2025-03-06,Legislature,"Passed on Final Reading with Emergency Clause 48-0-1",48,0,0,1,49
+1917189,1500024,2025-02-26,Legislature,"Bosn AM240 adopted",42,0,4,3,49
+1917189,1500025,2025-02-26,Legislature,"Judiciary AM135 adopted",43,0,3,3,49
+1917189,1500026,2025-02-26,Legislature,"Advanced to Enrollment and Review Initial",44,0,2,3,49
+1917189,1535906,2025-04-03,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1917295,1480046,2025-02-04,Legislature,"Advanced to Enrollment and Review Initial",33,12,2,2,49
+1917295,1492983,2025-02-19,Legislature,"Hallstrom MO41 prevailed",33,16,0,0,49
+1917295,1492984,2025-02-19,Legislature,"Conrad MO35 failed",14,34,1,0,49
+1917295,1492985,2025-02-19,Legislature,"Hallstrom AM112 adopted",32,16,1,0,49
+1917295,1492986,2025-02-19,Legislature,"Advanced to Enrollment and Review for Engrossment",33,16,0,0,49
+1917295,1509008,2025-03-10,Legislature,"Passed on Final Reading 33-15-1",33,15,0,1,49
+1917341,1563381,2025-05-01,Legislature,"Jacobson AM1229 adopted",36,0,11,2,49
+1917341,1563382,2025-05-01,Legislature,"Banking, Commerce and Insurance AM1201 adopted",37,0,10,2,49
+1917341,1563383,2025-05-01,Legislature,"Advanced to Enrollment and Review Initial",39,0,8,2,49
+1917341,1571159,2025-05-14,Legislature,"Passed on Final Reading 49-0-0",49,0,0,0,49
+1917381,1485494,2025-02-10,Legislature,"Advanced to Enrollment and Review Initial",43,0,2,4,49
+1917381,1507014,2025-03-06,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+1917501,1480782,2025-02-05,Legislature,"Banking, Commerce and Insurance AM30 adopted",39,0,4,6,49
+1917501,1480783,2025-02-05,Legislature,"Advanced to Enrollment and Review Initial",38,0,5,6,49
+1917501,1493684,2025-02-19,Legislature,"Hallstrom AM216 adopted",31,0,17,1,49
+1917501,1507041,2025-03-06,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+1917540,1487705,2025-02-12,Legislature,"Conrad AM246 lost",14,30,2,3,49
+1917540,1487706,2025-02-12,Legislature,"Advanced to Enrollment and Review Initial",33,9,5,2,49
+1917540,1502185,2025-02-28,Legislature,"Cavanaugh, J. AM474 lost",9,26,7,7,49
+1917540,1502342,2025-02-28,Legislature,"Cavanaugh, M. MO55 failed",7,28,6,8,49
+1917540,1502343,2025-02-28,Legislature,"Advanced to Enrollment and Review for Engrossment",29,9,3,8,49
+1917540,1516824,2025-03-13,Legislature,"Passed on Final Reading 36-10-3",36,10,1,2,49
+1917554,1501178,2025-02-27,Legislature,"Hallstrom AM381 adopted",38,0,9,2,49
+1917554,1501179,2025-02-27,Legislature,"Judiciary AM55 adopted",39,0,8,2,49
+1917554,1501180,2025-02-27,Legislature,"Advanced to Enrollment and Review Initial",39,0,8,2,49
+1917554,1519373,2025-03-18,Legislature,"Cavanaugh, J. MO93 failed",4,36,4,5,49
+1917554,1519374,2025-03-18,Legislature,"Hallstrom AM597 adopted",37,0,9,3,49
+1917554,1519375,2025-03-18,Legislature,"DeKay AM689 adopted",33,0,13,3,49
+1917554,1519376,2025-03-18,Legislature,"Riepe AM577 adopted",28,0,19,2,49
+1917554,1571323,2025-05-14,Legislature,"Passed on Final Reading with Emergency Clause 49-0-0",49,0,0,0,49
+1917565,1569153,2025-05-09,Legislature,"Fredrickson AM1031 adopted",33,0,16,0,49
+1917565,1569154,2025-05-09,Legislature,"Advanced to Enrollment and Review Initial",36,0,13,0,49
+1917565,1581089,2025-05-29,Legislature,"Passed on Final Reading 47-1-1",47,1,0,1,49
+1917590,1476273,2025-01-29,Legislature,"Advanced to Enrollment and Review Initial",45,0,2,2,49
+1917590,1496252,2025-02-21,Legislature,"Passed on Final Reading with Emergency Clause 47-0-2",47,0,0,2,49
+1917626,1558073,2025-04-25,Legislature,"Judiciary AM556 lost",21,13,10,5,49
+1917626,1558074,2025-04-25,Legislature,"Cavanaugh, M. MO207 prevailed",29,13,4,3,49
+1917626,1558075,2025-04-25,Legislature,"Judiciary AM556 adopted",31,9,6,3,49
+1917626,1558076,2025-04-25,Legislature,"Advanced to Enrollment and Review Initial",25,14,7,3,49
+1917694,1480673,2025-02-05,Legislature,"Banking, Commerce and Insurance AM58 adopted",40,0,6,3,49
+1917694,1480674,2025-02-05,Legislature,"Advanced to Enrollment and Review Initial",43,0,3,3,49
+1917694,1498574,2025-02-25,Legislature,"Jacobson AM256 adopted",38,0,9,2,49
+1917694,1507272,2025-03-06,Legislature,"Passed on Final Reading 47-0-2",47,0,1,1,49
+1917882,1532181,2025-04-01,Legislature,"Conrad MO7 failed",12,34,1,2,49
+1917882,1532182,2025-04-01,Legislature,"Conrad MO145 failed",15,33,0,1,49
+1917882,1533277,2025-04-01,Legislature,"Raybould MO150 prevailed",33,16,0,0,49
+1917882,1533278,2025-04-01,Legislature,"Conrad MO9 failed",15,34,0,0,49
+1917882,1533279,2025-04-01,Legislature,"Business and Labor AM272 adopted",33,9,7,0,49
+1917882,1533280,2025-04-01,Legislature,"Advanced to Enrollment and Review Initial",32,17,0,0,49
+1917882,1561851,2025-04-30,Legislature,"Conrad MO146 failed",11,33,4,1,49
+1917882,1561852,2025-04-30,Legislature,"Conrad MO217 failed",14,32,1,2,49
+1917882,1562542,2025-04-30,Legislature,"Conrad MO147 failed",12,33,3,1,49
+1917882,1562543,2025-04-30,Legislature,"Conrad MO218 failed",14,33,2,0,49
+1917882,1562544,2025-04-30,Legislature,"Raybould MO222 prevailed",33,16,0,0,49
+1917882,1562545,2025-04-30,Legislature,"Raybould AM1254 adopted",34,11,4,0,49
+1917882,1562546,2025-04-30,Legislature,"Advanced to Enrollment and Review for Engrossment",33,16,0,0,49
+1917882,1571011,2025-05-14,Legislature,"Passed on Final Reading 31-17-1",31,17,0,1,49
+1917882,1575776,2025-05-22,Legislature,"Ballard MO256 prevailed",33,16,0,0,49
+1918024,1494108,2025-02-19,Legislature,"Advanced to Enrollment and Review Initial",32,1,14,2,49
+1918024,1519404,2025-03-13,Legislature,"Passed on Final Reading with Emergency Clause 44-2-3",44,3,0,2,49
+1918116,1530870,2025-03-31,Legislature,"Quick AM850 adopted",42,0,7,0,49
+1918116,1530871,2025-03-31,Legislature,"Hansen AM866 adopted",43,0,6,0,49
+1918116,1530872,2025-03-31,Legislature,"Advanced to Enrollment and Review Initial",43,0,6,0,49
+1918116,1555370,2025-04-23,Legislature,"Hunt AM947 adopted",31,6,9,3,49
+1918116,1571400,2025-05-14,Legislature,"Passed on Final Reading 46-3-0",46,3,0,0,49
+1918212,1482325,2025-02-05,Legislature,"Advanced to Enrollment and Review Initial",41,0,4,4,49
+1918212,1507056,2025-03-06,Legislature,"Passed on Final Reading with Emergency Clause 47-0-2",47,0,1,1,49
+1918256,1517975,2025-03-14,Legislature,"Cavanaugh, M. MO72 failed",1,32,2,14,49
+1918256,1517976,2025-03-14,Legislature,"Agriculture AM501 adopted",39,0,7,3,49
+1918256,1517977,2025-03-14,Legislature,"Advanced to Enrollment and Review Initial",43,0,4,2,49
+1918256,1542627,2025-04-09,Legislature,"DeKay AM759 adopted",31,0,17,1,49
+1918256,1557994,2025-04-25,Legislature,"Passed on Final Reading with Emergency Clause 38-7-4",38,7,0,4,49
+1918302,1530878,2025-03-31,Legislature,"Agriculture AM226 adopted",33,1,15,0,49
+1918302,1530879,2025-03-31,Legislature,"Advanced to Enrollment and Review Initial",33,4,12,0,49
+1918302,1553387,2025-04-22,Legislature,"Conrad AM882 lost",12,24,10,3,49
+1918302,1557948,2025-04-25,Legislature,"DeKay MO199 prevailed",39,0,5,5,49
+1918302,1571368,2025-05-14,Legislature,"Passed on Final Reading 38-11-0",38,11,0,0,49
+1918443,1509052,2025-03-10,Legislature,"Advanced to Enrollment and Review Initial",42,0,6,1,49
+1918443,1535760,2025-04-03,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1919361,1556812,2025-04-24,Legislature,"Hunt AM1126 adopted",32,0,15,2,49
+1919361,1557416,2025-04-24,Legislature,"Advanced to Enrollment and Review Initial",34,0,13,2,49
+1919361,1582277,2025-05-30,Legislature,"Passed on Final Reading 29-19-1",29,19,0,1,49
+1919456,1495210,2025-02-20,Legislature,"Conrad AM265 adopted",36,0,3,10,49
+1919456,1495211,2025-02-20,Legislature,"Advanced to Enrollment and Review Initial",37,0,3,9,49
+1919456,1581786,2025-05-29,Legislature,"Conrad AM1643 adopted",42,0,7,0,49
+1919456,1581787,2025-05-29,Legislature,"Cavanaugh, M. AM1645 lost",11,31,7,0,49
+1919456,1581788,2025-05-29,Legislature,"Sorrentino AM900 adopted",43,2,3,1,49
+1919456,1583230,2025-06-02,Legislature,"Passed on Final Reading with Emergency Clause 44-5-0",44,5,0,0,49
+1919534,1568006,2025-05-07,Legislature,"Appropriations AM834 adopted",41,0,4,4,49
+1919534,1568007,2025-05-07,Legislature,"Advanced to Enrollment and Review Initial",38,0,7,4,49
+1919534,1572062,2025-05-15,Legislature,"Passed on Final Reading with Emergency Clause 42-7-0",42,7,0,0,49
+1919656,1566842,2025-05-06,Legislature,"Raybould AM1245 lost",5,24,13,7,49
+1919656,1567411,2025-05-07,Legislature,"Clements AM1300 adopted",32,2,11,4,49
+1919656,1567412,2025-05-07,Legislature,"Hughes AM1298 adopted",34,0,14,1,49
+1919656,1567413,2025-05-07,Legislature,"Speaker Arch MO231 prevailed",34,6,8,1,49
+1919656,1567414,2025-05-07,Legislature,"Dungan AM1328 lost",17,27,4,1,49
+1919656,1567415,2025-05-07,Legislature,"Appropriations AM835 adopted",34,7,7,1,49
+1919656,1567416,2025-05-07,Legislature,"Advanced to Enrollment and Review Initial",34,6,8,1,49
+1919656,1569709,2025-05-12,Legislature,"Clements AM1396 adopted",27,12,9,1,49
+1919656,1569710,2025-05-12,Legislature,"Bosn AM1389 adopted",36,0,12,1,49
+1919656,1569711,2025-05-12,Legislature,"Hallstrom AM1402 adopted",26,5,17,1,49
+1919656,1569712,2025-05-12,Legislature,"Clements AM1428 adopted",29,1,18,1,49
+1919656,1569713,2025-05-12,Legislature,"Sanders AM1403 adopted",36,0,12,1,49
+1919656,1569714,2025-05-12,Legislature,"Conrad AM1401 lost",13,22,12,2,49
+1919656,1569715,2025-05-12,Legislature,"McKinney AM1427 lost",15,32,0,2,49
+1919656,1569716,2025-05-12,Legislature,"Speaker Arch MO245 prevailed",35,8,5,1,49
+1919656,1569717,2025-05-12,Legislature,"Clements FA222 adopted",40,3,5,1,49
+1919656,1571922,2025-05-15,Legislature,"Passed on Final Reading with Emergency Clause 35-13-1",35,13,0,1,49
+1919734,1509015,2025-03-10,Legislature,"Advanced to Enrollment and Review Initial",32,5,10,2,49
+1919734,1535598,2025-04-03,Legislature,"Passed on Final Reading 37-10-2",37,10,0,2,49
+1919754,1567917,2025-05-07,Legislature,"Advanced to Enrollment and Review Initial",40,1,4,4,49
+1919754,1572034,2025-05-15,Legislature,"Passed on Final Reading with Emergency Clause 40-9-0",40,9,0,0,49
+1919832,1566652,2025-05-06,Legislature,"Cavanaugh, M. AM1303 lost",4,32,12,1,49
+1919832,1566653,2025-05-06,Legislature,"Guereca AM1264 adopted",29,7,12,1,49
+1919832,1566654,2025-05-06,Legislature,"Speaker Arch MO225 adopted",35,6,8,0,49
+1919832,1566655,2025-05-06,Legislature,"Appropriations AM832 adopted",38,5,6,0,49
+1919832,1566656,2025-05-06,Legislature,"Advanced to Enrollment and Review Initial",37,6,6,0,49
+1919832,1569579,2025-05-12,Legislature,"Holdcroft AM1379 adopted",26,17,5,1,49
+1919832,1569580,2025-05-12,Legislature,"Clements AM1407 adopted",35,1,12,1,49
+1919832,1569581,2025-05-12,Legislature,"DeBoer AM1410 adopted",42,0,4,3,49
+1919832,1569582,2025-05-12,Legislature,"Murman AM1408 lost",17,26,4,2,49
+1919832,1569583,2025-05-12,Legislature,"Dover AM1384 adopted",30,11,6,2,49
+1919832,1569584,2025-05-12,Legislature,"Murman AM1429 adopted",42,0,6,1,49
+1919832,1569585,2025-05-12,Legislature,"Bosn AM1386 adopted",40,2,6,1,49
+1919832,1569586,2025-05-12,Legislature,"Speaker Arch MO244 prevailed",35,5,8,1,49
+1919832,1569587,2025-05-12,Legislature,"Clements AM1320 adopted",37,2,9,1,49
+1919832,1569588,2025-05-12,Legislature,"Advanced to Enrollment and Review for Engrossment",39,6,3,1,49
+1919832,1572019,2025-05-15,Legislature,"Passed on Final Reading with Emergency Clause 37-11-1",37,11,0,1,49
+1919856,1567798,2025-05-07,Legislature,"Appropriations AM831 adopted",37,0,10,2,49
+1919856,1567799,2025-05-07,Legislature,"Advanced to Enrollment and Review Initial",41,0,6,2,49
+1919856,1568839,2025-05-09,Legislature,"Clements AM1362 adopted",38,0,9,2,49
+1919856,1572187,2025-05-15,Legislature,"Passed on Final Reading with Emergency Clause 41-7-1",41,7,0,1,49
+1919994,1495313,2025-02-20,Legislature,"Advanced to Enrollment and Review Initial",28,9,7,5,49
+1919994,1512777,2025-03-11,Legislature,"Advanced to Enrollment and Review for Engrossment",27,15,7,0,49
+1920098,1486668,2025-02-11,Legislature,"Advanced to Enrollment and Review Initial",40,0,5,4,49
+1920098,1502179,2025-02-28,Legislature,"McKinney AM309 adopted",35,0,10,4,49
+1920098,1516847,2025-03-13,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1920119,1517847,2025-03-14,Legislature,"Nebraska Retirement Systems AM404 adopted",36,0,12,1,49
+1920119,1517848,2025-03-14,Legislature,"Advanced to Enrollment and Review Initial",40,0,8,1,49
+1920119,1542032,2025-04-09,Legislature,"Ballard AM797 adopted",38,0,10,1,49
+1920119,1557939,2025-04-25,Legislature,"Passed on Final Reading with Emergency Clause 46-0-3",46,0,0,3,49
+1920189,1575275,2025-05-21,Legislature,"Hunt FA267 adopted",25,9,13,2,49
+1920189,1575276,2025-05-21,Legislature,"Hallstrom FA268 adopted",27,5,14,3,49
+1920189,1575277,2025-05-21,Legislature,"Lonowski FA269 lost",22,16,9,2,49
+1920189,1575278,2025-05-21,Legislature,"Education AM1440 lost",22,23,1,3,49
+1920189,1575279,2025-05-21,Legislature,"Dungan MO288 failed",19,27,1,2,49
+1920189,1579142,2025-05-27,Legislature,"Hallstrom AM1241 lost",18,12,17,2,49
+1920189,1579143,2025-05-27,Legislature,"Andersen AM1532 adopted",27,4,16,2,49
+1920189,1579144,2025-05-27,Legislature,"Dover AM1562 adopted",27,0,20,2,49
+1920189,1579145,2025-05-27,Legislature,"Murman AM1575 adopted",25,0,22,2,49
+1920189,1579146,2025-05-27,Legislature,"Murman AM1578 adopted",26,0,21,2,49
+1920189,1579147,2025-05-27,Legislature,"Murman AM1598 lost",12,14,21,2,49
+1920189,1579148,2025-05-27,Legislature,"Advanced to Enrollment and Review Initial",28,3,15,3,49
+1920189,1580923,2025-05-29,Legislature,"Spivey AM1587 lost",17,25,6,1,49
+1920189,1580924,2025-05-29,Legislature,"Dungan AM1604 lost",20,23,5,1,49
+1920189,1580925,2025-05-29,Legislature,"Hallstrom AM1626 adopted",25,14,9,1,49
+1920189,1583032,2025-06-02,Legislature,"Passed on Final Reading with Emergency Clause 41-8-0",41,8,0,0,49
+1920216,1496152,2025-02-21,Legislature,"Government, Military and Veterans Affairs AM54 adopted",37,0,11,1,49
+1920216,1496153,2025-02-21,Legislature,"Advanced to Enrollment and Review Initial",38,0,10,1,49
+1920216,1535674,2025-04-03,Legislature,"Passed on Final Reading with Emergency Clause 47-0-2",47,0,0,2,49
+1920235,1495309,2025-02-20,Legislature,"Advanced to Enrollment and Review Initial",37,0,6,6,49
+1920235,1522570,2025-03-20,Legislature,"Passed on Final Reading with Emergency Clause 45-0-4",45,0,0,4,49
+1920265,1486733,2025-02-11,Legislature,"Banking, Commerce and Insurance AM148 adopted",40,0,6,3,49
+1920265,1486734,2025-02-11,Legislature,"Advanced to Enrollment and Review Initial",41,0,5,3,49
+1920265,1582345,2025-05-30,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+1920313,1560552,2025-04-29,Legislature,"DeBoer AM1189 adopted",43,0,6,0,49
+1920313,1560553,2025-04-29,Legislature,"Transportation and Telecommunications AM1111 adopted",43,0,6,0,49
+1920313,1560554,2025-04-29,Legislature,"Advanced to Enrollment and Review Initial",43,0,6,0,49
+1920313,1571663,2025-05-14,Legislature,"Passed on Final Reading with Emergency Clause 49-0-0",49,0,0,0,49
+1920341,1555874,2025-04-23,Legislature,"McKinney AM1074 adopted",40,0,7,2,49
+1920341,1555875,2025-04-23,Legislature,"Dover AM968 adopted",40,0,8,1,49
+1920341,1555876,2025-04-23,Legislature,"Urban Affairs AM733 adopted",41,0,7,1,49
+1920341,1555877,2025-04-23,Legislature,"Advanced to Enrollment and Review Initial",42,0,6,1,49
+1920341,1563331,2025-05-01,Legislature,"Kauth AM1181 adopted",38,0,9,2,49
+1920341,1579896,2025-05-28,Legislature,"Passed on Final Reading 43-6-0",43,6,0,0,49
+1920388,1522654,2025-03-20,Legislature,"Urban Affairs AM608 adopted",26,2,16,5,49
+1920388,1522655,2025-03-20,Legislature,"Advanced to Enrollment and Review Initial",29,1,14,5,49
+1920388,1542464,2025-04-09,Legislature,"McKinney AM990 adopted",34,0,14,1,49
+1920388,1542465,2025-04-09,Legislature,"McKinney AM961 adopted",33,0,15,1,49
+1920388,1555419,2025-04-23,Legislature,"Returned to Select File for specific amendment",34,5,6,4,49
+1920388,1555420,2025-04-23,Legislature,"McKinney AM1000 adopted",27,7,11,4,49
+1920388,1555421,2025-04-23,Legislature,"Readvanced to Enrollment and Review for Engrossment",25,10,10,4,49
+1920388,1571375,2025-05-14,Legislature,"Passed on Final Reading with Emergency Clause 34-15-0",34,15,0,0,49
+1920388,1581602,2025-05-27,Legislature,"McKinney MO281 failed",24,24,1,0,49
+1920556,1502867,2025-02-28,Legislature,"Advanced to Enrollment and Review Initial",31,5,6,7,49
+1920556,1519671,2025-03-18,Legislature,"Advanced to Enrollment and Review for Engrossment",25,3,20,1,49
+1920556,1580095,2025-05-28,Legislature,"Passed on Final Reading 31-18-0",31,18,0,0,49
+1920581,1574941,2025-05-21,Legislature,"Arch AM1554 adopted",38,0,8,3,49
+1920581,1575330,2025-05-21,Legislature,"Executive Board AM1504 adopted",37,3,6,3,49
+1920581,1575331,2025-05-21,Legislature,"Advanced to Enrollment and Review Initial",39,3,6,1,49
+1920581,1579531,2025-05-28,Legislature,"Arch AM1616 adopted",43,0,4,2,49
+1920581,1579532,2025-05-28,Legislature,"Arch AM1600 adopted",44,0,3,2,49
+1920581,1579969,2025-05-28,Legislature,"Conrad AM1614 lost",17,21,9,2,49
+1920581,1579970,2025-05-28,Legislature,"Bostar AM1553 lost",7,22,18,2,49
+1920581,1582019,2025-05-30,Legislature,"Passed on Final Reading with Emergency Clause 46-2-1",46,2,0,1,49
+1920608,1575729,2025-05-21,Legislature,"Education AM1350 adopted",40,0,6,3,49
+1920608,1575730,2025-05-21,Legislature,"Advanced to Enrollment and Review Initial",39,0,7,3,49
+1920608,1579956,2025-05-28,Legislature,"Cavanaugh, M. FA322 lost",2,34,11,2,49
+1920608,1579957,2025-05-28,Legislature,"Ballard AM1602 adopted",38,0,10,1,49
+1920608,1579958,2025-05-28,Legislature,"Hughes AM1593 adopted",43,0,5,1,49
+1920608,1582021,2025-05-30,Legislature,"Passed on Final Reading with Emergency Clause 48-0-1",48,0,0,1,49
+1920630,1485185,2025-02-10,Legislature,"Advanced to Enrollment and Review Initial",43,0,4,2,49
+1920630,1507023,2025-03-06,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+1920653,1486786,2025-02-11,Legislature,"Advanced to Enrollment and Review Initial",41,0,2,6,49
+1920653,1517085,2025-03-13,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1920678,1526317,2025-03-25,Legislature,Adopted,36,0,10,3,49
+1922537,1505948,2025-03-05,Legislature,"Advanced to Enrollment and Review Initial",43,0,5,1,49
+1922537,1536626,2025-04-03,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1922750,1558971,2025-04-28,Legislature,"Cavanaugh, J. MO62 failed",10,32,5,2,49
+1922750,1558972,2025-04-28,Legislature,"Cavanaugh, J. MO208 failed",13,33,3,0,49
+1922750,1559544,2025-04-28,Legislature,"Kauth MO212 prevailed",33,11,5,0,49
+1922750,1559545,2025-04-28,Legislature,"Cavanaugh, J. MO63 failed",11,33,5,0,49
+1922750,1559546,2025-04-28,Legislature,"Judiciary AM944 adopted",33,7,9,0,49
+1922750,1559547,2025-04-28,Legislature,"Advanced to Enrollment and Review Initial",33,13,3,0,49
+1922750,1578929,2025-05-27,Legislature,"Cavanaugh, J. AM1521 lost",16,27,3,3,49
+1922750,1578930,2025-05-27,Legislature,"Cavanaugh, J. MO210 failed",13,27,2,7,49
+1922750,1578931,2025-05-27,Legislature,"Dungan MO291 failed",10,28,8,3,49
+1922750,1578932,2025-05-27,Legislature,"Cavanaugh, J. MO211 failed",11,31,3,4,49
+1922750,1578933,2025-05-27,Legislature,"Dungan MO292 failed",12,30,5,2,49
+1922750,1578934,2025-05-27,Legislature,"Cavanaugh, J. FA143 lost",13,32,2,2,49
+1922750,1578935,2025-05-27,Legislature,"Dungan MO301 failed",12,29,7,1,49
+1922750,1578936,2025-05-27,Legislature,"Cavanaugh, J. FA146 lost",11,30,7,1,49
+1922750,1578937,2025-05-27,Legislature,"Kauth MO306 prevailed",33,15,0,1,49
+1922750,1578938,2025-05-27,Legislature,"Dungan MO299 failed",15,33,0,1,49
+1922750,1578939,2025-05-27,Legislature,"Cavanaugh, J. AM628 lost",15,33,0,1,49
+1922750,1578978,2025-05-27,Legislature,"Advanced to Enrollment and Review for Engrossment",32,15,1,1,49
+1922831,1489553,2025-02-13,Legislature,"Hardin MO32 prevailed",36,0,4,9,49
+1922887,1501014,2025-02-27,Legislature,"Advanced to Enrollment and Review Initial",43,0,5,1,49
+1922887,1513696,2025-03-11,Legislature,"Riepe AM591 adopted",38,0,11,0,49
+1922887,1535767,2025-04-03,Legislature,"Passed on Final Reading 46-1-2",46,1,0,2,49
+1922914,1484573,2025-02-10,Legislature,"Advanced to Enrollment and Review Initial",41,0,6,2,49
+1922914,1507315,2025-03-06,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+1922968,1534314,2025-04-02,Legislature,"Natural Resources AM711 adopted",30,4,12,3,49
+1922968,1534315,2025-04-02,Legislature,"Advanced to Enrollment and Review Initial",31,2,13,3,49
+1922968,1553425,2025-04-22,Legislature,"Cavanaugh, M. MO183 failed",1,29,15,4,49
+1922968,1553426,2025-04-22,Legislature,"Brandt AM1084 adopted",36,0,11,2,49
+1922968,1553427,2025-04-22,Legislature,"Conrad AM1124 adopted",34,8,6,1,49
+1922968,1553428,2025-04-22,Legislature,"Storer FA116 adopted",46,0,2,1,49
+1922968,1554562,2025-04-22,Legislature,"Cavanaugh, J. FA117 lost",12,29,8,0,49
+1922968,1554563,2025-04-22,Legislature,"Cavanaugh, J. AM1133 lost",13,33,3,0,49
+1922968,1563673,2025-05-01,Legislature,"Passed on Final Reading with Emergency Clause 34-12-3",34,12,0,3,49
+1922997,1543875,2025-04-10,Legislature,"Advanced to Enrollment and Review Initial",32,5,7,5,49
+1922997,1562107,2025-04-30,Legislature,"Rountree AM1176 adopted",32,14,2,1,49
+1922997,1562108,2025-04-30,Legislature,"Advanced to Enrollment and Review for Engrossment",31,14,3,1,49
+1922997,1571420,2025-05-14,Legislature,"Passed on Final Reading 32-17-0",32,17,0,0,49
+1922997,1573436,2025-05-19,Legislature,"Rountree MO259 failed",24,24,0,1,49
+1923051,1516059,2025-03-12,Legislature,"Advanced to Enrollment and Review Initial",27,0,20,2,49
+1923051,1529927,2025-03-28,Legislature,"Hallstrom AM836 adopted",34,0,12,3,49
+1923051,1544178,2025-04-10,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1923079,1534770,2025-04-02,Legislature,"Transportation and Telecommunications AM554 adopted",27,0,20,2,49
+1923079,1534771,2025-04-02,Legislature,"Advanced to Enrollment and Review Initial",29,0,18,2,49
+1923079,1571045,2025-05-14,Legislature,"Passed on Final Reading 49-0-0",49,0,0,0,49
+1923135,1548433,2025-04-15,Legislature,"DeBoer MO106 failed",7,34,6,2,49
+1923135,1548434,2025-04-15,Legislature,"DeBoer MO180 failed",8,33,5,3,49
+1923135,1549632,2025-04-16,Legislature,"DeBoer MO107 failed",6,36,7,0,49
+1923135,1549633,2025-04-16,Legislature,"Clouse MO182 prevailed",36,8,5,0,49
+1923135,1549634,2025-04-16,Legislature,"McKinney MO181 failed",9,36,4,0,49
+1923135,1549635,2025-04-16,Legislature,"Judiciary AM767 adopted",33,8,8,0,49
+1923135,1549636,2025-04-16,Legislature,"Advanced to Enrollment and Review Initial",37,8,4,0,49
+1923164,1534237,2025-04-02,Legislature,"Hardin AM828 adopted",28,0,18,3,49
+1923164,1534238,2025-04-02,Legislature,"Health and Human Services AM729 adopted",29,0,17,3,49
+1923164,1534239,2025-04-02,Legislature,"Advanced to Enrollment and Review Initial",29,0,17,3,49
+1923164,1556217,2025-04-23,Legislature,"Hardin AM1154 adopted",37,0,10,2,49
+1923164,1571841,2025-05-14,Legislature,"Passed on Final Reading with Emergency Clause 49-0-0",49,0,0,0,49
+1923189,1496139,2025-02-21,Legislature,"Hardin MO43 prevailed",39,0,8,2,49
+1923460,1535892,2025-04-03,Legislature,"Cavanaugh, M. MO152 failed",0,28,16,5,49
+1923460,1535893,2025-04-03,Legislature,"Conrad FA83 adopted",27,7,10,5,49
+1923460,1535894,2025-04-03,Legislature,"Advanced to Enrollment and Review Initial",37,2,5,5,49
+1923460,1568509,2025-05-08,Legislature,"Meyer AM999 adopted",31,0,15,3,49
+1923460,1580091,2025-05-28,Legislature,"Passed on Final Reading 48-1-0",48,1,0,0,49
+1923649,1487788,2025-02-12,Legislature,"Advanced to Enrollment and Review Initial",37,3,7,2,49
+1923649,1519429,2025-03-13,Legislature,"Passed on Final Reading 40-4-5",40,6,0,3,49
+1923676,1558047,2025-04-25,Legislature,"Lippincott AM1175 lost",13,22,9,5,49
+1923676,1558079,2025-04-25,Legislature,"Executive Board AM884 adopted",30,7,7,5,49
+1923676,1558080,2025-04-25,Legislature,"Advanced to Enrollment and Review Initial",32,7,4,6,49
+1923676,1568945,2025-05-09,Legislature,"Dover AM1353 adopted",31,0,14,4,49
+1923676,1568946,2025-05-09,Legislature,"Lippincott AM1233 lost",5,24,16,4,49
+1923676,1580331,2025-05-28,Legislature,"Passed on Final Reading for General Election 39-10-0",39,10,0,0,49
+1923698,1568877,2025-05-09,Legislature,"Advanced to Enrollment and Review Initial",34,0,13,2,49
+1923698,1579836,2025-05-28,Legislature,"Passed on Final Reading 49-0-0",49,0,0,0,49
+1923721,1570745,2025-05-13,Legislature,"Arch AM1312 adopted",39,0,9,1,49
+1923721,1570746,2025-05-13,Legislature,"Health and Human Services AM411 adopted",33,0,14,2,49
+1923721,1570747,2025-05-13,Legislature,"Advanced to Enrollment and Review Initial",35,0,12,2,49
+1923721,1575444,2025-05-21,Legislature,"Advanced to Enrollment and Review for Engrossment",43,0,3,3,49
+1923721,1582018,2025-05-30,Legislature,"Passed on Final Reading 47-1-1",47,1,0,1,49
+1923744,1534300,2025-04-02,Legislature,"Bostar AM814 adopted",26,0,21,2,49
+1923744,1534301,2025-04-02,Legislature,"Health and Human Services AM728 adopted",25,0,22,2,49
+1923744,1534302,2025-04-02,Legislature,"Advanced to Enrollment and Review Initial",32,0,15,2,49
+1923744,1579874,2025-05-28,Legislature,"Passed on Final Reading 48-1-0",48,1,0,0,49
+1923797,1515721,2025-03-12,Legislature,"Advanced to Enrollment and Review Initial",29,0,19,1,49
+1923797,1543428,2025-04-10,Legislature,"Passed on Final Reading 46-1-2",46,1,0,2,49
+1923886,1501007,2025-02-26,Legislature,"Judiciary AM176 adopted",35,0,10,4,49
+1923886,1501008,2025-02-26,Legislature,"Advanced to Enrollment and Review Initial",39,0,6,4,49
+1923886,1536191,2025-04-03,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1923935,1557154,2025-04-24,Legislature,"Arch AM821 adopted",41,0,6,2,49
+1923935,1557155,2025-04-24,Legislature,"McKinney FA134 adopted",33,0,14,2,49
+1923935,1557156,2025-04-24,Legislature,"Government, Military and Veterans Affairs AM492 adopted",40,0,7,2,49
+1923935,1557157,2025-04-24,Legislature,"Advanced to Enrollment and Review Initial",42,0,5,2,49
+1923935,1571392,2025-05-14,Legislature,"Arch AM1397 adopted",41,0,7,1,49
+1923935,1580411,2025-05-28,Legislature,"Passed on Final Reading 49-0-0",49,0,0,0,49
+1924050,1496293,2025-02-21,Legislature,"Advanced to Enrollment and Review Initial",40,0,8,1,49
+1924050,1523014,2025-03-20,Legislature,"Passed on Final Reading 44-1-4",44,1,0,4,49
+1924125,1502113,2025-02-27,Legislature,"Agriculture AM81 adopted",38,0,10,1,49
+1924125,1502114,2025-02-27,Legislature,"Advanced to Enrollment and Review Initial",45,0,3,1,49
+1924125,1536342,2025-04-03,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1924194,1556675,2025-04-24,Legislature,"Advanced to Enrollment and Review Initial",33,1,13,2,49
+1924194,1571067,2025-05-14,Legislature,"Passed on Final Reading 46-3-0",46,3,0,0,49
+1924243,1482151,2025-02-05,Legislature,"Holdcroft AM120 adopted",37,0,7,5,49
+1924243,1482152,2025-02-05,Legislature,"Advanced to Enrollment and Review Initial",39,0,5,5,49
+1924243,1498651,2025-02-25,Legislature,"Holdcroft AM320 adopted",45,0,2,2,49
+1924243,1507060,2025-03-06,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+1924265,1482349,2025-02-05,Legislature,"DeBoer AM140 adopted",38,0,4,7,49
+1924265,1482350,2025-02-05,Legislature,"Advanced to Enrollment and Review Initial",39,0,3,7,49
+1924265,1494050,2025-02-19,Legislature,"DeBoer AM255 adopted",33,0,15,1,49
+1924265,1507827,2025-03-06,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+1927334,1512528,2025-03-11,Legislature,"Education AM97 adopted",26,0,23,0,49
+1927334,1514083,2025-03-11,Legislature,"Cavanaugh, M. FA30 lost",12,18,7,12,49
+1927334,1514084,2025-03-11,Legislature,"Advanced to Enrollment and Review Initial",25,2,19,3,49
+1927334,1530024,2025-03-28,Legislature,"Murman AM653 adopted",30,2,14,3,49
+1927334,1543879,2025-04-10,Legislature,"Motion to return to Select File failed",8,31,9,1,49
+1927334,1543880,2025-04-10,Legislature,"Passed on Final Reading 34-14-1",34,14,0,1,49
+1927558,1547087,2025-04-14,Legislature,"Advanced to Enrollment and Review Initial",27,16,1,5,49
+1927646,1502398,2025-02-28,Legislature,"Education AM196 adopted",34,1,8,6,49
+1927646,1502399,2025-02-28,Legislature,"Advanced to Enrollment and Review Initial",34,1,8,6,49
+1927646,1539862,2025-04-08,Legislature,"Murman AM803 adopted",36,0,12,1,49
+1927646,1558024,2025-04-25,Legislature,"Passed on Final Reading 41-5-3",41,5,0,3,49
+1927714,1569143,2025-05-09,Legislature,"Revenue AM187 adopted",30,0,19,0,49
+1927714,1569144,2025-05-09,Legislature,"Advanced to Enrollment and Review Initial",34,0,15,0,49
+1927714,1582113,2025-05-30,Legislature,"Passed on Final Reading 45-3-1",45,3,0,1,49
+1927736,1542450,2025-04-09,Legislature,"Moser AM842 adopted",39,0,10,0,49
+1927736,1542451,2025-04-09,Legislature,"Hallstrom AM765 adopted",39,0,10,0,49
+1927736,1542452,2025-04-09,Legislature,"Advanced to Enrollment and Review Initial",39,0,10,0,49
+1927736,1571224,2025-05-14,Legislature,"Returned to Select File for specific amendment",31,10,6,2,49
+1927736,1571225,2025-05-14,Legislature,"Ballard AM1464 adopted",29,12,6,2,49
+1927736,1580360,2025-05-28,Legislature,"Motion to return to Select File failed",21,14,14,0,49
+1927736,1580361,2025-05-28,Legislature,"Passed on Final Reading with Emergency Clause 45-4-0",45,4,0,0,49
+1927780,1569165,2025-05-09,Legislature,"Judiciary AM841 adopted",41,0,6,2,49
+1927780,1569166,2025-05-09,Legislature,"Advanced to Enrollment and Review Initial",43,0,4,2,49
+1927780,1580533,2025-05-28,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+1927870,1476820,2025-01-29,Legislature,"Lonowski MO25 prevailed",44,0,3,2,49
+1927892,1492998,2025-02-19,Legislature,"Advanced to Enrollment and Review Initial",36,0,11,2,49
+1927892,1519554,2025-03-13,Legislature,"Passed on Final Reading 47-0-2",47,1,0,1,49
+1927914,1543867,2025-04-10,Legislature,"Hunt MO159 failed",4,26,14,5,49
+1927914,1545557,2025-04-11,Legislature,"Cavanaugh, J. AM1007 adopted",39,0,7,3,49
+1927914,1545558,2025-04-11,Legislature,"Judiciary AM1010 adopted",30,4,12,3,49
+1927914,1545559,2025-04-11,Legislature,"Judiciary AM1009 adopted",41,0,5,3,49
+1927914,1545560,2025-04-11,Legislature,"Storer AM1016 adopted",40,0,6,3,49
+1927914,1545561,2025-04-11,Legislature,"Advanced to Enrollment and Review Initial",38,2,6,3,49
+1927914,1562416,2025-04-30,Legislature,"Storer AM1180 adopted",33,0,16,0,49
+1927914,1562417,2025-04-30,Legislature,"McKinney AM1115 lost",12,33,4,0,49
+1927914,1562418,2025-04-30,Legislature,"Advanced to Enrollment and Review for Engrossment",38,4,7,0,49
+1927914,1571442,2025-05-14,Legislature,"Passed on Final Reading 46-3-0",46,3,0,0,49
+1928070,1523106,2025-03-20,Legislature,"McKinney MO110 failed",11,32,5,1,49
+1928070,1527293,2025-03-26,Legislature,"Dungan MO113 failed",12,28,5,4,49
+1928070,1529863,2025-03-28,Legislature,"Ballard MO137 prevailed",34,15,0,0,49
+1928070,1529864,2025-03-28,Legislature,"McKinney MO111 failed",15,34,0,0,49
+1928070,1529865,2025-03-28,Legislature,"Business and Labor AM545 adopted",34,15,0,0,49
+1928070,1529866,2025-03-28,Legislature,"Advanced to Enrollment and Review Initial",34,14,1,0,49
+1928070,1570103,2025-05-13,Legislature,"Cavanaugh, M. MO138 failed",11,32,3,3,49
+1928070,1570104,2025-05-13,Legislature,"Strommen AM1337 adopted",36,4,7,2,49
+1928070,1570701,2025-05-13,Legislature,"von Gillern AM1207 adopted",48,0,1,0,49
+1928070,1570702,2025-05-13,Legislature,"Ballard MO248 prevailed",33,14,2,0,49
+1928070,1570703,2025-05-13,Legislature,"Jacobson MO247 prevailed",29,12,8,0,49
+1928070,1570704,2025-05-13,Legislature,"Strommen AM1337 lost",15,28,6,0,49
+1928070,1570705,2025-05-13,Legislature,"Advanced to Enrollment and Review for Engrossment",33,14,2,0,49
+1928070,1580462,2025-05-28,Legislature,"Ballard MO327 prevailed",33,16,0,0,49
+1928070,1580463,2025-05-28,Legislature,"Cavanaugh, M. MO139 failed",15,34,0,0,49
+1928070,1580464,2025-05-28,Legislature,"Passed on Final Reading 33-16-0",33,16,0,0,49
+1928114,1535794,2025-04-03,Legislature,"Government, Military and Veterans Affairs AM565 adopted",36,0,11,2,49
+1928114,1535795,2025-04-03,Legislature,"Advanced to Enrollment and Review Initial",37,0,10,2,49
+1928114,1558028,2025-04-25,Legislature,"Passed on Final Reading 46-0-3",46,0,0,3,49
+1928157,1556265,2025-04-23,Legislature,"Advanced to Enrollment and Review Initial",36,0,10,3,49
+1928157,1571071,2025-05-14,Legislature,"Passed on Final Reading 49-0-0",49,0,0,0,49
+1928223,1563645,2025-05-01,Legislature,"Advanced to Enrollment and Review Initial",36,0,9,4,49
+1928223,1572009,2025-05-15,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1928246,1557941,2025-04-25,Legislature,"Government, Military and Veterans Affairs AM606 adopted",41,0,2,6,49
+1928246,1557942,2025-04-25,Legislature,"Advanced to Enrollment and Review Initial",42,0,1,6,49
+1928246,1568918,2025-05-09,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1928290,1536185,2025-04-03,Legislature,"Advanced to Enrollment and Review Initial",39,0,8,2,49
+1928290,1558314,2025-04-25,Legislature,"Passed on Final Reading 46-0-3",46,0,0,3,49
+1930862,1556373,2025-04-23,Legislature,"Government, Military and Veterans Affairs AM750 adopted",37,0,9,3,49
+1930862,1556374,2025-04-23,Legislature,"Advanced to Enrollment and Review Initial",35,0,11,3,49
+1930862,1568873,2025-05-09,Legislature,"Wordekemper AM1334 adopted",33,0,15,1,49
+1930862,1568874,2025-05-09,Legislature,"Jacobson FA201 adopted",25,6,15,3,49
+1930862,1579943,2025-05-28,Legislature,"Passed on Final Reading with Emergency Clause 47-2-0",47,2,0,0,49
+1930887,1542329,2025-04-09,Legislature,"Advanced to Enrollment and Review Initial",36,0,13,0,49
+1930887,1571326,2025-05-14,Legislature,"Passed on Final Reading 49-0-0",49,0,0,0,49
+1930945,1560500,2025-04-29,Legislature,"Bostar AM1069 lost",4,32,12,1,49
+1930945,1560501,2025-04-29,Legislature,"Bostar AM1137 lost",2,33,14,0,49
+1930945,1560502,2025-04-29,Legislature,"Raybould FA152 lost",2,30,13,4,49
+1930945,1560503,2025-04-29,Legislature,"Revenue AM874 adopted",27,3,16,3,49
+1930945,1560504,2025-04-29,Legislature,"Advanced to Enrollment and Review Initial",27,10,10,2,49
+1930945,1570824,2025-05-13,Legislature,"Conrad MO241 failed",9,30,8,2,49
+1930945,1570825,2025-05-13,Legislature,"Dungan MO250 failed",12,31,3,3,49
+1930945,1570826,2025-05-13,Legislature,"Conrad MO242 failed",5,31,10,3,49
+1930945,1570827,2025-05-13,Legislature,"Clements AM1447 adopted",27,1,19,2,49
+1930945,1570828,2025-05-13,Legislature,"Clements MO252 failed",31,11,5,2,49
+1931049,1563319,2025-05-01,Legislature,"Advanced to Enrollment and Review Initial",40,0,6,3,49
+1931049,1572002,2025-05-15,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1931058,1516130,2025-03-12,Legislature,"Advanced to Enrollment and Review Initial",31,0,17,1,49
+1931058,1544658,2025-04-10,Legislature,"Passed on Final Reading 47-1-1",47,1,0,1,49
+1931106,1569215,2025-05-09,Legislature,"Quick AM952 adopted",34,0,14,1,49
+1931106,1569216,2025-05-09,Legislature,"Health and Human Services AM547 adopted",33,0,16,0,49
+1931106,1569217,2025-05-09,Legislature,"Advanced to Enrollment and Review Initial",35,0,14,0,49
+1931106,1581439,2025-05-29,Legislature,"Passed on Final Reading 46-2-1",46,2,0,1,49
+1931194,1498723,2025-02-25,Legislature,"Banking, Commerce and Insurance AM169 adopted",44,0,2,3,49
+1931194,1500062,2025-02-26,Legislature,"Dungan MO45 failed",0,29,18,2,49
+1931194,1500063,2025-02-26,Legislature,"Advanced to Enrollment and Review Initial",38,0,8,3,49
+1931194,1541708,2025-04-09,Legislature,"Cavanaugh, J. FA87 adopted",39,0,4,6,49
+1931194,1541709,2025-04-09,Legislature,"Dungan FA91 lost",10,26,10,3,49
+1931194,1541710,2025-04-09,Legislature,"Bosn AM856 adopted",45,0,3,1,49
+1931194,1580243,2025-05-28,Legislature,"Passed on Final Reading 42-7-0",42,7,0,0,49
+1931328,1558240,2025-04-25,Legislature,"Judiciary AM761 adopted",38,0,4,7,49
+1931328,1558241,2025-04-25,Legislature,"Advanced to Enrollment and Review Initial",40,0,3,6,49
+1931328,1568830,2025-05-09,Legislature,"Passed on Final Reading 46-1-2",46,1,0,2,49
+1931350,1569150,2025-05-09,Legislature,"Judiciary AM438 adopted",38,0,8,3,49
+1931350,1569151,2025-05-09,Legislature,"Advanced to Enrollment and Review Initial",41,0,5,3,49
+1931350,1580561,2025-05-28,Legislature,"Passed on Final Reading 49-0-0",49,0,0,0,49
+1931360,1563960,2025-05-01,Legislature,"Government, Military and Veterans Affairs AM1152 adopted",41,0,7,1,49
+1931360,1563961,2025-05-01,Legislature,"Advanced to Enrollment and Review Initial",42,0,6,1,49
+1931360,1568061,2025-05-08,Legislature,"Sanders AM1333 adopted",43,0,5,1,49
+1931360,1568062,2025-05-08,Legislature,"Bosn FA190 adopted",31,0,17,1,49
+1931360,1568063,2025-05-08,Legislature,"Dungan FA191 lost",16,30,2,1,49
+1931360,1568064,2025-05-08,Legislature,"Dungan MO233 failed",18,26,5,0,49
+1931360,1580118,2025-05-28,Legislature,"Passed on Final Reading with Emergency Clause 49-0-0",49,0,0,0,49
+1931379,1501054,2025-02-27,Legislature,"Advanced to Enrollment and Review Initial",38,0,9,2,49
+1931379,1536673,2025-04-03,Legislature,"Passed on Final Reading with Emergency Clause 47-0-2",47,0,0,2,49
+1931490,1503108,2025-03-03,Legislature,"Advanced to Enrollment and Review Initial",36,0,9,4,49
+1931490,1536111,2025-04-03,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1931499,1568827,2025-05-09,Legislature,"McKeon AM213 adopted",39,0,8,2,49
+1931499,1568828,2025-05-09,Legislature,"Advanced to Enrollment and Review Initial",40,0,7,2,49
+1931499,1580259,2025-05-28,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+1931529,1542392,2025-04-09,Legislature,"Jacobson AM669 adopted",33,0,16,0,49
+1931529,1542393,2025-04-09,Legislature,"Banking, Commerce and Insurance AM307 adopted",36,0,13,0,49
+1931529,1542394,2025-04-09,Legislature,"Advanced to Enrollment and Review Initial",38,0,11,0,49
+1931529,1555885,2025-04-23,Legislature,"Jacobson AM1080 adopted",33,0,14,2,49
+1931529,1571318,2025-05-14,Legislature,"Passed on Final Reading 49-0-0",49,0,0,0,49
+1931545,1568017,2025-05-07,Legislature,"Conrad MO39 failed",1,29,11,8,49
+1931545,1568506,2025-05-08,Legislature,"Judiciary AM1157 adopted",26,5,13,5,49
+1931545,1568507,2025-05-08,Legislature,"Advanced to Enrollment and Review Initial",29,6,9,5,49
+1931545,1570031,2025-05-12,Legislature,"Advanced to Enrollment and Review for Engrossment",35,3,9,2,49
+1931545,1581056,2025-05-28,Legislature,"Passed on Final Reading with Emergency Clause 38-11-0",38,11,0,0,49
+1933888,1536176,2025-04-03,Legislature,"Revenue AM691 adopted",32,0,16,1,49
+1933888,1536177,2025-04-03,Legislature,"Advanced to Enrollment and Review Initial",35,0,13,1,49
+1933888,1571053,2025-05-14,Legislature,"Passed on Final Reading 49-0-0",49,0,0,0,49
+1933924,1563727,2025-05-01,Legislature,"Advanced to Enrollment and Review Initial",36,0,9,4,49
+1933924,1572008,2025-05-15,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1933969,1484010,2025-02-07,Legislature,"Rountree MO31 prevailed",38,0,5,6,49
+1934004,1486231,2025-02-11,Legislature,"Banking, Commerce and Insurance AM157 adopted",37,0,8,4,49
+1934004,1486232,2025-02-11,Legislature,"Advanced to Enrollment and Review Initial",40,0,5,4,49
+1934004,1498588,2025-02-25,Legislature,"Bostar AM352 adopted",39,0,8,2,49
+1934004,1507061,2025-03-06,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+1934084,1557602,2025-04-24,Legislature,"Government, Military and Veterans Affairs AM333 adopted",34,0,14,1,49
+1934084,1557603,2025-04-24,Legislature,"Advanced to Enrollment and Review Initial",36,0,12,1,49
+1934084,1571764,2025-05-14,Legislature,"Passed on Final Reading 49-0-0",49,0,0,0,49
+1934102,1549850,2025-04-16,Legislature,"Judiciary AM731 adopted",38,1,6,4,49
+1934102,1550845,2025-04-16,Legislature,"Advanced to Enrollment and Review Initial",38,0,7,4,49
+1934102,1555317,2025-04-23,Legislature,"Dungan FA126 lost",8,28,11,2,49
+1934102,1556357,2025-04-23,Legislature,"Advanced to Enrollment and Review for Engrossment",35,2,10,2,49
+1934102,1571358,2025-05-14,Legislature,"Passed on Final Reading 43-6-0",43,6,0,0,49
+1934117,1568833,2025-05-09,Legislature,"von Gillern AM1317 adopted",37,0,9,3,49
+1934117,1568834,2025-05-09,Legislature,"Advanced to Enrollment and Review Initial",34,0,12,3,49
+1934117,1579869,2025-05-28,Legislature,"Passed on Final Reading 49-0-0",49,0,0,0,49
+1934137,1568254,2025-05-08,Legislature,"Business and Labor AM1243 adopted",36,0,10,3,49
+1934137,1568255,2025-05-08,Legislature,"Advanced to Enrollment and Review Initial",37,0,9,3,49
+1934137,1571855,2025-05-15,Legislature,"Passed on Final Reading with Emergency Clause 49-0-0",49,0,0,0,49
+1934161,1501594,2025-02-27,Legislature,"Advanced to Enrollment and Review Initial",40,0,7,2,49
+1934161,1535706,2025-04-03,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1934223,1536163,2025-04-03,Legislature,"Advanced to Enrollment and Review Initial",33,0,14,2,49
+1934223,1582028,2025-05-30,Legislature,"Passed on Final Reading 45-3-1",45,3,0,1,49
+1934312,1488082,2025-02-12,Legislature,"Advanced to Enrollment and Review Initial",43,0,4,2,49
+1934312,1517330,2025-03-13,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+1934341,1516654,2025-03-12,Legislature,"Government, Military and Veterans Affairs AM27 adopted",33,0,14,2,49
+1934341,1516655,2025-03-12,Legislature,"Advanced to Enrollment and Review Initial",37,0,10,2,49
+1934341,1535940,2025-04-03,Legislature,"Passed on Final Reading with Emergency Clause 47-0-2",47,0,0,2,49
+1934348,1556254,2025-04-23,Legislature,"Brandt AM758 adopted",36,0,10,3,49
+1934348,1556255,2025-04-23,Legislature,"Transportation and Telecommunications AM316 adopted",33,0,13,3,49
+1934348,1556256,2025-04-23,Legislature,"Advanced to Enrollment and Review Initial",35,0,11,3,49
+1934348,1563594,2025-05-01,Legislature,"Brandt AM1209 adopted",35,0,11,3,49
+1934348,1571133,2025-05-14,Legislature,"Passed on Final Reading with Emergency Clause 49-0-0",49,0,0,0,49
+1934399,1486227,2025-02-11,Legislature,"Banking, Commerce and Insurance AM137 adopted",39,0,6,4,49
+1934399,1486228,2025-02-11,Legislature,"Advanced to Enrollment and Review Initial",39,0,6,4,49
+1934399,1502237,2025-02-28,Legislature,"Jacobson AM373 adopted",37,0,8,4,49
+1934399,1535660,2025-04-03,Legislature,"Passed on Final Reading with Emergency Clause 47-0-2",47,0,0,2,49
+1934405,1484011,2025-02-07,Legislature,"Dorn MO30 prevailed",36,0,7,6,49
+1934460,1516846,2025-03-13,Legislature,"Raybould MO65 prevailed",34,0,12,3,49
+1934486,1557163,2025-04-24,Legislature,"Revenue AM904 adopted",33,0,14,2,49
+1934486,1557164,2025-04-24,Legislature,"Advanced to Enrollment and Review Initial",35,0,12,2,49
+1934486,1568145,2025-05-08,Legislature,"Bostar AM1347 adopted",41,0,8,0,49
+1934486,1568540,2025-05-08,Legislature,"Cavanaugh, J. MO234 failed",0,41,6,2,49
+1934486,1568541,2025-05-08,Legislature,"Advanced to Enrollment and Review for Engrossment",29,5,12,3,49
+1934486,1582054,2025-05-30,Legislature,"Passed on Final Reading 36-12-1",36,12,0,1,49
+1934494,1562567,2025-04-30,Legislature,"Bosn MO216 prevailed",31,1,17,0,49
+1934494,1562568,2025-04-30,Legislature,"Bosn AM1230 adopted",31,5,13,0,49
+1934494,1562569,2025-04-30,Legislature,"Dungan FA154 lost",12,26,9,2,49
+1934494,1562570,2025-04-30,Legislature,"Dungan FA153 lost",13,29,5,2,49
+1934494,1563358,2025-05-01,Legislature,"Spivey FA163 lost",14,25,10,0,49
+1934494,1563756,2025-05-01,Legislature,"Spivey FA164 lost",12,25,12,0,49
+1934494,1563757,2025-05-01,Legislature,"Spivey FA165 adopted",37,0,12,0,49
+1934494,1563758,2025-05-01,Legislature,"Spivey FA166 lost",13,27,9,0,49
+1934494,1563759,2025-05-01,Legislature,"Judiciary AM1218 adopted",35,0,14,0,49
+1934494,1563760,2025-05-01,Legislature,"Judiciary AM1219 adopted",33,5,11,0,49
+1934494,1563761,2025-05-01,Legislature,"Judiciary AM1220 adopted",28,3,18,0,49
+1934494,1563762,2025-05-01,Legislature,"Judiciary AM1238 adopted",35,0,14,0,49
+1934494,1563763,2025-05-01,Legislature,"Advanced to Enrollment and Review Initial",33,0,16,0,49
+1934494,1576026,2025-05-22,Legislature,"McKinney AM1539 lost",14,33,0,2,49
+1934494,1576027,2025-05-22,Legislature,"McKinney AM1540 lost",14,31,1,3,49
+1934494,1576028,2025-05-22,Legislature,"Dungan FA276 adopted",38,0,8,3,49
+1934494,1576029,2025-05-22,Legislature,"Spivey FA277 lost",12,23,11,3,49
+1934494,1576030,2025-05-22,Legislature,"Bosn AM1489 adopted",41,5,2,1,49
+1934494,1576031,2025-05-22,Legislature,"Advanced to Enrollment and Review for Engrossment",35,9,4,1,49
+1934494,1581521,2025-05-29,Legislature,"Passed on Final Reading 37-11-1",37,11,0,1,49
+1934571,1545727,2025-04-11,Legislature,"von Gillern AM981 adopted",38,0,7,4,49
+1934571,1545728,2025-04-11,Legislature,"von Gillern AM1020 adopted",38,0,7,4,49
+1934571,1545729,2025-04-11,Legislature,"Revenue AM923 adopted",38,1,6,4,49
+1934571,1545730,2025-04-11,Legislature,"Advanced to Enrollment and Review Initial",36,2,6,5,49
+1934571,1556421,2025-04-24,Legislature,"von Gillern AM1118 adopted",28,0,15,6,49
+1934571,1556422,2025-04-24,Legislature,"von Gillern AM1132 adopted",32,0,12,5,49
+1934571,1556423,2025-04-24,Legislature,"Hallstrom AM1066 adopted",30,10,8,1,49
+1934571,1556424,2025-04-24,Legislature,"McKinney AM1155 lost",15,32,1,1,49
+1934571,1556425,2025-04-24,Legislature,"Cavanaugh, J. FA131 lost",16,25,7,1,49
+1934571,1557241,2025-04-24,Legislature,"Advanced to Enrollment and Review for Engrossment",34,5,9,1,49
+1934571,1561606,2025-04-30,Legislature,"Passed on Final Reading with Emergency Clause 40-7-2",40,7,0,2,49
+1934578,1550748,2025-04-16,Legislature,"Revenue AM933 adopted",34,0,12,3,49
+1934578,1550749,2025-04-16,Legislature,"Advanced to Enrollment and Review Initial",36,2,9,2,49
+1934578,1562378,2025-04-30,Legislature,"von Gillern AM1210 adopted",35,1,13,0,49
+1934578,1562379,2025-04-30,Legislature,"Advanced to Enrollment and Review for Engrossment",40,4,5,0,49
+1934578,1582035,2025-05-30,Legislature,"Passed on Final Reading 44-4-1",44,4,0,1,49
+1934586,1557342,2025-04-24,Legislature,"Hansen AM1097 lost",21,14,12,2,49
+1934586,1557343,2025-04-24,Legislature,"Cavanaugh, M. MO206 prevailed",26,12,8,3,49
+1934586,1557344,2025-04-24,Legislature,"Hansen AM1097 lost",22,11,13,3,49
+1934586,1557345,2025-04-24,Legislature,"Health and Human Services AM655 lost",23,17,7,2,49
+1934586,1557346,2025-04-24,Legislature,"Advanced to Enrollment and Review Initial",40,3,4,2,49
+1934606,1561838,2025-04-29,Legislature,"Advanced to Enrollment and Review Initial",41,0,8,0,49
+1934606,1571306,2025-05-14,Legislature,"Passed on Final Reading 47-2-0",47,2,0,0,49
+1934639,1568636,2025-05-08,Legislature,"McKinney MO200 failed",1,30,10,8,49
+1934639,1568637,2025-05-08,Legislature,"Conrad AM1306 lost",10,27,6,6,49
+1934639,1568638,2025-05-08,Legislature,"Bostar AM1272 adopted",32,1,9,7,49
+1934639,1568639,2025-05-08,Legislature,"Dungan FA199 lost",9,30,2,8,49
+1934639,1568640,2025-05-08,Legislature,"Government, Military and Veterans Affairs AM959 adopted",31,1,9,8,49
+1934639,1568641,2025-05-08,Legislature,"Advanced to Enrollment and Review Initial",30,2,9,8,49
+1934639,1570978,2025-05-14,Legislature,"Andersen AM1205 adopted",25,0,23,1,49
+1934639,1570979,2025-05-14,Legislature,"Cavanaugh, J. AM1455 adopted",32,1,14,2,49
+1934639,1570980,2025-05-14,Legislature,"Dungan FA230 lost",12,19,16,2,49
+1934639,1571378,2025-05-14,Legislature,"Cavanaugh, J. FA233 lost",18,23,8,0,49
+1934639,1571379,2025-05-14,Legislature,"Bostar FA234 adopted",29,4,16,0,49
+1934639,1582104,2025-05-30,Legislature,"Passed on Final Reading 37-11-1",37,11,0,1,49
+1934668,1568882,2025-05-09,Legislature,"Revenue AM1336 adopted",34,0,15,0,49
+1934668,1568883,2025-05-09,Legislature,"Advanced to Enrollment and Review Initial",37,0,12,0,49
+1934668,1579038,2025-05-27,Legislature,"Holdcroft AM1599 adopted",40,0,7,2,49
+1934668,1579039,2025-05-27,Legislature,"von Gillern FA286 adopted",38,0,9,2,49
+1934668,1579040,2025-05-27,Legislature,"Quick AM1581 adopted",40,0,8,1,49
+1934668,1579041,2025-05-27,Legislature,"von Gillern FA287 adopted",39,0,9,1,49
+1934668,1579042,2025-05-27,Legislature,"Bostar AM1573 adopted",36,1,10,2,49
+1934668,1579043,2025-05-27,Legislature,"von Gillern AM1560 adopted",37,0,10,2,49
+1934668,1581273,2025-05-29,Legislature,"Returned to Select File for specific amendment",44,0,4,1,49
+1934668,1581274,2025-05-29,Legislature,"von Gillern AM1642 adopted",46,0,2,1,49
+1934668,1583020,2025-06-02,Legislature,"Passed on Final Reading with Emergency Clause 49-0-0",49,0,0,0,49
+1934704,1573978,2025-05-20,Legislature,"Storm MO165 failed",17,20,8,4,49
+1934704,1573979,2025-05-20,Legislature,"Storm MO276 failed",16,23,8,2,49
+1934704,1574447,2025-05-20,Legislature,"Hansen MO278 failed",23,22,3,1,49
+1934767,1476351,2025-01-29,Legislature,"Moser MO26 prevailed",45,0,2,2,49
+1934826,1556349,2025-04-23,Legislature,"Government, Military and Veterans Affairs AM499 adopted",34,0,12,3,49
+1934826,1556350,2025-04-23,Legislature,"Advanced to Enrollment and Review Initial",35,0,11,3,49
+1934826,1571069,2025-05-14,Legislature,"Passed on Final Reading 47-2-0",47,2,0,0,49
+1934855,1551167,2025-04-17,Legislature,"Conrad MO27 failed",7,29,9,4,49
+1934855,1551168,2025-04-17,Legislature,"Nebraska Retirement Systems AM876 adopted",41,0,5,3,49
+1934855,1551169,2025-04-17,Legislature,"Advanced to Enrollment and Review Initial",38,0,8,3,49
+1934855,1557018,2025-04-24,Legislature,"Ballard AM1108 adopted",36,0,11,2,49
+1934855,1557019,2025-04-24,Legislature,"Bostar AM1135 adopted",39,0,8,2,49
+1934855,1558737,2025-04-28,Legislature,"Returned to Select File for specific amendment",43,0,2,4,49
+1934855,1558738,2025-04-28,Legislature,"Ballard AM1190 adopted",41,0,4,4,49
+1934855,1561952,2025-04-30,Legislature,"Passed on Final Reading with Emergency Clause 45-2-2",45,2,0,2,49
+1934863,1547590,2025-04-14,Legislature,"Spivey MO87 failed",12,31,2,4,49
+1934863,1548044,2025-04-15,Legislature,"Hansen MO179 prevailed",33,13,1,2,49
+1934863,1548045,2025-04-15,Legislature,"Spivey MO89 failed",14,33,0,2,49
+1934863,1548046,2025-04-15,Legislature,"Health and Human Services AM616 adopted",46,0,1,2,49
+1934863,1548047,2025-04-15,Legislature,"Advanced to Enrollment and Review Initial",34,11,2,2,49
+1934885,1555677,2025-04-23,Legislature,"Conrad AM1147 adopted",33,0,15,1,49
+1934885,1555678,2025-04-23,Legislature,"Government, Military and Veterans Affairs AM1008 adopted",36,0,12,1,49
+1934885,1555679,2025-04-23,Legislature,"Advanced to Enrollment and Review Initial",38,0,10,1,49
+1934885,1568034,2025-05-08,Legislature,"Spivey FA189 lost",8,27,13,1,49
+1934885,1571736,2025-05-14,Legislature,"Passed on Final Reading with Emergency Clause 49-0-0",49,0,0,0,49
+1934947,1491734,2025-02-18,Legislature,"Ibach MO36 prevailed",44,0,2,3,49
+1934947,1497190,2025-02-19,Legislature,"Conrad MO38 failed",0,31,11,7,49
+1934981,1559935,2025-04-29,Legislature,"Judiciary AM575 adopted",40,0,9,0,49
+1934981,1559936,2025-04-29,Legislature,"Advanced to Enrollment and Review Initial",37,0,12,0,49
+1934981,1571108,2025-05-14,Legislature,"Passed on Final Reading 46-3-0",46,3,0,0,49
+1934993,1561411,2025-04-29,Legislature,"Revenue AM1203 adopted",32,11,4,2,49
+1934993,1561412,2025-04-29,Legislature,"Quick AM1107 adopted",42,0,6,1,49
+1934993,1561413,2025-04-29,Legislature,"Revenue AM1202 adopted",42,0,6,1,49
+1934993,1561414,2025-04-29,Legislature,"Advanced to Enrollment and Review Initial",39,0,9,1,49
+1934993,1569022,2025-05-09,Legislature,"Sanders AM1360 adopted",33,0,13,3,49
+1934993,1569023,2025-05-09,Legislature,"Dungan FA200 lost",16,28,0,5,49
+1934993,1569024,2025-05-09,Legislature,"Advanced to Enrollment and Review for Engrossment",28,6,10,5,49
+1934993,1582041,2025-05-30,Legislature,"Passed on Final Reading with Emergency Clause 35-13-1",35,13,0,1,49
+1934993,1584567,2025-05-30,Legislature,"Cavanaugh, M. MO298 failed",10,31,5,3,49
+1934993,1584568,2025-05-30,Legislature,"Cavanaugh, M. MO340 failed",11,31,5,2,49
+1934993,1584569,2025-05-30,Legislature,"von Gillern MO343 prevailed",35,13,0,1,49
+1934993,1584570,2025-05-30,Legislature,"Motion to return to Select File failed",11,33,4,1,49
+1935017,1501028,2025-02-27,Legislature,"Raybould MO46 prevailed",37,0,5,7,49
+1935075,1543942,2025-04-09,Legislature,"Transportation and Telecommunications AM395 adopted",42,0,7,0,49
+1935075,1543943,2025-04-09,Legislature,"Advanced to Enrollment and Review Initial",42,0,7,0,49
+1935075,1571838,2025-05-14,Legislature,"Passed on Final Reading 49-0-0",49,0,0,0,49
+1935096,1558495,2025-04-25,Legislature,"General Affairs AM399 adopted",37,0,5,7,49
+1935096,1558496,2025-04-25,Legislature,"Advanced to Enrollment and Review Initial",34,3,5,7,49
+1935096,1568919,2025-05-09,Legislature,"Passed on Final Reading 45-2-2",45,2,0,2,49
+1935170,1534085,2025-04-02,Legislature,"Ibach MO151 prevailed",27,2,12,8,49
+1935170,1534086,2025-04-02,Legislature,"Ibach AM829 adopted",31,2,13,3,49
+1935170,1534736,2025-04-02,Legislature,"Storer AM810 lost",9,14,24,2,49
+1935170,1534737,2025-04-02,Legislature,"Agriculture AM638 adopted",26,3,18,2,49
+1935170,1534738,2025-04-02,Legislature,"Advanced to Enrollment and Review Initial",26,2,19,2,49
+1935170,1575454,2025-05-21,Legislature,"Ibach FA271 adopted",36,0,5,8,49
+1935170,1575455,2025-05-21,Legislature,"Jacobson AM1558 adopted",37,0,4,8,49
+1935221,1563342,2025-05-01,Legislature,"Bostar AM672 adopted",37,0,11,1,49
+1935221,1563343,2025-05-01,Legislature,"Judiciary AM538 adopted",37,0,11,1,49
+1935221,1563344,2025-05-01,Legislature,"Advanced to Enrollment and Review Initial",39,0,9,1,49
+1935221,1571747,2025-05-14,Legislature,"Passed on Final Reading 49-0-0",49,0,0,0,49
+1964463,1497319,2025-02-24,Legislature,"Advanced to Enrollment and Review Initial",41,1,3,4,49
+1964463,1507243,2025-03-06,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+1978910,1497286,2025-02-24,Legislature,"Advanced to Enrollment and Review Initial",40,0,5,4,49
+1978910,1507098,2025-03-06,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+1990470,1507114,2025-03-06,Legislature,"Advanced to Enrollment and Review Initial",41,0,5,3,49
+1990470,1579947,2025-05-28,Legislature,"Returned to Select File for specific amendment",45,0,4,0,49
+1990470,1579948,2025-05-28,Legislature,"Bosn FA333 adopted",47,0,2,0,49
+1993493,1512778,2025-03-11,Legislature,"Advanced to Enrollment and Review Initial",40,0,6,3,49
+1993493,1582123,2025-05-30,Legislature,"Passed on Final Reading 47-1-1",47,1,0,1,49
+1999722,1516250,2025-03-12,Legislature,"Advanced to Enrollment and Review Initial",39,0,5,5,49
+1999722,1526372,2025-03-25,Legislature,"Jacobson AM781 adopted",33,0,12,4,49
+1999722,1536584,2025-04-03,Legislature,"Passed on Final Reading with Emergency Clause 46-1-2",46,1,0,2,49
+2000471,1525899,2025-03-25,Legislature,"Riepe AM739 adopted",33,0,11,5,49
+2000471,1525900,2025-03-25,Legislature,"Advanced to Enrollment and Review Initial",38,0,6,5,49
+2000471,1536483,2025-04-03,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+2001157,1517952,2025-03-14,Legislature,"Advanced to Enrollment and Review Initial",41,0,2,6,49
+2001157,1529838,2025-03-28,Legislature,"Dungan AM780 adopted",38,0,9,2,49
+2001157,1536465,2025-04-03,Legislature,"Passed on Final Reading 47-0-2",47,0,0,2,49
+2002532,1518003,2025-03-14,Legislature,"Advanced to Enrollment and Review Initial",38,0,5,6,49
+2002532,1542407,2025-04-09,Legislature,"Returned to Select File for specific amendment",38,0,2,9,49
+2002532,1542408,2025-04-09,Legislature,"Hansen FA86 adopted",39,0,2,8,49
+2016235,1536554,2025-04-03,Legislature,"Advanced to Enrollment and Review Initial",41,0,3,5,49
+2016235,1554981,2025-04-23,Legislature,"Bostar AM931 adopted",29,0,15,5,49
+2016235,1571912,2025-05-14,Legislature,"Passed on Final Reading 49-0-0",49,0,0,0,49
+2016315,1535698,2025-04-03,Legislature,"Advanced to Enrollment and Review Initial",40,0,6,3,49
+2016315,1582126,2025-05-30,Legislature,"Passed on Final Reading 48-0-1",48,0,0,1,49
+2018495,1536350,2025-04-03,Legislature,"Advanced to Enrollment and Review Initial",39,0,7,3,49
+2018495,1571416,2025-05-14,Legislature,"Passed on Final Reading with Emergency Clause 49-0-0",49,0,0,0,49
+2021338,1568856,2025-05-09,Legislature,"Advanced to Enrollment and Review Initial",34,0,15,0,49
+2021338,1575543,2025-05-21,Legislature,"Murman AM1169 adopted",41,0,4,4,49
+2021338,1582056,2025-05-30,Legislature,"Passed on Final Reading 45-3-1",45,3,0,1,49
+2021353,1555137,2025-04-23,Legislature,"Advanced to Enrollment and Review Initial",30,0,14,5,49
+2021353,1582124,2025-05-30,Legislature,"Passed on Final Reading 44-3-2",44,3,0,2,49
+2024024,1563666,2025-05-01,Legislature,"Advanced to Enrollment and Review Initial",39,0,4,6,49
+2024024,1579881,2025-05-28,Legislature,"Passed on Final Reading 47-2-0",47,2,0,0,49
+2025392,1557071,2025-04-24,Legislature,"Advanced to Enrollment and Review Initial",39,0,8,2,49
+2025392,1571177,2025-05-14,Legislature,"Meyer AM1361 adopted",40,0,6,3,49
+2025392,1580588,2025-05-28,Legislature,"Passed on Final Reading 48-1-0",48,1,0,0,49
+2026155,1556668,2025-04-24,Legislature,"Advanced to Enrollment and Review Initial",40,0,7,2,49
+2026155,1558884,2025-04-28,Legislature,"Ballard AM1197 adopted",38,0,7,4,49
+2026155,1561615,2025-04-30,Legislature,"Passed on Final Reading with Emergency Clause 47-0-2",47,0,0,2,49
+2026183,1558928,2025-04-28,Legislature,"Advanced to Enrollment and Review Initial",38,0,5,6,49
+2026183,1571122,2025-05-14,Legislature,"Passed on Final Reading 48-1-0",48,1,0,0,49
+2026333,1559192,2025-04-28,Legislature,"Advanced to Enrollment and Review Initial",35,0,8,6,49
+2026333,1571212,2025-05-14,Legislature,"Passed on Final Reading 48-1-0",48,1,0,0,49
+2028916,1568018,2025-05-08,Legislature,"Advanced to Enrollment and Review Initial",39,0,4,6,49
+2028916,1579940,2025-05-28,Legislature,"Passed on Final Reading 44-5-0",44,5,0,0,49
+2029087,1568205,2025-05-08,Legislature,"Advanced to Enrollment and Review Initial",36,0,7,6,49
+2029087,1582112,2025-05-30,Legislature,"Passed on Final Reading 27-21-1",27,21,0,1,49
+2029190,1568198,2025-05-08,Legislature,"Advanced to Enrollment and Review Initial",41,0,2,6,49
+2029190,1582049,2025-05-30,Legislature,"Passed on Final Reading with Emergency Clause 42-6-1",42,6,0,1,49
+2030079,1571319,2025-05-14,Legislature,"Advanced to Enrollment and Review Initial",35,0,8,6,49
+2030079,1579015,2025-05-27,Legislature,"Cavanaugh, M. FA288 lost",2,29,15,3,49
+2030079,1579489,2025-05-27,Legislature,"Kauth MO308 prevailed",43,2,1,3,49
+2030083,1573057,2025-05-14,Legislature,"Bostar MO253 prevailed",41,0,4,4,49
+2030273,1570954,2025-05-14,Legislature,"Advanced to Enrollment and Review Initial",27,0,16,6,49
+2030353,1570970,2025-05-14,Legislature,"Advanced to Enrollment and Review Initial",28,7,8,6,49
+2030353,1582139,2025-05-30,Legislature,"Failed on Final Reading with Emergency Clause 27-21-1",27,21,0,1,49
+2030353,1582140,2025-05-30,Legislature,"Passed on Final Reading 27-21-1",27,21,0,1,49
+2030408,1571057,2025-05-14,Legislature,"Advanced to Enrollment and Review Initial",38,0,5,6,49
+2030408,1580665,2025-05-28,Legislature,"Passed on Final Reading with Emergency Clause 44-5-0",44,5,0,0,49
+2030430,1571116,2025-05-14,Legislature,"Advanced to Enrollment and Review Initial",38,0,5,6,49
+2030430,1581798,2025-05-29,Legislature,"Passed on Final Reading 44-4-1",44,4,0,1,49
+2031110,1571858,2025-05-15,Legislature,"Advanced to Enrollment and Review Initial",33,0,13,3,49
+2031110,1578865,2025-05-27,Legislature,"von Gillern AM1510 adopted",38,0,9,2,49
+2031110,1583236,2025-06-02,Legislature,"Passed on Final Reading with Emergency Clause 49-0-0",49,0,0,0,49
+2031376,1572016,2025-05-15,Legislature,"Advanced to Enrollment and Review Initial",41,0,4,4,49
+2031376,1582024,2025-05-30,Legislature,"Passed on Final Reading 46-2-1",46,2,0,1,49
+2031413,1572211,2025-05-15,Legislature,"Advanced to Enrollment and Review Initial",35,1,10,3,49
+2031413,1582122,2025-05-30,Legislature,"Passed on Final Reading 45-3-1",45,3,0,1,49
+2032395,1574974,2025-05-21,Legislature,"Advanced to Enrollment and Review Initial",36,2,10,1,49
+2032395,1582031,2025-05-30,Legislature,"Passed on Final Reading with Emergency Clause 46-2-1",46,2,0,1,49
+2032421,1579496,2025-05-27,Legislature,"Advanced to Enrollment and Review Initial",33,2,11,3,49
+2032421,1581116,2025-05-29,Legislature,"Murman MO335 prevailed",42,0,6,1,49
+2032449,1574371,2025-05-20,Legislature,"Advanced to Enrollment and Review Initial",45,0,3,1,49
+2032449,1579533,2025-05-28,Legislature,"Bosn AM1609 adopted",45,0,1,3,49
+2032449,1582022,2025-05-30,Legislature,"Passed on Final Reading 47-1-1",47,1,0,1,49

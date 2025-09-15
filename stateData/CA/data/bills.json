@@ -1,0 +1,2161 @@
+{
+     "1978606": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "75377c67f6295530073582cd63455b4e",
+               "relevance": 20,
+               "state": "CA",
+               "bill number": "AB1071",
+               "description": "An act to amend Sections 745, 1473, and 1473.7 of the Penal Code, relating to criminal procedure.",
+               "state link": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1071",
+               "legiscan link": "https://legiscan.com/CA/bill/AB1071/2025",
+               "status": {
+                    "date": "09-13-2025",
+                    "label": "Enrolled",
+                    "action": "In Assembly. Concurrence in Senate amendments pending."
+               },
+               "date introduced": "02-20-2025",
+               "party": "D",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Ash Kalra",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1978606,
+               "change_hash": "75377c67f6295530073582cd63455b4e",
+               "session_id": 2172,
+               "session": {
+                    "session_id": 2172,
+                    "state_id": 5,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 0,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 Regular Session"
+               },
+               "url": "https://legiscan.com/CA/bill/AB1071/2025",
+               "state_link": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1071",
+               "completed": 0,
+               "status": 3,
+               "status_date": "2025-09-13",
+               "progress": [
+                    {
+                         "date": "2025-02-20",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-03-10",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-03-28",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-04-01",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-04-23",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-05-19",
+                         "event": 2
+                    },
+                    {
+                         "date": "2025-05-20",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-05-28",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-06-13",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-06-13",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-06-24",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-06-25",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-07-14",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-08-29",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-09-13",
+                         "event": 3
+                    }
+               ],
+               "state": "CA",
+               "state_id": 5,
+               "bill_number": "AB1071",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "A",
+               "body_id": 19,
+               "current_body": "A",
+               "current_body_id": 19,
+               "title": "Criminal procedure: discrimination.",
+               "description": "An act to amend Sections 745, 1473, and 1473.7 of the Penal Code, relating to criminal procedure.",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [
+                    {
+                         "date": "2025-03-10",
+                         "committee_id": 468,
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "name": "Public Safety"
+                    },
+                    {
+                         "date": "2025-05-20",
+                         "committee_id": 489,
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "name": "Rules"
+                    },
+                    {
+                         "date": "2025-05-28",
+                         "committee_id": 487,
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "name": "Public Safety"
+                    },
+                    {
+                         "date": "2025-06-24",
+                         "committee_id": 475,
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "name": "Appropriations"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-20",
+                         "action": "Read first time. To print.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-21",
+                         "action": "From printer. May be heard in committee March 23.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-10",
+                         "action": "Referred to Com. on PUB. S.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-28",
+                         "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on PUB. S. Read second time and amended.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-04-01",
+                         "action": "Re-referred to Com. on PUB. S.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-04-23",
+                         "action": "From committee: Do pass. (Ayes 7. Noes 2.) (April 22).",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-04-24",
+                         "action": "Read second time. Ordered to third reading.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-05-19",
+                         "action": "Read third time. Passed. Ordered to the Senate.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-05-20",
+                         "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-05-28",
+                         "action": "Referred to Coms. on PUB. S. and APPR.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-06-13",
+                         "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on PUB. S.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-06-24",
+                         "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 4. Noes 1.) (June 24).",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-06-25",
+                         "action": "Read second time and amended. Re-referred to Com. on APPR.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-07-02",
+                         "action": "In committee: Hearing postponed by committee.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-07-14",
+                         "action": "In committee: Referred to APPR. suspense file.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-08-29",
+                         "action": "From committee: Amend, and do pass as amended. (Ayes 5. Noes 2.) (August 29).",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-08-29",
+                         "action": "Read second time and amended. Ordered returned to second reading.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-09-02",
+                         "action": "Read second time. Ordered to third reading.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-09-05",
+                         "action": "Read third time and amended. Ordered to second reading.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-09-08",
+                         "action": "Read second time. Ordered to third reading.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-09-11",
+                         "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 25. Noes 11.).",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-09-12",
+                         "action": "In Assembly. Concurrence in Senate amendments pending.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-09-13",
+                         "action": "Joint Rules 61(a)(14) and 51(a)(4) suspended.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-09-13",
+                         "action": "Senate amendments concurred in. To Engrossing and Enrolling.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 18065,
+                         "person_hash": "7l7sp2pk",
+                         "party_id": "1",
+                         "state_id": 5,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Ash Kalra",
+                         "first_name": "Ash",
+                         "middle_name": "",
+                         "last_name": "Kalra",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-025",
+                         "ftm_eid": 161609,
+                         "votesmart_id": 112088,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 577820,
+                         "ballotpedia": "Ash_Kalra",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3134772,
+                         "date": "2025-02-20",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/CA/text/AB1071/id/3134772",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1071#99INT",
+                         "text_size": 55897,
+                         "text_hash": "8a53d74b4650cc681e135bff2ad41da1",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3193886,
+                         "date": "2025-03-28",
+                         "type": "Amended",
+                         "type_id": 3,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/CA/text/AB1071/id/3193886",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1071#98AMD",
+                         "text_size": 51046,
+                         "text_hash": "fac0fce94c152056a3d56f9b269f6f8d",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3255809,
+                         "date": "2025-06-13",
+                         "type": "Amended",
+                         "type_id": 3,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/CA/text/AB1071/id/3255809",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1071#97AMD",
+                         "text_size": 63654,
+                         "text_hash": "2ac1063c8737d1abc8e577eda1d5aa43",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3258796,
+                         "date": "2025-06-25",
+                         "type": "Amended",
+                         "type_id": 3,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/CA/text/AB1071/id/3258796",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1071#96AMD",
+                         "text_size": 51570,
+                         "text_hash": "e1f5003598e6e4543fc9676e996dc17c",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3266900,
+                         "date": "2025-08-29",
+                         "type": "Amended",
+                         "type_id": 3,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/CA/text/AB1071/id/3266900",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1071#95AMD",
+                         "text_size": 96997,
+                         "text_hash": "6c9941fa5de9c18afbf76edbf6923230",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3267974,
+                         "date": "2025-09-05",
+                         "type": "Amended",
+                         "type_id": 3,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/CA/text/AB1071/id/3267974",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1071#94AMD",
+                         "text_size": 84767,
+                         "text_hash": "b9f801157870ef804d3404abe3c55225",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [
+                    {
+                         "roll_call_id": 1554455,
+                         "date": "2025-04-22",
+                         "desc": "Do pass",
+                         "yea": 7,
+                         "nay": 2,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 9,
+                         "passed": 1,
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "url": "https://legiscan.com/CA/rollcall/AB1071/id/1554455",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1071"
+                    },
+                    {
+                         "roll_call_id": 1573555,
+                         "date": "2025-05-19",
+                         "desc": "AB 1071 Kalra Assembly Third Reading",
+                         "yea": 48,
+                         "nay": 16,
+                         "nv": 0,
+                         "absent": 15,
+                         "total": 79,
+                         "passed": 1,
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "url": "https://legiscan.com/CA/rollcall/AB1071/id/1573555",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1071"
+                    },
+                    {
+                         "roll_call_id": 1594617,
+                         "date": "2025-06-24",
+                         "desc": "Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",
+                         "yea": 4,
+                         "nay": 1,
+                         "nv": 0,
+                         "absent": 1,
+                         "total": 6,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "url": "https://legiscan.com/CA/rollcall/AB1071/id/1594617",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1071"
+                    },
+                    {
+                         "roll_call_id": 1598306,
+                         "date": "2025-07-14",
+                         "desc": "Placed on suspense file",
+                         "yea": 7,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 7,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "url": "https://legiscan.com/CA/rollcall/AB1071/id/1598306",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1071"
+                    },
+                    {
+                         "roll_call_id": 1600594,
+                         "date": "2025-08-29",
+                         "desc": "Do pass as amended",
+                         "yea": 5,
+                         "nay": 2,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 7,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "url": "https://legiscan.com/CA/rollcall/AB1071/id/1600594",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1071"
+                    },
+                    {
+                         "roll_call_id": 1601943,
+                         "date": "2025-09-11",
+                         "desc": "Assembly 3rd Reading AB1071 Kalra By Arregu\u00edn",
+                         "yea": 25,
+                         "nay": 11,
+                         "nv": 0,
+                         "absent": 4,
+                         "total": 40,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "url": "https://legiscan.com/CA/rollcall/AB1071/id/1601943",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1071"
+                    },
+                    {
+                         "roll_call_id": 1602345,
+                         "date": "2025-09-13",
+                         "desc": "AB 1071 Kalra Concurrence in Senate Amendments",
+                         "yea": 42,
+                         "nay": 21,
+                         "nv": 0,
+                         "absent": 17,
+                         "total": 80,
+                         "passed": 1,
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "url": "https://legiscan.com/CA/rollcall/AB1071/id/1602345",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1071"
+                    }
+               ],
+               "amendments": [],
+               "supplements": [],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "71c95757",
+                         "type": "Hearing",
+                         "date": "2025-04-22",
+                         "time": "08:30",
+                         "location": "State Capitol, Room 126",
+                         "description": "Assembly Public Safety Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "f4bed93e",
+                         "type": "Hearing",
+                         "date": "2025-06-24",
+                         "time": "09:00",
+                         "location": "1021 O Street, Room 2200",
+                         "description": "Senate Public Safety Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "7804de42",
+                         "type": "Hearing",
+                         "date": "2025-07-07",
+                         "time": "10:00",
+                         "location": "1021 O Street, Room 2200",
+                         "description": "Senate Appropriations Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "35381aa4",
+                         "type": "Hearing",
+                         "date": "2025-07-14",
+                         "time": "10:00",
+                         "location": "1021 O Street, Room 2200",
+                         "description": "Senate Appropriations Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "00c66c85",
+                         "type": "Hearing",
+                         "date": "2025-08-29",
+                         "time": "00:00",
+                         "location": "1021 O Street, Room 2200",
+                         "description": "Senate Appropriations Hearing"
+                    }
+               ]
+          }
+     },
+     "1980464": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "8943db9fbdd6b6d8265d97e1e67c71d2",
+               "relevance": 19,
+               "state": "CA",
+               "bill number": "SB734",
+               "description": "An act to add Section 3305.6 to the Government Code, and to amend Sections 745, 1473, 1473.7, and 13510.8 of the Penal Code, relating to criminal procedure.",
+               "state link": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB734",
+               "legiscan link": "https://legiscan.com/CA/bill/SB734/2025",
+               "status": {
+                    "date": "09-09-2025",
+                    "label": "Enrolled",
+                    "action": "Assembly amendments concurred in. (Ayes 39. Noes 0.) Ordered to engrossing and enrolling."
+               },
+               "date introduced": "02-21-2025",
+               "party": "D",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Anna Caballero",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1980464,
+               "change_hash": "8943db9fbdd6b6d8265d97e1e67c71d2",
+               "session_id": 2172,
+               "session": {
+                    "session_id": 2172,
+                    "state_id": 5,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 0,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 Regular Session"
+               },
+               "url": "https://legiscan.com/CA/bill/SB734/2025",
+               "state_link": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB734",
+               "completed": 0,
+               "status": 3,
+               "status_date": "2025-09-09",
+               "progress": [
+                    {
+                         "date": "2025-02-21",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-03-12",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-03-24",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-04-01",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-04-02",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-05-28",
+                         "event": 2
+                    },
+                    {
+                         "date": "2025-06-05",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-06-17",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-06-17",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-07-02",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-09-09",
+                         "event": 3
+                    }
+               ],
+               "state": "CA",
+               "state_id": 5,
+               "bill_number": "SB734",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "S",
+               "body_id": 20,
+               "current_body": "S",
+               "current_body_id": 20,
+               "title": "Criminal procedure: discrimination.",
+               "description": "An act to add Section 3305.6 to the Government Code, and to amend Sections 745, 1473, 1473.7, and 13510.8 of the Penal Code, relating to criminal procedure.",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [
+                    {
+                         "date": "2025-02-21",
+                         "committee_id": 489,
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "name": "Rules"
+                    },
+                    {
+                         "date": "2025-03-12",
+                         "committee_id": 487,
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "name": "Public Safety"
+                    },
+                    {
+                         "date": "2025-04-01",
+                         "committee_id": 475,
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "name": "Appropriations"
+                    },
+                    {
+                         "date": "2025-06-05",
+                         "committee_id": 468,
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "name": "Public Safety"
+                    },
+                    {
+                         "date": "2025-06-17",
+                         "committee_id": 449,
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "name": "Appropriations"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-21",
+                         "action": "Introduced. To Com. on RLS. for assignment. To print.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-24",
+                         "action": "From printer. May be acted upon on or after March 24.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-24",
+                         "action": "Read first time.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-12",
+                         "action": "Referred to Com. on PUB. S.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-18",
+                         "action": "Set for hearing April 1.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-24",
+                         "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on PUB. S.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-04-01",
+                         "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 6. Noes 0. Page 612.) (April 1).",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-04-02",
+                         "action": "Read second time and amended. Re-referred to Com. on APPR.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-04-04",
+                         "action": "Set for hearing April 21.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-21",
+                         "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-22",
+                         "action": "Read second time. Ordered to third reading.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-05-08",
+                         "action": "Read third time and amended.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-05-08",
+                         "action": "Ordered to second reading.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-05-12",
+                         "action": "Read second time. Ordered to third reading.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-05-28",
+                         "action": "Read third time. Passed. (Ayes 38. Noes 0. Page 1271.) Ordered to the Assembly.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-05-28",
+                         "action": "Motion to reconsider made by Senator Caballero.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-05-28",
+                         "action": "Reconsideration granted. (Ayes 38. Noes 0. Page 1271.)",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-05-28",
+                         "action": "Read third time. Passed. (Ayes 36. Noes 0. Page 1272.) Ordered to the Assembly.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-05-28",
+                         "action": "In Assembly. Read first time. Held at Desk.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-06-05",
+                         "action": "Referred to Com. on PUB. S.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-06-17",
+                         "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 0.) (June 17). Re-referred to Com. on APPR.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-07-02",
+                         "action": "From committee: Do pass. (Ayes 14. Noes 0.) (July 2).",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-07-03",
+                         "action": "Read second time. Ordered to third reading.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-08-26",
+                         "action": "Read third time and amended.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-08-26",
+                         "action": "Ordered to third reading.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-09-04",
+                         "action": "Read third time and amended.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-09-04",
+                         "action": "Ordered to third reading.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-09-08",
+                         "action": "Read third time. Passed. Ordered to the Senate.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-09-08",
+                         "action": "In Senate. Concurrence in Assembly amendments pending.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-09-09",
+                         "action": "Assembly amendments concurred in. (Ayes 39. Noes 0.) Ordered to engrossing and enrolling.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 1507,
+                         "person_hash": "3ln8g429",
+                         "party_id": "1",
+                         "state_id": 5,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Anna Caballero",
+                         "first_name": "Anna",
+                         "middle_name": "M.",
+                         "last_name": "Caballero",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-014",
+                         "ftm_eid": 775712,
+                         "votesmart_id": 58583,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 248446,
+                         "ballotpedia": "Anna_Caballero",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3137251,
+                         "date": "2025-02-21",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/CA/text/SB734/id/3137251",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB734#99INT",
+                         "text_size": 18523,
+                         "text_hash": "8467d655cdfad03e450b7bce47d945ca",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3186948,
+                         "date": "2025-03-24",
+                         "type": "Amended",
+                         "type_id": 3,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/CA/text/SB734/id/3186948",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB734#98AMD",
+                         "text_size": 37554,
+                         "text_hash": "c2b48c489e3d5c527bc110ed72274731",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3199716,
+                         "date": "2025-04-02",
+                         "type": "Amended",
+                         "type_id": 3,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/CA/text/SB734/id/3199716",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB734#97AMD",
+                         "text_size": 37960,
+                         "text_hash": "f9965004a682fd1c938617e667cc4625",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3233200,
+                         "date": "2025-05-08",
+                         "type": "Amended",
+                         "type_id": 3,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/CA/text/SB734/id/3233200",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB734#96AMD",
+                         "text_size": 52739,
+                         "text_hash": "e1666ac8f9d3402f415c5544e9282d14",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3266417,
+                         "date": "2025-08-26",
+                         "type": "Amended",
+                         "type_id": 3,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/CA/text/SB734/id/3266417",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB734#95AMD",
+                         "text_size": 67937,
+                         "text_hash": "6f29bb0926da054ed5eab79dfad7fb5d",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3267679,
+                         "date": "2025-09-04",
+                         "type": "Amended",
+                         "type_id": 3,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/CA/text/SB734/id/3267679",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB734#94AMD",
+                         "text_size": 93491,
+                         "text_hash": "1b15d56c4d81fde8e4540e74a26450f3",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3269296,
+                         "date": "2025-09-12",
+                         "type": "Enrolled",
+                         "type_id": 5,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/CA/text/SB734/id/3269296",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB734#93ENR",
+                         "text_size": 89358,
+                         "text_hash": "817fa41fed5d341acab8a6c1be9ac9f7",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [
+                    {
+                         "roll_call_id": 1533557,
+                         "date": "2025-04-01",
+                         "desc": "Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",
+                         "yea": 6,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 6,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "url": "https://legiscan.com/CA/rollcall/SB734/id/1533557",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB734"
+                    },
+                    {
+                         "roll_call_id": 1580515,
+                         "date": "2025-05-28",
+                         "desc": "Senate 3rd Reading SB734 Caballero",
+                         "yea": 38,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 2,
+                         "total": 40,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "url": "https://legiscan.com/CA/rollcall/SB734/id/1580515",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB734"
+                    },
+                    {
+                         "roll_call_id": 1580516,
+                         "date": "2025-05-28",
+                         "desc": "Senate 3rd Reading SB734 Caballero Reconsider",
+                         "yea": 38,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 2,
+                         "total": 40,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "url": "https://legiscan.com/CA/rollcall/SB734/id/1580516",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB734"
+                    },
+                    {
+                         "roll_call_id": 1580517,
+                         "date": "2025-05-28",
+                         "desc": "Senate 3rd Reading SB734 Caballero",
+                         "yea": 36,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 4,
+                         "total": 40,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "url": "https://legiscan.com/CA/rollcall/SB734/id/1580517",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB734"
+                    },
+                    {
+                         "roll_call_id": 1591898,
+                         "date": "2025-06-17",
+                         "desc": "Do pass and be re-referred to the Committee on [Appropriations]",
+                         "yea": 9,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 9,
+                         "passed": 1,
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "url": "https://legiscan.com/CA/rollcall/SB734/id/1591898",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB734"
+                    },
+                    {
+                         "roll_call_id": 1597539,
+                         "date": "2025-07-02",
+                         "desc": "Do pass",
+                         "yea": 14,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 1,
+                         "total": 15,
+                         "passed": 1,
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "url": "https://legiscan.com/CA/rollcall/SB734/id/1597539",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB734"
+                    },
+                    {
+                         "roll_call_id": 1601397,
+                         "date": "2025-09-08",
+                         "desc": "SB 734 Caballero Senate Third Reading By Irwin",
+                         "yea": 76,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 4,
+                         "total": 80,
+                         "passed": 1,
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "url": "https://legiscan.com/CA/rollcall/SB734/id/1601397",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB734"
+                    },
+                    {
+                         "roll_call_id": 1601567,
+                         "date": "2025-09-09",
+                         "desc": "Unfinished Business SB734 Caballero Concurrence",
+                         "yea": 40,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 40,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "url": "https://legiscan.com/CA/rollcall/SB734/id/1601567",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB734"
+                    }
+               ],
+               "amendments": [],
+               "supplements": [],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "e7389799",
+                         "type": "Hearing",
+                         "date": "2025-04-01",
+                         "time": "09:30",
+                         "location": "1021 O Street, Room 2200",
+                         "description": "Senate Public Safety Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "f05534f9",
+                         "type": "Hearing",
+                         "date": "2025-04-21",
+                         "time": "10:30",
+                         "location": "1021 O Street, Room 2200",
+                         "description": "Senate Appropriations Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "a92f951f",
+                         "type": "Hearing",
+                         "date": "2025-06-17",
+                         "time": "09:00",
+                         "location": "State Capitol, Room 126",
+                         "description": "Assembly Public Safety Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "0a0a7a59",
+                         "type": "Hearing",
+                         "date": "2025-07-02",
+                         "time": "09:00",
+                         "location": "1021 O Street, Room 1100",
+                         "description": "Assembly Appropriations Hearing"
+                    }
+               ]
+          }
+     },
+     "1978784": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "2b0b84b9514a4582fbe57f019b304483",
+               "relevance": 19,
+               "state": "CA",
+               "bill number": "SB551",
+               "description": "An act to amend Sections 1170 and 5000 of, and to add Section 5000.5 to, the Penal Code, relating to corrections and rehabilitation.",
+               "state link": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB551",
+               "legiscan link": "https://legiscan.com/CA/bill/SB551/2025",
+               "status": {
+                    "date": "09-09-2025",
+                    "label": "Enrolled",
+                    "action": "Assembly amendments concurred in. (Ayes 30. Noes 9.) Ordered to engrossing and enrolling."
+               },
+               "date introduced": "02-20-2025",
+               "party": "D",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Dave Cortese",
+                         "co": "Josh Becker, Tom Umberg, Akilah Weber Pierson",
+                         "joint": "Nick Schultz"
+                    },
+                    "sponsor-party": "democrat: 5"
+               }
+          },
+          "raw": {
+               "bill_id": 1978784,
+               "change_hash": "2b0b84b9514a4582fbe57f019b304483",
+               "session_id": 2172,
+               "session": {
+                    "session_id": 2172,
+                    "state_id": 5,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 0,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 Regular Session"
+               },
+               "url": "https://legiscan.com/CA/bill/SB551/2025",
+               "state_link": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB551",
+               "completed": 0,
+               "status": 3,
+               "status_date": "2025-09-09",
+               "progress": [
+                    {
+                         "date": "2025-02-20",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-03-05",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-03-24",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-04-02",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-04-23",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-04-23",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-05-28",
+                         "event": 2
+                    },
+                    {
+                         "date": "2025-06-05",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-06-10",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-06-17",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-06-17",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-08-29",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-09-09",
+                         "event": 3
+                    }
+               ],
+               "state": "CA",
+               "state_id": 5,
+               "bill_number": "SB551",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "S",
+               "body_id": 20,
+               "current_body": "S",
+               "current_body_id": 20,
+               "title": "Corrections and rehabilitation: state policy.",
+               "description": "An act to amend Sections 1170 and 5000 of, and to add Section 5000.5 to, the Penal Code, relating to corrections and rehabilitation.",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [
+                    {
+                         "date": "2025-02-20",
+                         "committee_id": 489,
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "name": "Rules"
+                    },
+                    {
+                         "date": "2025-04-02",
+                         "committee_id": 487,
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "name": "Public Safety"
+                    },
+                    {
+                         "date": "2025-04-23",
+                         "committee_id": 475,
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "name": "Appropriations"
+                    },
+                    {
+                         "date": "2025-06-05",
+                         "committee_id": 468,
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "name": "Public Safety"
+                    },
+                    {
+                         "date": "2025-06-17",
+                         "committee_id": 449,
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "name": "Appropriations"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-20",
+                         "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-21",
+                         "action": "From printer. May be acted upon on or after March 23.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-05",
+                         "action": "Referred to Com. on RLS.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-24",
+                         "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-04-02",
+                         "action": "Re-referred to Com. on PUB. S.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-04-09",
+                         "action": "Set for hearing April 22.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-04-23",
+                         "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 5. Noes 1. Page 841.) (April 22). Re-referred to Com. on APPR.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-04-25",
+                         "action": "Set for hearing May 5.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-05-05",
+                         "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-05-06",
+                         "action": "Read second time. Ordered to third reading.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-05-28",
+                         "action": "Read third time. Passed. (Ayes 28. Noes 10. Page 1293.) Ordered to the Assembly.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-05-28",
+                         "action": "In Assembly. Read first time. Held at Desk.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-06-05",
+                         "action": "Referred to Com. on PUB. S.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-06-10",
+                         "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on PUB. S.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-06-17",
+                         "action": "Coauthors revised.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-06-17",
+                         "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 2.) (June 17). Re-referred to Com. on APPR.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-07-16",
+                         "action": "July 16 set for first hearing. Placed on APPR. suspense file.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-08-29",
+                         "action": "From committee: Do pass. (Ayes 11. Noes 4.) (August 29).",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-09-02",
+                         "action": "Read second time. Ordered to third reading.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-09-03",
+                         "action": "Read third time. Passed. Ordered to the Senate.",
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-09-03",
+                         "action": "In Senate. Concurrence in Assembly amendments pending.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-09-09",
+                         "action": "Assembly amendments concurred in. (Ayes 30. Noes 9.) Ordered to engrossing and enrolling.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 21725,
+                         "person_hash": "8kuz8dfs",
+                         "party_id": "1",
+                         "state_id": 5,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Dave Cortese",
+                         "first_name": "Dave",
+                         "middle_name": "",
+                         "last_name": "Cortese",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-015",
+                         "ftm_eid": 44050174,
+                         "votesmart_id": 114701,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 510772,
+                         "ballotpedia": "Dave_Cortese_(California)",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 21724,
+                         "person_hash": "kietw7cb",
+                         "party_id": "1",
+                         "state_id": 5,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Josh Becker",
+                         "first_name": "Josh",
+                         "middle_name": "",
+                         "last_name": "Becker",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-013",
+                         "ftm_eid": 6503297,
+                         "votesmart_id": 120184,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 290928,
+                         "ballotpedia": "Josh_Becker",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 25348,
+                         "person_hash": "bm9fcy7j",
+                         "party_id": "1",
+                         "state_id": 5,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Nick Schultz",
+                         "first_name": "Nick",
+                         "middle_name": "",
+                         "last_name": "Schultz",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-044",
+                         "ftm_eid": 59507468,
+                         "votesmart_id": 213350,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Nick_Schultz",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 3,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 19728,
+                         "person_hash": "q0rgol1k",
+                         "party_id": "1",
+                         "state_id": 5,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Tom Umberg",
+                         "first_name": "Thomas",
+                         "middle_name": "",
+                         "last_name": "Umberg",
+                         "suffix": "",
+                         "nickname": "Tom",
+                         "district": "SD-034",
+                         "ftm_eid": 6398641,
+                         "votesmart_id": 29299,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 226490,
+                         "ballotpedia": "Tom_Umberg",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 4,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22918,
+                         "person_hash": "0gl8wlir",
+                         "party_id": "1",
+                         "state_id": 5,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Akilah Weber Pierson",
+                         "first_name": "Akilah",
+                         "middle_name": "",
+                         "last_name": "Weber Pierson",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-039",
+                         "ftm_eid": 52996838,
+                         "votesmart_id": 195832,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 773952,
+                         "ballotpedia": "Akilah_Weber",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 5,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3134947,
+                         "date": "2025-02-20",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/CA/text/SB551/id/3134947",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB551#99INT",
+                         "text_size": 34088,
+                         "text_hash": "c97d9854c9608cf374a6834d0497273a",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3186957,
+                         "date": "2025-03-24",
+                         "type": "Amended",
+                         "type_id": 3,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/CA/text/SB551/id/3186957",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB551#98AMD",
+                         "text_size": 38419,
+                         "text_hash": "8c1e89ee0d7da1f5e175d66c15dc05c9",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3254347,
+                         "date": "2025-06-10",
+                         "type": "Amended",
+                         "type_id": 3,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/CA/text/SB551/id/3254347",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB551#97AMD",
+                         "text_size": 42537,
+                         "text_hash": "20544d8f797458cf419028c6f18672f8",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3269058,
+                         "date": "2025-09-12",
+                         "type": "Enrolled",
+                         "type_id": 5,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/CA/text/SB551/id/3269058",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB551#96ENR",
+                         "text_size": 39628,
+                         "text_hash": "65739b009370a1c33000a014523d2ab0",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [
+                    {
+                         "roll_call_id": 1554481,
+                         "date": "2025-04-22",
+                         "desc": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+                         "yea": 5,
+                         "nay": 1,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 6,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "url": "https://legiscan.com/CA/rollcall/SB551/id/1554481",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB551"
+                    },
+                    {
+                         "roll_call_id": 1580510,
+                         "date": "2025-05-28",
+                         "desc": "Senate 3rd Reading SB551 Cortese et al",
+                         "yea": 28,
+                         "nay": 10,
+                         "nv": 0,
+                         "absent": 2,
+                         "total": 40,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "url": "https://legiscan.com/CA/rollcall/SB551/id/1580510",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB551"
+                    },
+                    {
+                         "roll_call_id": 1591893,
+                         "date": "2025-06-17",
+                         "desc": "Do pass and be re-referred to the Committee on [Appropriations]",
+                         "yea": 7,
+                         "nay": 2,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 9,
+                         "passed": 1,
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "url": "https://legiscan.com/CA/rollcall/SB551/id/1591893",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB551"
+                    },
+                    {
+                         "roll_call_id": 1600439,
+                         "date": "2025-08-29",
+                         "desc": "Do pass",
+                         "yea": 11,
+                         "nay": 4,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 15,
+                         "passed": 1,
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "url": "https://legiscan.com/CA/rollcall/SB551/id/1600439",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB551"
+                    },
+                    {
+                         "roll_call_id": 1600941,
+                         "date": "2025-09-03",
+                         "desc": "SB 551 Cortese Senate Third Reading By Schultz",
+                         "yea": 57,
+                         "nay": 20,
+                         "nv": 0,
+                         "absent": 2,
+                         "total": 79,
+                         "passed": 1,
+                         "chamber": "A",
+                         "chamber_id": 19,
+                         "url": "https://legiscan.com/CA/rollcall/SB551/id/1600941",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB551"
+                    },
+                    {
+                         "roll_call_id": 1601527,
+                         "date": "2025-09-09",
+                         "desc": "Unfinished Business SB551 Cortese et al. Concurrence",
+                         "yea": 30,
+                         "nay": 9,
+                         "nv": 0,
+                         "absent": 1,
+                         "total": 40,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "url": "https://legiscan.com/CA/rollcall/SB551/id/1601527",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB551"
+                    }
+               ],
+               "amendments": [],
+               "supplements": [],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "602e08e0",
+                         "type": "Hearing",
+                         "date": "2025-04-22",
+                         "time": "08:30",
+                         "location": "1021 O Street, Room 2200",
+                         "description": "Senate Public Safety Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "2e1692aa",
+                         "type": "Hearing",
+                         "date": "2025-05-05",
+                         "time": "10:00",
+                         "location": "1021 O Street, Room 2200",
+                         "description": "Senate Appropriations Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "a92f951f",
+                         "type": "Hearing",
+                         "date": "2025-06-17",
+                         "time": "09:00",
+                         "location": "State Capitol, Room 126",
+                         "description": "Assembly Public Safety Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "89c8e7ad",
+                         "type": "Hearing",
+                         "date": "2025-07-16",
+                         "time": "09:00",
+                         "location": "1021 O Street, Room 1100",
+                         "description": "Assembly Appropriations Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "55629a42",
+                         "type": "Hearing",
+                         "date": "2025-08-29",
+                         "time": "00:00",
+                         "location": "1021 O Street, Room 1100",
+                         "description": "Assembly Appropriations Hearing"
+                    }
+               ]
+          }
+     },
+     "1893462": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "7dae717a2b2cb7c714a425a9681710fb",
+               "relevance": 17,
+               "state": "CA",
+               "bill number": "SR4",
+               "description": "Relative to the Standing Rules of the Senate for the 2025\u201326 Regular Session.",
+               "state link": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SR4",
+               "legiscan link": "https://legiscan.com/CA/bill/SR4/2025",
+               "status": {
+                    "date": "12-02-2024",
+                    "label": "Passed",
+                    "action": "Read. Adopted. (Ayes 29. Noes 9. Page 10.)"
+               },
+               "date introduced": "12-02-2024",
+               "party": "D",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Lena Gonzalez",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1893462,
+               "change_hash": "7dae717a2b2cb7c714a425a9681710fb",
+               "session_id": 2172,
+               "session": {
+                    "session_id": 2172,
+                    "state_id": 5,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 0,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "2025-2026 Regular Session"
+               },
+               "url": "https://legiscan.com/CA/bill/SR4/2025",
+               "state_link": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SR4",
+               "completed": 1,
+               "status": 4,
+               "status_date": "2024-12-02",
+               "progress": [
+                    {
+                         "date": "2024-12-02",
+                         "event": 1
+                    },
+                    {
+                         "date": "2024-12-02",
+                         "event": 4
+                    }
+               ],
+               "state": "CA",
+               "state_id": 5,
+               "bill_number": "SR4",
+               "bill_type": "R",
+               "bill_type_id": "2",
+               "body": "S",
+               "body_id": 20,
+               "current_body": "S",
+               "current_body_id": 20,
+               "title": "Relative to the Standing Rules of the Senate for the 2025\u201326 Regular Session.",
+               "description": "Relative to the Standing Rules of the Senate for the 2025\u201326 Regular Session.",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [],
+               "history": [
+                    {
+                         "date": "2024-12-02",
+                         "action": "Introduced.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2024-12-02",
+                         "action": "Held at desk.",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2024-12-02",
+                         "action": "Read. Adopted. (Ayes 29. Noes 9. Page 10.)",
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 21374,
+                         "person_hash": "nn7hf3ra",
+                         "party_id": "1",
+                         "state_id": 5,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Lena Gonzalez",
+                         "first_name": "Lena",
+                         "middle_name": "",
+                         "last_name": "Gonzalez",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-033",
+                         "ftm_eid": 29336335,
+                         "votesmart_id": 157372,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 709291,
+                         "ballotpedia": "Lena_Gonzalez",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3029672,
+                         "date": "2024-12-02",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/CA/text/SR4/id/3029672",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SR4#99INT",
+                         "text_size": 139324,
+                         "text_hash": "73624b9d86398bafb4575c844c89d021",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3030091,
+                         "date": "2024-12-03",
+                         "type": "Enrolled",
+                         "type_id": 5,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/CA/text/SR4/id/3030091",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SR4#98ENR",
+                         "text_size": 139865,
+                         "text_hash": "888a445179893bed0eca63a26ef7a777",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [
+                    {
+                         "roll_call_id": 1469566,
+                         "date": "2024-12-02",
+                         "desc": "W/O REF. TO FILE SR4 Gonzalez",
+                         "yea": 29,
+                         "nay": 9,
+                         "nv": 0,
+                         "absent": 1,
+                         "total": 39,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 20,
+                         "url": "https://legiscan.com/CA/rollcall/SR4/id/1469566",
+                         "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SR4"
+                    }
+               ],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     }
+}

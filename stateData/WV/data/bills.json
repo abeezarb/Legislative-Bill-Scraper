@@ -1,0 +1,1340 @@
+{
+     "1966831": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "c57fd96c5e1ac41372941e3c81b8213d",
+               "relevance": 66,
+               "state": "WV",
+               "bill number": "SB264",
+               "description": "The purpose of this bill is to provide for the death penalty in limited circumstances; the bill provides for procedures and standards applicable thereto, and automatic review of the penalty, for commission of murder in the first degree. Procedures for carrying out the death sentence are established.",
+               "state link": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=264&year=2025&sessiontype=RS&btype=bill",
+               "legiscan link": "https://legiscan.com/WV/bill/SB264/2025",
+               "status": {
+                    "date": "03-07-2025",
+                    "label": "Refer",
+                    "action": "To Finance"
+               },
+               "date introduced": "02-12-2025",
+               "party": "R",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Mike Stuart",
+                         "co": "Darren Thorne, Brian Helton, Rupert Phillips, Jack Woodrum, Vince Deeds",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 6"
+               }
+          },
+          "raw": {
+               "bill_id": 1966831,
+               "change_hash": "c57fd96c5e1ac41372941e3c81b8213d",
+               "session_id": 2196,
+               "session": {
+                    "session_id": 2196,
+                    "state_id": 48,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/WV/bill/SB264/2025",
+               "state_link": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=264&year=2025&sessiontype=RS&btype=bill",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-02-12",
+               "progress": [
+                    {
+                         "date": "2025-02-12",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-12",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-03-07",
+                         "event": 9
+                    }
+               ],
+               "state": "WV",
+               "state_id": 48,
+               "bill_number": "SB264",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "S",
+               "body_id": 2,
+               "current_body": "S",
+               "current_body_id": 2,
+               "title": "Allowing death penalty for intentionally killing law-enforcement officer or first responder in line of duty",
+               "description": "The purpose of this bill is to provide for the death penalty in limited circumstances; the bill provides for procedures and standards applicable thereto, and automatic review of the penalty, for commission of murder in the first degree. Procedures for carrying out the death sentence are established.",
+               "pending_committee_id": 26,
+               "committee": {
+                    "committee_id": 26,
+                    "chamber": "S",
+                    "chamber_id": 2,
+                    "name": "Finance"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-02-12",
+                         "committee_id": 30,
+                         "chamber": "S",
+                         "chamber_id": 2,
+                         "name": "Judiciary"
+                    },
+                    {
+                         "date": "2025-03-07",
+                         "committee_id": 26,
+                         "chamber": "S",
+                         "chamber_id": 2,
+                         "name": "Finance"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-12",
+                         "action": "Filed for introduction",
+                         "chamber": "S",
+                         "chamber_id": 2,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-12",
+                         "action": "To Judiciary then Finance",
+                         "chamber": "S",
+                         "chamber_id": 2,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-12",
+                         "action": "Introduced in Senate",
+                         "chamber": "S",
+                         "chamber_id": 2,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-12",
+                         "action": "To Judiciary",
+                         "chamber": "S",
+                         "chamber_id": 2,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-07",
+                         "action": "Committee substitute reported, but first to Finance",
+                         "chamber": "S",
+                         "chamber_id": 2,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-07",
+                         "action": "To Finance",
+                         "chamber": "S",
+                         "chamber_id": 2,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 24153,
+                         "person_hash": "g6xwkrhw",
+                         "party_id": "2",
+                         "state_id": 48,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Mike Stuart",
+                         "first_name": "Mike",
+                         "middle_name": "",
+                         "last_name": "Stuart",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-007",
+                         "ftm_eid": 6667996,
+                         "votesmart_id": 58059,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Mike_Stuart_(West_Virginia)",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24292,
+                         "person_hash": "n0f4aao0",
+                         "party_id": "2",
+                         "state_id": 48,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Darren Thorne",
+                         "first_name": "Darren",
+                         "middle_name": "J.",
+                         "last_name": "Thorne",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-015",
+                         "ftm_eid": 54859466,
+                         "votesmart_id": 201690,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Darren_Thorne",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 26218,
+                         "person_hash": "o98iabgz",
+                         "party_id": "2",
+                         "state_id": 48,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Brian Helton",
+                         "first_name": "Brian",
+                         "middle_name": "",
+                         "last_name": "Helton",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-009",
+                         "ftm_eid": 16125899,
+                         "votesmart_id": 214461,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Brian_Helton",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 11306,
+                         "person_hash": "c9hmkjx3",
+                         "party_id": "2",
+                         "state_id": 48,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Rupert Phillips",
+                         "first_name": "Rupert",
+                         "middle_name": "W.",
+                         "last_name": "Phillips",
+                         "suffix": "Jr.",
+                         "nickname": "Rupie",
+                         "district": "SD-007",
+                         "ftm_eid": 6486996,
+                         "votesmart_id": 102204,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 293106,
+                         "ballotpedia": "Rupert_Phillips_Jr.",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 4,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22845,
+                         "person_hash": "ycl82zk3",
+                         "party_id": "2",
+                         "state_id": 48,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Jack Woodrum",
+                         "first_name": "Jack",
+                         "middle_name": "David",
+                         "last_name": "Woodrum",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-010",
+                         "ftm_eid": 48823053,
+                         "votesmart_id": 131522,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 729625,
+                         "ballotpedia": "Jack_Woodrum",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 5,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24151,
+                         "person_hash": "h4e04ehy",
+                         "party_id": "2",
+                         "state_id": 48,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Vince Deeds",
+                         "first_name": "Vince",
+                         "middle_name": "",
+                         "last_name": "Deeds",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-010",
+                         "ftm_eid": 54859307,
+                         "votesmart_id": 201622,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Vince_Deeds",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 6,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [
+                    {
+                         "type_id": 2,
+                         "type": "Similar To",
+                         "sast_bill_number": "HB2567",
+                         "sast_bill_id": 1973334
+                    }
+               ],
+               "subjects": [
+                    {
+                         "subject_id": 129901,
+                         "subject_name": "Crime"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3115402,
+                         "date": "0000-00-00",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/WV/text/SB264/id/3115402",
+                         "state_link": "http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=sb264%20intr.htm&yr=2025&sesstype=RS&i=264",
+                         "text_size": 27851,
+                         "text_hash": "4f13d43cd38842771a82f5a870acf75d",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3159377,
+                         "date": "0000-00-00",
+                         "type": "Comm Sub",
+                         "type_id": 2,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/WV/text/SB264/id/3159377",
+                         "state_link": "http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=sb264%20sub1.htm&yr=2025&sesstype=RS&i=264",
+                         "text_size": 30743,
+                         "text_hash": "02ef602dc72d8862dc0266898961ac45",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 520154,
+                         "date": "0000-00-00",
+                         "type": "Fiscal Note",
+                         "type_id": 1,
+                         "title": "Fiscal Note",
+                         "description": "Corrections & Rehabilitation, Division of",
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/WV/supplement/SB264/id/520154",
+                         "state_link": "http://www.wvlegislature.gov/Fiscalnotes/FN(2)/fnsubmit_recordview1.cfm?RecordID=904296424",
+                         "supplement_size": 9986,
+                         "supplement_hash": "7ebce53c83780842260552da10b4cd22",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    },
+                    {
+                         "supplement_id": 520155,
+                         "date": "0000-00-00",
+                         "type": "Fiscal Note",
+                         "type_id": 1,
+                         "title": "Fiscal Note",
+                         "description": "Corrections & Rehabilitation, Division of",
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/WV/supplement/SB264/id/520155",
+                         "state_link": "http://www.wvlegislature.gov/Fiscalnotes/FN(2)/fnsubmit_recordview1.cfm?RecordID=904296424",
+                         "supplement_size": 9986,
+                         "supplement_hash": "7ebce53c83780842260552da10b4cd22",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    },
+                    {
+                         "supplement_id": 540055,
+                         "date": "0000-00-00",
+                         "type": "Fiscal Note",
+                         "type_id": 1,
+                         "title": "Fiscal Note",
+                         "description": "Homeland Security, Department of",
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/WV/supplement/SB264/id/540055",
+                         "state_link": "http://www.wvlegislature.gov/Fiscalnotes/FN(2)/fnsubmit_recordview1.cfm?RecordID=927191375",
+                         "supplement_size": 4843,
+                         "supplement_hash": "960a5b5d1f1ffb8f0eede7e6277aac6f",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "14f39139",
+                         "type": "Hearing",
+                         "date": "2025-03-06",
+                         "time": "15:00",
+                         "location": "Senate Judiciary Committee Room, 208 West",
+                         "description": "Senate Judiciary Committee Meeting"
+                    }
+               ]
+          }
+     },
+     "1973334": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "6a70376c1c397d4079b0aa8eba2f84cf",
+               "relevance": 50,
+               "state": "WV",
+               "bill number": "HB2567",
+               "description": "The purpose of this bill is to provide for the death penalty in limited circumstances; the bill provides for procedures and standards applicable thereto, and automatic review of the penalty, for commission of murder in the first degree. Procedures for carrying out the death sentence are established.",
+               "state link": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=2567&year=2025&sessiontype=RS&btype=bill",
+               "legiscan link": "https://legiscan.com/WV/bill/HB2567/2025",
+               "status": {
+                    "date": "02-18-2025",
+                    "label": "Refer",
+                    "action": "To House Judiciary"
+               },
+               "date introduced": "02-18-2025",
+               "party": "R",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Eric Brooks",
+                         "co": "Dave Foggin, Bill Ridenour, Marshall Clay",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 4"
+               }
+          },
+          "raw": {
+               "bill_id": 1973334,
+               "change_hash": "6a70376c1c397d4079b0aa8eba2f84cf",
+               "session_id": 2196,
+               "session": {
+                    "session_id": 2196,
+                    "state_id": 48,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/WV/bill/HB2567/2025",
+               "state_link": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=2567&year=2025&sessiontype=RS&btype=bill",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-02-18",
+               "progress": [
+                    {
+                         "date": "2025-02-18",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-18",
+                         "event": 9
+                    }
+               ],
+               "state": "WV",
+               "state_id": 48,
+               "bill_number": "HB2567",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 1,
+               "current_body": "H",
+               "current_body_id": 1,
+               "title": "Allowing death penalty for intentionally killing law-enforcement officer or first responder in line of duty",
+               "description": "The purpose of this bill is to provide for the death penalty in limited circumstances; the bill provides for procedures and standards applicable thereto, and automatic review of the penalty, for commission of murder in the first degree. Procedures for carrying out the death sentence are established.",
+               "pending_committee_id": 11,
+               "committee": {
+                    "committee_id": 11,
+                    "chamber": "H",
+                    "chamber_id": 1,
+                    "name": "Judiciary"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-02-18",
+                         "committee_id": 11,
+                         "chamber": "H",
+                         "chamber_id": 1,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-18",
+                         "action": "Filed for introduction",
+                         "chamber": "H",
+                         "chamber_id": 1,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-18",
+                         "action": "To Judiciary then Finance",
+                         "chamber": "H",
+                         "chamber_id": 1,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-18",
+                         "action": "Introduced in House",
+                         "chamber": "H",
+                         "chamber_id": 1,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-18",
+                         "action": "To House Judiciary",
+                         "chamber": "H",
+                         "chamber_id": 1,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 24276,
+                         "person_hash": "xulzr77r",
+                         "party_id": "2",
+                         "state_id": 48,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Eric Brooks",
+                         "first_name": "Eric",
+                         "middle_name": "",
+                         "last_name": "Brooks",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-045",
+                         "ftm_eid": 54859388,
+                         "votesmart_id": 201758,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Eric_Brooks",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24295,
+                         "person_hash": "k487lr9k",
+                         "party_id": "2",
+                         "state_id": 48,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Dave Foggin",
+                         "first_name": "Dave",
+                         "middle_name": "",
+                         "last_name": "Foggin",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-014",
+                         "ftm_eid": 54859334,
+                         "votesmart_id": 201684,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Dave_Foggin",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24289,
+                         "person_hash": "94zb3z32",
+                         "party_id": "2",
+                         "state_id": 48,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Bill Ridenour",
+                         "first_name": "William",
+                         "middle_name": "",
+                         "last_name": "Ridenour",
+                         "suffix": "",
+                         "nickname": "Bill",
+                         "district": "HD-100",
+                         "ftm_eid": 54859480,
+                         "votesmart_id": 201653,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "William_Ridenour",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 26206,
+                         "person_hash": "4uhrfq34",
+                         "party_id": "2",
+                         "state_id": 48,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Marshall Clay",
+                         "first_name": "Marshall",
+                         "middle_name": "W.",
+                         "last_name": "Clay",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-051",
+                         "ftm_eid": 59685229,
+                         "votesmart_id": 102214,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Marshall_Clay",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 4,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [
+                    {
+                         "type_id": 2,
+                         "type": "Similar To",
+                         "sast_bill_number": "SB264",
+                         "sast_bill_id": 1966831
+                    }
+               ],
+               "subjects": [
+                    {
+                         "subject_id": 129901,
+                         "subject_name": "Crime"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3127708,
+                         "date": "0000-00-00",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/WV/text/HB2567/id/3127708",
+                         "state_link": "http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb2567%20intr.htm&yr=2025&sesstype=RS&i=2567",
+                         "text_size": 28303,
+                         "text_hash": "749ef00bde8ea6816d109b16c192b9ba",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 524605,
+                         "date": "0000-00-00",
+                         "type": "Fiscal Note",
+                         "type_id": 1,
+                         "title": "Fiscal Note",
+                         "description": "Corrections & Rehabilitation, Division of",
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/WV/supplement/HB2567/id/524605",
+                         "state_link": "http://www.wvlegislature.gov/Fiscalnotes/FN(2)/fnsubmit_recordview1.cfm?RecordID=914497885",
+                         "supplement_size": 9979,
+                         "supplement_hash": "97ee725263c15b36513d74df9a24fcee",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": []
+          }
+     },
+     "1968684": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "d79d568fede6d77a7821b2bf54e675c4",
+               "relevance": 50,
+               "state": "WV",
+               "bill number": "SB428",
+               "description": "The purpose of this bill is to create the Patrolman Cassie Marie Johnson Memorial Act and to provide for a death penalty; the bill provides for procedures and standards applicable thereto, and automatic review of the penalty, for commission of murder in the first degree. Procedures for carrying out the death sentence are established.",
+               "state link": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=428&year=2025&sessiontype=RS&btype=bill",
+               "legiscan link": "https://legiscan.com/WV/bill/SB428/2025",
+               "status": {
+                    "date": "02-13-2025",
+                    "label": "Refer",
+                    "action": "To Judiciary"
+               },
+               "date introduced": "02-13-2025",
+               "party": "R",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Rupert Phillips",
+                         "co": "Kevan Bartlett, Bill Hamilton",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 3"
+               }
+          },
+          "raw": {
+               "bill_id": 1968684,
+               "change_hash": "d79d568fede6d77a7821b2bf54e675c4",
+               "session_id": 2196,
+               "session": {
+                    "session_id": 2196,
+                    "state_id": 48,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/WV/bill/SB428/2025",
+               "state_link": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=428&year=2025&sessiontype=RS&btype=bill",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-02-13",
+               "progress": [
+                    {
+                         "date": "2025-02-13",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-13",
+                         "event": 9
+                    }
+               ],
+               "state": "WV",
+               "state_id": 48,
+               "bill_number": "SB428",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "S",
+               "body_id": 2,
+               "current_body": "S",
+               "current_body_id": 2,
+               "title": "Patrolman Cassie Marie Johnson Memorial Act",
+               "description": "The purpose of this bill is to create the Patrolman Cassie Marie Johnson Memorial Act and to provide for a death penalty; the bill provides for procedures and standards applicable thereto, and automatic review of the penalty, for commission of murder in the first degree. Procedures for carrying out the death sentence are established.",
+               "pending_committee_id": 30,
+               "committee": {
+                    "committee_id": 30,
+                    "chamber": "S",
+                    "chamber_id": 2,
+                    "name": "Judiciary"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-02-13",
+                         "committee_id": 30,
+                         "chamber": "S",
+                         "chamber_id": 2,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-13",
+                         "action": "Filed for introduction",
+                         "chamber": "S",
+                         "chamber_id": 2,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-13",
+                         "action": "To Judiciary then Finance",
+                         "chamber": "S",
+                         "chamber_id": 2,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-13",
+                         "action": "Introduced in Senate",
+                         "chamber": "S",
+                         "chamber_id": 2,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-13",
+                         "action": "To Judiciary",
+                         "chamber": "S",
+                         "chamber_id": 2,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 11306,
+                         "person_hash": "c9hmkjx3",
+                         "party_id": "2",
+                         "state_id": 48,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Rupert Phillips",
+                         "first_name": "Rupert",
+                         "middle_name": "W.",
+                         "last_name": "Phillips",
+                         "suffix": "Jr.",
+                         "nickname": "Rupie",
+                         "district": "SD-007",
+                         "ftm_eid": 6486996,
+                         "votesmart_id": 102204,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 293106,
+                         "ballotpedia": "Rupert_Phillips_Jr.",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 26411,
+                         "person_hash": "eds7ztsu",
+                         "party_id": "2",
+                         "state_id": 48,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Kevan Bartlett",
+                         "first_name": "Kevan",
+                         "middle_name": "",
+                         "last_name": "Bartlett",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-008",
+                         "ftm_eid": 54859302,
+                         "votesmart_id": 0,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "T._Kevan_Bartlett",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 37,
+                         "person_hash": "8hbuawrj",
+                         "party_id": "2",
+                         "state_id": 48,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Bill Hamilton",
+                         "first_name": "Bill",
+                         "middle_name": "",
+                         "last_name": "Hamilton",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-011",
+                         "ftm_eid": 6581685,
+                         "votesmart_id": 52422,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 213947,
+                         "ballotpedia": "William_Hamilton",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 81519,
+                         "subject_name": "Courts"
+                    },
+                    {
+                         "subject_id": 129901,
+                         "subject_name": "Crime"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3117915,
+                         "date": "0000-00-00",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/WV/text/SB428/id/3117915",
+                         "state_link": "http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=sb428%20intr.htm&yr=2025&sesstype=RS&i=428",
+                         "text_size": 31338,
+                         "text_hash": "c3b1e49ebd297e9ff45ce5669d1d4139",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 524232,
+                         "date": "0000-00-00",
+                         "type": "Fiscal Note",
+                         "type_id": 1,
+                         "title": "Fiscal Note",
+                         "description": "Supreme Court of Appeals",
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/WV/supplement/SB428/id/524232",
+                         "state_link": "http://www.wvlegislature.gov/Fiscalnotes/FN(2)/fnsubmit_recordview1.cfm?RecordID=915106803",
+                         "supplement_size": 4048,
+                         "supplement_hash": "26534b9499bf9f87351e90b1d271646a",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": []
+          }
+     },
+     "1966833": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "d5e6e5fbabb80b2f09b232a563b342db",
+               "relevance": 13,
+               "state": "WV",
+               "bill number": "SB81",
+               "description": "The purpose of this bill is to establish a criminal offense for knowingly, willfully, and forcibly obstructing or hindering home incarceration supervisors and social service workers while they are lawfully acting in their official capacity and the obstructing or hindering causes their death; establishing criminal penalty therefor of imprisonment in a state correctional facility for 15 years to life.",
+               "state link": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=81&year=2025&sessiontype=RS&btype=bill",
+               "legiscan link": "https://legiscan.com/WV/bill/SB81/2025",
+               "status": {
+                    "date": "02-12-2025",
+                    "label": "Refer",
+                    "action": "To Judiciary"
+               },
+               "date introduced": "02-12-2025",
+               "party": "R",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Patricia Rucker",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1966833,
+               "change_hash": "d5e6e5fbabb80b2f09b232a563b342db",
+               "session_id": 2196,
+               "session": {
+                    "session_id": 2196,
+                    "state_id": 48,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/WV/bill/SB81/2025",
+               "state_link": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=81&year=2025&sessiontype=RS&btype=bill",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-02-12",
+               "progress": [
+                    {
+                         "date": "2025-02-12",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-12",
+                         "event": 9
+                    }
+               ],
+               "state": "WV",
+               "state_id": 48,
+               "bill_number": "SB81",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "S",
+               "body_id": 2,
+               "current_body": "S",
+               "current_body_id": 2,
+               "title": "Establishing criminal offense for crimes against public justice workers",
+               "description": "The purpose of this bill is to establish a criminal offense for knowingly, willfully, and forcibly obstructing or hindering home incarceration supervisors and social service workers while they are lawfully acting in their official capacity and the obstructing or hindering causes their death; establishing criminal penalty therefor of imprisonment in a state correctional facility for 15 years to life.",
+               "pending_committee_id": 30,
+               "committee": {
+                    "committee_id": 30,
+                    "chamber": "S",
+                    "chamber_id": 2,
+                    "name": "Judiciary"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-02-12",
+                         "committee_id": 30,
+                         "chamber": "S",
+                         "chamber_id": 2,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-12",
+                         "action": "Filed for introduction",
+                         "chamber": "S",
+                         "chamber_id": 2,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-12",
+                         "action": "To Judiciary",
+                         "chamber": "S",
+                         "chamber_id": 2,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-12",
+                         "action": "Introduced in Senate",
+                         "chamber": "S",
+                         "chamber_id": 2,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-12",
+                         "action": "To Judiciary",
+                         "chamber": "S",
+                         "chamber_id": 2,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 19247,
+                         "person_hash": "kam3tser",
+                         "party_id": "2",
+                         "state_id": 48,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Patricia Rucker",
+                         "first_name": "Patricia",
+                         "middle_name": "Puertas",
+                         "last_name": "Rucker",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-016",
+                         "ftm_eid": 21776902,
+                         "votesmart_id": 148634,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 484932,
+                         "ballotpedia": "Patricia_Rucker",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 129901,
+                         "subject_name": "Crime"
+                    },
+                    {
+                         "subject_id": 129897,
+                         "subject_name": "Public Safety"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3115404,
+                         "date": "0000-00-00",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/WV/text/SB81/id/3115404",
+                         "state_link": "http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=sb81%20intr.htm&yr=2025&sesstype=RS&i=81",
+                         "text_size": 7514,
+                         "text_hash": "a3164cc7c598c31c16ae6f25b69a7825",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     },
+     "1977102": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "9e1ce6828aaa78489dcb0b9bd99d1b86",
+               "relevance": 11,
+               "state": "WV",
+               "bill number": "HCR58",
+               "description": "Expressing the postition of the House of Delegates of West Virginia that unborn children are legal and constitutional persons entitled to the equal protection of the laws",
+               "state link": "http://www.wvlegislature.gov/Bill_Status/Resolution_History.cfm?year=2025&sessiontype=RS&input4=58&billtype=CR&houseorig=H&btype=res",
+               "legiscan link": "https://legiscan.com/WV/bill/HCR58/2025",
+               "status": {
+                    "date": "02-20-2025",
+                    "label": "Refer",
+                    "action": "To House Judiciary"
+               },
+               "date introduced": "02-20-2025",
+               "party": "R",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Elias Coop-Gonzalez",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1977102,
+               "change_hash": "9e1ce6828aaa78489dcb0b9bd99d1b86",
+               "session_id": 2196,
+               "session": {
+                    "session_id": 2196,
+                    "state_id": 48,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/WV/bill/HCR58/2025",
+               "state_link": "http://www.wvlegislature.gov/Bill_Status/Resolution_History.cfm?year=2025&sessiontype=RS&input4=58&billtype=CR&houseorig=H&btype=res",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-02-20",
+               "progress": [
+                    {
+                         "date": "2025-02-20",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-20",
+                         "event": 9
+                    }
+               ],
+               "state": "WV",
+               "state_id": 48,
+               "bill_number": "HCR58",
+               "bill_type": "CR",
+               "bill_type_id": "3",
+               "body": "H",
+               "body_id": 1,
+               "current_body": "H",
+               "current_body_id": 1,
+               "title": "Expressing the postition of the House of Delegates of West Virginia that unborn children are legal and constitutional persons entitled to the equal protection of the laws",
+               "description": "Expressing the postition of the House of Delegates of West Virginia that unborn children are legal and constitutional persons entitled to the equal protection of the laws",
+               "pending_committee_id": 11,
+               "committee": {
+                    "committee_id": 11,
+                    "chamber": "H",
+                    "chamber_id": 1,
+                    "name": "Judiciary"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-02-20",
+                         "committee_id": 11,
+                         "chamber": "H",
+                         "chamber_id": 1,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-20",
+                         "action": "Filed for introduction",
+                         "chamber": "H",
+                         "chamber_id": 1,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-20",
+                         "action": "To Judiciary then Rules",
+                         "chamber": "H",
+                         "chamber_id": 1,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-20",
+                         "action": "Introduced in House",
+                         "chamber": "H",
+                         "chamber_id": 1,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-20",
+                         "action": "To House Judiciary",
+                         "chamber": "H",
+                         "chamber_id": 1,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 24278,
+                         "person_hash": "out1ctmz",
+                         "party_id": "2",
+                         "state_id": 48,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Elias Coop-Gonzalez",
+                         "first_name": "Elias",
+                         "middle_name": "",
+                         "last_name": "Coop-Gonzalez",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-067",
+                         "ftm_eid": 54859432,
+                         "votesmart_id": 201746,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Elias_Coop-Gonzalez",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3132730,
+                         "date": "0000-00-00",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/WV/text/HCR58/id/3132730",
+                         "state_link": "http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hcr58%20intr.htm&yr=2025&sesstype=RS&i=58&houseorig=H&billtype=CR",
+                         "text_size": 13187,
+                         "text_hash": "4ede56a127f12ae86a6ef541220a18c8",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     }
+}

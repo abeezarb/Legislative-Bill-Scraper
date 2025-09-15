@@ -1,0 +1,2080 @@
+{
+     "1924572": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "1a988198fda4bdfdce13a894d5ed3a21",
+               "relevance": 66,
+               "state": "VA",
+               "bill number": "HB2694",
+               "description": "Capital murder; death penalty; certain offenses of criminal sexual assault against a minor punishable by death. Authorizes punishment by death for (i) capital murder and (ii) rape, forcible sodomy, and object sexual penetration when the victim is a child younger than the age of 13 and the offender (a) was 18 years of age or older at the time of the offense and (b) is not determined to be a person with intellectual disability pursuant to relevant law. The bill also provides that the Supreme Court of Virginia shall give priority to the review of cases in which the sentence of death has been imposed over other cases pending in the Court.",
+               "state link": "https://lis.virginia.gov/bill-details/20251/HB2694",
+               "legiscan link": "https://legiscan.com/VA/bill/HB2694/2025",
+               "status": {
+                    "date": "01-16-2025",
+                    "label": "Refer",
+                    "action": "Left in Courts of Justice"
+               },
+               "date introduced": "01-16-2025",
+               "party": "R",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Tim Griffin",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1924572,
+               "change_hash": "1a988198fda4bdfdce13a894d5ed3a21",
+               "session_id": 2149,
+               "session": {
+                    "session_id": 2149,
+                    "state_id": 46,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/VA/bill/HB2694/2025",
+               "state_link": "https://lis.virginia.gov/bill-details/20251/HB2694",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-01-16",
+               "progress": [
+                    {
+                         "date": "2025-01-16",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-01-16",
+                         "event": 9
+                    }
+               ],
+               "state": "VA",
+               "state_id": 46,
+               "bill_number": "HB2694",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 7,
+               "current_body": "H",
+               "current_body_id": 7,
+               "title": "Criminal sexual assault against a minor; capital murder, death penalty, etc.",
+               "description": "Capital murder; death penalty; certain offenses of criminal sexual assault against a minor punishable by death. Authorizes punishment by death for (i) capital murder and (ii) rape, forcible sodomy, and object sexual penetration when the victim is a child younger than the age of 13 and the offender (a) was 18 years of age or older at the time of the offense and (b) is not determined to be a person with intellectual disability pursuant to relevant law. The bill also provides that the Supreme Court of Virginia shall give priority to the review of cases in which the sentence of death has been imposed over other cases pending in the Court.",
+               "pending_committee_id": 150,
+               "committee": {
+                    "committee_id": 150,
+                    "chamber": "H",
+                    "chamber_id": 7,
+                    "name": "Courts of Justice"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-01-16",
+                         "committee_id": 150,
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "name": "Courts of Justice"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-01-16",
+                         "action": "Presented and ordered printed 25100580D",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-16",
+                         "action": "Referred to Committee for Courts of Justice",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-01-23",
+                         "action": "Impact statement from VCSC (HB2694)",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-04",
+                         "action": "Left in Courts of Justice",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 25020,
+                         "person_hash": "3at5yquy",
+                         "party_id": "2",
+                         "state_id": 46,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Tim Griffin",
+                         "first_name": "Timothy",
+                         "middle_name": "P.",
+                         "last_name": "Griffin",
+                         "suffix": "",
+                         "nickname": "Tim",
+                         "district": "HD-053",
+                         "ftm_eid": 59174632,
+                         "votesmart_id": 212165,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Tim_Griffin_(Virginia)",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3061855,
+                         "date": "2025-01-16",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/VA/text/HB2694/id/3061855",
+                         "state_link": "https://lis.virginia.gov/bill-details/20251/HB2694/text/HB2694",
+                         "text_size": 318476,
+                         "text_hash": "140666dd0be5c3aa00e7685374a4dce1",
+                         "alt_bill_text": 1,
+                         "alt_mime": "application/pdf",
+                         "alt_mime_id": 2,
+                         "alt_state_link": "https://lis.blob.core.windows.net/files/1021871.PDF",
+                         "alt_text_size": 671084,
+                         "alt_text_hash": "267312e6e22a9af9e72393545d80aa1b"
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 494218,
+                         "date": "2025-01-23",
+                         "type": "Fiscal Note/Analysis",
+                         "type_id": 3,
+                         "title": "Fiscal Note/Analysis",
+                         "description": "Impact statement from VCSC (HB2694)",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/VA/supplement/HB2694/id/494218",
+                         "state_link": "https://lis.blob.core.windows.net/files/1027954.PDF",
+                         "supplement_size": 39342,
+                         "supplement_hash": "ede736bfff22d388360df8e5be5aa4d2",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": []
+          }
+     },
+     "1886103": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "dcf4432742dec98886105fe4ec6ff2c2",
+               "relevance": 15,
+               "state": "VA",
+               "bill number": "HB440",
+               "description": "Elections; candidates for office; electronic filing of forms, petitions, and notifications with Department of Elections. Requires the Department of Elections to develop and implement an online filing system to accept any form, petition, or notification filed by electronic means by a party official or candidate. The bill requires the State Board of Elections to develop standards for the electronic preparation, production, submission, and transmittal of all forms required of party officials and candidates. The bill also requires the State Board to prescribe all candidate and party forms in both paper and electronic formats. The bill allows for the collection of petition signatures by electronic means and provides formal requirements for signatures on electronic petitions. The bill makes technical amendments to provide uniformity in requirements for all such electronic filings.",
+               "state link": "https://lis.virginia.gov/bill-details/20251/HB440",
+               "legiscan link": "https://legiscan.com/VA/bill/HB440/2025",
+               "status": {
+                    "date": "01-08-2024",
+                    "label": "Refer",
+                    "action": "Left in Privileges and Elections"
+               },
+               "date introduced": "01-08-2024",
+               "party": "D",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Joshua Cole",
+                         "co": "Adele McClure",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 2"
+               }
+          },
+          "raw": {
+               "bill_id": 1886103,
+               "change_hash": "dcf4432742dec98886105fe4ec6ff2c2",
+               "session_id": 2149,
+               "session": {
+                    "session_id": 2149,
+                    "state_id": 46,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/VA/bill/HB440/2025",
+               "state_link": "https://lis.virginia.gov/bill-details/20251/HB440",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2024-01-08",
+               "progress": [
+                    {
+                         "date": "2024-01-08",
+                         "event": 1
+                    },
+                    {
+                         "date": "2024-01-08",
+                         "event": 9
+                    }
+               ],
+               "state": "VA",
+               "state_id": 46,
+               "bill_number": "HB440",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 7,
+               "current_body": "H",
+               "current_body_id": 7,
+               "title": "Candidates for office; electronic filing of forms, petitions, and notifications.",
+               "description": "Elections; candidates for office; electronic filing of forms, petitions, and notifications with Department of Elections. Requires the Department of Elections to develop and implement an online filing system to accept any form, petition, or notification filed by electronic means by a party official or candidate. The bill requires the State Board of Elections to develop standards for the electronic preparation, production, submission, and transmittal of all forms required of party officials and candidates. The bill also requires the State Board to prescribe all candidate and party forms in both paper and electronic formats. The bill allows for the collection of petition signatures by electronic means and provides formal requirements for signatures on electronic petitions. The bill makes technical amendments to provide uniformity in requirements for all such electronic filings.",
+               "pending_committee_id": 156,
+               "committee": {
+                    "committee_id": 156,
+                    "chamber": "H",
+                    "chamber_id": 7,
+                    "name": "Privileges and Elections"
+               },
+               "referrals": [
+                    {
+                         "date": "2024-01-08",
+                         "committee_id": 156,
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "name": "Privileges and Elections"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2024-01-08",
+                         "action": "Prefiled and ordered printed; offered 01/10/24 24101121D",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2024-01-08",
+                         "action": "Referred to Committee on Privileges and Elections",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2024-01-18",
+                         "action": "Impact statement from DPB (HB440)",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2024-02-02",
+                         "action": "Continued to 2025 in Privileges and Elections (Voice Vote)",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2024-11-18",
+                         "action": "Left in Privileges and Elections",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 24977,
+                         "person_hash": "gjzr0zug",
+                         "party_id": "1",
+                         "state_id": 46,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Joshua Cole",
+                         "first_name": "Joshua",
+                         "middle_name": "G.",
+                         "last_name": "Cole",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-028",
+                         "ftm_eid": 48307094,
+                         "votesmart_id": 176553,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Joshua_Cole",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24976,
+                         "person_hash": "lv4s9u4x",
+                         "party_id": "1",
+                         "state_id": 46,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Adele McClure",
+                         "first_name": "Adele",
+                         "middle_name": "Y.",
+                         "last_name": "McClure",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-002",
+                         "ftm_eid": 58873133,
+                         "votesmart_id": 212037,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Adele_McClure",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [
+                    {
+                         "type_id": 9,
+                         "type": "Carry Over",
+                         "sast_bill_number": "HB440",
+                         "sast_bill_id": 1800046
+                    }
+               ],
+               "subjects": [
+                    {
+                         "subject_id": 215,
+                         "subject_name": "Elections"
+                    },
+                    {
+                         "subject_id": 169248,
+                         "subject_name": "Electronic Processes"
+                    },
+                    {
+                         "subject_id": 175829,
+                         "subject_name": "Candidates in Elections"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3017229,
+                         "date": "2024-01-08",
+                         "type": "Prefiled",
+                         "type_id": 11,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/VA/text/HB440/id/3017229",
+                         "state_link": "https://lis.virginia.gov/bill-details/20251/HB440/text/HB440",
+                         "text_size": 64335,
+                         "text_hash": "4ac36b44f2de125e6b340b9e97ac222a",
+                         "alt_bill_text": 1,
+                         "alt_mime": "application/pdf",
+                         "alt_mime_id": 2,
+                         "alt_state_link": "https://lis.blob.core.windows.net/files/1005861.PDF",
+                         "alt_text_size": 155804,
+                         "alt_text_hash": "1e88a10b1f4f18fbb3e6bc9875b3ab68"
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 480457,
+                         "date": "2024-07-08",
+                         "type": "Fiscal Note/Analysis",
+                         "type_id": 3,
+                         "title": "Fiscal Note/Analysis",
+                         "description": "House: Prefiled and ordered printed; offered 01/10/24 24101121D",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/VA/supplement/HB440/id/480457",
+                         "state_link": "https://lis.blob.core.windows.net/legacy/1000485.PDF",
+                         "supplement_size": 70520,
+                         "supplement_hash": "de1ba3bc5f9bbeb346de75b7123f77b2",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": []
+          }
+     },
+     "1920129": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "1fb6bc54dc6d4fc7172f4ca70a79c30f",
+               "relevance": 15,
+               "state": "VA",
+               "bill number": "HB2670",
+               "description": "Campaign finance; campaign required tax-exempt organization disclosure; work group; report; civil penalties. Establishes campaign finance reporting requirements for tax-exempt organizations making contributions or independent expenditures for the purpose of advocating for the election or defeat of a clearly identified Virginia candidate. Committees are prohibited from accepting contributions from tax-exempt organizations that do not file required campaign finance disclosure reports. Civil penalties for violations of the limits established by the bill may equal up to four times the excess contribution amounts. The bill also requires electronically filed independent expenditure reports to be made publicly available within 48 hours of being filed and to be entered into a publicly available campaign finance database accessible through the Internet. Finally, the bill requires that the Chair of the House Privileges and Elections Committee and the Chair of the Senate Privileges and Elections Committee convene a work group to evaluate campaign finance contribution limits and disclosure requirements among the various states and at the federal level and to report their findings by November 30, 2025.",
+               "state link": "https://lis.virginia.gov/bill-details/20251/HB2670",
+               "legiscan link": "https://legiscan.com/VA/bill/HB2670/2025",
+               "status": {
+                    "date": "01-24-2025",
+                    "label": "Report Pass",
+                    "action": "Left in Appropriations"
+               },
+               "date introduced": "01-15-2025",
+               "party": "D",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Mark Sickles",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1920129,
+               "change_hash": "1fb6bc54dc6d4fc7172f4ca70a79c30f",
+               "session_id": 2149,
+               "session": {
+                    "session_id": 2149,
+                    "state_id": 46,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/VA/bill/HB2670/2025",
+               "state_link": "https://lis.virginia.gov/bill-details/20251/HB2670",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-01-15",
+               "progress": [
+                    {
+                         "date": "2025-01-15",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-01-15",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-01-24",
+                         "event": 10
+                    }
+               ],
+               "state": "VA",
+               "state_id": 46,
+               "bill_number": "HB2670",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 7,
+               "current_body": "H",
+               "current_body_id": 7,
+               "title": "Campaign finance; campaign required tax-exempt organization disclosure, report, civil penalties.",
+               "description": "Campaign finance; campaign required tax-exempt organization disclosure; work group; report; civil penalties. Establishes campaign finance reporting requirements for tax-exempt organizations making contributions or independent expenditures for the purpose of advocating for the election or defeat of a clearly identified Virginia candidate. Committees are prohibited from accepting contributions from tax-exempt organizations that do not file required campaign finance disclosure reports. Civil penalties for violations of the limits established by the bill may equal up to four times the excess contribution amounts. The bill also requires electronically filed independent expenditure reports to be made publicly available within 48 hours of being filed and to be entered into a publicly available campaign finance database accessible through the Internet. Finally, the bill requires that the Chair of the House Privileges and Elections Committee and the Chair of the Senate Privileges and Elections Committee convene a work group to evaluate campaign finance contribution limits and disclosure requirements among the various states and at the federal level and to report their findings by November 30, 2025.",
+               "pending_committee_id": 147,
+               "committee": {
+                    "committee_id": 147,
+                    "chamber": "H",
+                    "chamber_id": 7,
+                    "name": "Appropriations"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-01-15",
+                         "committee_id": 156,
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "name": "Privileges and Elections"
+                    },
+                    {
+                         "date": "2025-01-24",
+                         "committee_id": 147,
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "name": "Appropriations"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-01-15",
+                         "action": "Presented and ordered printed 25104764D",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-15",
+                         "action": "Referred to Committee on Privileges and Elections",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-01-16",
+                         "action": "Impact statement from VCSC (HB2670)",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-24",
+                         "action": "Reported from Privileges and Elections with substitute and referred to Appropriations (21-Y 0-N)",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-01-24",
+                         "action": "Incorporates HB2484(Henson)",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-24",
+                         "action": "Incorporates HB2173(Clark)",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-28",
+                         "action": "Fiscal Impact Statement from Department of Planning and Budget (HB2670)",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-30",
+                         "action": "Committee substitute printed 25106348D-H1",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-04",
+                         "action": "Left in Appropriations",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 748,
+                         "person_hash": "txqkl91z",
+                         "party_id": "1",
+                         "state_id": 46,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Mark Sickles",
+                         "first_name": "Mark",
+                         "middle_name": "D.",
+                         "last_name": "Sickles",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-043",
+                         "ftm_eid": 983993,
+                         "votesmart_id": 50781,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 220485,
+                         "ballotpedia": "Mark_Sickles",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3059361,
+                         "date": "2025-01-15",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/VA/text/HB2670/id/3059361",
+                         "state_link": "https://lis.virginia.gov/bill-details/20251/HB2670/text/HB2670",
+                         "text_size": 67428,
+                         "text_hash": "800f5a1c1071a7218e07ef20a846cd97",
+                         "alt_bill_text": 1,
+                         "alt_mime": "application/pdf",
+                         "alt_mime_id": 2,
+                         "alt_state_link": "https://lis.blob.core.windows.net/files/1021213.PDF",
+                         "alt_text_size": 115596,
+                         "alt_text_hash": "cce83a4e1e75a5f3dff261231d3827e7"
+                    },
+                    {
+                         "doc_id": 3090949,
+                         "date": "2025-01-30",
+                         "type": "Comm Sub",
+                         "type_id": 2,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/VA/text/HB2670/id/3090949",
+                         "state_link": "https://lis.virginia.gov/bill-details/20251/HB2670/text/HB2670H1",
+                         "text_size": 65765,
+                         "text_hash": "4c8889e4000df1cafdc098ba514a972a",
+                         "alt_bill_text": 1,
+                         "alt_mime": "application/pdf",
+                         "alt_mime_id": 2,
+                         "alt_state_link": "https://lis.blob.core.windows.net/files/1034860.PDF",
+                         "alt_text_size": 115580,
+                         "alt_text_hash": "baef4cfd1c2657fb91aaf4af4e4b40a4"
+                    }
+               ],
+               "votes": [
+                    {
+                         "roll_call_id": 1474211,
+                         "date": "2025-01-24",
+                         "desc": "Reported from Privileges and Elections with substitute and referred to Appropriations (21-Y 0-N)",
+                         "yea": 21,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 1,
+                         "total": 22,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "url": "https://legiscan.com/VA/rollcall/HB2670/id/1474211",
+                         "state_link": "https://lis.virginia.gov/vote-details/HB2670/20251/H18V2510973"
+                    }
+               ],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 489098,
+                         "date": "2025-01-16",
+                         "type": "Fiscal Note/Analysis",
+                         "type_id": 3,
+                         "title": "Fiscal Note/Analysis",
+                         "description": "Impact statement from VCSC (HB2670)",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/VA/supplement/HB2670/id/489098",
+                         "state_link": "https://lis.blob.core.windows.net/files/1021424.PDF",
+                         "supplement_size": 39213,
+                         "supplement_hash": "9e5eebd3657c1972ccbc52ce572f72cb",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    },
+                    {
+                         "supplement_id": 496946,
+                         "date": "2025-01-28",
+                         "type": "Fiscal Note/Analysis",
+                         "type_id": 3,
+                         "title": "Fiscal Note/Analysis",
+                         "description": "Fiscal Impact Statement from Department of Planning and Budget (HB2670)",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/VA/supplement/HB2670/id/496946",
+                         "state_link": "https://lis.blob.core.windows.net/files/1032295.PDF",
+                         "supplement_size": 139596,
+                         "supplement_hash": "d3dcc6d75a493dd8a1c71f24669f50a0",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "d4c120bd",
+                         "type": "Hearing",
+                         "date": "2025-01-24",
+                         "time": "09:30",
+                         "location": "House Committee Room C - 206",
+                         "description": "House Privileges and Elections Committee Hearing"
+                    }
+               ]
+          }
+     },
+     "1905009": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "5b02e42eed3a09e50b0c70f7a38ea50b",
+               "relevance": 15,
+               "state": "VA",
+               "bill number": "HB2140",
+               "description": "Elections; campaign finance disclosure reports; searchable electronic database. Requires the Department of Elections to provide an interface for the campaign finance database maintained by the Department that allows users to easily search for and sort information by individual candidates and types of elections, offices, committees, other spenders, and contributors; contributions, receipts, disbursements, expenditures, loans, and other categories of information included in campaign finance reports; and late filings, incomplete filings, and other violations. The bill specifies that the interface shall also provide users tools for manipulating and exporting data. The bill has a delayed effective date of July 1, 2026.",
+               "state link": "https://lis.virginia.gov/bill-details/20251/HB2140",
+               "legiscan link": "https://legiscan.com/VA/bill/HB2140/2025",
+               "status": {
+                    "date": "02-11-2025",
+                    "label": "Report Pass",
+                    "action": "Passed by indefinitely in Finance and Appropriations (8-Y 6-N)"
+               },
+               "date introduced": "01-07-2025",
+               "party": "D",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Paul Krizek",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1905009,
+               "change_hash": "5b02e42eed3a09e50b0c70f7a38ea50b",
+               "session_id": 2149,
+               "session": {
+                    "session_id": 2149,
+                    "state_id": 46,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/VA/bill/HB2140/2025",
+               "state_link": "https://lis.virginia.gov/bill-details/20251/HB2140",
+               "completed": 0,
+               "status": 2,
+               "status_date": "2025-01-29",
+               "progress": [
+                    {
+                         "date": "2025-01-07",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-01-07",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-01-24",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-01-29",
+                         "event": 2
+                    },
+                    {
+                         "date": "2025-01-31",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-02-11",
+                         "event": 10
+                    }
+               ],
+               "state": "VA",
+               "state_id": 46,
+               "bill_number": "HB2140",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 7,
+               "current_body": "S",
+               "current_body_id": 8,
+               "title": "Elections; campaign finance disclosure reports, searchable electronic database.",
+               "description": "Elections; campaign finance disclosure reports; searchable electronic database. Requires the Department of Elections to provide an interface for the campaign finance database maintained by the Department that allows users to easily search for and sort information by individual candidates and types of elections, offices, committees, other spenders, and contributors; contributions, receipts, disbursements, expenditures, loans, and other categories of information included in campaign finance reports; and late filings, incomplete filings, and other violations. The bill specifies that the interface shall also provide users tools for manipulating and exporting data. The bill has a delayed effective date of July 1, 2026.",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [
+                    {
+                         "date": "2025-01-07",
+                         "committee_id": 156,
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "name": "Privileges and Elections"
+                    },
+                    {
+                         "date": "2025-01-21",
+                         "committee_id": 4171,
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "name": "Privileges and Elections: Campaign Finance"
+                    },
+                    {
+                         "date": "2025-01-22",
+                         "committee_id": 147,
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "name": "Appropriations"
+                    },
+                    {
+                         "date": "2025-01-31",
+                         "committee_id": 167,
+                         "chamber": "S",
+                         "chamber_id": 8,
+                         "name": "Privileges and Elections"
+                    },
+                    {
+                         "date": "2025-02-11",
+                         "committee_id": 164,
+                         "chamber": "S",
+                         "chamber_id": 8,
+                         "name": "Finance and Appropriations"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-01-07",
+                         "action": "Prefiled and ordered printed; Offered 01-13-2025 25104495D",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-07",
+                         "action": "Referred to Committee on Privileges and Elections",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-01-21",
+                         "action": "Assigned PE sub: Campaign Finance",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-22",
+                         "action": "Subcommittee recommends reporting and referred to Appropriations (8-Y 0-N)",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-22",
+                         "action": "Fiscal Impact Statement from Department of Planning and Budget (HB2140)",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-24",
+                         "action": "Reported from Privileges and Elections (21-Y 0-N)",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-01-28",
+                         "action": "Read first time",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-29",
+                         "action": "Read second time and engrossed",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-01-30",
+                         "action": "Read third time and passed House (96-Y 0-N)",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-31",
+                         "action": "Constitutional reading dispensed (on 1st reading)",
+                         "chamber": "S",
+                         "chamber_id": 8,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-31",
+                         "action": "Referred to Committee on Privileges and Elections",
+                         "chamber": "S",
+                         "chamber_id": 8,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-11",
+                         "action": "Reported from Privileges and Elections and rereferred to Finance and Appropriations (15-Y 0-N)",
+                         "chamber": "S",
+                         "chamber_id": 8,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-17",
+                         "action": "Passed by indefinitely in Finance and Appropriations (8-Y 6-N)",
+                         "chamber": "S",
+                         "chamber_id": 8,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 17728,
+                         "person_hash": "8yrvpz37",
+                         "party_id": "1",
+                         "state_id": 46,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Paul Krizek",
+                         "first_name": "Paul",
+                         "middle_name": "E.",
+                         "last_name": "Krizek",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-044",
+                         "ftm_eid": 5760434,
+                         "votesmart_id": 156430,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 533281,
+                         "ballotpedia": "Paul_Krizek",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3041926,
+                         "date": "2025-01-07",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/VA/text/HB2140/id/3041926",
+                         "state_link": "https://lis.virginia.gov/bill-details/20251/HB2140/text/HB2140",
+                         "text_size": 5971,
+                         "text_hash": "f8c4f6d894a895875142faf8e8923f2a",
+                         "alt_bill_text": 1,
+                         "alt_mime": "application/pdf",
+                         "alt_mime_id": 2,
+                         "alt_state_link": "https://lis.blob.core.windows.net/files/1015264.PDF",
+                         "alt_text_size": 11750,
+                         "alt_text_hash": "2c1876932e1aa466ddd24024cf9c3582"
+                    }
+               ],
+               "votes": [
+                    {
+                         "roll_call_id": 1472892,
+                         "date": "2025-01-22",
+                         "desc": "Subcommittee recommends reporting and referred to Appropriations (8-Y 0-N)",
+                         "yea": 8,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 1,
+                         "total": 9,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "url": "https://legiscan.com/VA/rollcall/HB2140/id/1472892",
+                         "state_link": "https://lis.virginia.gov/vote-details/HB2140/20251/H18003V2510590"
+                    },
+                    {
+                         "roll_call_id": 1474212,
+                         "date": "2025-01-24",
+                         "desc": "Reported from Privileges and Elections (21-Y 0-N)",
+                         "yea": 21,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 1,
+                         "total": 22,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "url": "https://legiscan.com/VA/rollcall/HB2140/id/1474212",
+                         "state_link": "https://lis.virginia.gov/vote-details/HB2140/20251/H18V2510977"
+                    },
+                    {
+                         "roll_call_id": 1478089,
+                         "date": "2025-01-30",
+                         "desc": "Read third time and passed House (96-Y 0-N)",
+                         "yea": 96,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 4,
+                         "total": 100,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "url": "https://legiscan.com/VA/rollcall/HB2140/id/1478089",
+                         "state_link": "https://lis.virginia.gov/vote-details/HB2140/20251/2518291"
+                    },
+                    {
+                         "roll_call_id": 1486159,
+                         "date": "2025-02-11",
+                         "desc": "Reported from Privileges and Elections and rereferred to Finance and Appropriations (15-Y 0-N)",
+                         "yea": 15,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 15,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 8,
+                         "url": "https://legiscan.com/VA/rollcall/HB2140/id/1486159",
+                         "state_link": "https://lis.virginia.gov/vote-details/HB2140/20251/S08V1436"
+                    },
+                    {
+                         "roll_call_id": 1492091,
+                         "date": "2025-02-17",
+                         "desc": "Passed by indefinitely in Finance and Appropriations (8-Y 6-N)",
+                         "yea": 8,
+                         "nay": 6,
+                         "nv": 0,
+                         "absent": 1,
+                         "total": 15,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 8,
+                         "url": "https://legiscan.com/VA/rollcall/HB2140/id/1492091",
+                         "state_link": "https://lis.virginia.gov/vote-details/HB2140/20251/S05V1940"
+                    }
+               ],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 493488,
+                         "date": "2025-01-22",
+                         "type": "Fiscal Note/Analysis",
+                         "type_id": 3,
+                         "title": "Fiscal Note/Analysis",
+                         "description": "Fiscal Impact Statement from Department of Planning and Budget (HB2140)",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/VA/supplement/HB2140/id/493488",
+                         "state_link": "https://lis.blob.core.windows.net/files/1026367.PDF",
+                         "supplement_size": 111610,
+                         "supplement_hash": "d6844a81bf8cec1cf35953737d363326",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "2d02b334",
+                         "type": "Hearing",
+                         "date": "2025-01-22",
+                         "time": "07:00",
+                         "location": "House North Subcommittee Room - 200",
+                         "description": "House Privileges and Elections - Campaign Finance Committee Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "d4c120bd",
+                         "type": "Hearing",
+                         "date": "2025-01-24",
+                         "time": "09:30",
+                         "location": "House Committee Room C - 206",
+                         "description": "House Privileges and Elections Committee Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "389975fb",
+                         "type": "Hearing",
+                         "date": "2025-02-11",
+                         "time": "19:00",
+                         "location": "Senate Room B, Room 306, General Assembly Building",
+                         "description": "Senate Privileges and Elections Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "c077a684",
+                         "type": "Hearing",
+                         "date": "2025-02-17",
+                         "time": "19:00",
+                         "location": "Senate Room A, Room 305, General Assembly Building",
+                         "description": "Senate Finance and Appropriations Hearing"
+                    }
+               ]
+          }
+     },
+     "1902110": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "d0ab9b80b43b39ffed872742a2d87188",
+               "relevance": 13,
+               "state": "VA",
+               "bill number": "HB1776",
+               "description": "Claims; Marvin Leon Grimm, Jr.; compensation for wrongful incarceration. Grants relief in an amount to be appropriated to Marvin Leon Grimm, Jr., who was wrongly convicted in 1976 of murder, sodomy by force, and abduction with the intent to defile and, as a result of such wrongful conviction, was subjected to 45 years of imprisonment and when released on parole was required to register on the sex offender registry for an additional four years before receiving a writ of actual innocence in 2024.",
+               "state link": "https://lis.virginia.gov/bill-details/20251/HB1776",
+               "legiscan link": "https://legiscan.com/VA/bill/HB1776/2025",
+               "status": {
+                    "date": "03-21-2025",
+                    "label": "Passed",
+                    "action": "Acts of Assembly Chapter text (CHAP0195)"
+               },
+               "date introduced": "01-06-2025",
+               "party": "R",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Richard Sullivan",
+                         "co": "Mark Earley, Elizabeth Bennett-Parker, Rae Cousins, Thomas Garrett, Jackie Glass, Karen Keys-Gamarra, Destiny LeVere Bolling, Chris Obenshain, Marcia Price, Kathy Tran",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 8, republican: 3"
+               }
+          },
+          "raw": {
+               "bill_id": 1902110,
+               "change_hash": "d0ab9b80b43b39ffed872742a2d87188",
+               "session_id": 2149,
+               "session": {
+                    "session_id": 2149,
+                    "state_id": 46,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/VA/bill/HB1776/2025",
+               "state_link": "https://lis.virginia.gov/bill-details/20251/HB1776",
+               "completed": 1,
+               "status": 4,
+               "status_date": "2025-03-21",
+               "progress": [
+                    {
+                         "date": "2025-01-06",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-01-06",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-01-29",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-02-03",
+                         "event": 2
+                    },
+                    {
+                         "date": "2025-02-05",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-02-12",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-02-19",
+                         "event": 3
+                    },
+                    {
+                         "date": "2025-03-21",
+                         "event": 8
+                    },
+                    {
+                         "date": "2025-03-21",
+                         "event": 4
+                    }
+               ],
+               "state": "VA",
+               "state_id": 46,
+               "bill_number": "HB1776",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 7,
+               "current_body": "H",
+               "current_body_id": 7,
+               "title": "Relief; Grimm, Marvin Leon, Jr., compensation for wrongful incarceration.",
+               "description": "Claims; Marvin Leon Grimm, Jr.; compensation for wrongful incarceration. Grants relief in an amount to be appropriated to Marvin Leon Grimm, Jr., who was wrongly convicted in 1976 of murder, sodomy by force, and abduction with the intent to defile and, as a result of such wrongful conviction, was subjected to 45 years of imprisonment and when released on parole was required to register on the sex offender registry for an additional four years before receiving a writ of actual innocence in 2024.",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [
+                    {
+                         "date": "2025-01-06",
+                         "committee_id": 147,
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "name": "Appropriations"
+                    },
+                    {
+                         "date": "2025-01-11",
+                         "committee_id": 3850,
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "name": "Appropriations: General Government & Capital Outlay"
+                    },
+                    {
+                         "date": "2025-02-05",
+                         "committee_id": 164,
+                         "chamber": "S",
+                         "chamber_id": 8,
+                         "name": "Finance and Appropriations"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-01-06",
+                         "action": "Prefiled and ordered printed; Offered 01-08-2025 25101453D",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-06",
+                         "action": "Referred to Committee on Appropriations",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-01-11",
+                         "action": "Assigned Approps sub: General Government and Capital Outlay",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-17",
+                         "action": "Fiscal Impact Statement from Department of Planning and Budget (HB1776)",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-27",
+                         "action": "Subcommittee recommends reporting with amendment(s) (7-Y 0-N)",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-29",
+                         "action": "Reported from Appropriations with amendment(s) (20-Y 1-N)",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-01-31",
+                         "action": "Read first time",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-03",
+                         "action": "Read second time",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-03",
+                         "action": "Appropriations Amendment agreed to",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-03",
+                         "action": "Engrossed by House as amended",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-03",
+                         "action": "Printed as engrossed 25101453D-E",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-04",
+                         "action": "Read third time and passed House (98-Y 0-N)",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-05",
+                         "action": "Constitutional reading dispensed (on 1st reading)",
+                         "chamber": "S",
+                         "chamber_id": 8,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-05",
+                         "action": "Referred to Committee on Finance and Appropriations",
+                         "chamber": "S",
+                         "chamber_id": 8,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-07",
+                         "action": "Fiscal Impact Statement from Department of Planning and Budget (HB1776)",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-12",
+                         "action": "Reported from Finance and Appropriations (15-Y 0-N)",
+                         "chamber": "S",
+                         "chamber_id": 8,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-13",
+                         "action": "Rules suspended",
+                         "chamber": "S",
+                         "chamber_id": 8,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-13",
+                         "action": "Constitutional reading dispensed (on 2nd reading) (40-Y 0-N)",
+                         "chamber": "S",
+                         "chamber_id": 8,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-13",
+                         "action": "Passed by for the day",
+                         "chamber": "S",
+                         "chamber_id": 8,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-14",
+                         "action": "Read third time",
+                         "chamber": "S",
+                         "chamber_id": 8,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-14",
+                         "action": "Passed Senate (36-Y 0-N)",
+                         "chamber": "S",
+                         "chamber_id": 8,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-19",
+                         "action": "Enrolled",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-19",
+                         "action": "Bill text as passed House and Senate (HB1776ER)",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-19",
+                         "action": "Signed by Speaker",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-20",
+                         "action": "Fiscal Impact Statement from Department of Planning and Budget (HB1776)",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-22",
+                         "action": "Signed by President",
+                         "chamber": "S",
+                         "chamber_id": 8,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-03",
+                         "action": "Enrolled Bill communicated to Governor on March 3, 2025",
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-03",
+                         "action": "Governor's Action Deadline 11:59 p.m., March 24, 2025",
+                         "chamber": "",
+                         "chamber_id": 0,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-21",
+                         "action": "Approved by Governor-Chapter 195 (Effective 07/01/25)",
+                         "chamber": "",
+                         "chamber_id": 0,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-21",
+                         "action": "Acts of Assembly Chapter text (CHAP0195)",
+                         "chamber": "",
+                         "chamber_id": 0,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 16261,
+                         "person_hash": "zktn8136",
+                         "party_id": "1",
+                         "state_id": 46,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Richard Sullivan",
+                         "first_name": "Richard",
+                         "middle_name": "C.",
+                         "last_name": "Sullivan",
+                         "suffix": "Jr.",
+                         "nickname": "Rip",
+                         "district": "HD-048",
+                         "ftm_eid": 5965912,
+                         "votesmart_id": 129034,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 510361,
+                         "ballotpedia": "R.C._Sullivan_Jr.",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 25038,
+                         "person_hash": "m2b1ereb",
+                         "party_id": "2",
+                         "state_id": 46,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Mark Earley",
+                         "first_name": "Mark",
+                         "middle_name": "L.",
+                         "last_name": "Earley",
+                         "suffix": "Jr.",
+                         "nickname": "",
+                         "district": "HD-073",
+                         "ftm_eid": 53400413,
+                         "votesmart_id": 195994,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Mark_Earley_Jr.",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 23033,
+                         "person_hash": "ytpekgyd",
+                         "party_id": "1",
+                         "state_id": 46,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Elizabeth Bennett-Parker",
+                         "first_name": "Elizabeth",
+                         "middle_name": "B.",
+                         "last_name": "Bennett-Parker",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-045",
+                         "ftm_eid": 43746485,
+                         "votesmart_id": 195975,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 772968,
+                         "ballotpedia": "Elizabeth_Bennett-Parker",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24987,
+                         "person_hash": "48fc9pts",
+                         "party_id": "1",
+                         "state_id": 46,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Rae Cousins",
+                         "first_name": "Rae",
+                         "middle_name": "C.",
+                         "last_name": "Cousins",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-079",
+                         "ftm_eid": 58873153,
+                         "votesmart_id": 212100,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Rae_Cousins",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 4,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 13783,
+                         "person_hash": "7x22m05u",
+                         "party_id": "2",
+                         "state_id": 46,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Thomas Garrett",
+                         "first_name": "Thomas",
+                         "middle_name": "A.",
+                         "last_name": "Garrett",
+                         "suffix": "Jr.",
+                         "nickname": "Tom",
+                         "district": "HD-056",
+                         "ftm_eid": 5733237,
+                         "votesmart_id": 134493,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 362382,
+                         "ballotpedia": "Thomas_Garrett",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 5,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 18307
+                    },
+                    {
+                         "people_id": 23040,
+                         "person_hash": "xnkwepqn",
+                         "party_id": "1",
+                         "state_id": 46,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Jackie Glass",
+                         "first_name": "Jackie",
+                         "middle_name": "H.",
+                         "last_name": "Glass",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-089",
+                         "ftm_eid": 54466172,
+                         "votesmart_id": 201393,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 795351,
+                         "ballotpedia": "Jackie_Glass_(Virginia)",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 6,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 25009,
+                         "person_hash": "u39otlau",
+                         "party_id": "1",
+                         "state_id": 46,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Karen Keys-Gamarra",
+                         "first_name": "Karen",
+                         "middle_name": "A.",
+                         "last_name": "Keys-Gamarra",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-007",
+                         "ftm_eid": 58873136,
+                         "votesmart_id": 212042,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Karen_Keys-Gamarra",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 7,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24989,
+                         "person_hash": "87zye2v4",
+                         "party_id": "1",
+                         "state_id": 46,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Destiny LeVere Bolling",
+                         "first_name": "Destiny",
+                         "middle_name": "",
+                         "last_name": "LeVere Bolling",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-080",
+                         "ftm_eid": 58873157,
+                         "votesmart_id": 212101,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Destiny_LeVere_Bolling",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 8,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 25017,
+                         "person_hash": "t9t6ziun",
+                         "party_id": "2",
+                         "state_id": 46,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Chris Obenshain",
+                         "first_name": "Joseph",
+                         "middle_name": "Christopher",
+                         "last_name": "Obenshain",
+                         "suffix": "",
+                         "nickname": "Chris",
+                         "district": "HD-041",
+                         "ftm_eid": 59095323,
+                         "votesmart_id": 212072,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Chris_Obenshain",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 9,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 17806,
+                         "person_hash": "ol9dz6wl",
+                         "party_id": "1",
+                         "state_id": 46,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Marcia Price",
+                         "first_name": "Marcia",
+                         "middle_name": "S.",
+                         "last_name": "Price",
+                         "suffix": "",
+                         "nickname": "Cia",
+                         "district": "HD-095",
+                         "ftm_eid": 32013300,
+                         "votesmart_id": 156448,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 533396,
+                         "ballotpedia": "Marcia_Price",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 10,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 19508,
+                         "person_hash": "sf9ir1jh",
+                         "party_id": "1",
+                         "state_id": 46,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Kathy Tran",
+                         "first_name": "Kathy",
+                         "middle_name": "K.L.",
+                         "last_name": "Tran",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-042",
+                         "ftm_eid": 43620471,
+                         "votesmart_id": 176359,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 403178,
+                         "ballotpedia": "Kathy_Tran",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 11,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3041691,
+                         "date": "2025-01-06",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/VA/text/HB1776/id/3041691",
+                         "state_link": "https://lis.virginia.gov/bill-details/20251/HB1776/text/HB1776",
+                         "text_size": 22859,
+                         "text_hash": "23248ab0ad8cd8ab63e98c041d74f075",
+                         "alt_bill_text": 1,
+                         "alt_mime": "application/pdf",
+                         "alt_mime_id": 2,
+                         "alt_state_link": "https://lis.blob.core.windows.net/files/1013189.PDF",
+                         "alt_text_size": 37374,
+                         "alt_text_hash": "4f7ff95dcf718a960533715dd7afed8b"
+                    },
+                    {
+                         "doc_id": 3096236,
+                         "date": "2025-02-03",
+                         "type": "Engrossed",
+                         "type_id": 4,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/VA/text/HB1776/id/3096236",
+                         "state_link": "https://lis.virginia.gov/bill-details/20251/HB1776/text/HB1776E",
+                         "text_size": 23209,
+                         "text_hash": "852d722f9c33b910a6007b7923f32386",
+                         "alt_bill_text": 1,
+                         "alt_mime": "application/pdf",
+                         "alt_mime_id": 2,
+                         "alt_state_link": "https://lis.blob.core.windows.net/files/1035490.PDF",
+                         "alt_text_size": 38179,
+                         "alt_text_hash": "9252813ba3a10eb9d07eaae0ad3b24c5"
+                    },
+                    {
+                         "doc_id": 3129600,
+                         "date": "2025-02-19",
+                         "type": "Enrolled",
+                         "type_id": 5,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/VA/text/HB1776/id/3129600",
+                         "state_link": "https://lis.virginia.gov/bill-details/20251/HB1776/text/HB1776ER",
+                         "text_size": 21901,
+                         "text_hash": "41e8f4fcbcdd9dd3809425211309ccb4",
+                         "alt_bill_text": 1,
+                         "alt_mime": "application/pdf",
+                         "alt_mime_id": 2,
+                         "alt_state_link": "https://lis.blob.core.windows.net/files/1054539.PDF",
+                         "alt_text_size": 36851,
+                         "alt_text_hash": "2a4cd50e6e0956bcc7acf31f80333ec3"
+                    },
+                    {
+                         "doc_id": 3192006,
+                         "date": "2025-03-21",
+                         "type": "Chaptered",
+                         "type_id": 6,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/VA/text/HB1776/id/3192006",
+                         "state_link": "https://lis.virginia.gov/bill-details/20251/HB1776/text/CHAP0195",
+                         "text_size": 21735,
+                         "text_hash": "52e7dc2542a36bd8f19aab4a8b25ba66",
+                         "alt_bill_text": 1,
+                         "alt_mime": "application/pdf",
+                         "alt_mime_id": 2,
+                         "alt_state_link": "https://lis.blob.core.windows.net/files/1072230.PDF",
+                         "alt_text_size": 14855,
+                         "alt_text_hash": "d3c7ae924a9d3e806bcf00407e058fe1"
+                    }
+               ],
+               "votes": [
+                    {
+                         "roll_call_id": 1475159,
+                         "date": "2025-01-27",
+                         "desc": "Subcommittee recommends reporting with amendment(s) (7-Y 0-N)",
+                         "yea": 7,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 2,
+                         "total": 9,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "url": "https://legiscan.com/VA/rollcall/HB1776/id/1475159",
+                         "state_link": "https://lis.virginia.gov/vote-details/HB1776/20251/H02004V2511223"
+                    },
+                    {
+                         "roll_call_id": 1476773,
+                         "date": "2025-01-29",
+                         "desc": "Reported from Appropriations with amendment(s) (20-Y 1-N)",
+                         "yea": 20,
+                         "nay": 1,
+                         "nv": 0,
+                         "absent": 1,
+                         "total": 22,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "url": "https://legiscan.com/VA/rollcall/HB1776/id/1476773",
+                         "state_link": "https://lis.virginia.gov/vote-details/HB1776/20251/H02V2511709"
+                    },
+                    {
+                         "roll_call_id": 1480648,
+                         "date": "2025-02-04",
+                         "desc": "Read third time and passed House (98-Y 0-N)",
+                         "yea": 98,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 2,
+                         "total": 100,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "url": "https://legiscan.com/VA/rollcall/HB1776/id/1480648",
+                         "state_link": "https://lis.virginia.gov/vote-details/HB1776/20251/2518387"
+                    },
+                    {
+                         "roll_call_id": 1488216,
+                         "date": "2025-02-12",
+                         "desc": "Reported from Finance and Appropriations (15-Y 0-N)",
+                         "yea": 15,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 15,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 8,
+                         "url": "https://legiscan.com/VA/rollcall/HB1776/id/1488216",
+                         "state_link": "https://lis.virginia.gov/vote-details/HB1776/20251/S05V1507"
+                    },
+                    {
+                         "roll_call_id": 1489133,
+                         "date": "2025-02-13",
+                         "desc": "Constitutional reading dispensed (on 2nd reading) (40-Y 0-N)",
+                         "yea": 40,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 40,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 8,
+                         "url": "https://legiscan.com/VA/rollcall/HB1776/id/1489133",
+                         "state_link": "https://lis.virginia.gov/vote-details/HB1776/20251/SV472"
+                    },
+                    {
+                         "roll_call_id": 1490060,
+                         "date": "2025-02-14",
+                         "desc": "Passed Senate (36-Y 0-N)",
+                         "yea": 36,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 4,
+                         "total": 40,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 8,
+                         "url": "https://legiscan.com/VA/rollcall/HB1776/id/1490060",
+                         "state_link": "https://lis.virginia.gov/vote-details/HB1776/20251/SV493"
+                    }
+               ],
+               "amendments": [
+                    {
+                         "amendment_id": 223726,
+                         "adopted": 0,
+                         "chamber": "H",
+                         "chamber_id": 7,
+                         "date": "0000-00-00",
+                         "title": "HAPP Sub: General Government and Capital Outlay Amendments",
+                         "description": "HAPP Sub: General Government and Capital Outlay Amendments",
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/VA/amendment/HB1776/id/223726",
+                         "state_link": "https://lis.virginia.gov/bill-details/20251/HB1776/text/HB1776AH1",
+                         "amendment_size": 716,
+                         "amendment_hash": "9d0e336d8b14c80beed2585f6c70ca72",
+                         "alt_amendment": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_amendment_size": 0,
+                         "alt_amendment_hash": ""
+                    }
+               ],
+               "supplements": [
+                    {
+                         "supplement_id": 489695,
+                         "date": "2025-01-17",
+                         "type": "Fiscal Note/Analysis",
+                         "type_id": 3,
+                         "title": "Fiscal Note/Analysis",
+                         "description": "Fiscal Impact Statement from Department of Planning and Budget (HB1776)",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/VA/supplement/HB1776/id/489695",
+                         "state_link": "https://lis.blob.core.windows.net/files/1022584.PDF",
+                         "supplement_size": 125204,
+                         "supplement_hash": "6cbae6e5ef9d313c7b16d419f31c4680",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    },
+                    {
+                         "supplement_id": 508925,
+                         "date": "2025-02-07",
+                         "type": "Fiscal Note/Analysis",
+                         "type_id": 3,
+                         "title": "Fiscal Note/Analysis",
+                         "description": "Fiscal Impact Statement from Department of Planning and Budget (HB1776)",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/VA/supplement/HB1776/id/508925",
+                         "state_link": "https://lis.blob.core.windows.net/files/1044287.PDF",
+                         "supplement_size": 127957,
+                         "supplement_hash": "e1efa3047f7c5c8c02fd62c89e7f9e14",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    },
+                    {
+                         "supplement_id": 525093,
+                         "date": "2025-02-20",
+                         "type": "Fiscal Note/Analysis",
+                         "type_id": 3,
+                         "title": "Fiscal Note/Analysis",
+                         "description": "Fiscal Impact Statement from Department of Planning and Budget (HB1776)",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/VA/supplement/HB1776/id/525093",
+                         "state_link": "https://lis.blob.core.windows.net/files/1063785.PDF",
+                         "supplement_size": 128796,
+                         "supplement_hash": "aa38d14dcae8d1dc4bd07a6c4ca31931",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "83c748e7",
+                         "type": "Hearing",
+                         "date": "2025-01-27",
+                         "time": "00:00",
+                         "location": "House Appropriations Committee Room - 1200",
+                         "description": "House Appropriations - General Government and Capital Outlay Subcommittee Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "36b4d8e4",
+                         "type": "Hearing",
+                         "date": "2025-01-29",
+                         "time": "00:00",
+                         "location": "House Appropriations Committee Room - 1200",
+                         "description": "House Appropriations Committee Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "fc02e5e7",
+                         "type": "Hearing",
+                         "date": "2025-02-12",
+                         "time": "09:00",
+                         "location": "Senate Room A, Room 305, General Assembly Building",
+                         "description": "Senate Finance and Appropriations Hearing"
+                    }
+               ]
+          }
+     }
+}

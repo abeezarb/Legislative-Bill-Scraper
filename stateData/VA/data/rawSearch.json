@@ -1,0 +1,41 @@
+{
+     "status": "OK",
+     "searchresult": {
+          "summary": {
+               "page": "1 of 1",
+               "range": "1 - 5",
+               "relevancy": "66% - 13%",
+               "count": 5,
+               "page_current": 1,
+               "page_total": 1,
+               "query": "((XSESSION2149 AND ((death:(pos=1) PHRASE 2 penalty:(pos=2)) OR (capital:(pos=3) PHRASE 2 punishment:(pos=4)) OR (capital:(pos=5) PHRASE 3 sexual:(pos=6) PHRASE 3 battery:(pos=7)) OR (execution:(pos=8) PHRASE 2 method:(pos=9)) OR (death:(pos=10) PHRASE 2 sentence:(pos=11)) OR (method:(pos=12) PHRASE 3 of:(pos=13) PHRASE 3 execution:(pos=14)))))"
+          },
+          "results": [
+               {
+                    "relevance": 66,
+                    "bill_id": 1924572,
+                    "change_hash": "1a988198fda4bdfdce13a894d5ed3a21"
+               },
+               {
+                    "relevance": 15,
+                    "bill_id": 1886103,
+                    "change_hash": "dcf4432742dec98886105fe4ec6ff2c2"
+               },
+               {
+                    "relevance": 15,
+                    "bill_id": 1920129,
+                    "change_hash": "1fb6bc54dc6d4fc7172f4ca70a79c30f"
+               },
+               {
+                    "relevance": 15,
+                    "bill_id": 1905009,
+                    "change_hash": "5b02e42eed3a09e50b0c70f7a38ea50b"
+               },
+               {
+                    "relevance": 13,
+                    "bill_id": 1902110,
+                    "change_hash": "d0ab9b80b43b39ffed872742a2d87188"
+               }
+          ]
+     }
+}

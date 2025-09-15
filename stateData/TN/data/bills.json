@@ -1,0 +1,916 @@
+{
+     "1924268": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "1a6481ad0c646fad939b24f8e9e9a261",
+               "relevance": 20,
+               "state": "TN",
+               "bill number": "HB0198",
+               "description": "As introduced, enacts the \"Bearing Witness to the Death Penalty Act.\" - Amends TCA Title 40, Chapter 23.",
+               "state link": "https://wapp.capitol.tn.gov/apps/Billinfo/default.aspx?BillNumber=HB0198&ga=114",
+               "legiscan link": "https://legiscan.com/TN/bill/HB0198/2025",
+               "status": {
+                    "date": "03-26-2025",
+                    "label": "Failed",
+                    "action": "Failed in s/c Criminal Justice Subcommittee of Judiciary Committee"
+               },
+               "date introduced": "01-16-2025",
+               "party": "D",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Aftyn Behn",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1924268,
+               "change_hash": "1a6481ad0c646fad939b24f8e9e9a261",
+               "session_id": 2161,
+               "session": {
+                    "session_id": 2161,
+                    "state_id": 42,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "114th General Assembly"
+               },
+               "url": "https://legiscan.com/TN/bill/HB0198/2025",
+               "state_link": "https://wapp.capitol.tn.gov/apps/Billinfo/default.aspx?BillNumber=HB0198&ga=114",
+               "completed": 1,
+               "status": 6,
+               "status_date": "2025-03-26",
+               "progress": [
+                    {
+                         "date": "2025-01-16",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-03",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-03-26",
+                         "event": 6
+                    }
+               ],
+               "state": "TN",
+               "state_id": 42,
+               "bill_number": "HB0198",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 89,
+               "current_body": "H",
+               "current_body_id": 89,
+               "title": "AN ACT to amend Tennessee Code Annotated, Title 40, Chapter 23, relative to the death penalty.",
+               "description": "As introduced, enacts the \"Bearing Witness to the Death Penalty Act.\" - Amends TCA Title 40, Chapter 23.",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [
+                    {
+                         "date": "2025-02-03",
+                         "committee_id": 2486,
+                         "chamber": "H",
+                         "chamber_id": 89,
+                         "name": "Judiciary"
+                    },
+                    {
+                         "date": "2025-03-19",
+                         "committee_id": 2942,
+                         "chamber": "H",
+                         "chamber_id": 89,
+                         "name": "Criminal Justice Subcommittee"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-01-16",
+                         "action": "Filed for introduction",
+                         "chamber": "H",
+                         "chamber_id": 89,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-01-27",
+                         "action": "Intro., P1C.",
+                         "chamber": "H",
+                         "chamber_id": 89,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-03",
+                         "action": "P2C, ref. to Judiciary Committee",
+                         "chamber": "H",
+                         "chamber_id": 89,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-03",
+                         "action": "Assigned to s/c Criminal Justice Subcommittee",
+                         "chamber": "H",
+                         "chamber_id": 89,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-19",
+                         "action": "Placed on s/c cal Criminal Justice Subcommittee for 3/26/2025",
+                         "chamber": "H",
+                         "chamber_id": 89,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-26",
+                         "action": "Failed in s/c Criminal Justice Subcommittee of Judiciary Committee",
+                         "chamber": "H",
+                         "chamber_id": 89,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 24997,
+                         "person_hash": "0afww9r8",
+                         "party_id": "1",
+                         "state_id": 42,
+                         "party": "D",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Aftyn Behn",
+                         "first_name": "Aftyn",
+                         "middle_name": "",
+                         "last_name": "Behn",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-051",
+                         "ftm_eid": 56909362,
+                         "votesmart_id": 0,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Aftyn_Behn",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [
+                    {
+                         "type_id": 5,
+                         "type": "Crossfiled",
+                         "sast_bill_number": "SB1214",
+                         "sast_bill_id": 1958695
+                    }
+               ],
+               "subjects": [
+                    {
+                         "subject_id": 4779,
+                         "subject_name": "Criminal Procedure"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3061425,
+                         "date": "2025-01-16",
+                         "type": "Draft",
+                         "type_id": 9,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/TN/text/HB0198/id/3061425",
+                         "state_link": "https://www.capitol.tn.gov/Bills/114/Bill/HB0198.pdf",
+                         "text_size": 7934,
+                         "text_hash": "ea80309a87ea2ef69fc14cd862dc948c",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3107193,
+                         "date": "2025-02-06",
+                         "type": "Draft",
+                         "type_id": 9,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/TN/text/HB0198/id/3107193",
+                         "state_link": "https://www.capitol.tn.gov/Bills/114/Bill/HB0198.pdf",
+                         "text_size": 7932,
+                         "text_hash": "29eec25fef43e5669a5e670c8181b510",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [
+                    {
+                         "roll_call_id": 1528069,
+                         "date": "2025-03-26",
+                         "desc": "HOUSE CRIMINAL JUSTICE SUBCOMMITTEE: Failed in s/c Criminal Justice Subcommittee of Judiciary Committee",
+                         "yea": 3,
+                         "nay": 5,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 8,
+                         "passed": 0,
+                         "chamber": "H",
+                         "chamber_id": 89,
+                         "url": "https://legiscan.com/TN/rollcall/HB0198/id/1528069",
+                         "state_link": "https://wapp.capitol.tn.gov/apps/Billinfo/default.aspx?BillNumber=HB0198&ga=114"
+                    }
+               ],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 489677,
+                         "date": "2025-01-17",
+                         "type": "Fiscal Note",
+                         "type_id": 1,
+                         "title": "Fiscal Note",
+                         "description": "HB0198",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/TN/supplement/HB0198/id/489677",
+                         "state_link": "https://www.capitol.tn.gov/Bills/114/Fiscal/HB0198.pdf",
+                         "supplement_size": 139450,
+                         "supplement_hash": "2c0f1021a76b4da959c66430afe48cbc",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "8ba94b61",
+                         "type": "Hearing",
+                         "date": "2025-03-26",
+                         "time": "15:00",
+                         "location": "House Hearing Room II",
+                         "description": "House Cities & Counties Subcommittee Hearing"
+                    }
+               ]
+          }
+     },
+     "1946347": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "c6fb95d0d618483adbf7a253519f02b4",
+               "relevance": 19,
+               "state": "TN",
+               "bill number": "SB0491",
+               "description": "As introduced, specifies that for purposes of carrying out a sentence of death, lethal injection protocol may include the use of pharmaceutical fentanyl. - Amends TCA Title 40.",
+               "state link": "https://wapp.capitol.tn.gov/apps/Billinfo/default.aspx?BillNumber=SB0491&ga=114",
+               "legiscan link": "https://legiscan.com/TN/bill/SB0491/2025",
+               "status": {
+                    "date": "01-29-2025",
+                    "label": "Introduced",
+                    "action": "Passed on Second Consideration, refer to Senate Judiciary Committee"
+               },
+               "date introduced": "01-29-2025",
+               "party": "R",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Janince Bowling",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1946347,
+               "change_hash": "c6fb95d0d618483adbf7a253519f02b4",
+               "session_id": 2161,
+               "session": {
+                    "session_id": 2161,
+                    "state_id": 42,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "114th General Assembly"
+               },
+               "url": "https://legiscan.com/TN/bill/SB0491/2025",
+               "state_link": "https://wapp.capitol.tn.gov/apps/Billinfo/default.aspx?BillNumber=SB0491&ga=114",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-01-29",
+               "progress": [
+                    {
+                         "date": "2025-01-29",
+                         "event": 1
+                    }
+               ],
+               "state": "TN",
+               "state_id": 42,
+               "bill_number": "SB0491",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "S",
+               "body_id": 90,
+               "current_body": "S",
+               "current_body_id": 90,
+               "title": "AN ACT to amend Tennessee Code Annotated, Title 40, relative to the death penalty.",
+               "description": "As introduced, specifies that for purposes of carrying out a sentence of death, lethal injection protocol may include the use of pharmaceutical fentanyl. - Amends TCA Title 40.",
+               "pending_committee_id": 2499,
+               "committee": {
+                    "committee_id": 2499,
+                    "chamber": "S",
+                    "chamber_id": 90,
+                    "name": "Judiciary"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-02-12",
+                         "committee_id": 2499,
+                         "chamber": "S",
+                         "chamber_id": 90,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-01-29",
+                         "action": "Filed for introduction",
+                         "chamber": "S",
+                         "chamber_id": 90,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-10",
+                         "action": "Introduced, Passed on First Consideration",
+                         "chamber": "S",
+                         "chamber_id": 90,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-12",
+                         "action": "Passed on Second Consideration, refer to Senate Judiciary Committee",
+                         "chamber": "S",
+                         "chamber_id": 90,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 15131,
+                         "person_hash": "rpr8mz3l",
+                         "party_id": "2",
+                         "state_id": 42,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Janince Bowling",
+                         "first_name": "Janince",
+                         "middle_name": "",
+                         "last_name": "Bowling",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-016",
+                         "ftm_eid": 9394277,
+                         "votesmart_id": 49078,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 399469,
+                         "ballotpedia": "Janice_Bowling",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [
+                    {
+                         "type_id": 5,
+                         "type": "Crossfiled",
+                         "sast_bill_number": "HB1022",
+                         "sast_bill_id": 1956877
+                    }
+               ],
+               "subjects": [
+                    {
+                         "subject_id": 4779,
+                         "subject_name": "Criminal Procedure"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3088778,
+                         "date": "2025-01-29",
+                         "type": "Draft",
+                         "type_id": 9,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/TN/text/SB0491/id/3088778",
+                         "state_link": "https://www.capitol.tn.gov/Bills/114/Bill/SB0491.pdf",
+                         "text_size": 7954,
+                         "text_hash": "440a844eb79c2dc15438014c8a4f23ad",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    },
+                    {
+                         "doc_id": 3102642,
+                         "date": "2025-02-05",
+                         "type": "Draft",
+                         "type_id": 9,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/TN/text/SB0491/id/3102642",
+                         "state_link": "https://www.capitol.tn.gov/Bills/114/Bill/SB0491.pdf",
+                         "text_size": 7967,
+                         "text_hash": "c1f5ff2d2889bacd575d7f0612bb4cb2",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 516078,
+                         "date": "2025-02-13",
+                         "type": "Fiscal Note",
+                         "type_id": 1,
+                         "title": "Fiscal Note",
+                         "description": "SB0491",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/TN/supplement/SB0491/id/516078",
+                         "state_link": "https://www.capitol.tn.gov/Bills/114/Fiscal/SB0491.pdf",
+                         "supplement_size": 118954,
+                         "supplement_hash": "8f65c9465e4af7861cae93cac180c315",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": []
+          }
+     },
+     "1958695": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "322e337acf5e622b1445af1be5b464c5",
+               "relevance": 19,
+               "state": "TN",
+               "bill number": "SB1214",
+               "description": "As introduced, enacts the \"Bearing Witness to the Death Penalty Act.\" - Amends TCA Title 40, Chapter 23.",
+               "state link": "https://wapp.capitol.tn.gov/apps/Billinfo/default.aspx?BillNumber=SB1214&ga=114",
+               "legiscan link": "https://legiscan.com/TN/bill/SB1214/2025",
+               "status": {
+                    "date": "02-06-2025",
+                    "label": "Introduced",
+                    "action": "Passed on Second Consideration, refer to Senate Judiciary Committee"
+               },
+               "date introduced": "02-06-2025",
+               "party": "D",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Charlane Oliver",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "democrat: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1958695,
+               "change_hash": "322e337acf5e622b1445af1be5b464c5",
+               "session_id": 2161,
+               "session": {
+                    "session_id": 2161,
+                    "state_id": 42,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "114th General Assembly"
+               },
+               "url": "https://legiscan.com/TN/bill/SB1214/2025",
+               "state_link": "https://wapp.capitol.tn.gov/apps/Billinfo/default.aspx?BillNumber=SB1214&ga=114",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-02-06",
+               "progress": [
+                    {
+                         "date": "2025-02-06",
+                         "event": 1
+                    }
+               ],
+               "state": "TN",
+               "state_id": 42,
+               "bill_number": "SB1214",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "S",
+               "body_id": 90,
+               "current_body": "S",
+               "current_body_id": 90,
+               "title": "AN ACT to amend Tennessee Code Annotated, Title 40, Chapter 23, relative to the death penalty.",
+               "description": "As introduced, enacts the \"Bearing Witness to the Death Penalty Act.\" - Amends TCA Title 40, Chapter 23.",
+               "pending_committee_id": 2499,
+               "committee": {
+                    "committee_id": 2499,
+                    "chamber": "S",
+                    "chamber_id": 90,
+                    "name": "Judiciary"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-02-12",
+                         "committee_id": 2499,
+                         "chamber": "S",
+                         "chamber_id": 90,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-06",
+                         "action": "Filed for introduction",
+                         "chamber": "S",
+                         "chamber_id": 90,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-10",
+                         "action": "Introduced, Passed on First Consideration",
+                         "chamber": "S",
+                         "chamber_id": 90,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-12",
+                         "action": "Passed on Second Consideration, refer to Senate Judiciary Committee",
+                         "chamber": "S",
+                         "chamber_id": 90,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 24391,
+                         "person_hash": "rya1o1i6",
+                         "party_id": "1",
+                         "state_id": 42,
+                         "party": "D",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Charlane Oliver",
+                         "first_name": "Charlane",
+                         "middle_name": "",
+                         "last_name": "Oliver",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-019",
+                         "ftm_eid": 52443337,
+                         "votesmart_id": 206796,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Charlane_Oliver",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [
+                    {
+                         "type_id": 5,
+                         "type": "Crossfiled",
+                         "sast_bill_number": "HB0198",
+                         "sast_bill_id": 1924268
+                    }
+               ],
+               "subjects": [
+                    {
+                         "subject_id": 4779,
+                         "subject_name": "Criminal Procedure"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3104282,
+                         "date": "2025-02-06",
+                         "type": "Draft",
+                         "type_id": 9,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/TN/text/SB1214/id/3104282",
+                         "state_link": "https://www.capitol.tn.gov/Bills/114/Bill/SB1214.pdf",
+                         "text_size": 7927,
+                         "text_hash": "2acbe3cc3325c8a3a88b149e00a2adcd",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 506817,
+                         "date": "2025-01-17",
+                         "type": "Fiscal Note",
+                         "type_id": 1,
+                         "title": "Fiscal Note",
+                         "description": "HB0198",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/TN/supplement/SB1214/id/506817",
+                         "state_link": "https://www.capitol.tn.gov/Bills/114/Fiscal/HB0198.pdf",
+                         "supplement_size": 139450,
+                         "supplement_hash": "2c0f1021a76b4da959c66430afe48cbc",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": []
+          }
+     },
+     "1956877": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "312e7605fbc2b6e9f84510a9bd3949c9",
+               "relevance": 19,
+               "state": "TN",
+               "bill number": "HB1022",
+               "description": "As introduced, specifies that for purposes of carrying out a sentence of death, lethal injection protocol may include the use of pharmaceutical fentanyl. - Amends TCA Title 40.",
+               "state link": "https://wapp.capitol.tn.gov/apps/Billinfo/default.aspx?BillNumber=HB1022&ga=114",
+               "legiscan link": "https://legiscan.com/TN/bill/HB1022/2025",
+               "status": {
+                    "date": "02-10-2025",
+                    "label": "Refer",
+                    "action": "Meeting Canceled"
+               },
+               "date introduced": "02-05-2025",
+               "party": "R",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Lowell Russell",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1956877,
+               "change_hash": "312e7605fbc2b6e9f84510a9bd3949c9",
+               "session_id": 2161,
+               "session": {
+                    "session_id": 2161,
+                    "state_id": 42,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "114th General Assembly"
+               },
+               "url": "https://legiscan.com/TN/bill/HB1022/2025",
+               "state_link": "https://wapp.capitol.tn.gov/apps/Billinfo/default.aspx?BillNumber=HB1022&ga=114",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-02-05",
+               "progress": [
+                    {
+                         "date": "2025-02-05",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-10",
+                         "event": 9
+                    }
+               ],
+               "state": "TN",
+               "state_id": 42,
+               "bill_number": "HB1022",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 89,
+               "current_body": "H",
+               "current_body_id": 89,
+               "title": "AN ACT to amend Tennessee Code Annotated, Title 40, relative to the death penalty.",
+               "description": "As introduced, specifies that for purposes of carrying out a sentence of death, lethal injection protocol may include the use of pharmaceutical fentanyl. - Amends TCA Title 40.",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [
+                    {
+                         "date": "2025-02-10",
+                         "committee_id": 2486,
+                         "chamber": "H",
+                         "chamber_id": 89,
+                         "name": "Judiciary"
+                    },
+                    {
+                         "date": "2025-02-12",
+                         "committee_id": 2942,
+                         "chamber": "H",
+                         "chamber_id": 89,
+                         "name": "Criminal Justice Subcommittee"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-05",
+                         "action": "Filed for introduction",
+                         "chamber": "H",
+                         "chamber_id": 89,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-06",
+                         "action": "Intro., P1C.",
+                         "chamber": "H",
+                         "chamber_id": 89,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-10",
+                         "action": "P2C, ref. to Judiciary Committee",
+                         "chamber": "H",
+                         "chamber_id": 89,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-11",
+                         "action": "Assigned to s/c Criminal Justice Subcommittee",
+                         "chamber": "H",
+                         "chamber_id": 89,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-12",
+                         "action": "Placed on s/c cal Criminal Justice Subcommittee for 2/19/2025",
+                         "chamber": "H",
+                         "chamber_id": 89,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-19",
+                         "action": "Meeting Canceled",
+                         "chamber": "H",
+                         "chamber_id": 89,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 20353,
+                         "person_hash": "2zy234l1",
+                         "party_id": "2",
+                         "state_id": 42,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Lowell Russell",
+                         "first_name": "Lowell",
+                         "middle_name": "",
+                         "last_name": "Russell",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-021",
+                         "ftm_eid": 9540021,
+                         "votesmart_id": 182416,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 662568,
+                         "ballotpedia": "Lowell_Russell",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [
+                    {
+                         "type_id": 5,
+                         "type": "Crossfiled",
+                         "sast_bill_number": "SB0491",
+                         "sast_bill_id": 1946347
+                    }
+               ],
+               "subjects": [
+                    {
+                         "subject_id": 4779,
+                         "subject_name": "Criminal Procedure"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3101822,
+                         "date": "2025-02-05",
+                         "type": "Draft",
+                         "type_id": 9,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/TN/text/HB1022/id/3101822",
+                         "state_link": "https://www.capitol.tn.gov/Bills/114/Bill/HB1022.pdf",
+                         "text_size": 7961,
+                         "text_hash": "6e53d59dea14530eb74872c8b1a1b79a",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 515939,
+                         "date": "2025-02-13",
+                         "type": "Fiscal Note",
+                         "type_id": 1,
+                         "title": "Fiscal Note",
+                         "description": "SB0491",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/TN/supplement/HB1022/id/515939",
+                         "state_link": "https://www.capitol.tn.gov/Bills/114/Fiscal/SB0491.pdf",
+                         "supplement_size": 118954,
+                         "supplement_hash": "8f65c9465e4af7861cae93cac180c315",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "0ecd6c2f",
+                         "type": "Hearing",
+                         "date": "2025-02-19",
+                         "time": "09:00",
+                         "location": "House Hearing Room II",
+                         "description": "House Criminal Justice Subcommittee Hearing"
+                    }
+               ]
+          }
+     }
+}

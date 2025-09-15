@@ -1,0 +1,360 @@
+{
+     "2042878": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "2390cc53a5505d8ee2bb511e179cd60d",
+               "relevance": 20,
+               "state": "AL",
+               "bill number": "SB17",
+               "description": "Crimes and offenses; rape in the first degree, sodomy in the first degree, and sexual torture, penalties further provided for",
+               "state link": "https://alison.legislature.state.al.us/bill-search",
+               "legiscan link": "https://legiscan.com/AL/bill/SB17/2026",
+               "status": {
+                    "date": "08-28-2025",
+                    "label": "Refer",
+                    "action": "Pending Senate Judiciary"
+               },
+               "date introduced": "08-28-2025",
+               "party": "R",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "April Weaver",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 2042878,
+               "change_hash": "2390cc53a5505d8ee2bb511e179cd60d",
+               "session_id": 2218,
+               "session": {
+                    "session_id": 2218,
+                    "state_id": 1,
+                    "year_start": 2026,
+                    "year_end": 2026,
+                    "prefile": 1,
+                    "sine_die": 0,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2026 Regular Session",
+                    "session_name": "2026 Regular Session"
+               },
+               "url": "https://legiscan.com/AL/bill/SB17/2026",
+               "state_link": "https://alison.legislature.state.al.us/bill-search",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-08-28",
+               "progress": [
+                    {
+                         "date": "2025-08-28",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-08-28",
+                         "event": 9
+                    }
+               ],
+               "state": "AL",
+               "state_id": 1,
+               "bill_number": "SB17",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "S",
+               "body_id": 12,
+               "current_body": "S",
+               "current_body_id": 12,
+               "title": "Crimes and offenses; rape in the first degree, sodomy in the first degree, and sexual torture, penalties further provided for",
+               "description": "Crimes and offenses; rape in the first degree, sodomy in the first degree, and sexual torture, penalties further provided for",
+               "pending_committee_id": 1004,
+               "committee": {
+                    "committee_id": 1004,
+                    "chamber": "S",
+                    "chamber_id": 12,
+                    "name": "Judiciary"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-08-28",
+                         "committee_id": 1004,
+                         "chamber": "S",
+                         "chamber_id": 12,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-08-28",
+                         "action": "Prefiled",
+                         "chamber": "S",
+                         "chamber_id": 12,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-08-28",
+                         "action": "Read for the first time and referred to the Senate Committee on Judiciary",
+                         "chamber": "S",
+                         "chamber_id": 12,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-08-28",
+                         "action": "Pending Senate Judiciary",
+                         "chamber": "S",
+                         "chamber_id": 12,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 12500,
+                         "person_hash": "32w8sj56",
+                         "party_id": "2",
+                         "state_id": 1,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "April Weaver",
+                         "first_name": "April",
+                         "middle_name": "C.",
+                         "last_name": "Weaver",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-014",
+                         "ftm_eid": 12997408,
+                         "votesmart_id": 121534,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 290731,
+                         "ballotpedia": "April_Weaver",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [
+                    {
+                         "type_id": 1,
+                         "type": "Same As",
+                         "sast_bill_number": "HB41",
+                         "sast_bill_id": 2042866
+                    }
+               ],
+               "subjects": [
+                    {
+                         "subject_id": 374559,
+                         "subject_name": "Crimes & Offenses"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3266679,
+                         "date": "2025-08-28",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/AL/text/SB17/id/3266679",
+                         "state_link": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB17-int.pdf",
+                         "text_size": 513518,
+                         "text_hash": "c16b3302712e9d04bd8999fd9cb17e8b",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     },
+     "2042866": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "c03805bada47543ab2bc65d2fdf7c177",
+               "relevance": 19,
+               "state": "AL",
+               "bill number": "HB41",
+               "description": "Crimes and offenses; rape in the first degree, sodomy in the first degree, and sexual torture, penalties further provided for",
+               "state link": "https://alison.legislature.state.al.us/bill-search",
+               "legiscan link": "https://legiscan.com/AL/bill/HB41/2026",
+               "status": {
+                    "date": "08-28-2025",
+                    "label": "Refer",
+                    "action": "Pending House Judiciary"
+               },
+               "date introduced": "08-28-2025",
+               "party": "R",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Matt Simpson",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 2042866,
+               "change_hash": "c03805bada47543ab2bc65d2fdf7c177",
+               "session_id": 2218,
+               "session": {
+                    "session_id": 2218,
+                    "state_id": 1,
+                    "year_start": 2026,
+                    "year_end": 2026,
+                    "prefile": 1,
+                    "sine_die": 0,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2026 Regular Session",
+                    "session_name": "2026 Regular Session"
+               },
+               "url": "https://legiscan.com/AL/bill/HB41/2026",
+               "state_link": "https://alison.legislature.state.al.us/bill-search",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-08-28",
+               "progress": [
+                    {
+                         "date": "2025-08-28",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-08-28",
+                         "event": 9
+                    }
+               ],
+               "state": "AL",
+               "state_id": 1,
+               "bill_number": "HB41",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 11,
+               "current_body": "H",
+               "current_body_id": 11,
+               "title": "Crimes and offenses; rape in the first degree, sodomy in the first degree, and sexual torture, penalties further provided for",
+               "description": "Crimes and offenses; rape in the first degree, sodomy in the first degree, and sexual torture, penalties further provided for",
+               "pending_committee_id": 977,
+               "committee": {
+                    "committee_id": 977,
+                    "chamber": "H",
+                    "chamber_id": 11,
+                    "name": "Judiciary"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-08-28",
+                         "committee_id": 977,
+                         "chamber": "H",
+                         "chamber_id": 11,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-08-28",
+                         "action": "Prefiled",
+                         "chamber": "H",
+                         "chamber_id": 11,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-08-28",
+                         "action": "Read for the first time and referred to the House Committee on Judiciary",
+                         "chamber": "H",
+                         "chamber_id": 11,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-08-28",
+                         "action": "Pending House Judiciary",
+                         "chamber": "H",
+                         "chamber_id": 11,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 21289,
+                         "person_hash": "hjm8wn3a",
+                         "party_id": "2",
+                         "state_id": 1,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Matt Simpson",
+                         "first_name": "Matt",
+                         "middle_name": "",
+                         "last_name": "Simpson",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-096",
+                         "ftm_eid": 44858752,
+                         "votesmart_id": 180610,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 650563,
+                         "ballotpedia": "Matt_Simpson",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [
+                    {
+                         "type_id": 1,
+                         "type": "Same As",
+                         "sast_bill_number": "SB17",
+                         "sast_bill_id": 2042878
+                    }
+               ],
+               "subjects": [
+                    {
+                         "subject_id": 374559,
+                         "subject_name": "Crimes & Offenses"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3266670,
+                         "date": "2025-08-28",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/AL/text/HB41/id/3266670",
+                         "state_link": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB41-int.pdf",
+                         "text_size": 517256,
+                         "text_hash": "71fbf6a54affb5553727f07deabf32c4",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     }
+}

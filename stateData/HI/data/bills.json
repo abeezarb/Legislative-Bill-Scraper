@@ -1,0 +1,182 @@
+{
+     "1933194": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "6fa22434befcadb32147d938aaa3fa3e",
+               "relevance": 46,
+               "state": "HI",
+               "bill number": "HB896",
+               "description": "Provides for a sentence of death or life imprisonment without possibility of parole upon a conviction for sex trafficking. Requires a separate sentencing proceeding by a jury, except if waived by the defendant, for a conviction for sex trafficking. Makes commercial sexual exploitation a class A felony. Makes conforming amendments.",
+               "state link": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=896&year=2025",
+               "legiscan link": "https://legiscan.com/HI/bill/HB896/2025",
+               "status": {
+                    "date": "01-23-2025",
+                    "label": "Refer",
+                    "action": "Referred to JHA, referral sheet 3"
+               },
+               "date introduced": "01-23-2025",
+               "party": "R",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Elijah Pierick",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1933194,
+               "change_hash": "6fa22434befcadb32147d938aaa3fa3e",
+               "session_id": 2175,
+               "session": {
+                    "session_id": 2175,
+                    "state_id": 11,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/HI/bill/HB896/2025",
+               "state_link": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=896&year=2025",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-01-23",
+               "progress": [
+                    {
+                         "date": "2025-01-23",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-01-23",
+                         "event": 9
+                    }
+               ],
+               "state": "HI",
+               "state_id": 11,
+               "bill_number": "HB896",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 31,
+               "current_body": "H",
+               "current_body_id": 31,
+               "title": "Relating To Sexual Offenses.",
+               "description": "Provides for a sentence of death or life imprisonment without possibility of parole upon a conviction for sex trafficking. Requires a separate sentencing proceeding by a jury, except if waived by the defendant, for a conviction for sex trafficking. Makes commercial sexual exploitation a class A felony. Makes conforming amendments.",
+               "pending_committee_id": 4406,
+               "committee": {
+                    "committee_id": 4406,
+                    "chamber": "H",
+                    "chamber_id": 31,
+                    "name": "Judiciary & Hawaiian Affairs"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-01-23",
+                         "committee_id": 4406,
+                         "chamber": "H",
+                         "chamber_id": 31,
+                         "name": "Judiciary & Hawaiian Affairs"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-01-21",
+                         "action": "Pending introduction.",
+                         "chamber": "H",
+                         "chamber_id": 31,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-23",
+                         "action": "Introduced and Pass First Reading.",
+                         "chamber": "H",
+                         "chamber_id": 31,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-01-23",
+                         "action": "Referred to JHA, referral sheet 3",
+                         "chamber": "H",
+                         "chamber_id": 31,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 24788,
+                         "person_hash": "531r5j3v",
+                         "party_id": "2",
+                         "state_id": 11,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Elijah Pierick",
+                         "first_name": "Elijah",
+                         "middle_name": "",
+                         "last_name": "Pierick",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-039",
+                         "ftm_eid": 55691543,
+                         "votesmart_id": 208486,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 814086,
+                         "ballotpedia": "Elijah_Pierick",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 355472,
+                         "subject_name": "Commercial Sexual Exploitation"
+                    },
+                    {
+                         "subject_id": 176719,
+                         "subject_name": "Sex Trafficking"
+                    },
+                    {
+                         "subject_id": 363451,
+                         "subject_name": "Capital Punishment"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3070837,
+                         "date": "2025-01-21",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/HI/text/HB896/id/3070837",
+                         "state_link": "https://www.capitol.hawaii.gov/sessions/session2025/bills/HB896_.HTM",
+                         "text_size": 57187,
+                         "text_hash": "75183a54c3e7710aac11ace1a3fec8fb",
+                         "alt_bill_text": 1,
+                         "alt_mime": "application/pdf",
+                         "alt_mime_id": 2,
+                         "alt_state_link": "https://www.capitol.hawaii.gov/sessions/session2025/bills/HB896_.PDF",
+                         "alt_text_size": 672212,
+                         "alt_text_hash": "60afece498fc5d93793647cca2974acb"
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     }
+}

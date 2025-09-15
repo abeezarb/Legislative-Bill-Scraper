@@ -1,0 +1,692 @@
+{
+     "1928089": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "3af9d7dc3f94e83eae2207ee229f30d1",
+               "relevance": 66,
+               "state": "NE",
+               "bill number": "LB432",
+               "description": "Provide for carrying out the death penalty by nitrogen hypoxia",
+               "state link": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=58812",
+               "legiscan link": "https://legiscan.com/NE/bill/LB432/2025",
+               "status": {
+                    "date": "01-22-2025",
+                    "label": "Refer",
+                    "action": "Hunt AM28 filed"
+               },
+               "date introduced": "01-17-2025",
+               "party": "N",
+               "chamber": "Legislature",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Loren Lippincott",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "nonpartisan: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1928089,
+               "change_hash": "3af9d7dc3f94e83eae2207ee229f30d1",
+               "session_id": 2185,
+               "session": {
+                    "session_id": 2185,
+                    "state_id": 27,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "109th Legislature"
+               },
+               "url": "https://legiscan.com/NE/bill/LB432/2025",
+               "state_link": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=58812",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-01-17",
+               "progress": [
+                    {
+                         "date": "2025-01-17",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-01-22",
+                         "event": 9
+                    }
+               ],
+               "state": "NE",
+               "state_id": 27,
+               "bill_number": "LB432",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "L",
+               "body_id": 64,
+               "current_body": "L",
+               "current_body_id": 64,
+               "title": "Provide for carrying out the death penalty by nitrogen hypoxia",
+               "description": "Provide for carrying out the death penalty by nitrogen hypoxia",
+               "pending_committee_id": 1444,
+               "committee": {
+                    "committee_id": 1444,
+                    "chamber": "L",
+                    "chamber_id": 64,
+                    "name": "Judiciary"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-01-22",
+                         "committee_id": 1444,
+                         "chamber": "L",
+                         "chamber_id": 64,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-01-17",
+                         "action": "Date of introduction",
+                         "chamber": "L",
+                         "chamber_id": 64,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-01-22",
+                         "action": "Referred to Judiciary Committee",
+                         "chamber": "L",
+                         "chamber_id": 64,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-01-22",
+                         "action": "Notice of hearing for January 31, 2025",
+                         "chamber": "L",
+                         "chamber_id": 64,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-23",
+                         "action": "Hunt AM28 filed",
+                         "chamber": "L",
+                         "chamber_id": 64,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 23685,
+                         "person_hash": "aqu37dby",
+                         "party_id": "6",
+                         "state_id": 27,
+                         "party": "N",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Loren Lippincott",
+                         "first_name": "Loren",
+                         "middle_name": "",
+                         "last_name": "Lippincott",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-034",
+                         "ftm_eid": 55408498,
+                         "votesmart_id": 202075,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Loren_Lippincott",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3065410,
+                         "date": "2025-01-17",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NE/text/LB432/id/3065410",
+                         "state_link": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Intro/LB432.pdf",
+                         "text_size": 66800,
+                         "text_hash": "42c1e133eeea5878dfd9d571d13d9e40",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [
+                    {
+                         "amendment_id": 223149,
+                         "adopted": 0,
+                         "chamber": "L",
+                         "chamber_id": 64,
+                         "date": "2025-01-23",
+                         "title": "Hunt AM28 ",
+                         "description": "Hunt AM28 ",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NE/amendment/LB432/id/223149",
+                         "state_link": "https://nebraskalegislature.gov/FloorDocs/109/PDF/AM/AM28.pdf",
+                         "amendment_size": 66132,
+                         "amendment_hash": "aae9b6be25db1b717269c3bc2e038b39",
+                         "alt_amendment": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_amendment_size": 0,
+                         "alt_amendment_hash": ""
+                    }
+               ],
+               "supplements": [
+                    {
+                         "supplement_id": 494234,
+                         "date": "2025-01-23",
+                         "type": "Analysis",
+                         "type_id": 2,
+                         "title": "Analysis",
+                         "description": "Statement of Intent",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NE/supplement/LB432/id/494234",
+                         "state_link": "https://nebraskalegislature.gov/FloorDocs/109/PDF/SI/LB432.pdf",
+                         "supplement_size": 6326,
+                         "supplement_hash": "29a31467b0f8b53ce5ab7c4c017c1a11",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    },
+                    {
+                         "supplement_id": 499842,
+                         "date": "2025-01-30",
+                         "type": "Fiscal Note",
+                         "type_id": 1,
+                         "title": "Fiscal Note",
+                         "description": "Fiscal Note for LB432",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NE/supplement/LB432/id/499842",
+                         "state_link": "https://nebraskalegislature.gov/FloorDocs/109/PDF/FN/LB432_20250130-111443.pdf",
+                         "supplement_size": 195344,
+                         "supplement_hash": "24ce625f42c0aeacdb1a46af27715c0a",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "b79528f2",
+                         "type": "Hearing",
+                         "date": "2025-01-31",
+                         "time": "13:30",
+                         "location": "Room 1525",
+                         "description": " Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "004af63d",
+                         "type": "Hearing",
+                         "date": "2025-01-31",
+                         "time": "13:30",
+                         "location": "Room 1525",
+                         "description": "Judiciary Hearing"
+                    }
+               ]
+          }
+     },
+     "1934692": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "9e89a569513d708506275396b7849634",
+               "relevance": 31,
+               "state": "NE",
+               "bill number": "LB700",
+               "description": "Provide for confidentiality of prosecutions and adjudications of minors, extend jurisdiction under the Nebraska Juvenile Code, provide requirements for custodial interrogations of juveniles and young adults, prohibit use of certain statements, prohibit sending juveniles out of state, and provide for use and reimbursement of reporting centers",
+               "state link": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59441",
+               "legiscan link": "https://legiscan.com/NE/bill/LB700/2025",
+               "status": {
+                    "date": "01-24-2025",
+                    "label": "Refer",
+                    "action": "Notice of hearing for March 27, 2025"
+               },
+               "date introduced": "01-22-2025",
+               "party": "N",
+               "chamber": "Legislature",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Terrell McKinney",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "nonpartisan: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1934692,
+               "change_hash": "9e89a569513d708506275396b7849634",
+               "session_id": 2185,
+               "session": {
+                    "session_id": 2185,
+                    "state_id": 27,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "109th Legislature"
+               },
+               "url": "https://legiscan.com/NE/bill/LB700/2025",
+               "state_link": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59441",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-01-22",
+               "progress": [
+                    {
+                         "date": "2025-01-22",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-01-24",
+                         "event": 9
+                    }
+               ],
+               "state": "NE",
+               "state_id": 27,
+               "bill_number": "LB700",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "L",
+               "body_id": 64,
+               "current_body": "L",
+               "current_body_id": 64,
+               "title": "Provide for confidentiality of prosecutions and adjudications of minors, extend jurisdiction under the Nebraska Juvenile Code, provide requirements for custodial interrogations of juveniles and young adults, prohibit use of certain statements, prohibit sending juveniles out of state, and provide for use and reimbursement of reporting centers",
+               "description": "Provide for confidentiality of prosecutions and adjudications of minors, extend jurisdiction under the Nebraska Juvenile Code, provide requirements for custodial interrogations of juveniles and young adults, prohibit use of certain statements, prohibit sending juveniles out of state, and provide for use and reimbursement of reporting centers",
+               "pending_committee_id": 1444,
+               "committee": {
+                    "committee_id": 1444,
+                    "chamber": "L",
+                    "chamber_id": 64,
+                    "name": "Judiciary"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-01-24",
+                         "committee_id": 1444,
+                         "chamber": "L",
+                         "chamber_id": 64,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-01-22",
+                         "action": "Date of introduction",
+                         "chamber": "L",
+                         "chamber_id": 64,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-01-24",
+                         "action": "Referred to Judiciary Committee",
+                         "chamber": "L",
+                         "chamber_id": 64,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-06",
+                         "action": "Notice of hearing for March 27, 2025",
+                         "chamber": "L",
+                         "chamber_id": 64,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 22138,
+                         "person_hash": "8ip5cft6",
+                         "party_id": "6",
+                         "state_id": 27,
+                         "party": "N",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Terrell McKinney",
+                         "first_name": "Terrell",
+                         "middle_name": "",
+                         "last_name": "McKinney",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-011",
+                         "ftm_eid": 49286753,
+                         "votesmart_id": 190089,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 731957,
+                         "ballotpedia": "Terrell_McKinney",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3072009,
+                         "date": "2025-01-22",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NE/text/LB700/id/3072009",
+                         "state_link": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Intro/LB700.pdf",
+                         "text_size": 123202,
+                         "text_hash": "01825214ea4ad99aa084d92fd3dec28d",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 552398,
+                         "date": "2025-03-20",
+                         "type": "Analysis",
+                         "type_id": 2,
+                         "title": "Analysis",
+                         "description": "Statement of Intent",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NE/supplement/LB700/id/552398",
+                         "state_link": "https://nebraskalegislature.gov/FloorDocs/109/PDF/SI/LB700.pdf",
+                         "supplement_size": 6402,
+                         "supplement_hash": "227f807fa2fd2eec195ed2dee0ec9c41",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    },
+                    {
+                         "supplement_id": 558156,
+                         "date": "2025-03-26",
+                         "type": "Fiscal Note",
+                         "type_id": 1,
+                         "title": "Fiscal Note",
+                         "description": "Fiscal Note for LB700",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NE/supplement/LB700/id/558156",
+                         "state_link": "https://nebraskalegislature.gov/FloorDocs/109/PDF/FN/LB700_20250326-111114.pdf",
+                         "supplement_size": 263412,
+                         "supplement_hash": "867b63c2bd06076c5ae859058a161056",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "3be8b013",
+                         "type": "Hearing",
+                         "date": "2025-03-27",
+                         "time": "13:00",
+                         "location": "Room 1525",
+                         "description": " Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "70f65cd1",
+                         "type": "Hearing",
+                         "date": "2025-03-27",
+                         "time": "13:00",
+                         "location": "Room 1525",
+                         "description": "Judiciary Hearing"
+                    }
+               ]
+          }
+     },
+     "1920076": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "cfffded5207f539dbc26cc56b3653be7",
+               "relevance": 14,
+               "state": "NE",
+               "bill number": "LR15CA",
+               "description": "Constitutional amendment to prohibit the death penalty",
+               "state link": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59505",
+               "legiscan link": "https://legiscan.com/NE/bill/LR15CA/2025",
+               "status": {
+                    "date": "01-17-2025",
+                    "label": "Refer",
+                    "action": "Notice of hearing for January 31, 2025"
+               },
+               "date introduced": "01-15-2025",
+               "party": "N",
+               "chamber": "Legislature",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Terrell McKinney",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "nonpartisan: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1920076,
+               "change_hash": "cfffded5207f539dbc26cc56b3653be7",
+               "session_id": 2185,
+               "session": {
+                    "session_id": 2185,
+                    "state_id": 27,
+                    "year_start": 2025,
+                    "year_end": 2026,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025-2026 Regular Session",
+                    "session_name": "109th Legislature"
+               },
+               "url": "https://legiscan.com/NE/bill/LR15CA/2025",
+               "state_link": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59505",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-01-15",
+               "progress": [
+                    {
+                         "date": "2025-01-15",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-01-17",
+                         "event": 9
+                    }
+               ],
+               "state": "NE",
+               "state_id": 27,
+               "bill_number": "LR15CA",
+               "bill_type": "R",
+               "bill_type_id": "2",
+               "body": "L",
+               "body_id": 64,
+               "current_body": "L",
+               "current_body_id": 64,
+               "title": "Constitutional amendment to prohibit the death penalty",
+               "description": "Constitutional amendment to prohibit the death penalty",
+               "pending_committee_id": 1444,
+               "committee": {
+                    "committee_id": 1444,
+                    "chamber": "L",
+                    "chamber_id": 64,
+                    "name": "Judiciary"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-01-17",
+                         "committee_id": 1444,
+                         "chamber": "L",
+                         "chamber_id": 64,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-01-15",
+                         "action": "Date of introduction",
+                         "chamber": "L",
+                         "chamber_id": 64,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-01-17",
+                         "action": "Referred to Judiciary Committee",
+                         "chamber": "L",
+                         "chamber_id": 64,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-01-22",
+                         "action": "Notice of hearing for January 31, 2025",
+                         "chamber": "L",
+                         "chamber_id": 64,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 22138,
+                         "person_hash": "8ip5cft6",
+                         "party_id": "6",
+                         "state_id": 27,
+                         "party": "N",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Terrell McKinney",
+                         "first_name": "Terrell",
+                         "middle_name": "",
+                         "last_name": "McKinney",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-011",
+                         "ftm_eid": 49286753,
+                         "votesmart_id": 190089,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 731957,
+                         "ballotpedia": "Terrell_McKinney",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3057288,
+                         "date": "2025-01-15",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NE/text/LR15CA/id/3057288",
+                         "state_link": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Intro/LR15CA.pdf",
+                         "text_size": 53851,
+                         "text_hash": "bdf4129daa2d7bbb4936a04de870ac49",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 493766,
+                         "date": "2025-01-22",
+                         "type": "Analysis",
+                         "type_id": 2,
+                         "title": "Analysis",
+                         "description": "Statement of Intent",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NE/supplement/LR15CA/id/493766",
+                         "state_link": "https://nebraskalegislature.gov/FloorDocs/109/PDF/SI/LR15CA.pdf",
+                         "supplement_size": 6344,
+                         "supplement_hash": "5c790f851b571ab98fd16757f45cb8ce",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "b79528f2",
+                         "type": "Hearing",
+                         "date": "2025-01-31",
+                         "time": "13:30",
+                         "location": "Room 1525",
+                         "description": " Hearing"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "004af63d",
+                         "type": "Hearing",
+                         "date": "2025-01-31",
+                         "time": "13:30",
+                         "location": "Room 1525",
+                         "description": "Judiciary Hearing"
+                    }
+               ]
+          }
+     }
+}

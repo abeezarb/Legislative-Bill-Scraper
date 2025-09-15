@@ -1,0 +1,304 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+2041851,1599354,2025-08-15,Senate,"Posting rule suspended",23,4,0,3,30
+2041853,1599359,2025-08-15,Senate,"Posting rule suspended",23,4,0,3,30
+2041853,1599686,2025-08-18,Senate,"Three day rule suspended",31,0,0,0,31
+2041853,1599687,2025-08-18,Senate,"Read 3rd time",31,0,0,0,31
+2041853,1600081,2025-08-26,House,"Read 2nd time RV#71",136,0,1,13,150
+2041853,1600082,2025-08-26,House,"Read 3rd time RV#83",137,1,1,11,150
+2041855,1599344,2025-08-15,Senate,"Posting rule suspended",23,4,0,3,30
+2041855,1599668,2025-08-18,Senate,"Three day rule suspended",31,0,0,0,31
+2041855,1599669,2025-08-18,Senate,"Read 3rd time",31,0,0,0,31
+2041855,1600072,2025-08-26,House,"Amended RV#72",138,0,1,11,150
+2041855,1600079,2025-08-26,House,"Read 3rd time RV#84",138,0,1,11,150
+2041855,1600134,2025-08-27,Senate,"Senate concurs in House amendment(s)",31,0,0,0,31
+2041855,1601064,2025-08-27,Senate,"Senate concurs in House amendment(s)",31,0,0,0,31
+2041855,1602004,2025-08-27,Senate,"Senate concurs in House amendment(s)",31,0,0,0,31
+2041860,1599347,2025-08-15,Senate,"Posting rule suspended",23,4,0,3,30
+2041860,1599672,2025-08-18,Senate,"Rules suspended-Regular order of business",22,8,0,0,30
+2041860,1599673,2025-08-18,Senate,"Read 2nd time & passed to engrossment",22,8,0,0,30
+2041860,1599834,2025-08-19,Senate,"Read 3rd time",31,0,0,0,31
+2041865,1599349,2025-08-15,Senate,"Posting rule suspended",23,4,0,3,30
+2041868,1599353,2025-08-15,Senate,"Posting rule suspended",23,4,0,3,30
+2041868,1599688,2025-08-18,Senate,"Rules suspended-Regular order of business",18,11,1,0,30
+2041868,1599689,2025-08-18,Senate,"Amendment fails of adoption",12,18,0,0,30
+2041868,1599690,2025-08-18,Senate,"Amendment fails of adoption",11,19,0,0,30
+2041868,1599691,2025-08-18,Senate,"Amendment fails of adoption",11,19,0,0,30
+2041868,1599692,2025-08-18,Senate,"Amendment fails of adoption",11,19,0,0,30
+2041868,1599693,2025-08-18,Senate,"Amendment fails of adoption",11,19,0,0,30
+2041868,1599694,2025-08-18,Senate,"Amendment fails of adoption",11,19,0,0,30
+2041868,1599695,2025-08-18,Senate,"Record vote",18,11,1,0,30
+2041868,1599879,2025-08-19,Senate,"Read 3rd time",18,11,1,0,30
+2041869,1599787,2025-08-21,House,"Amended RV#40",136,0,2,12,150
+2041869,1599788,2025-08-21,House,"Read 3rd time RV#47",135,0,1,14,150
+2041869,1601018,2025-09-03,House,"House concurs in Senate amendment(s) RV#165",129,0,1,20,150
+2041869,1601032,2025-09-03,Senate,"Three day rule suspended",31,0,0,0,31
+2041869,1601033,2025-09-03,Senate,"Read 3rd time",31,0,0,0,31
+2041869,1601068,2025-09-03,Senate,"Three day rule suspended",31,0,0,0,31
+2041869,1601069,2025-09-03,Senate,"Read 3rd time",31,0,0,0,31
+2041869,1601712,2025-09-03,Senate,"Three day rule suspended",31,0,0,0,31
+2041869,1601713,2025-09-03,Senate,"Read 3rd time",31,0,0,0,31
+2041871,1600076,2025-08-26,House,"Amendment tabled RV#74",71,63,2,14,150
+2041871,1600077,2025-08-26,House,"Amendment tabled RV#75",82,52,2,14,150
+2041871,1600078,2025-08-26,House,"Amendment tabled RV#76",78,58,2,12,150
+2041871,1600098,2025-08-26,House,"Amended RV#86",82,56,1,11,150
+2041871,1600162,2025-08-27,Senate,"Rules suspended-Regular order of business",21,5,0,4,30
+2041871,1600163,2025-08-27,Senate,"FA1 Bettencourt",21,5,0,4,30
+2041871,1600164,2025-08-27,Senate,"Record vote",21,5,0,4,30
+2041871,1600165,2025-08-27,Senate,"Read 3rd time",31,0,0,0,31
+2041872,1599351,2025-08-15,Senate,"Posting rule suspended",23,4,0,3,30
+2041872,1599676,2025-08-18,Senate,"Three day rule suspended",31,0,0,0,31
+2041872,1599677,2025-08-18,Senate,"Read 3rd time",31,0,0,0,31
+2041872,1599983,2025-08-25,House,"Read 3rd time RV#68",131,0,1,18,150
+2041873,1599968,2025-08-25,House,"Amendment fails of adoption RV#50",56,84,1,9,150
+2041873,1599969,2025-08-25,House,"Statement(s) of vote recorded in Journal RV#51",85,55,1,9,150
+2041873,1599980,2025-08-25,House,"Read 3rd time RV#62",83,48,1,18,150
+2041874,1599345,2025-08-15,Senate,"Posting rule suspended",23,4,0,3,30
+2041874,1599664,2025-08-18,Senate,"Three day rule suspended",31,0,0,0,31
+2041874,1599665,2025-08-18,Senate,"Read 3rd time",31,0,0,0,31
+2041874,1600073,2025-08-26,House,"Read 2nd time RV#73",128,7,2,13,150
+2041874,1600080,2025-08-26,House,"Read 3rd time RV#85",133,6,1,10,150
+2041875,1599973,2025-08-25,House,"Read 3rd time RV#67",130,1,1,18,150
+2041875,1600139,2025-08-26,Senate,"Three day rule suspended",31,0,0,0,31
+2041875,1600140,2025-08-26,Senate,"Read 3rd time",31,0,0,0,31
+2041875,1601058,2025-08-26,Senate,"Three day rule suspended",31,0,0,0,31
+2041875,1601059,2025-08-26,Senate,"Read 3rd time",31,0,0,0,31
+2041875,1601710,2025-08-26,Senate,"Three day rule suspended",31,0,0,0,31
+2041875,1601711,2025-08-26,Senate,"Read 3rd time",31,0,0,0,31
+2041876,1599699,2025-08-20,House,"Amendment tabled RV#14",87,50,1,12,150
+2041876,1599700,2025-08-20,House,"Amendment tabled RV#15",134,3,1,12,150
+2041876,1599706,2025-08-20,House,"Amendment tabled RV#16",87,51,1,11,150
+2041876,1599707,2025-08-20,House,"Amendment tabled RV#17",87,49,1,13,150
+2041876,1599708,2025-08-20,House,"Amendment tabled RV#19",85,49,2,14,150
+2041876,1599709,2025-08-20,House,"Amendment tabled RV#20",86,51,2,11,150
+2041876,1599710,2025-08-20,House,"Amendment tabled RV#21",84,52,3,11,150
+2041876,1599711,2025-08-20,House,"Amendment tabled RV#22",87,52,1,10,150
+2041876,1599713,2025-08-20,House,"Amendment withdrawn RV#25",88,52,0,10,150
+2041876,1599714,2025-08-20,House,"Motion prevails RV#28",89,49,1,11,150
+2041876,1599715,2025-08-20,House,"Read 3rd time RV#30",88,52,0,10,150
+2041876,1599902,2025-08-22,Senate,"Rules suspended-Regular order of business",18,11,0,1,30
+2041876,1599903,2025-08-22,Senate,"Amendment fails of adoption",11,18,0,1,30
+2041876,1599904,2025-08-22,Senate,"Record vote",31,0,0,0,31
+2041876,1600131,2025-08-22,Senate,"Rules suspended-Regular order of business",18,11,0,1,30
+2041876,1600132,2025-08-23,Senate,"Previous question ordered",31,0,0,0,31
+2041877,1599352,2025-08-15,Senate,"Posting rule suspended",23,4,0,3,30
+2041877,1599678,2025-08-18,Senate,"Rules suspended-Regular order of business",18,12,0,0,30
+2041877,1599679,2025-08-18,Senate,"Amendment fails of adoption",11,19,0,0,30
+2041877,1599680,2025-08-18,Senate,"Amendment fails of adoption",11,19,0,0,30
+2041877,1599681,2025-08-18,Senate,"Record vote",31,0,0,0,31
+2041877,1599837,2025-08-19,Senate,"Read 3rd time",18,12,0,0,30
+2041877,1599961,2025-08-25,House,"Amendment tabled RV#55",85,53,2,10,150
+2041877,1599962,2025-08-25,House,"Amendment tabled RV#56",83,56,2,9,150
+2041877,1599963,2025-08-25,House,"Amendment tabled RV#57",83,56,2,9,150
+2041877,1599964,2025-08-25,House,"Amendment tabled RV#58",81,56,3,10,150
+2041877,1599965,2025-08-25,House,"Amendment tabled RV#59",82,56,2,10,150
+2041877,1599966,2025-08-25,House,"Amendment tabled RV#60",69,61,2,18,150
+2041878,1599780,2025-08-21,House,"Amendment amended RV#32",73,59,1,17,150
+2041878,1599781,2025-08-21,House,"Amendment amended RV#33",74,60,1,15,150
+2041878,1599782,2025-08-21,House,"Amendment to amendment fails of adoption RV#34",52,84,1,13,150
+2041878,1599783,2025-08-21,House,"Amendment adopted as amended RV#35",136,1,0,13,150
+2041878,1599792,2025-08-21,House,"Read 3rd time RV#43",135,1,1,13,150
+2041878,1601019,2025-09-03,House,"House concurs in Senate amendment(s) RV#166",122,4,1,23,150
+2041878,1601030,2025-09-03,Senate,"Three day rule suspended",31,0,0,0,31
+2041878,1601031,2025-09-03,Senate,"Three day rule suspended",31,0,0,0,31
+2041878,1601057,2025-09-03,Senate,"Read 3rd time",31,0,0,0,31
+2041878,1601695,2025-09-03,Senate,"Three day rule suspended",31,0,0,0,31
+2041878,1601696,2025-09-03,Senate,"Read 3rd time",31,0,0,0,31
+2041881,1599356,2025-08-15,Senate,"Posting rule suspended",23,4,0,3,30
+2041881,1599660,2025-08-18,Senate,"Rules suspended-Regular order of business",18,12,0,0,30
+2041881,1599661,2025-08-18,Senate,"Read 2nd time & passed to engrossment",31,0,0,0,31
+2041881,1599824,2025-08-19,Senate,"Read 3rd time",18,12,0,0,30
+2041881,1600094,2025-08-26,House,"Amendment fails of adoption RV#78",54,84,1,11,150
+2041881,1600095,2025-08-26,House,"Read 3rd time RV#87",85,54,1,10,150
+2041881,1600107,2025-08-26,House,"Statement(s) of vote recorded in Journal RV#79",85,54,1,10,150
+2041882,1599343,2025-08-15,Senate,"Posting rule suspended",23,4,0,3,30
+2041882,1599657,2025-08-18,Senate,"Rules suspended-Regular order of business",18,12,0,0,30
+2041882,1599658,2025-08-18,Senate,"Read 2nd time & passed to engrossment",18,12,0,0,30
+2041882,1599836,2025-08-19,Senate,"Read 3rd time",19,11,0,0,30
+2041882,1599970,2025-08-25,House,"Motion to table fails RV#52",61,74,1,14,150
+2041882,1599971,2025-08-25,House,"2-Hopper RV#53",94,43,2,11,150
+2041882,1599972,2025-08-25,House,"Amendment withdrawn RV#54",81,55,1,13,150
+2041882,1599981,2025-08-25,House,"Amendment fails of adoption RV#63",87,44,1,18,150
+2041882,1599982,2025-08-25,House,"Statement(s) of vote recorded in Journal RV#64",78,52,1,19,150
+2041882,1600790,2025-09-02,House,"House refuses to adopt conference comm. rept. RV#139",60,71,1,18,150
+2041883,1599346,2025-08-15,Senate,"Posting rule suspended",23,4,0,3,30
+2041883,1599666,2025-08-18,Senate,"Three day rule suspended",31,0,0,0,31
+2041883,1599667,2025-08-18,Senate,"Read 3rd time",31,0,0,0,31
+2041883,1599789,2025-08-21,House,"Amendment tabled RV#36",87,44,2,17,150
+2041883,1599790,2025-08-21,House,"Amendment withdrawn RV#37",130,4,2,14,150
+2041883,1599791,2025-08-21,House,"Amended RV#44",132,4,2,12,150
+2041884,1599350,2025-08-15,Senate,"Posting rule suspended",23,4,0,3,30
+2041884,1599674,2025-08-18,Senate,"Rules suspended-Regular order of business",19,11,0,0,30
+2041884,1599675,2025-08-18,Senate,"Read 2nd time & passed to engrossment",19,11,0,0,30
+2041884,1599838,2025-08-19,Senate,"Read 3rd time",19,11,0,0,30
+2041884,1600145,2025-08-28,House,"Amendment tabled RV#111",84,49,2,15,150
+2041884,1600146,2025-08-28,House,"Amendment tabled RV#112",86,43,2,19,150
+2041884,1600147,2025-08-28,House,"Amendment tabled RV#113",83,47,2,18,150
+2041884,1600148,2025-08-28,House,"Amendment tabled RV#114",84,47,2,17,150
+2041884,1600170,2025-08-28,House,"Amendment tabled RV#115",86,43,2,19,150
+2041884,1600171,2025-08-28,House,"Amendment tabled RV#116",85,46,1,18,150
+2041884,1600172,2025-08-28,House,"Amendment tabled RV#117",86,48,1,15,150
+2041884,1600173,2025-08-28,House,"Amendment tabled RV#119",85,44,2,19,150
+2041884,1600174,2025-08-28,House,"Amendment tabled RV#120",84,44,2,20,150
+2041884,1600175,2025-08-28,House,"Amendment tabled RV#121",83,47,2,18,150
+2041884,1600176,2025-08-28,House,"Amendment tabled RV#122",83,44,2,21,150
+2041884,1600177,2025-08-28,House,"Rule 8, Section 1(a)(1) RV#123",84,41,1,24,150
+2041884,1600178,2025-08-28,House,"Record vote RV#124",86,43,1,20,150
+2041884,1600210,2025-08-28,House,"Read 3rd time RV#134",86,45,1,18,150
+2041884,1601038,2025-09-03,Senate,"Senate concurs in House amendment(s)",18,8,0,4,30
+2041884,1601684,2025-09-03,Senate,"Senate concurs in House amendment(s)",18,8,0,4,30
+2041884,1602015,2025-09-03,Senate,"Senate concurs in House amendment(s)",18,8,0,4,30
+2041885,1599358,2025-08-15,Senate,"Posting rule suspended",23,4,0,3,30
+2041885,1599684,2025-08-18,Senate,"Three day rule suspended",31,0,0,0,31
+2041885,1599685,2025-08-18,Senate,"Read 3rd time",31,0,0,0,31
+2041885,1600074,2025-08-26,House,"Amended RV#70",138,0,1,11,150
+2041885,1600084,2025-08-26,House,"Read 3rd time RV#82",136,0,1,13,150
+2041885,1600135,2025-08-27,Senate,"Senate concurs in House amendment(s)",31,0,0,0,31
+2041885,1601044,2025-08-27,Senate,"Senate concurs in House amendment(s)",31,0,0,0,31
+2041885,1602000,2025-08-27,Senate,"Senate concurs in House amendment(s)",31,0,0,0,31
+2041886,1599348,2025-08-15,Senate,"Posting rule suspended",23,4,0,3,30
+2041886,1599670,2025-08-18,Senate,"Three day rule suspended",31,0,0,0,31
+2041886,1599671,2025-08-18,Senate,"Read 3rd time",31,0,0,0,31
+2041886,1599799,2025-08-21,House,"Read 2nd time RV#39",136,0,2,12,150
+2041886,1599800,2025-08-21,House,"Read 3rd time RV#46",137,0,1,12,150
+2041886,1601017,2025-09-03,House,"House adopts conference committee report RV#161",129,0,2,19,150
+2041886,1601040,2025-09-03,Senate,"Senate adopts conference committee report",31,0,0,0,31
+2041886,1601694,2025-09-03,Senate,"Senate adopts conference committee report",31,0,0,0,31
+2041886,1601702,2025-09-03,Senate,"Senate adopts conference committee report",31,0,0,0,31
+2041886,1602016,2025-09-03,Senate,"Senate adopts conference committee report",31,0,0,0,31
+2041909,1599975,2025-08-25,House,"Read 3rd time RV#66",113,13,1,23,150
+2041909,1600136,2025-08-26,Senate,"Three day rule suspended",0,1,0,3,4
+2041909,1600137,2025-08-26,Senate,"Read 3rd time",0,1,0,3,4
+2041909,1601703,2025-08-26,Senate,"Three day rule suspended",0,1,0,3,4
+2041909,1601704,2025-08-26,Senate,"Read 3rd time",0,1,0,3,4
+2041920,1600117,2025-08-27,House,"Amended RV#94",131,1,1,17,150
+2041920,1600126,2025-08-27,House,"Read 3rd time RV#101",135,1,1,13,150
+2042008,1600180,2025-08-28,House,RV#128,125,0,3,22,150
+2042008,1600181,2025-08-28,House,"Motion to table fails RV#129",19,107,2,22,150
+2042008,1600182,2025-08-28,House,"Amended RV#130",87,41,2,20,150
+2042008,1600250,2025-08-28,House,"Read 3rd time RV#136",90,41,1,18,150
+2042008,1600873,2025-09-02,Senate,"Rules suspended-Regular order of business",19,8,0,3,30
+2042008,1600874,2025-09-02,Senate,"Read 2nd time & passed to 3rd reading",18,9,0,3,30
+2042008,1600875,2025-09-02,Senate,"Three day rule suspended",22,5,0,3,30
+2042008,1600876,2025-09-02,Senate,"Read 3rd time",18,9,0,3,30
+2042008,1601052,2025-09-02,Senate,"Rules suspended-Regular order of business",19,8,0,3,30
+2042008,1601053,2025-09-02,Senate,"Read 2nd time & passed to 3rd reading",18,9,0,3,30
+2042008,1601054,2025-09-02,Senate,"Three day rule suspended",22,5,0,3,30
+2042008,1601055,2025-09-02,Senate,"Read 3rd time",18,9,0,3,30
+2042008,1602018,2025-09-02,Senate,"Rules suspended-Regular order of business",19,8,0,3,30
+2042008,1602019,2025-09-02,Senate,"Read 2nd time & passed to 3rd reading",18,9,0,3,30
+2042008,1602020,2025-09-02,Senate,"Three day rule suspended",22,5,0,3,30
+2042008,1602021,2025-09-02,Senate,"Read 3rd time",18,9,0,3,30
+2042010,1600119,2025-08-27,House,"Read 2nd time RV#95",127,5,1,17,150
+2042010,1600120,2025-08-27,House,"Read 3rd time RV#102",128,8,1,13,150
+2042040,1599355,2025-08-15,Senate,"Posting rule suspended",23,4,0,3,30
+2042042,1599357,2025-08-15,Senate,"Posting rule suspended",23,4,0,3,30
+2042042,1599682,2025-08-18,Senate,"Three day rule suspended",31,0,0,0,31
+2042042,1599683,2025-08-18,Senate,"Read 3rd time",31,0,0,0,31
+2042089,1599785,2025-08-21,House,"Amended RV#38",134,1,2,13,150
+2042089,1599786,2025-08-21,House,"Read 3rd time RV#45",136,1,1,12,150
+2042094,1599797,2025-08-21,House,"Read 2nd time RV#41",135,1,2,12,150
+2042094,1599798,2025-08-21,House,"Read 3rd time RV#48",136,1,1,12,150
+2042095,1600113,2025-08-27,House,"Amendment tabled RV#90",86,51,2,11,150
+2042095,1600114,2025-08-27,House,"Amendment tabled RV#91",83,52,2,13,150
+2042095,1600115,2025-08-27,House,"Amendment tabled RV#92",85,51,2,12,150
+2042095,1600116,2025-08-27,House,"Amendment withdrawn RV#93",88,51,1,10,150
+2042095,1600125,2025-08-27,House,"Read 3rd time RV#100",87,47,1,15,150
+2042095,1600166,2025-08-27,Senate,"Rules suspended-Regular order of business",20,6,0,4,30
+2042095,1600167,2025-08-27,Senate,"Read 2nd time & passed to 3rd reading",20,6,0,4,30
+2042095,1600168,2025-08-27,Senate,"Rules suspended-Regular order of business",21,5,0,4,30
+2042095,1600169,2025-08-27,Senate,"Three day rule suspended",20,6,0,4,30
+2042095,1601041,2025-08-27,Senate,"Rules suspended-Regular order of business",20,6,0,4,30
+2042095,1601042,2025-08-27,Senate,"Read 2nd time & passed to 3rd reading",20,6,0,4,30
+2042095,1601043,2025-08-27,Senate,"Read 3rd time",20,6,0,4,30
+2042095,1602005,2025-08-27,Senate,"Read 2nd time & passed to 3rd reading",20,6,0,4,30
+2042095,1602006,2025-08-27,Senate,"Three day rule suspended",21,5,0,4,30
+2042095,1602007,2025-08-27,Senate,"Read 3rd time",20,6,0,4,30
+2042169,1600123,2025-08-27,House,"Point of order withdrawn RV#98",88,45,3,14,150
+2042169,1600124,2025-08-27,House,"Read 3rd time RV#105",89,48,1,12,150
+2042169,1600150,2025-08-27,Senate,"Rules suspended-Regular order of business",21,5,0,4,30
+2042169,1600151,2025-08-27,Senate,"Read 2nd time & passed to 3rd reading",21,5,0,4,30
+2042169,1600152,2025-08-27,Senate,"Read 2nd time & passed to 3rd reading",21,5,0,4,30
+2042169,1600153,2025-08-27,Senate,"Three day rule suspended",21,5,0,4,30
+2042169,1601049,2025-08-27,Senate,"Rules suspended-Regular order of business",21,5,0,4,30
+2042169,1601050,2025-08-27,Senate,"Three day rule suspended",21,5,0,4,30
+2042169,1601051,2025-08-27,Senate,"Read 3rd time",21,5,0,4,30
+2042169,1602008,2025-08-27,Senate,"Rules suspended-Regular order of business",21,5,0,4,30
+2042169,1602009,2025-08-27,Senate,"Read 2nd time & passed to 3rd reading",21,5,0,4,30
+2042169,1602010,2025-08-27,Senate,"Read 3rd time",21,5,0,4,30
+2042195,1599894,2025-08-21,Senate,"Three day rule suspended",31,0,0,0,31
+2042195,1599895,2025-08-21,Senate,"Read 3rd time",31,0,0,0,31
+2042195,1600990,2025-09-03,House,"Amendment tabled RV#158",90,38,1,21,150
+2042195,1600991,2025-09-03,House,"Statement(s) of vote recorded in Journal RV#159",122,8,0,20,150
+2042195,1600992,2025-09-03,House,"Read 3rd time RV#164",120,4,1,25,150
+2042195,1601039,2025-09-03,Senate,"Senate concurs in House amendment(s)",31,0,0,0,31
+2042195,1601425,2025-09-03,Senate,"Senate concurs in House amendment(s)",31,0,0,0,31
+2042195,1602017,2025-09-03,Senate,"Senate concurs in House amendment(s)",31,0,0,0,31
+2042218,1600118,2025-08-27,House,"Read 2nd time RV#97",95,29,1,25,150
+2042218,1600127,2025-08-27,House,"Read 3rd time RV#104",88,49,1,12,150
+2042218,1600158,2025-08-27,Senate,"Rules suspended-Regular order of business",7,19,0,4,30
+2042218,1600159,2025-08-27,Senate,"Amendment fails of adoption",21,5,0,4,30
+2042218,1600160,2025-08-27,Senate,"Three day rule suspended",21,5,0,4,30
+2042218,1600161,2025-08-27,Senate,"Read 3rd time",21,5,0,4,30
+2042219,1600092,2025-08-26,House,"Laid out as postponed business RV#80",85,54,1,10,150
+2042219,1600093,2025-08-26,House,"Failed of adoption RV#88",84,53,1,12,150
+2042300,1600121,2025-08-27,House,"Read 2nd time RV#96",136,1,1,12,150
+2042300,1600122,2025-08-27,House,"Read 3rd time RV#103",135,1,1,13,150
+2042335,1599974,2025-08-25,House,"Read 3rd time RV#65",126,4,1,19,150
+2042335,1600863,2025-09-02,Senate,"FA1 Nichols",20,7,0,3,30
+2042335,1600864,2025-09-02,Senate,"Record vote",31,0,0,0,31
+2042335,1600865,2025-09-02,Senate,"Three day rule suspended",0,1,0,3,4
+2042335,1600866,2025-09-02,Senate,"Read 3rd time",22,5,0,3,30
+2042335,1600870,2025-09-02,Senate,"Ordered not printed",18,9,0,3,30
+2042335,1601705,2025-09-02,Senate,"Ordered not printed",18,9,0,3,30
+2042335,1601706,2025-09-02,Senate,"FA1 Nichols",20,7,0,3,30
+2042335,1601707,2025-09-02,Senate,"Record vote",31,0,0,0,31
+2042335,1601708,2025-09-02,Senate,"Three day rule suspended",0,1,0,3,4
+2042335,1601709,2025-09-02,Senate,"Read 3rd time",22,5,0,3,30
+2042399,1600184,2025-08-28,House,"Read 2nd time RV#131",127,3,1,19,150
+2042399,1600251,2025-08-28,House,"Read 3rd time RV#137",128,3,1,18,150
+2042430,1600185,2025-08-28,House,RV#125,84,44,1,21,150
+2042430,1600186,2025-08-28,House,"Statement(s) of vote recorded in Journal RV#127",84,46,2,18,150
+2042430,1600187,2025-08-28,House,"Read 3rd time RV#135",82,48,3,17,150
+2042430,1600867,2025-09-02,Senate,"Rules suspended-Regular order of business",17,9,1,3,30
+2042430,1600868,2025-09-02,Senate,"Read 2nd time & passed to 3rd reading",17,9,1,3,30
+2042430,1600871,2025-09-02,Senate,"Ordered not printed",18,9,0,3,30
+2042430,1601036,2025-09-03,Senate,"Read 3rd time",17,8,1,4,30
+2042430,1601060,2025-09-02,Senate,"Ordered not printed",18,9,0,3,30
+2042430,1601061,2025-09-02,Senate,"Rules suspended-Regular order of business",17,9,1,3,30
+2042430,1601062,2025-09-02,Senate,"Read 2nd time & passed to 3rd reading",17,9,1,3,30
+2042430,1601063,2025-09-03,Senate,"Read 3rd time",17,8,1,4,30
+2042430,1602011,2025-09-02,Senate,"Ordered not printed",18,9,0,3,30
+2042430,1602012,2025-09-02,Senate,"Rules suspended-Regular order of business",17,9,1,3,30
+2042430,1602013,2025-09-02,Senate,"Read 2nd time & passed to 3rd reading",17,9,1,3,30
+2042430,1602014,2025-09-03,Senate,"Read 3rd time",17,8,1,4,30
+2042521,1600791,2025-09-02,House,"Amendment to amendment fails of adoption RV#142",46,85,2,17,150
+2042521,1600792,2025-09-02,House,"Amendment to amendment fails of adoption RV#143",46,85,2,17,150
+2042521,1600793,2025-09-02,House,"Amendment amended RV#145",85,47,2,16,150
+2042521,1600796,2025-09-02,House,"Amendment to amendment fails of adoption RV#146",44,85,2,19,150
+2042521,1600797,2025-09-02,House,"Amendment to amendment fails of adoption RV#147",44,85,2,19,150
+2042521,1600798,2025-09-02,House,"Amendment adopted as amended RV#148",85,45,2,18,150
+2042521,1600799,2025-09-02,House,"Record vote RV#149",86,46,1,17,150
+2042521,1600800,2025-09-02,House,"Read 3rd time RV#152",86,46,1,17,150
+2042521,1601012,2025-09-02,Senate,"Posting rule suspended",18,9,0,3,30
+2042521,1601034,2025-09-03,Senate,"Rules suspended-Regular order of business",18,8,0,4,30
+2042521,1601035,2025-09-03,Senate,"Read 2nd time & passed to 3rd reading",18,8,0,4,30
+2042521,1602022,2025-09-02,Senate,"Posting rule suspended",18,9,0,3,30
+2042521,1602023,2025-09-03,Senate,"Rules suspended-Regular order of business",18,8,0,4,30
+2042521,1602024,2025-09-03,Senate,"Read 2nd time & passed to 3rd reading",18,8,0,4,30
+2042555,1600249,2025-08-28,House,"Adopted RV#132",131,0,1,18,150
+2042555,1600872,2025-09-02,Senate,Adopted,17,9,1,3,30
+2042555,1601048,2025-09-02,Senate,Adopted,17,9,1,3,30
+2042705,1600154,2025-08-26,Senate,"Rules suspended-Regular order of business",19,8,0,3,30
+2042705,1600155,2025-08-26,Senate,"Read 2nd time & passed to engrossment",19,8,0,3,30
+2042705,1600156,2025-08-27,Senate,"Rules suspended-Regular order of business",19,7,0,4,30
+2042705,1600157,2025-08-27,Senate,"Read 3rd time",7,19,0,4,30
+2042705,1600794,2025-09-02,House,"Read 2nd time RV#150",87,46,1,16,150
+2042705,1600795,2025-09-02,House,"Read 3rd time RV#153",86,46,2,16,150
+2042739,1600141,2025-08-26,Senate,"Rules suspended-Regular order of business",21,6,0,3,30
+2042739,1600142,2025-08-26,Senate,"Amendment fails of adoption",22,5,0,3,30
+2042739,1600143,2025-08-26,Senate,"Record vote",21,6,0,3,30
+2042739,1600144,2025-08-26,Senate,"Read 3rd time",31,0,0,0,31
+2042952,1601016,2025-09-03,House,"Adopted as amended RV#162",80,28,1,41,150
+2043122,1601020,2025-09-03,House,"Adopted RV#155",132,0,1,17,150
+2043138,1601021,2025-09-03,House,"Adopted RV#160",127,1,1,21,150
+2043150,1601297,2025-09-03,Senate,"Read & adopted",31,0,0,0,31

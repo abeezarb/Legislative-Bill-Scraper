@@ -1,0 +1,854 @@
+{
+     "1964310": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "e0a0358150e7dd12d81269ab3a64b117",
+               "relevance": 20,
+               "state": "NM",
+               "bill number": "SB341",
+               "description": "Death Penalty For Certain Crimes",
+               "state link": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legtype=B&legno=341&year=25",
+               "legiscan link": "https://legiscan.com/NM/bill/SB341/2025",
+               "status": {
+                    "date": "02-10-2025",
+                    "label": "Introduced",
+                    "action": "Sent to SHPAC - Referrals: SHPAC/SJC/SFC"
+               },
+               "date introduced": "02-10-2025",
+               "party": "R",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Jay Block",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1964310,
+               "change_hash": "e0a0358150e7dd12d81269ab3a64b117",
+               "session_id": 2187,
+               "session": {
+                    "session_id": 2187,
+                    "state_id": 31,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/NM/bill/SB341/2025",
+               "state_link": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legtype=B&legno=341&year=25",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-02-10",
+               "progress": [
+                    {
+                         "date": "2025-02-10",
+                         "event": 1
+                    }
+               ],
+               "state": "NM",
+               "state_id": 31,
+               "bill_number": "SB341",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "S",
+               "body_id": 72,
+               "current_body": "S",
+               "current_body_id": 72,
+               "title": "Death Penalty For Certain Crimes",
+               "description": "Death Penalty For Certain Crimes",
+               "pending_committee_id": 4381,
+               "committee": {
+                    "committee_id": 4381,
+                    "chamber": "S",
+                    "chamber_id": 72,
+                    "name": "Health and Public Affairs"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-02-10",
+                         "committee_id": 4381,
+                         "chamber": "S",
+                         "chamber_id": 72,
+                         "name": "Health and Public Affairs"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-10",
+                         "action": "Sent to SHPAC - Referrals: SHPAC/SJC/SFC",
+                         "chamber": "S",
+                         "chamber_id": 72,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 26372,
+                         "person_hash": "6dqivrdq",
+                         "party_id": "2",
+                         "state_id": 31,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Jay Block",
+                         "first_name": "Jay",
+                         "middle_name": "C.",
+                         "last_name": "Block",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-012",
+                         "ftm_eid": 59835715,
+                         "votesmart_id": 201769,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Jay_Block",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3111415,
+                         "date": "2025-02-10",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NM/text/SB341/id/3111415",
+                         "state_link": "https://www.nmlegis.gov/Sessions/25%20Regular/bills/senate/SB0341.pdf",
+                         "text_size": 48862,
+                         "text_hash": "29bc9add01183e18f3626042ded565aa",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 515245,
+                         "date": "2025-02-13",
+                         "type": "Fiscal Note",
+                         "type_id": 1,
+                         "title": "Fiscal Note",
+                         "description": "Fiscal Note",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NM/supplement/SB341/id/515245",
+                         "state_link": "https://www.nmlegis.gov/Sessions/25%20Regular/firs/SB0341.PDF",
+                         "supplement_size": 198897,
+                         "supplement_hash": "958e4c4b5a1feb37c0fe9b614c7757a5",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": []
+          }
+     },
+     "1963128": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "3df58c481af17040bfced99e529d7e5f",
+               "relevance": 19,
+               "state": "NM",
+               "bill number": "HB321",
+               "description": "Penalty For Careless Driving & Death",
+               "state link": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=321&year=25",
+               "legiscan link": "https://legiscan.com/NM/bill/HB321/2025",
+               "status": {
+                    "date": "02-07-2025",
+                    "label": "Introduced",
+                    "action": "Sent to HCPAC - Referrals: HCPAC/HJC"
+               },
+               "date introduced": "02-07-2025",
+               "party": "R",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "John Block, Stefani Lord",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 2"
+               }
+          },
+          "raw": {
+               "bill_id": 1963128,
+               "change_hash": "3df58c481af17040bfced99e529d7e5f",
+               "session_id": 2187,
+               "session": {
+                    "session_id": 2187,
+                    "state_id": 31,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/NM/bill/HB321/2025",
+               "state_link": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=321&year=25",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-02-07",
+               "progress": [
+                    {
+                         "date": "2025-02-07",
+                         "event": 1
+                    }
+               ],
+               "state": "NM",
+               "state_id": 31,
+               "bill_number": "HB321",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 71,
+               "current_body": "H",
+               "current_body_id": 71,
+               "title": "Penalty For Careless Driving & Death",
+               "description": "Penalty For Careless Driving & Death",
+               "pending_committee_id": 2170,
+               "committee": {
+                    "committee_id": 2170,
+                    "chamber": "H",
+                    "chamber_id": 71,
+                    "name": "Consumer & Public Affairs"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-02-07",
+                         "committee_id": 2170,
+                         "chamber": "H",
+                         "chamber_id": 71,
+                         "name": "Consumer & Public Affairs"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-07",
+                         "action": "Sent to HCPAC - Referrals: HCPAC/HJC",
+                         "chamber": "H",
+                         "chamber_id": 71,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 24684,
+                         "person_hash": "t7jyrgv2",
+                         "party_id": "2",
+                         "state_id": 31,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "John Block",
+                         "first_name": "John",
+                         "middle_name": "",
+                         "last_name": "Block",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-051",
+                         "ftm_eid": 55421638,
+                         "votesmart_id": 203547,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 802535,
+                         "ballotpedia": "John_Block",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22648,
+                         "person_hash": "8vyz5tom",
+                         "party_id": "2",
+                         "state_id": 31,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Stefani Lord",
+                         "first_name": "Stefani",
+                         "middle_name": "",
+                         "last_name": "Lord",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-022",
+                         "ftm_eid": 49472151,
+                         "votesmart_id": 191348,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 735566,
+                         "ballotpedia": "Stefani_Lord",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3109586,
+                         "date": "2025-02-07",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NM/text/HB321/id/3109586",
+                         "state_link": "https://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0321.pdf",
+                         "text_size": 46676,
+                         "text_hash": "7ce0ac9bc7716cb7f4eea5e78c700445",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 513860,
+                         "date": "2025-02-12",
+                         "type": "Fiscal Note",
+                         "type_id": 1,
+                         "title": "Fiscal Note",
+                         "description": "Fiscal Note",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NM/supplement/HB321/id/513860",
+                         "state_link": "https://www.nmlegis.gov/Sessions/25%20Regular/firs/HB0321.PDF",
+                         "supplement_size": 192543,
+                         "supplement_hash": "3326960c8f9adfd00f419d66f53f4b78",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": []
+          }
+     },
+     "1947112": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "4b0c3e8e9a914c0f2d29a633f3d347cd",
+               "relevance": 19,
+               "state": "NM",
+               "bill number": "SB187",
+               "description": "Death Penalty For Murder Of Peace Officer",
+               "state link": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legtype=B&legno=187&year=25",
+               "legiscan link": "https://legiscan.com/NM/bill/SB187/2025",
+               "status": {
+                    "date": "01-29-2025",
+                    "label": "Introduced",
+                    "action": "Sent to SJC - Referrals: SJC/SFC"
+               },
+               "date introduced": "01-29-2025",
+               "party": "R",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Crystal Diamond Brantley",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1947112,
+               "change_hash": "4b0c3e8e9a914c0f2d29a633f3d347cd",
+               "session_id": 2187,
+               "session": {
+                    "session_id": 2187,
+                    "state_id": 31,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/NM/bill/SB187/2025",
+               "state_link": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legtype=B&legno=187&year=25",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-01-29",
+               "progress": [
+                    {
+                         "date": "2025-01-29",
+                         "event": 1
+                    }
+               ],
+               "state": "NM",
+               "state_id": 31,
+               "bill_number": "SB187",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "S",
+               "body_id": 72,
+               "current_body": "S",
+               "current_body_id": 72,
+               "title": "Death Penalty For Murder Of Peace Officer",
+               "description": "Death Penalty For Murder Of Peace Officer",
+               "pending_committee_id": 2190,
+               "committee": {
+                    "committee_id": 2190,
+                    "chamber": "S",
+                    "chamber_id": 72,
+                    "name": "Judiciary"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-01-29",
+                         "committee_id": 2190,
+                         "chamber": "S",
+                         "chamber_id": 72,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-01-29",
+                         "action": "Sent to SJC - Referrals: SJC/SFC",
+                         "chamber": "S",
+                         "chamber_id": 72,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 22539,
+                         "person_hash": "a6qrrozc",
+                         "party_id": "2",
+                         "state_id": 31,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Crystal Diamond Brantley",
+                         "first_name": "Crystal",
+                         "middle_name": "R.",
+                         "last_name": "Diamond Brantley",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-035",
+                         "ftm_eid": 49472104,
+                         "votesmart_id": 191198,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 735346,
+                         "ballotpedia": "Crystal_Diamond",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3089716,
+                         "date": "2025-01-29",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NM/text/SB187/id/3089716",
+                         "state_link": "https://www.nmlegis.gov/Sessions/25%20Regular/bills/senate/SB0187.pdf",
+                         "text_size": 119516,
+                         "text_hash": "23e37a9fb043106709e39d54736806a2",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 507328,
+                         "date": "2025-02-06",
+                         "type": "Fiscal Note",
+                         "type_id": 1,
+                         "title": "Fiscal Note",
+                         "description": "Fiscal Note",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NM/supplement/SB187/id/507328",
+                         "state_link": "https://www.nmlegis.gov/Sessions/25%20Regular/firs/SB0187.PDF",
+                         "supplement_size": 197213,
+                         "supplement_hash": "561023a986734be7c9ece5f2bd396d09",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": []
+          }
+     },
+     "1922568": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "1872ea5299624709575ec0d19a8854eb",
+               "relevance": 18,
+               "state": "NM",
+               "bill number": "HB107",
+               "description": "Penalty For Drug Trafficking & Death",
+               "state link": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=107&year=25",
+               "legiscan link": "https://legiscan.com/NM/bill/HB107/2025",
+               "status": {
+                    "date": "01-21-2025",
+                    "label": "Introduced",
+                    "action": "Sent to HCPAC - Referrals: HCPAC/HJC"
+               },
+               "date introduced": "01-21-2025",
+               "party": "R",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Nicole Chavez, Gabriel Ramos",
+                         "co": "Andrea Reeb, Elaine Sena Cortez, Luis Terrazas",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 5"
+               }
+          },
+          "raw": {
+               "bill_id": 1922568,
+               "change_hash": "1872ea5299624709575ec0d19a8854eb",
+               "session_id": 2187,
+               "session": {
+                    "session_id": 2187,
+                    "state_id": 31,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/NM/bill/HB107/2025",
+               "state_link": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=107&year=25",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-01-21",
+               "progress": [
+                    {
+                         "date": "2025-01-21",
+                         "event": 1
+                    }
+               ],
+               "state": "NM",
+               "state_id": 31,
+               "bill_number": "HB107",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 71,
+               "current_body": "H",
+               "current_body_id": 71,
+               "title": "Penalty For Drug Trafficking & Death",
+               "description": "Penalty For Drug Trafficking & Death",
+               "pending_committee_id": 2170,
+               "committee": {
+                    "committee_id": 2170,
+                    "chamber": "H",
+                    "chamber_id": 71,
+                    "name": "Consumer & Public Affairs"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-01-27",
+                         "committee_id": 2170,
+                         "chamber": "H",
+                         "chamber_id": 71,
+                         "name": "Consumer & Public Affairs"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-01-21",
+                         "action": "Sent to HPREF - Referrals: HPREF",
+                         "chamber": "H",
+                         "chamber_id": 71,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-01-27",
+                         "action": "Sent to HCPAC - Referrals: HCPAC/HJC",
+                         "chamber": "H",
+                         "chamber_id": 71,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 26362,
+                         "person_hash": "er95pdhl",
+                         "party_id": "2",
+                         "state_id": 31,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Nicole Chavez",
+                         "first_name": "Nicole",
+                         "middle_name": "",
+                         "last_name": "Chavez",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-031",
+                         "ftm_eid": 59835830,
+                         "votesmart_id": 203021,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Nicole_Chavez",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 21020,
+                         "person_hash": "9anc74io",
+                         "party_id": "2",
+                         "state_id": 31,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Gabriel Ramos",
+                         "first_name": "Gabriel",
+                         "middle_name": "",
+                         "last_name": "Ramos",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-028",
+                         "ftm_eid": 9056970,
+                         "votesmart_id": 131644,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 694540,
+                         "ballotpedia": "Gabriel_Ramos",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24692,
+                         "person_hash": "1qxzht8g",
+                         "party_id": "2",
+                         "state_id": 31,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Andrea Reeb",
+                         "first_name": "Andrea",
+                         "middle_name": "R.",
+                         "last_name": "Reeb",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-064",
+                         "ftm_eid": 9122587,
+                         "votesmart_id": 203555,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 802594,
+                         "ballotpedia": "Andrea_Reeb",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 26368,
+                         "person_hash": "xle9lo66",
+                         "party_id": "2",
+                         "state_id": 31,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Elaine Sena Cortez",
+                         "first_name": "Elaine Sena",
+                         "middle_name": "",
+                         "last_name": "Cortez",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-062",
+                         "ftm_eid": 59835883,
+                         "votesmart_id": 203554,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Elaine_Sena_Cortez",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 4,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22646,
+                         "person_hash": "jdu49jzi",
+                         "party_id": "2",
+                         "state_id": 31,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Luis Terrazas",
+                         "first_name": "Luis",
+                         "middle_name": "M.",
+                         "last_name": "Terrazas",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-039",
+                         "ftm_eid": 49472228,
+                         "votesmart_id": 191414,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 735844,
+                         "ballotpedia": "Luis_Terrazas",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 5,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [],
+               "texts": [
+                    {
+                         "doc_id": 3059704,
+                         "date": "2025-01-15",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NM/text/HB107/id/3059704",
+                         "state_link": "https://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0107.pdf",
+                         "text_size": 157767,
+                         "text_hash": "47451860d92c4c9bf29694806841dbea",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 507434,
+                         "date": "2025-02-06",
+                         "type": "Fiscal Note",
+                         "type_id": 1,
+                         "title": "Fiscal Note",
+                         "description": "Fiscal Note",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NM/supplement/HB107/id/507434",
+                         "state_link": "https://www.nmlegis.gov/Sessions/25%20Regular/firs/HB0107.PDF",
+                         "supplement_size": 209140,
+                         "supplement_hash": "5f561334ebc96c865103b43d699895d6",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    },
+                    {
+                         "supplement_id": 510285,
+                         "date": "2025-02-10",
+                         "type": "Misc",
+                         "type_id": 7,
+                         "title": "House Committee Tabled Report",
+                         "description": "HCPAC Tabled Report",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/NM/supplement/HB107/id/510285",
+                         "state_link": "https://www.nmlegis.gov/Sessions/25%20Regular/Tabled_Reports/HB0107CP1T.pdf",
+                         "supplement_size": 40742,
+                         "supplement_hash": "32eb1c8dff0be481b23088a904597fec",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "f5cb0aed",
+                         "type": "Hearing",
+                         "date": "2025-02-08",
+                         "time": "09:00",
+                         "location": "Room 317",
+                         "description": "House Consumer & Public Affairs Committee"
+                    }
+               ]
+          }
+     }
+}

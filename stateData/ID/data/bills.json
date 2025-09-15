@@ -1,0 +1,2682 @@
+{
+     "1935133": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "915601a5c726098d941b41eb8dc1ab27",
+               "relevance": 26,
+               "state": "ID",
+               "bill number": "H0037",
+               "description": "METHODS OF EXECUTION -- Amends existing law to revise provisions regarding methods of execution.",
+               "state link": "https://legislature.idaho.gov/sessioninfo/2025/legislation/H0037/",
+               "legiscan link": "https://legiscan.com/ID/bill/H0037/2025",
+               "status": {
+                    "date": "03-13-2025",
+                    "label": "Passed",
+                    "action": "Reported Signed by Governor on March 12, 2025 Session Law Chapter 36 Effective: 07/01/2026"
+               },
+               "date introduced": "01-22-2025",
+               "party": "R",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Judiciary, Rules and Administration Committee",
+                         "co": "Chris Bruce, Kyle Harris, Josh Tanner, Ted Hill, Barbara Ehardt, Dale Hawkins, Joe Alfieri, Clint Hostetler, Jason Monks, Judy Boyle, Kevin Andrus, Vito Barbieri, Jaron Crane, Jordan Redman, Cornel Rasor, Charlie Shepherd",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 16"
+               }
+          },
+          "raw": {
+               "bill_id": 1935133,
+               "change_hash": "915601a5c726098d941b41eb8dc1ab27",
+               "session_id": 2168,
+               "session": {
+                    "session_id": 2168,
+                    "state_id": 12,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/ID/bill/H0037/2025",
+               "state_link": "https://legislature.idaho.gov/sessioninfo/2025/legislation/H0037/",
+               "completed": 1,
+               "status": 4,
+               "status_date": "2025-03-13",
+               "progress": [
+                    {
+                         "date": "2025-01-22",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-01-23",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-02-04",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-02-06",
+                         "event": 2
+                    },
+                    {
+                         "date": "2025-02-07",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-02-20",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-03-11",
+                         "event": 3
+                    },
+                    {
+                         "date": "2025-03-13",
+                         "event": 8
+                    },
+                    {
+                         "date": "2025-03-13",
+                         "event": 4
+                    }
+               ],
+               "state": "ID",
+               "state_id": 12,
+               "bill_number": "H0037",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 33,
+               "current_body": "H",
+               "current_body_id": 33,
+               "title": "Amends existing law to revise provisions regarding methods of execution.",
+               "description": "METHODS OF EXECUTION -- Amends existing law to revise provisions regarding methods of execution.",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [
+                    {
+                         "date": "2025-01-23",
+                         "committee_id": 1525,
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "name": "Judiciary, Rules and Administration"
+                    },
+                    {
+                         "date": "2025-02-07",
+                         "committee_id": 1537,
+                         "chamber": "S",
+                         "chamber_id": 34,
+                         "name": "Judiciary and Rules"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-01-22",
+                         "action": "Introduced, read first time, referred to JRA for Printing",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-01-23",
+                         "action": "Reported Printed and Referred to Judiciary, Rules & Administration",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-04",
+                         "action": "Reported out of Committee with Do Pass Recommendation, Filed for Second Reading",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-05",
+                         "action": "Read second time; Filed for Third Reading",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-06",
+                         "action": "Read Third Time in Full -- PASSED 58-11-1",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-06",
+                         "action": "Title apvd",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-06",
+                         "action": "to Senate",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-07",
+                         "action": "Received from the House passed; filed for first reading",
+                         "chamber": "S",
+                         "chamber_id": 34,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-07",
+                         "action": "Introduced, read first time; referred to: Judiciary & Rules",
+                         "chamber": "S",
+                         "chamber_id": 34,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-20",
+                         "action": "Reported out of Committee with Do Pass Recommendation; Filed for second reading",
+                         "chamber": "S",
+                         "chamber_id": 34,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-21",
+                         "action": "Read second time; filed for Third Reading",
+                         "chamber": "S",
+                         "chamber_id": 34,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-05",
+                         "action": "Read third time in full -- PASSED 28-7-0",
+                         "chamber": "S",
+                         "chamber_id": 34,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-05",
+                         "action": "Title apvd",
+                         "chamber": "S",
+                         "chamber_id": 34,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-05",
+                         "action": "to House",
+                         "chamber": "S",
+                         "chamber_id": 34,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-06",
+                         "action": "Returned from Senate Passed; to JRA for Enrolling",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-07",
+                         "action": "Reported Enrolled; Signed by Speaker; Transmitted to Senate",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-10",
+                         "action": "Received from the House enrolled/signed by Speaker",
+                         "chamber": "S",
+                         "chamber_id": 34,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-10",
+                         "action": "Signed by President; returned to House",
+                         "chamber": "S",
+                         "chamber_id": 34,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-10",
+                         "action": "Returned Signed by the President; Ordered Transmitted to Governor",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-11",
+                         "action": "Delivered to Governor at 8:10 a.m. on March 11, 2025",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-13",
+                         "action": "Reported Signed by Governor on March 12, 2025 Session Law Chapter 36 Effective: 07/01/2026",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 14006,
+                         "person_hash": "p7ct3kf3",
+                         "party_id": "0",
+                         "state_id": 12,
+                         "party": "",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Judiciary, Rules and Administration Committee",
+                         "first_name": "",
+                         "middle_name": "",
+                         "last_name": "",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "",
+                         "ftm_eid": 0,
+                         "votesmart_id": 0,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 1,
+                         "committee_id": 1525,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 25748,
+                         "person_hash": "ikd26ww8",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Chris Bruce",
+                         "first_name": "Chris",
+                         "middle_name": "",
+                         "last_name": "Bruce",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-023A",
+                         "ftm_eid": 49427316,
+                         "votesmart_id": 191019,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Chris_Bruce",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 25755,
+                         "person_hash": "kwelmxm9",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Kyle Harris",
+                         "first_name": "Kyle",
+                         "middle_name": "",
+                         "last_name": "Harris",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-007A",
+                         "ftm_eid": 59829321,
+                         "votesmart_id": 215941,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 870477,
+                         "ballotpedia": "Kyle_Harris_(Idaho)",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 23941,
+                         "person_hash": "qe4au9uc",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Josh Tanner",
+                         "first_name": "Josh",
+                         "middle_name": "",
+                         "last_name": "Tanner",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-014B",
+                         "ftm_eid": 49427398,
+                         "votesmart_id": 190961,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 736544,
+                         "ballotpedia": "Josh_Tanner",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 4,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 23929,
+                         "person_hash": "eiy3266n",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Ted Hill",
+                         "first_name": "Edward",
+                         "middle_name": "",
+                         "last_name": "Hill",
+                         "suffix": "",
+                         "nickname": "Ted",
+                         "district": "HD-014A",
+                         "ftm_eid": 55408640,
+                         "votesmart_id": 179739,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 658272,
+                         "ballotpedia": "Ted_Hill",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 5,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 19530,
+                         "person_hash": "tpy1if2h",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Barbara Ehardt",
+                         "first_name": "Barbara",
+                         "middle_name": "",
+                         "last_name": "Ehardt",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-033A",
+                         "ftm_eid": 7906075,
+                         "votesmart_id": 157854,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 649372,
+                         "ballotpedia": "Barbara_Ehardt",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 6,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 23927,
+                         "person_hash": "74vtr95s",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Dale Hawkins",
+                         "first_name": "Dale",
+                         "middle_name": "",
+                         "last_name": "Hawkins",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-002B",
+                         "ftm_eid": 55408586,
+                         "votesmart_id": 203063,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 803597,
+                         "ballotpedia": "Dale_Hawkins",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 7,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 23915,
+                         "person_hash": "90dz9d6v",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Joe Alfieri",
+                         "first_name": "Joe",
+                         "middle_name": "",
+                         "last_name": "Alfieri",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-004A",
+                         "ftm_eid": 55408592,
+                         "votesmart_id": 203069,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 803602,
+                         "ballotpedia": "Joe_Alfieri",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 8,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 25756,
+                         "person_hash": "lw66whe0",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Clint Hostetler",
+                         "first_name": "Clint",
+                         "middle_name": "",
+                         "last_name": "Hostetler",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-024A",
+                         "ftm_eid": 59829159,
+                         "votesmart_id": 216038,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Clint_Hostetler",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 9,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 15804,
+                         "person_hash": "tvvn33lt",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Jason Monks",
+                         "first_name": "Jason",
+                         "middle_name": "A.",
+                         "last_name": "Monks",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-022B",
+                         "ftm_eid": 10885595,
+                         "votesmart_id": 137065,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 406841,
+                         "ballotpedia": "Jason_Monks",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 10,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 8012,
+                         "person_hash": "dbljvdwk",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Judy Boyle",
+                         "first_name": "Judy",
+                         "middle_name": "",
+                         "last_name": "Boyle",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-009B",
+                         "ftm_eid": 6675346,
+                         "votesmart_id": 103843,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 268017,
+                         "ballotpedia": "Judy_Boyle",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 11,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 21002,
+                         "person_hash": "kisi5q2a",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Kevin Andrus",
+                         "first_name": "Kevin",
+                         "middle_name": "",
+                         "last_name": "Andrus",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-035A",
+                         "ftm_eid": 45189571,
+                         "votesmart_id": 179811,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 690743,
+                         "ballotpedia": "Kevin_Andrus",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 12,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 12737,
+                         "person_hash": "62aktjrp",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Vito Barbieri",
+                         "first_name": "Vito",
+                         "middle_name": "",
+                         "last_name": "Barbieri",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-003A",
+                         "ftm_eid": 6683755,
+                         "votesmart_id": 119896,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 289634,
+                         "ballotpedia": "Vito_Barbieri",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 13,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 23919,
+                         "person_hash": "iteh8ly6",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Jaron Crane",
+                         "first_name": "Jaron",
+                         "middle_name": "",
+                         "last_name": "Crane",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-012B",
+                         "ftm_eid": 55408632,
+                         "votesmart_id": 203102,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 803635,
+                         "ballotpedia": "Jaron_Crane",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 14,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 23938,
+                         "person_hash": "mvm00ory",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Jordan Redman",
+                         "first_name": "Jordan",
+                         "middle_name": "",
+                         "last_name": "Redman",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-003B",
+                         "ftm_eid": 51799914,
+                         "votesmart_id": 203064,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 803598,
+                         "ballotpedia": "Jordan_Redman",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 15,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 25760,
+                         "person_hash": "oktd5odd",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Cornel Rasor",
+                         "first_name": "Cornel",
+                         "middle_name": "",
+                         "last_name": "Rasor",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-001B",
+                         "ftm_eid": 49427380,
+                         "votesmart_id": 115215,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Cornel_Rasor",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 16,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22726,
+                         "person_hash": "zhvyyp0f",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Charlie Shepherd",
+                         "first_name": "Charlie",
+                         "middle_name": "",
+                         "last_name": "Shepherd",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-007B",
+                         "ftm_eid": 49427389,
+                         "votesmart_id": 190909,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 736396,
+                         "ballotpedia": "Charlie_Shepherd",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 17,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 368466,
+                         "subject_name": "METHODS OF EXECUTION"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3072392,
+                         "date": "0000-00-00",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/ID/text/H0037/id/3072392",
+                         "state_link": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/legislation/H0037.pdf",
+                         "text_size": 45940,
+                         "text_hash": "c47057476094a5f8d19ded78df558813",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [
+                    {
+                         "roll_call_id": 1483248,
+                         "date": "2025-02-06",
+                         "desc": "House Third Reading",
+                         "yea": 58,
+                         "nay": 11,
+                         "nv": 0,
+                         "absent": 1,
+                         "total": 70,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "url": "https://legiscan.com/ID/rollcall/H0037/id/1483248",
+                         "state_link": "https://legislature.idaho.gov/sessioninfo/2025/legislation/H0037/"
+                    },
+                    {
+                         "roll_call_id": 1506637,
+                         "date": "2025-03-05",
+                         "desc": "Senate Third Reading",
+                         "yea": 28,
+                         "nay": 7,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 35,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 34,
+                         "url": "https://legiscan.com/ID/rollcall/H0037/id/1506637",
+                         "state_link": "https://legislature.idaho.gov/sessioninfo/2025/legislation/H0037/"
+                    }
+               ],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 493507,
+                         "date": "2025-01-22",
+                         "type": "Fiscal Note/Analysis",
+                         "type_id": 3,
+                         "title": "Fiscal Note/Analysis",
+                         "description": "Statement of Purpose / Fiscal Note",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/ID/supplement/H0037/id/493507",
+                         "state_link": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/legislation/H0037SOP.pdf",
+                         "supplement_size": 638622,
+                         "supplement_hash": "ab04a0926192cabc6e74085798403a18",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "f6d5bc2e",
+                         "type": "Hearing",
+                         "date": "2025-02-03",
+                         "time": "13:30",
+                         "location": "Room EW42",
+                         "description": "House Judiciary, Rules &#038; Administration Committee"
+                    },
+                    {
+                         "type_id": 2,
+                         "event_hash": "29b2619a",
+                         "type": "Executive Session",
+                         "date": "2025-02-05",
+                         "time": "11:00",
+                         "location": "House Floor",
+                         "description": "Second Reading Calendar"
+                    },
+                    {
+                         "type_id": 2,
+                         "event_hash": "927fb278",
+                         "type": "Executive Session",
+                         "date": "2025-02-06",
+                         "time": "11:00",
+                         "location": "House Floor",
+                         "description": "Third Reading Calendar"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "2d4db62c",
+                         "type": "Hearing",
+                         "date": "2025-02-19",
+                         "time": "13:30",
+                         "location": "Room WW54",
+                         "description": "Senate Judiciary &#038; Rules Committee"
+                    },
+                    {
+                         "type_id": 2,
+                         "event_hash": "8fd6d4eb",
+                         "type": "Executive Session",
+                         "date": "2025-02-21",
+                         "time": "10:30",
+                         "location": "Senate Floor",
+                         "description": "Second Reading Calendar"
+                    },
+                    {
+                         "type_id": 2,
+                         "event_hash": "d4b99e20",
+                         "type": "Executive Session",
+                         "date": "2025-02-24",
+                         "time": "11:00",
+                         "location": "Senate Floor",
+                         "description": "Third Reading Calendar"
+                    },
+                    {
+                         "type_id": 2,
+                         "event_hash": "6fec72bb",
+                         "type": "Executive Session",
+                         "date": "2025-02-25",
+                         "time": "11:00",
+                         "location": "Senate Floor",
+                         "description": "Third Reading Calendar"
+                    },
+                    {
+                         "type_id": 2,
+                         "event_hash": "73f754be",
+                         "type": "Executive Session",
+                         "date": "2025-02-26",
+                         "time": "10:45",
+                         "location": "Senate Floor",
+                         "description": "Third Reading Calendar"
+                    },
+                    {
+                         "type_id": 2,
+                         "event_hash": "26d9ce66",
+                         "type": "Executive Session",
+                         "date": "2025-02-27",
+                         "time": "10:45",
+                         "location": "Senate Floor",
+                         "description": "Third Reading Calendar"
+                    },
+                    {
+                         "type_id": 2,
+                         "event_hash": "3fe1eec2",
+                         "type": "Executive Session",
+                         "date": "2025-02-28",
+                         "time": "10:15",
+                         "location": "Senate Floor",
+                         "description": "Third Reading Calendar"
+                    },
+                    {
+                         "type_id": 2,
+                         "event_hash": "8912cbd4",
+                         "type": "Executive Session",
+                         "date": "2025-03-03",
+                         "time": "10:45",
+                         "location": "Senate Floor",
+                         "description": "Third Reading Calendar"
+                    },
+                    {
+                         "type_id": 2,
+                         "event_hash": "ac12700b",
+                         "type": "Executive Session",
+                         "date": "2025-03-04",
+                         "time": "10:30",
+                         "location": "Senate Floor",
+                         "description": "Third Reading Calendar"
+                    },
+                    {
+                         "type_id": 2,
+                         "event_hash": "d1f52562",
+                         "type": "Executive Session",
+                         "date": "2025-03-05",
+                         "time": "10:30",
+                         "location": "Senate Floor",
+                         "description": "By Judiciary And Rules Committee \u2013  Crisis Response For Persons With A Neurocognitive Disorder \u2013 Amends Existing Law To Revise P"
+                    }
+               ]
+          }
+     },
+     "1985062": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "7502d7d53cd19756c27aeea43525c143",
+               "relevance": 20,
+               "state": "ID",
+               "bill number": "S1135",
+               "description": "CORONERS -- Amends existing law to provide that certain records regarding coroners shall be exempt from disclosure and to provide that next-of-kin shall have access to certain reports prepared by a coroner.",
+               "state link": "https://legislature.idaho.gov/sessioninfo/2025/legislation/S1135/",
+               "legiscan link": "https://legiscan.com/ID/bill/S1135/2025",
+               "status": {
+                    "date": "02-27-2025",
+                    "label": "Refer",
+                    "action": "Reported Printed; referred to Judiciary & Rules"
+               },
+               "date introduced": "02-26-2025",
+               "party": NaN,
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "State Affairs Committee",
+                         "co": "Carl Bjerke",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1985062,
+               "change_hash": "7502d7d53cd19756c27aeea43525c143",
+               "session_id": 2168,
+               "session": {
+                    "session_id": 2168,
+                    "state_id": 12,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/ID/bill/S1135/2025",
+               "state_link": "https://legislature.idaho.gov/sessioninfo/2025/legislation/S1135/",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-02-26",
+               "progress": [
+                    {
+                         "date": "2025-02-26",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-27",
+                         "event": 9
+                    }
+               ],
+               "state": "ID",
+               "state_id": 12,
+               "bill_number": "S1135",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "S",
+               "body_id": 34,
+               "current_body": "S",
+               "current_body_id": 34,
+               "title": "Amends existing law to provide that certain records regarding coroners shall be exempt from disclosure and to provide that next-of-kin shall have access to certain reports prepared by a coroner.",
+               "description": "CORONERS -- Amends existing law to provide that certain records regarding coroners shall be exempt from disclosure and to provide that next-of-kin shall have access to certain reports prepared by a coroner.",
+               "pending_committee_id": 1537,
+               "committee": {
+                    "committee_id": 1537,
+                    "chamber": "S",
+                    "chamber_id": 34,
+                    "name": "Judiciary and Rules"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-02-26",
+                         "committee_id": 1537,
+                         "chamber": "S",
+                         "chamber_id": 34,
+                         "name": "Judiciary and Rules"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-26",
+                         "action": "Introduced; read first time; referred to JR for Printing",
+                         "chamber": "S",
+                         "chamber_id": 34,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-27",
+                         "action": "Reported Printed; referred to Judiciary & Rules",
+                         "chamber": "S",
+                         "chamber_id": 34,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 14021,
+                         "person_hash": "o0p2figp",
+                         "party_id": "0",
+                         "state_id": 12,
+                         "party": "",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "State Affairs Committee",
+                         "first_name": "",
+                         "middle_name": "",
+                         "last_name": "",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "",
+                         "ftm_eid": 0,
+                         "votesmart_id": 0,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 1,
+                         "committee_id": 1540,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24635,
+                         "person_hash": "8uko9mpg",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Carl Bjerke",
+                         "first_name": "Carl",
+                         "middle_name": "",
+                         "last_name": "Bjerke",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-005",
+                         "ftm_eid": 55408596,
+                         "votesmart_id": 203072,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Carl_Bjerke",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 21414,
+                         "subject_name": "CORONERS"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3143172,
+                         "date": "0000-00-00",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/ID/text/S1135/id/3143172",
+                         "state_link": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/legislation/S1135.pdf",
+                         "text_size": 67414,
+                         "text_hash": "49e09cba9a1a70a686d739f4ba12a2f7",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 530158,
+                         "date": "2025-02-26",
+                         "type": "Fiscal Note/Analysis",
+                         "type_id": 3,
+                         "title": "Fiscal Note/Analysis",
+                         "description": "Statement of Purpose / Fiscal Note",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/ID/supplement/S1135/id/530158",
+                         "state_link": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/legislation/S1135SOP.pdf",
+                         "supplement_size": 638125,
+                         "supplement_hash": "3b3914e789d34621f27daed93095e17c",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": []
+          }
+     },
+     "1995108": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "3112195ef226a3e26db051600213d0dd",
+               "relevance": 20,
+               "state": "ID",
+               "bill number": "H0380",
+               "description": "LEWD CONDUCT -- Amends and adds to existing law to establish provisions regarding the crime of aggravated lewd conduct with a minor child under sixteen, to establish provisions regarding the crime of aggravated lewd conduct with a minor child twelve or under, and to provide a punishment for the crime of aggravated lewd conduct with a minor child twelve or under.",
+               "state link": "https://legislature.idaho.gov/sessioninfo/2025/legislation/H0380/",
+               "legiscan link": "https://legiscan.com/ID/bill/H0380/2025",
+               "status": {
+                    "date": "03-27-2025",
+                    "label": "Passed",
+                    "action": "Reported Signed by Governor on March 26, 2025 Session Law Chapter 177 Effective: 07/01/2025"
+               },
+               "date introduced": "03-07-2025",
+               "party": "R",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Ways and Means Committee",
+                         "co": "Todd Lakey, Mike Moyle, Treg Bernt, Brent Crane, Josh Keyser, Wendy Horman, Doug Okuniewicz, Barbara Ehardt, Joe Alfieri, Joe Palmer, Ted Hill, Dale Hawkins, Jordan Redman, James Holtzclaw, Brandon Mitchell, John Shirts, Mike Pohanka, Chris Bruce",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 18"
+               }
+          },
+          "raw": {
+               "bill_id": 1995108,
+               "change_hash": "3112195ef226a3e26db051600213d0dd",
+               "session_id": 2168,
+               "session": {
+                    "session_id": 2168,
+                    "state_id": 12,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/ID/bill/H0380/2025",
+               "state_link": "https://legislature.idaho.gov/sessioninfo/2025/legislation/H0380/",
+               "completed": 1,
+               "status": 4,
+               "status_date": "2025-03-27",
+               "progress": [
+                    {
+                         "date": "2025-03-07",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-03-10",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-03-14",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-03-17",
+                         "event": 2
+                    },
+                    {
+                         "date": "2025-03-18",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-03-20",
+                         "event": 10
+                    },
+                    {
+                         "date": "2025-03-26",
+                         "event": 3
+                    },
+                    {
+                         "date": "2025-03-27",
+                         "event": 8
+                    },
+                    {
+                         "date": "2025-03-27",
+                         "event": 4
+                    }
+               ],
+               "state": "ID",
+               "state_id": 12,
+               "bill_number": "H0380",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 33,
+               "current_body": "H",
+               "current_body_id": 33,
+               "title": "Amends and adds to existing law to establish provisions regarding the crime of aggravated lewd conduct with a minor child under sixteen, to establish provisions regarding the crime of aggravated lewd conduct with a minor child twelve or under, and to provide a punishment for the crime of aggravated lewd conduct with a minor child twelve or under.",
+               "description": "LEWD CONDUCT -- Amends and adds to existing law to establish provisions regarding the crime of aggravated lewd conduct with a minor child under sixteen, to establish provisions regarding the crime of aggravated lewd conduct with a minor child twelve or under, and to provide a punishment for the crime of aggravated lewd conduct with a minor child twelve or under.",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [
+                    {
+                         "date": "2025-03-10",
+                         "committee_id": 1525,
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "name": "Judiciary, Rules and Administration"
+                    },
+                    {
+                         "date": "2025-03-18",
+                         "committee_id": 1537,
+                         "chamber": "S",
+                         "chamber_id": 34,
+                         "name": "Judiciary and Rules"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-03-07",
+                         "action": "Introduced, read first time, referred to JRA for Printing",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-10",
+                         "action": "Reported Printed and Referred to Judiciary, Rules & Administration",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-14",
+                         "action": "Reported out of Committee with Do Pass Recommendation, Filed for Second Reading",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-17",
+                         "action": "Read second time; Filed for Third Reading",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-17",
+                         "action": "Rules Suspended:",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-17",
+                         "action": "Title apvd",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-17",
+                         "action": "to Senate",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-18",
+                         "action": "Received from the House passed; filed for first reading",
+                         "chamber": "S",
+                         "chamber_id": 34,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-18",
+                         "action": "Introduced, read first time; referred to: Judiciary & Rules",
+                         "chamber": "S",
+                         "chamber_id": 34,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-20",
+                         "action": "Reported out of Committee with Do Pass Recommendation; Filed for second reading",
+                         "chamber": "S",
+                         "chamber_id": 34,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-21",
+                         "action": "Read second time; filed for Third Reading",
+                         "chamber": "S",
+                         "chamber_id": 34,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-24",
+                         "action": "Read third time in full -- PASSED 30-5-0",
+                         "chamber": "S",
+                         "chamber_id": 34,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-24",
+                         "action": "Title apvd",
+                         "chamber": "S",
+                         "chamber_id": 34,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-24",
+                         "action": "to House",
+                         "chamber": "S",
+                         "chamber_id": 34,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-24",
+                         "action": "Returned from Senate Passed; to JRA for Enrolling",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-24",
+                         "action": "Reported Enrolled; Signed by Speaker; Transmitted to Senate",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-25",
+                         "action": "Received from the House enrolled/signed by Speaker",
+                         "chamber": "S",
+                         "chamber_id": 34,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-25",
+                         "action": "Signed by President; returned to House",
+                         "chamber": "S",
+                         "chamber_id": 34,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-25",
+                         "action": "Returned Signed by the President; Ordered Transmitted to Governor",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-03-26",
+                         "action": "Delivered to Governor at 4:04 p.m. on March 25, 2025",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-03-27",
+                         "action": "Reported Signed by Governor on March 26, 2025 Session Law Chapter 177 Effective: 07/01/2025",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 14012,
+                         "person_hash": "4il46wzx",
+                         "party_id": "0",
+                         "state_id": 12,
+                         "party": "",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Ways and Means Committee",
+                         "first_name": "",
+                         "middle_name": "",
+                         "last_name": "",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "",
+                         "ftm_eid": 0,
+                         "votesmart_id": 0,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 1,
+                         "committee_id": 1531,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 15818,
+                         "person_hash": "qq5dwnpy",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Todd Lakey",
+                         "first_name": "Todd",
+                         "middle_name": "M.",
+                         "last_name": "Lakey",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-023",
+                         "ftm_eid": 7887471,
+                         "votesmart_id": 137096,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 401745,
+                         "ballotpedia": "Todd_Lakey",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 8043,
+                         "person_hash": "mw8kt78j",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Mike Moyle",
+                         "first_name": "Mike",
+                         "middle_name": "",
+                         "last_name": "Moyle",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-010A",
+                         "ftm_eid": 12999763,
+                         "votesmart_id": 18112,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 194184,
+                         "ballotpedia": "Mike_Moyle",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 3,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 24634,
+                         "person_hash": "iytmfvz8",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Treg Bernt",
+                         "first_name": "Treg",
+                         "middle_name": "A.",
+                         "last_name": "Bernt",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-021",
+                         "ftm_eid": 55408664,
+                         "votesmart_id": 189295,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Treg_Bernt",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 4,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 8019,
+                         "person_hash": "qqpf6h8x",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Brent Crane",
+                         "first_name": "Brent",
+                         "middle_name": "J.",
+                         "last_name": "Crane",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-013A",
+                         "ftm_eid": 6668618,
+                         "votesmart_id": 58399,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 249700,
+                         "ballotpedia": "Brent_Crane",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 5,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 25765,
+                         "person_hash": "d3z6rylj",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Josh Keyser",
+                         "first_name": "Josh",
+                         "middle_name": "",
+                         "last_name": "Keyser",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-020",
+                         "ftm_eid": 59829697,
+                         "votesmart_id": 215842,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Josh_Keyser",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 6,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 15797,
+                         "person_hash": "sffu0grm",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Wendy Horman",
+                         "first_name": "Wendy",
+                         "middle_name": "",
+                         "last_name": "Horman",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-032B",
+                         "ftm_eid": 10885637,
+                         "votesmart_id": 137104,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 406962,
+                         "ballotpedia": "Wendy_Horman",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 7,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22625,
+                         "person_hash": "kbidlox2",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Doug Okuniewicz",
+                         "first_name": "Douglas",
+                         "middle_name": "M.",
+                         "last_name": "Okuniewicz",
+                         "suffix": "",
+                         "nickname": "Doug",
+                         "district": "SD-003",
+                         "ftm_eid": 28158065,
+                         "votesmart_id": 179708,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 658375,
+                         "ballotpedia": "Doug_Okuniewicz",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 8,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 19530,
+                         "person_hash": "tpy1if2h",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Barbara Ehardt",
+                         "first_name": "Barbara",
+                         "middle_name": "",
+                         "last_name": "Ehardt",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-033A",
+                         "ftm_eid": 7906075,
+                         "votesmart_id": 157854,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 649372,
+                         "ballotpedia": "Barbara_Ehardt",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 9,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 23915,
+                         "person_hash": "90dz9d6v",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Joe Alfieri",
+                         "first_name": "Joe",
+                         "middle_name": "",
+                         "last_name": "Alfieri",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-004A",
+                         "ftm_eid": 55408592,
+                         "votesmart_id": 203069,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 803602,
+                         "ballotpedia": "Joe_Alfieri",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 10,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 8046,
+                         "person_hash": "6oajzrs7",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Joe Palmer",
+                         "first_name": "Joe",
+                         "middle_name": "A.",
+                         "last_name": "Palmer",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-020A",
+                         "ftm_eid": 12999823,
+                         "votesmart_id": 103874,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 268042,
+                         "ballotpedia": "Joe_Palmer",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 11,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 23929,
+                         "person_hash": "eiy3266n",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Ted Hill",
+                         "first_name": "Edward",
+                         "middle_name": "",
+                         "last_name": "Hill",
+                         "suffix": "",
+                         "nickname": "Ted",
+                         "district": "HD-014A",
+                         "ftm_eid": 55408640,
+                         "votesmart_id": 179739,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 658272,
+                         "ballotpedia": "Ted_Hill",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 12,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 23927,
+                         "person_hash": "74vtr95s",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Dale Hawkins",
+                         "first_name": "Dale",
+                         "middle_name": "",
+                         "last_name": "Hawkins",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-002B",
+                         "ftm_eid": 55408586,
+                         "votesmart_id": 203063,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 803597,
+                         "ballotpedia": "Dale_Hawkins",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 13,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 23938,
+                         "person_hash": "mvm00ory",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Jordan Redman",
+                         "first_name": "Jordan",
+                         "middle_name": "",
+                         "last_name": "Redman",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-003B",
+                         "ftm_eid": 51799914,
+                         "votesmart_id": 203064,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 803598,
+                         "ballotpedia": "Jordan_Redman",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 14,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 15796,
+                         "person_hash": "0op8cmvr",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "James Holtzclaw",
+                         "first_name": "James",
+                         "middle_name": "",
+                         "last_name": "Holtzclaw",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-020B",
+                         "ftm_eid": 10885582,
+                         "votesmart_id": 137056,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 406810,
+                         "ballotpedia": "James_Holtzclaw",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 15,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 22624,
+                         "person_hash": "k9ibnlzq",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Brandon Mitchell",
+                         "first_name": "Brandon",
+                         "middle_name": "",
+                         "last_name": "Mitchell",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-006B",
+                         "ftm_eid": 49427367,
+                         "votesmart_id": 190902,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 736380,
+                         "ballotpedia": "Brandon_Mitchell",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 16,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 25761,
+                         "person_hash": "euzytg9r",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "John Shirts",
+                         "first_name": "John",
+                         "middle_name": "",
+                         "last_name": "Shirts",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-009A",
+                         "ftm_eid": 59829139,
+                         "votesmart_id": 215949,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "John_Shirts",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 17,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 25759,
+                         "person_hash": "7m8eittd",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Mike Pohanka",
+                         "first_name": "Mike",
+                         "middle_name": "",
+                         "last_name": "Pohanka",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-026A",
+                         "ftm_eid": 55408698,
+                         "votesmart_id": 203193,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Mike_Pohanka",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 18,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 25748,
+                         "person_hash": "ikd26ww8",
+                         "party_id": "2",
+                         "state_id": 12,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Chris Bruce",
+                         "first_name": "Chris",
+                         "middle_name": "",
+                         "last_name": "Bruce",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-023A",
+                         "ftm_eid": 49427316,
+                         "votesmart_id": 191019,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Chris_Bruce",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 19,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 396832,
+                         "subject_name": "LEWD CONDUCT"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3159131,
+                         "date": "0000-00-00",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/ID/text/H0380/id/3159131",
+                         "state_link": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/legislation/H0380.pdf",
+                         "text_size": 91501,
+                         "text_hash": "d2ab562ae4b438ecd610bda75a4faee7",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [
+                    {
+                         "roll_call_id": 1518930,
+                         "date": "2025-03-17",
+                         "desc": "House Third Reading",
+                         "yea": 63,
+                         "nay": 0,
+                         "nv": 0,
+                         "absent": 7,
+                         "total": 70,
+                         "passed": 1,
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "url": "https://legiscan.com/ID/rollcall/H0380/id/1518930",
+                         "state_link": "https://legislature.idaho.gov/sessioninfo/2025/legislation/H0380/"
+                    },
+                    {
+                         "roll_call_id": 1525624,
+                         "date": "2025-03-24",
+                         "desc": "Senate Third Reading",
+                         "yea": 30,
+                         "nay": 5,
+                         "nv": 0,
+                         "absent": 0,
+                         "total": 35,
+                         "passed": 1,
+                         "chamber": "S",
+                         "chamber_id": 34,
+                         "url": "https://legiscan.com/ID/rollcall/H0380/id/1525624",
+                         "state_link": "https://legislature.idaho.gov/sessioninfo/2025/legislation/H0380/"
+                    }
+               ],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 539799,
+                         "date": "2025-03-07",
+                         "type": "Fiscal Note/Analysis",
+                         "type_id": 3,
+                         "title": "Fiscal Note/Analysis",
+                         "description": "Statement of Purpose / Fiscal Note",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/ID/supplement/H0380/id/539799",
+                         "state_link": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/legislation/H0380SOP.pdf",
+                         "supplement_size": 637285,
+                         "supplement_hash": "dd1985b7feef881dff67d10fed6e177a",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "57276a6b",
+                         "type": "Hearing",
+                         "date": "2025-03-13",
+                         "time": "13:30",
+                         "location": "Room EW42",
+                         "description": "House Judiciary, Rules &#038; Administration Committee"
+                    },
+                    {
+                         "type_id": 2,
+                         "event_hash": "e8f91b06",
+                         "type": "Executive Session",
+                         "date": "2025-03-17",
+                         "time": "10:30",
+                         "location": "House Floor",
+                         "description": "Second Reading Calendar"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "d2d2136a",
+                         "type": "Hearing",
+                         "date": "2025-03-19",
+                         "time": "13:00",
+                         "location": "Room WW54",
+                         "description": "Senate Judiciary &#038; Rules Committee"
+                    },
+                    {
+                         "type_id": 2,
+                         "event_hash": "d76d5f20",
+                         "type": "Executive Session",
+                         "date": "2025-03-21",
+                         "time": "10:00",
+                         "location": "Senate Floor",
+                         "description": "Second Reading Calendar"
+                    },
+                    {
+                         "type_id": 2,
+                         "event_hash": "330f29d9",
+                         "type": "Executive Session",
+                         "date": "2025-03-24",
+                         "time": "10:30",
+                         "location": "Senate Floor",
+                         "description": "Third Reading Calendar"
+                    }
+               ]
+          }
+     },
+     "1963608": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "c9ee4f1414f81ad3ae199afa8b30d29a",
+               "relevance": 19,
+               "state": "ID",
+               "bill number": "H0183",
+               "description": "CRIMES AGAINST PEACE OFFICERS -- Amends existing law to provide penalties for assault, battery, or murder of a peace officer.",
+               "state link": "https://legislature.idaho.gov/sessioninfo/2025/legislation/H0183/",
+               "legiscan link": "https://legiscan.com/ID/bill/H0183/2025",
+               "status": {
+                    "date": "02-11-2025",
+                    "label": "Refer",
+                    "action": "Reported Printed and Referred to Judiciary, Rules & Administration"
+               },
+               "date introduced": "02-10-2025",
+               "party": NaN,
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Judiciary, Rules and Administration Committee",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": ""
+               }
+          },
+          "raw": {
+               "bill_id": 1963608,
+               "change_hash": "c9ee4f1414f81ad3ae199afa8b30d29a",
+               "session_id": 2168,
+               "session": {
+                    "session_id": 2168,
+                    "state_id": 12,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/ID/bill/H0183/2025",
+               "state_link": "https://legislature.idaho.gov/sessioninfo/2025/legislation/H0183/",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-02-10",
+               "progress": [
+                    {
+                         "date": "2025-02-10",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-11",
+                         "event": 9
+                    }
+               ],
+               "state": "ID",
+               "state_id": 12,
+               "bill_number": "H0183",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 33,
+               "current_body": "H",
+               "current_body_id": 33,
+               "title": "Amends existing law to provide penalties for assault, battery, or murder of a peace officer.",
+               "description": "CRIMES AGAINST PEACE OFFICERS -- Amends existing law to provide penalties for assault, battery, or murder of a peace officer.",
+               "pending_committee_id": 1525,
+               "committee": {
+                    "committee_id": 1525,
+                    "chamber": "H",
+                    "chamber_id": 33,
+                    "name": "Judiciary, Rules and Administration"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-02-11",
+                         "committee_id": 1525,
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "name": "Judiciary, Rules and Administration"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-10",
+                         "action": "Introduced, read first time, referred to JRA for Printing",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-11",
+                         "action": "Reported Printed and Referred to Judiciary, Rules & Administration",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 14006,
+                         "person_hash": "p7ct3kf3",
+                         "party_id": "0",
+                         "state_id": 12,
+                         "party": "",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Judiciary, Rules and Administration Committee",
+                         "first_name": "",
+                         "middle_name": "",
+                         "last_name": "",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "",
+                         "ftm_eid": 0,
+                         "votesmart_id": 0,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 1,
+                         "committee_id": 1525,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 391780,
+                         "subject_name": "CRIMES AGAINST PEACE OFFICERS"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3110625,
+                         "date": "0000-00-00",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/ID/text/H0183/id/3110625",
+                         "state_link": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/legislation/H0183.pdf",
+                         "text_size": 53899,
+                         "text_hash": "09d6ace4958538e670e5aa018f640758",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 510337,
+                         "date": "2025-02-10",
+                         "type": "Fiscal Note/Analysis",
+                         "type_id": 3,
+                         "title": "Fiscal Note/Analysis",
+                         "description": "Statement of Purpose / Fiscal Note",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/ID/supplement/H0183/id/510337",
+                         "state_link": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/legislation/H0183SOP.pdf",
+                         "supplement_size": 639273,
+                         "supplement_hash": "0cf126ad490a001582dde0bea35b040e",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": []
+          }
+     },
+     "1977525": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "6196c9a1699d39699034069bd894150c",
+               "relevance": 19,
+               "state": "ID",
+               "bill number": "H0281",
+               "description": "CRIMES AGAINST PEACE OFFICERS -- Amends existing law to provide penalties for assault, battery, or murder of a peace officer.",
+               "state link": "https://legislature.idaho.gov/sessioninfo/2025/legislation/H0281/",
+               "legiscan link": "https://legiscan.com/ID/bill/H0281/2025",
+               "status": {
+                    "date": "02-21-2025",
+                    "label": "Refer",
+                    "action": "Reported Printed and Referred to Judiciary, Rules & Administration"
+               },
+               "date introduced": "02-20-2025",
+               "party": NaN,
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Ways and Means Committee",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": ""
+               }
+          },
+          "raw": {
+               "bill_id": 1977525,
+               "change_hash": "6196c9a1699d39699034069bd894150c",
+               "session_id": 2168,
+               "session": {
+                    "session_id": 2168,
+                    "state_id": 12,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/ID/bill/H0281/2025",
+               "state_link": "https://legislature.idaho.gov/sessioninfo/2025/legislation/H0281/",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-02-20",
+               "progress": [
+                    {
+                         "date": "2025-02-20",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-02-21",
+                         "event": 9
+                    }
+               ],
+               "state": "ID",
+               "state_id": 12,
+               "bill_number": "H0281",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 33,
+               "current_body": "H",
+               "current_body_id": 33,
+               "title": "Amends existing law to provide penalties for assault, battery, or murder of a peace officer.",
+               "description": "CRIMES AGAINST PEACE OFFICERS -- Amends existing law to provide penalties for assault, battery, or murder of a peace officer.",
+               "pending_committee_id": 1525,
+               "committee": {
+                    "committee_id": 1525,
+                    "chamber": "H",
+                    "chamber_id": 33,
+                    "name": "Judiciary, Rules and Administration"
+               },
+               "referrals": [
+                    {
+                         "date": "2025-02-21",
+                         "committee_id": 1525,
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "name": "Judiciary, Rules and Administration"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-02-20",
+                         "action": "Introduced, read first time, referred to JRA for Printing",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-21",
+                         "action": "Reported Printed and Referred to Judiciary, Rules & Administration",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 14012,
+                         "person_hash": "4il46wzx",
+                         "party_id": "0",
+                         "state_id": 12,
+                         "party": "",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Ways and Means Committee",
+                         "first_name": "",
+                         "middle_name": "",
+                         "last_name": "",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "",
+                         "ftm_eid": 0,
+                         "votesmart_id": 0,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 1,
+                         "committee_id": 1531,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 391780,
+                         "subject_name": "CRIMES AGAINST PEACE OFFICERS"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3133341,
+                         "date": "0000-00-00",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/ID/text/H0281/id/3133341",
+                         "state_link": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/legislation/H0281.pdf",
+                         "text_size": 53921,
+                         "text_hash": "0cb09a4a67aae8d8ca33583e9b418340",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 524704,
+                         "date": "2025-02-20",
+                         "type": "Fiscal Note/Analysis",
+                         "type_id": 3,
+                         "title": "Fiscal Note/Analysis",
+                         "description": "Statement of Purpose / Fiscal Note",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/ID/supplement/H0281/id/524704",
+                         "state_link": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/legislation/H0281SOP.pdf",
+                         "supplement_size": 639167,
+                         "supplement_hash": "548f5284982724b03d17c331017a5cd2",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "c31e734c",
+                         "type": "Hearing",
+                         "date": "2025-03-03",
+                         "time": "13:30",
+                         "location": "Room EW42",
+                         "description": "House Judiciary, Rules &#038; Administration Committee"
+                    },
+                    {
+                         "type_id": 1,
+                         "event_hash": "7af60d3d",
+                         "type": "Hearing",
+                         "date": "2025-03-05",
+                         "time": "13:30",
+                         "location": "Room EW42",
+                         "description": "House Judiciary, Rules &#038; Administration Committee"
+                    }
+               ]
+          }
+     },
+     "1931302": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "a2a94b1bb919c328779cc8e95e100dae",
+               "relevance": 14,
+               "state": "ID",
+               "bill number": "H0030",
+               "description": "HEALTH AND WELFARE -- Amends, repeals, and adds to existing law to remove provisions previously related to the Department of Health and Welfare that are now assigned to other state agencies and to establish provisions regarding the Insight Integrated Data System.",
+               "state link": "https://legislature.idaho.gov/sessioninfo/2025/legislation/H0030/",
+               "legiscan link": "https://legiscan.com/ID/bill/H0030/2025",
+               "status": {
+                    "date": "02-03-2025",
+                    "label": "Report Pass",
+                    "action": "U.C. to be returned to Health & Welfare Committee"
+               },
+               "date introduced": "01-21-2025",
+               "party": NaN,
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Health and Welfare Committee",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": ""
+               }
+          },
+          "raw": {
+               "bill_id": 1931302,
+               "change_hash": "a2a94b1bb919c328779cc8e95e100dae",
+               "session_id": 2168,
+               "session": {
+                    "session_id": 2168,
+                    "state_id": 12,
+                    "year_start": 2025,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 1,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2025 Regular Session",
+                    "session_name": "2025 Regular Session"
+               },
+               "url": "https://legiscan.com/ID/bill/H0030/2025",
+               "state_link": "https://legislature.idaho.gov/sessioninfo/2025/legislation/H0030/",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2025-01-21",
+               "progress": [
+                    {
+                         "date": "2025-01-21",
+                         "event": 1
+                    },
+                    {
+                         "date": "2025-01-22",
+                         "event": 9
+                    },
+                    {
+                         "date": "2025-02-03",
+                         "event": 10
+                    }
+               ],
+               "state": "ID",
+               "state_id": 12,
+               "bill_number": "H0030",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "H",
+               "body_id": 33,
+               "current_body": "H",
+               "current_body_id": 33,
+               "title": "Amends, repeals, and adds to existing law to remove provisions previously related to the Department of Health and Welfare that are now assigned to other state agencies and to establish provisions regarding the Insight Integrated Data System.",
+               "description": "HEALTH AND WELFARE -- Amends, repeals, and adds to existing law to remove provisions previously related to the Department of Health and Welfare that are now assigned to other state agencies and to establish provisions regarding the Insight Integrated Data System.",
+               "pending_committee_id": 0,
+               "committee": [],
+               "referrals": [
+                    {
+                         "date": "2025-01-22",
+                         "committee_id": 1524,
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "name": "Health and Welfare"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2025-01-21",
+                         "action": "Introduced, read first time, referred to JRA for Printing",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-01-22",
+                         "action": "Reported Printed and Referred to Health & Welfare",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-03",
+                         "action": "Reported out of Committee with Do Pass Recommendation, Filed for Second Reading",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 1
+                    },
+                    {
+                         "date": "2025-02-04",
+                         "action": "Read second time; Filed for Third Reading",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 0
+                    },
+                    {
+                         "date": "2025-02-05",
+                         "action": "U.C. to be returned to Health & Welfare Committee",
+                         "chamber": "H",
+                         "chamber_id": 33,
+                         "importance": 0
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 14005,
+                         "person_hash": "z1a9hi3w",
+                         "party_id": "0",
+                         "state_id": 12,
+                         "party": "",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Health and Welfare Committee",
+                         "first_name": "",
+                         "middle_name": "",
+                         "last_name": "",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "",
+                         "ftm_eid": 0,
+                         "votesmart_id": 0,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 1,
+                         "committee_id": 1524,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [],
+               "subjects": [
+                    {
+                         "subject_id": 11718,
+                         "subject_name": "HEALTH AND WELFARE"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 3068920,
+                         "date": "0000-00-00",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/ID/text/H0030/id/3068920",
+                         "state_link": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/legislation/H0030.pdf",
+                         "text_size": 174352,
+                         "text_hash": "c05431e9a493414faca96fbf2dd3be54",
+                         "alt_bill_text": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_text_size": 0,
+                         "alt_text_hash": ""
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [
+                    {
+                         "supplement_id": 492674,
+                         "date": "2025-01-21",
+                         "type": "Fiscal Note/Analysis",
+                         "type_id": 3,
+                         "title": "Fiscal Note/Analysis",
+                         "description": "Statement of Purpose / Fiscal Note",
+                         "mime": "application/pdf",
+                         "mime_id": 2,
+                         "url": "https://legiscan.com/ID/supplement/H0030/id/492674",
+                         "state_link": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/legislation/H0030SOP.pdf",
+                         "supplement_size": 638278,
+                         "supplement_hash": "74e602a4a70b714c62004fc32244e2eb",
+                         "alt_supplement": 0,
+                         "alt_mime": "",
+                         "alt_mime_id": 0,
+                         "alt_state_link": "",
+                         "alt_supplement_size": 0,
+                         "alt_supplement_hash": ""
+                    }
+               ],
+               "calendar": [
+                    {
+                         "type_id": 1,
+                         "event_hash": "9bd05cef",
+                         "type": "Hearing",
+                         "date": "2025-02-03",
+                         "time": "09:00",
+                         "location": "Room EW20",
+                         "description": "House Health &#038; Welfare Committee"
+                    },
+                    {
+                         "type_id": 2,
+                         "event_hash": "ba6fa4c0",
+                         "type": "Executive Session",
+                         "date": "2025-02-04",
+                         "time": "11:00",
+                         "location": "House Floor",
+                         "description": "Second Reading Calendar"
+                    },
+                    {
+                         "type_id": 2,
+                         "event_hash": "f5592e24",
+                         "type": "Executive Session",
+                         "date": "2025-02-05",
+                         "time": "11:00",
+                         "location": "House Floor",
+                         "description": "Third Reading Calendar"
+                    }
+               ]
+          }
+     }
+}

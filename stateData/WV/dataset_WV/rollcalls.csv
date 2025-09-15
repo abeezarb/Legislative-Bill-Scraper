@@ -1,0 +1,1299 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1966003,1520850,2025-03-19,House,"Passed House (Roll No. 111)",91,7,0,2,100
+1966003,1540846,2025-04-08,Senate,"Passed Senate (Roll No. 360)",34,0,0,0,34
+1966003,1542621,2025-04-09,House,"House concurred in Senate amendment and passed bill (Roll No. 425)",88,9,0,3,100
+1966007,1502632,2025-02-28,House,"Passed House (Roll No. 14)",98,0,0,2,100
+1966013,1507043,2025-03-06,House,"Passed House (Roll No. 32)",86,14,0,0,100
+1966062,1534374,2025-04-02,House,"Passed House (Roll No. 341)",58,42,0,0,100
+1966062,1534375,2025-04-02,House,"Effective date rejected (Roll No. 342)",56,44,0,0,100
+1966062,1546259,2025-04-11,Senate,"Passed Senate (Roll No. 466)",22,12,0,0,34
+1966062,1546260,2025-04-11,Senate,"Effective from passage (Roll No. 476)",27,7,0,0,34
+1966062,1546776,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 634)",71,27,0,2,100
+1966062,1546777,2025-04-12,House,"Motion to change effective date to July 1, 2025 tabled (Roll No. 640)",62,36,0,2,100
+1966062,1546778,2025-04-12,House,"Effective from passage (Roll No. 641)",65,33,0,2,100
+1966063,1517119,2025-03-13,House,"Passed House (Roll No. 81)",89,6,0,5,100
+1966066,1530858,2025-03-31,House,"Passed House (Roll No. 262)",97,1,0,2,100
+1966066,1543872,2025-04-10,Senate,"Passed Senate (Roll No. 426)",34,0,0,0,34
+1966066,1545880,2025-04-11,House,"House concurred in Senate amendment and passed bill (Roll No. 552)",98,0,0,2,100
+1966077,1518331,2025-03-17,House,"Passed House (Roll No. 96)",93,1,0,6,100
+1966077,1536116,2025-04-03,Senate,"Floor amendment rejected (Roll No. 304)",8,26,0,0,34
+1966077,1537067,2025-04-04,Senate,"Passed Senate (Roll No. 309)",29,4,0,1,34
+1966088,1506009,2025-03-05,House,"Passed House (Roll No. 27)",93,5,0,2,100
+1966090,1502298,2025-02-28,House,"Passed House (Roll No. 15)",98,0,0,2,100
+1966090,1537291,2025-04-04,Senate,"Passed Senate with amended title (Roll No. 308)",33,0,0,1,34
+1966090,1538583,2025-04-07,House,"House concurred in Senate amendment and passed bill (Roll No. 396)",95,0,0,5,100
+1966102,1515788,2025-03-12,House,"Passed House (Roll No. 62)",82,14,0,4,100
+1966102,1515789,2025-03-12,House,"Effective from passage (Roll No. 63)",86,10,0,4,100
+1966102,1537061,2025-04-04,Senate,"Passed Senate (Roll No. 310)",31,2,0,1,34
+1966102,1537062,2025-04-04,Senate,"Effective from passage (Roll No. 311)",33,0,0,1,34
+1966110,1518747,2025-03-17,House,"Passed House (Roll No. 95)",81,13,0,6,100
+1966129,1498870,2025-02-25,House,"Passed House (Roll No. 9)",95,1,0,4,100
+1966129,1518075,2025-03-14,Senate,"Passed Senate with amended title (Roll No. 117)",32,0,0,2,34
+1966129,1535607,2025-04-03,House,"House concurred in Senate amend with amend, passed bill (Roll No. 367)",98,0,0,2,100
+1966129,1538141,2025-04-07,Senate,"Senate concurred in House amendments and passed bill (Roll No. 325)",34,0,0,0,34
+1966166,1513054,2025-03-11,House,"Passed House (Roll No. 56)",93,3,0,4,100
+1966192,1508472,2025-03-07,House,"Passed House (Roll No. 39)",87,9,0,4,100
+1966192,1524587,2025-03-24,Senate,"Passed Senate (Roll No. 163)",32,1,0,1,34
+1966192,1535637,2025-04-03,House,"House concurred in Senate amendment and passed bill (Roll No. 368)",89,9,0,2,100
+1966193,1504202,2025-03-04,House,"Passed House (Roll No. 23)",96,3,0,1,100
+1966193,1538527,2025-04-07,Senate,"Passed Senate (Roll No. 329)",34,0,0,0,34
+1966193,1540383,2025-04-09,House,"House concurred in Senate amendment and passed bill (Roll No. 409)",96,3,0,1,100
+1966211,1502296,2025-02-28,House,"Passed House (Roll No. 16)",98,0,0,2,100
+1966228,1529069,2025-03-27,House,"Passed House (Roll No. 208)",90,5,0,5,100
+1966243,1531991,2025-04-01,House,"Passed House (Roll No. 309)",97,0,0,3,100
+1966243,1531992,2025-04-01,House,"Effective July 1, 2025 (Roll No. 310)",99,0,0,1,100
+1966243,1541674,2025-04-09,Senate,"Passed Senate (Roll No. 391)",34,0,0,0,34
+1966257,1516913,2025-03-13,House,"Passed House (Roll No. 83)",93,0,0,7,100
+1966257,1542017,2025-04-09,Senate,"Passed Senate with amended title (Roll No. 392)",34,0,0,0,34
+1966257,1545277,2025-04-10,House,"House concurred in Senate amendment and passed bill (Roll No. 484)",92,0,0,8,100
+1966274,1527469,2025-03-26,House,"Passed House (Roll No. 191)",97,2,0,1,100
+1966277,1524651,2025-03-24,House,"Passed House (Roll No. 165)",89,0,0,11,100
+1966291,1516919,2025-03-13,House,"Passed House (Roll No. 82)",93,0,0,7,100
+1966291,1545979,2025-04-11,Senate,"Passed Senate with amended title (Roll No. 514)",34,0,0,0,34
+1966291,1546542,2025-04-12,House,"House concurred in Senate amend with title amend, passed (Roll No. 563)",96,0,0,4,100
+1966291,1546676,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 585)",33,0,0,1,34
+1966296,1530777,2025-03-31,House,"Passed House (Roll No. 264)",56,42,0,2,100
+1966318,1503446,2025-03-03,House,"Passed House (Roll No. 21)",96,0,0,4,100
+1966318,1524649,2025-03-24,Senate,"Passed Senate (Roll No. 164)",33,0,0,1,34
+1966318,1524650,2025-03-24,Senate,"Effective from passage (Roll No. 165)",33,0,0,1,34
+1966318,1536081,2025-04-03,House,"House concurred in Senate amend with amend, passed bill (Roll No. 369)",98,0,0,2,100
+1966318,1536082,2025-04-03,House,"Effective from passage (Roll No. 370)",98,0,0,2,100
+1966318,1538123,2025-04-07,Senate,"Senate concurred in House amendments and passed bill (Roll No. 326)",34,0,0,0,34
+1966318,1538124,2025-04-07,Senate,"Effective from passage (Roll No. 327)",34,0,0,0,34
+1966405,1530778,2025-03-31,House,"Passed House (Roll No. 265)",80,17,0,3,100
+1966405,1543435,2025-04-10,Senate,"Passed Senate (Roll No. 427)",32,2,0,0,34
+1966405,1546232,2025-04-11,House,"House concurred in Senate amendment and passed bill (Roll No. 553)",91,7,0,2,100
+1966460,1528855,2025-03-27,House,"Passed House (Roll No. 205)",94,0,0,6,100
+1966468,1520863,2025-03-19,House,"Passed House (Roll No. 110)",97,0,0,3,100
+1966501,1529131,2025-03-27,House,"Passed House (Roll No. 207)",97,0,0,3,100
+1966509,1499090,2025-02-25,House,"Passed House (Roll No. 10)",93,4,0,3,100
+1966509,1545345,2025-04-11,Senate,"Passed Senate (Roll No. 467)",33,1,0,0,34
+1966509,1546528,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 572)",97,0,0,3,100
+1966528,1501158,2025-02-27,House,"Passed House (Roll No. 13)",99,0,0,1,100
+1966528,1538156,2025-04-07,Senate,"Passed Senate (Roll No. 328)",34,0,0,0,34
+1966528,1541704,2025-04-09,House,"House concurred in Senate amend with title amend, passed (Roll No. 426)",97,0,0,3,100
+1966528,1545189,2025-04-10,Senate,"Senate concurred in House amendments and passed bill (Roll No. 454)",33,0,0,1,34
+1966533,1509004,2025-03-10,House,"Passed House (Roll No. 45)",77,20,0,3,100
+1966533,1509005,2025-03-10,House,"Effective from passage (Roll No. 46)",78,19,0,3,100
+1966533,1546272,2025-04-11,Senate,"Passed Senate (Roll No. 469)",22,12,0,0,34
+1966533,1546273,2025-04-11,Senate,"Effective from passage (Roll No. 470)",33,1,0,0,34
+1966533,1546507,2025-04-12,House,"House refused to concur and requested Senate to recede (Roll No. 562)",30,68,0,2,100
+1966533,1546691,2025-04-12,House,"Motion for previous question adopted (Roll No. 583)",68,26,0,6,100
+1966533,1546692,2025-04-12,House,"House concurred in Senate amend with amend, passed bill (Roll No. 584)",65,29,0,6,100
+1966533,1546693,2025-04-12,House,"Effective from passage (Roll No. 585)",71,24,0,5,100
+1966533,1546779,2025-04-12,Senate,"Senate adopted conference report and passed bill (Roll No. 600)",25,8,0,1,34
+1966533,1546780,2025-04-12,Senate,"Effective from passage (Roll No. 601)",33,0,0,1,34
+1966533,1546781,2025-04-12,House,"House adopted conference report and passed bill (Roll No. 625)",73,25,0,2,100
+1966533,1546782,2025-04-12,House,"Effective from passage (Roll No. 626)",78,19,0,3,100
+1966540,1524939,2025-03-24,House,"Amendment rejected (Roll No. 177)",38,58,0,4,100
+1966540,1525954,2025-03-25,House,"Passed House (Roll No. 181)",88,10,0,2,100
+1966540,1532486,2025-04-01,Senate,"Passed Senate (Roll No. 274)",33,1,0,0,34
+1966560,1501022,2025-02-27,House,"Passed House (Roll No. 12)",99,0,0,1,100
+1966561,1528759,2025-03-27,House,"Passed House (Roll No. 206)",97,0,0,3,100
+1966561,1546277,2025-04-11,Senate,"Passed Senate with amended title (Roll No. 468)",34,0,0,0,34
+1966561,1546572,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 571)",97,0,0,3,100
+1966598,1530779,2025-03-31,House,"Passed House (Roll No. 263)",92,7,0,1,100
+1966617,1498769,2025-02-24,House,"Passed House (Roll No. 8)",97,1,0,2,100
+1966617,1517173,2025-03-13,Senate,"Passed Senate (Roll No. 107)",33,1,0,0,34
+1966624,1503085,2025-03-03,House,"Passed House (Roll No. 20)",96,0,0,4,100
+1966624,1519626,2025-03-18,Senate,"Passed Senate (Roll No. 126)",34,0,0,0,34
+1966624,1519627,2025-03-18,Senate,"Effective from passage (Roll No. 127)",34,0,0,0,34
+1966624,1521081,2025-03-19,House,"Effective from passage (Roll No. 109)",96,0,0,4,100
+1966628,1522701,2025-03-20,House,"Passed House (Roll No. 118)",94,0,0,6,100
+1966668,1527639,2025-03-26,Senate,"Passed Senate (Roll No. 175)",33,1,0,0,34
+1966668,1537026,2025-04-04,House,"Passed House (Roll No. 387)",97,0,0,3,100
+1966674,1501320,2025-02-27,Senate,"Passed Senate (Roll No. 41)",31,0,0,3,34
+1966678,1512526,2025-03-11,Senate,"Passed Senate (Roll No. 95)",32,1,0,1,34
+1966678,1545527,2025-04-11,House,"Passed House (Roll No. 502)",98,1,0,1,100
+1966678,1546563,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 549)",34,0,0,0,34
+1966683,1534962,2025-04-02,Senate,"Passed Senate (Roll No. 278)",28,6,0,0,34
+1966687,1530166,2025-03-28,Senate,"Passed Senate (Roll No. 208)",32,0,0,2,34
+1966687,1530167,2025-03-28,Senate,"Effective from passage (Roll No. 209)",32,0,0,2,34
+1966687,1544145,2025-04-10,House,"Passed House (Roll No. 460)",79,2,0,19,100
+1966687,1544146,2025-04-10,House,"Effective from passage (Roll No. 461)",81,2,0,17,100
+1966687,1546000,2025-04-11,Senate,"Senate amended House amendment and passed bill (Roll No. 499)",33,0,0,1,34
+1966687,1546001,2025-04-11,Senate,"Effective from passage (Roll No. 500)",33,0,0,1,34
+1966687,1546637,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 615)",93,2,0,5,100
+1966688,1503587,2025-03-03,Senate,"Passed Senate (Roll No. 50)",31,2,0,1,34
+1966690,1503552,2025-03-03,Senate,"Passed Senate (Roll No. 49)",33,0,0,1,34
+1966690,1538073,2025-04-07,House,"Passed House (Roll No. 400)",96,2,0,2,100
+1966690,1546680,2025-04-12,House,"House receded and passed (Roll No. 614)",93,2,0,5,100
+1966703,1512513,2025-03-11,Senate,"Passed Senate (Roll No. 90)",33,0,0,1,34
+1966703,1539286,2025-04-08,House,"Passed House (Roll No. 415)",99,0,0,1,100
+1966703,1542670,2025-04-09,Senate,"Senate concurred in House amendments and passed bill (Roll No. 417)",30,0,0,4,34
+1966704,1496148,2025-02-21,Senate,"Passed Senate (Roll No. 15)",32,0,0,2,34
+1966704,1513615,2025-03-11,House,"Passed House (Roll No. 50)",97,0,0,3,100
+1966704,1518125,2025-03-14,Senate,"Senate concurred in House amendments and passed bill (Roll No. 108)",31,0,0,3,34
+1966705,1527648,2025-03-26,Senate,"Passed Senate (Roll No. 177)",34,0,0,0,34
+1966716,1524570,2025-03-24,Senate,"Passed Senate (Roll No. 156)",33,0,0,1,34
+1966716,1539415,2025-04-08,House,"Passed House (Roll No. 413)",99,0,0,1,100
+1966716,1546070,2025-04-11,Senate,"Senate concurred in House amendments and passed bill (Roll No. 519)",32,0,0,2,34
+1966717,1521063,2025-03-19,Senate,"Passed Senate (Roll No. 132)",33,0,0,1,34
+1966726,1498918,2025-02-25,Senate,"Passed Senate (Roll No. 28)",32,1,0,1,34
+1966728,1530621,2025-03-29,Senate,"Passed Senate (Roll No. 217)",33,0,0,1,34
+1966730,1520915,2025-03-19,Senate,"Passed Senate (Roll No. 131)",33,0,0,1,34
+1966732,1532814,2025-04-01,Senate,"Passed Senate (Roll No. 260)",33,0,0,1,34
+1966732,1545645,2025-04-11,House,"Passed House (Roll No. 501)",96,0,0,4,100
+1966734,1509073,2025-03-10,Senate,"Passed Senate (Roll No. 79)",30,3,0,1,34
+1966735,1497740,2025-02-24,Senate,"Passed Senate (Roll No. 24)",32,0,0,2,34
+1966735,1497741,2025-02-24,Senate,"Effective from passage (Roll No. 25)",32,0,0,2,34
+1966735,1532621,2025-04-01,House,"Passed House (Roll No. 304)",99,0,0,1,100
+1966735,1532622,2025-04-01,House,"Effective from passage (Roll No. 305)",99,0,0,1,100
+1966735,1537028,2025-04-04,Senate,"Senate concurred in House amendments and passed bill (Roll No. 305)",34,0,0,0,34
+1966735,1537029,2025-04-04,Senate,"Effective from passage (Roll No. 306)",33,0,0,1,34
+1966748,1508573,2025-03-07,Senate,"Passed Senate (Roll No. 72)",34,0,0,0,34
+1966755,1507454,2025-03-06,Senate,"Passed Senate (Roll No. 66)",33,1,0,0,34
+1966755,1540196,2025-04-08,House,"2nd reference dispensed (Roll No. 420)",74,13,0,13,100
+1966755,1546065,2025-04-11,House,"Amendment rejected (Roll No. 550)",11,88,0,1,100
+1966755,1546066,2025-04-11,House,"Passed House (Roll No. 551)",82,17,0,1,100
+1966755,1546685,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 598)",32,1,0,1,34
+1966757,1502313,2025-02-28,Senate,"Passed Senate (Roll No. 42)",33,0,0,1,34
+1966758,1507037,2025-03-06,Senate,"Passed Senate (Roll No. 67)",32,2,0,0,34
+1966758,1541549,2025-04-09,House,"2nd reference dispensed (Roll No. 423)",70,27,0,3,100
+1966758,1543922,2025-04-10,House,"Motion to move to 3rd with restricted right to amend adopted (Roll No. 483)",95,0,0,5,100
+1966758,1546550,2025-04-09,House,"2nd reference dispensed (Roll No. 422)",82,15,0,3,100
+1966758,1546551,2025-04-12,House,"Committee amendment rejected (Roll No. 567)",26,70,0,4,100
+1966758,1546552,2025-04-12,House,"Committee amendment rejected (Roll No. 568)",28,71,0,1,100
+1966758,1546553,2025-04-12,House,"Motion for previous question adopted (Roll No. 569)",60,37,0,3,100
+1966758,1546554,2025-04-12,House,"Passed House (Roll No. 570)",86,12,0,2,100
+1966781,1496140,2025-02-21,Senate,"Passed Senate (Roll No. 16)",32,0,0,2,34
+1966783,1527980,2025-03-26,Senate,"Passed Senate (Roll No. 178)",32,2,0,0,34
+1966785,1524002,2025-03-21,Senate,"Passed Senate (Roll No. 146)",34,0,0,0,34
+1966793,1497395,2025-02-24,Senate,"Passed Senate (Roll No. 21)",32,0,0,2,34
+1966793,1509025,2025-03-10,House,"Passed House (Roll No. 44)",97,0,0,3,100
+1966793,1518094,2025-03-14,Senate,"Senate concurred in House amendments and passed bill (Roll No. 109)",31,0,0,3,34
+1966794,1515812,2025-03-12,Senate,"Passed Senate (Roll No. 96)",33,1,0,0,34
+1966794,1545471,2025-04-11,House,"Passed House (Roll No. 503)",97,2,0,1,100
+1966794,1546556,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 550)",33,1,0,0,34
+1966800,1534038,2025-04-02,Senate,"Passed Senate (Roll No. 277)",34,0,0,0,34
+1966813,1499863,2025-02-26,Senate,"Passed Senate (Roll No. 33)",33,0,0,1,34
+1966813,1539368,2025-04-08,House,"Passed House (Roll No. 416)",98,1,0,1,100
+1966813,1542449,2025-04-09,Senate,"Senate concurred in House amendments and passed bill (Roll No. 418)",31,0,0,3,34
+1966817,1519350,2025-03-17,Senate,"Passed Senate (Roll No. 119)",34,0,0,0,34
+1966817,1545337,2025-04-11,House,"Passed House (Roll No. 500)",96,0,0,4,100
+1966817,1546717,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 595)",33,0,0,1,34
+1966821,1499867,2025-02-26,Senate,"Passed Senate (Roll No. 32)",33,0,0,1,34
+1966836,1502329,2025-02-28,Senate,"Passed Senate (Roll No. 43)",22,11,0,1,34
+1966838,1506115,2025-03-05,Senate,"Passed Senate (Roll No. 60)",32,2,0,0,34
+1966838,1506116,2025-03-05,Senate,"Effective July 1, 2025 (Roll No. 61)",34,0,0,0,34
+1966842,1509125,2025-03-10,Senate,"Passed Senate (Roll No. 80)",33,0,0,1,34
+1966842,1525996,2025-03-25,House,"Passed House (Roll No. 179)",94,3,0,3,100
+1966842,1527233,2025-03-26,Senate,"Senate amended House amendment and passed bill (Roll No. 173)",34,0,0,0,34
+1966842,1535640,2025-04-03,House,"House concurred in Senate amendment and passed bill (Roll No. 0373)",94,3,0,3,100
+1966844,1531927,2025-04-01,Senate,"Passed Senate (Roll No. 258)",33,0,0,1,34
+1966846,1497334,2025-02-24,Senate,"Passed Senate (Roll No. 22)",32,0,0,2,34
+1966846,1497335,2025-02-24,Senate,"Effective from passage (Roll No. 23)",32,0,0,2,34
+1966846,1532195,2025-04-01,House,"Passed House (Roll No. 302)",96,3,0,1,100
+1966846,1532196,2025-04-01,House,"Effective from passage (Roll No. 303)",98,1,0,1,100
+1966846,1546761,2025-04-12,House,"House receded (Roll No. 635)",97,2,0,1,100
+1966848,1527527,2025-03-26,Senate,"Passed Senate (Roll No. 179)",34,0,0,0,34
+1966855,1532644,2025-04-01,Senate,"Passed Senate (Roll No. 259)",28,5,0,1,34
+1966859,1497400,2025-02-24,Senate,"Passed Senate (Roll No. 26)",32,0,0,2,34
+1966859,1497401,2025-02-24,Senate,"Effective from passage (Roll No. 27)",32,0,0,2,34
+1966859,1525895,2025-03-25,House,"Passed House (Roll No. 180)",97,0,0,3,100
+1966859,1527461,2025-03-26,Senate,"Senate concurred in House amendments and passed bill (Roll No. 174)",34,0,0,0,34
+1966860,1525968,2025-03-25,Senate,"Passed Senate (Roll No. 168)",34,0,0,0,34
+1966860,1546510,2025-04-12,House,"Passed House (Roll No. 565)",92,0,0,8,100
+1966867,1508455,2025-03-07,Senate,"Passed Senate (Roll No. 71)",34,0,0,0,34
+1966867,1535741,2025-04-03,House,"Passed House (Roll No. 375)",98,0,0,2,100
+1966867,1537994,2025-04-07,Senate,"Passed Senate (Roll No. 322)",34,0,0,0,34
+1966871,1523981,2025-03-21,Senate,"Passed Senate (Roll No. 145)",25,9,0,0,34
+1966871,1541490,2025-04-09,House,"Motion shall the bill be rejected failed (Roll No. 440)",9,88,0,3,100
+1966871,1545443,2025-04-11,House,"Passed House (Roll No. 499)",69,28,0,3,100
+1966877,1503299,2025-03-03,Senate,"Passed Senate (Roll No. 51)",33,0,0,1,34
+1966877,1539282,2025-04-08,House,"Passed House (Roll No. 414)",99,0,0,1,100
+1966877,1543686,2025-04-10,Senate,"Senate concurred in House amendments and passed bill (Roll No. 449)",33,0,0,1,34
+1966882,1534112,2025-04-02,Senate,"Passed Senate (Roll No. 276)",32,2,0,0,34
+1966895,1534033,2025-04-02,Senate,"Adopted by Senate (Roll No. 297)",34,0,0,0,34
+1966907,1497622,2025-02-24,Senate,"Passed Senate (Roll No. 20)",32,0,0,2,34
+1966911,1527386,2025-03-26,Senate,"Passed Senate (Roll No. 176)",34,0,0,0,34
+1966911,1545327,2025-04-11,House,"Passed House (Roll No. 498)",97,0,0,3,100
+1966911,1546745,2025-04-12,House,"House reconsidered and passed bill (Roll No. 627)",94,1,0,5,100
+1966911,1546746,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 604)",33,0,0,1,34
+1966918,1508715,2025-03-07,Senate,"Passed Senate (Roll No. 73)",34,0,0,0,34
+1966918,1537042,2025-04-04,House,"Passed House (Roll No. 388)",97,0,0,3,100
+1966920,1499859,2025-02-26,Senate,"Passed Senate (Roll No. 34)",33,0,0,1,34
+1966920,1516914,2025-03-13,House,"Passed House (Roll No. 76)",96,0,0,4,100
+1966920,1518007,2025-03-14,Senate,"Passed Senate (Roll No. 110)",31,0,0,3,34
+1966929,1524597,2025-03-24,Senate,"Passed Senate (Roll No. 157)",33,0,0,1,34
+1966935,1497489,2025-02-24,Senate,"Passed Senate (Roll No. 19)",32,0,0,2,34
+1966935,1518546,2025-03-17,House,"Passed House (Roll No. 93)",92,0,0,8,100
+1966935,1520759,2025-03-19,Senate,"Senate concurred in House amendments and passed bill (Roll No. 128)",33,0,0,1,34
+1966939,1496183,2025-02-21,Senate,"Passed Senate (Roll No. 17)",32,0,0,2,34
+1966944,1524640,2025-03-24,Senate,"Passed Senate (Roll No. 158)",33,0,0,1,34
+1966951,1503307,2025-03-03,Senate,"Passed Senate (Roll No. 48)",33,0,0,1,34
+1966965,1509014,2025-03-10,Senate,"Passed Senate (Roll No. 78)",33,0,0,1,34
+1968135,1537011,2025-04-04,House,"Amendment rejected (Roll No. 384)",19,75,0,6,100
+1968135,1537208,2025-04-04,House,"Passed House (Roll No. 385)",80,17,0,3,100
+1968135,1537209,2025-04-05,House,"Effective from passage (Roll No. 386)",89,8,0,3,100
+1968135,1541462,2025-04-09,Senate,"Passed Senate (Roll No. 389)",34,0,0,0,34
+1968135,1541463,2025-04-09,Senate,"Effective from passage (Roll No. 390)",34,0,0,0,34
+1968135,1544825,2025-04-10,House,"House concurred in Senate amend with amend, passed bill (Roll No. 495)",78,18,0,4,100
+1968135,1544826,2025-04-11,House,"Effective from passage (Roll No. 496)",88,8,0,4,100
+1968135,1546015,2025-04-11,Senate,"Senate concurred in House amendments and passed bill (Roll No. 517)",31,1,0,2,34
+1968135,1546016,2025-04-11,Senate,"Effective from passage (Roll No. 518)",32,0,0,2,34
+1968363,1518326,2025-03-17,Senate,"Passed Senate (Roll No. 120)",34,0,0,0,34
+1968363,1543729,2025-04-10,House,"Passed House (Roll No. 462)",97,0,0,3,100
+1968363,1545948,2025-04-11,Senate,"Senate amended House amendment and passed bill (Roll No. 498)",34,0,0,0,34
+1968363,1545949,2025-04-11,House,"House concurred in Senate amendment and passed bill (Roll No. 559)",99,0,0,1,100
+1968373,1519489,2025-03-18,House,"Adopted by House (Roll No. 101)",97,0,0,3,100
+1968384,1506282,2025-03-05,House,"Passed House (Roll No. 28)",98,0,0,2,100
+1968384,1538153,2025-04-07,Senate,"Passed Senate (Roll No. 330)",34,0,0,0,34
+1968384,1539700,2025-04-08,House,"House concurred in Senate amendment and passed bill (Roll No. 410)",99,0,0,1,100
+1968385,1522478,2025-03-20,Senate,"Passed Senate (Roll No. 138)",34,0,0,0,34
+1968385,1522479,2025-03-20,Senate,"Effective from passage (Roll No. 139)",34,0,0,0,34
+1968418,1519488,2025-03-18,House,"Adopted by House (Roll No. 102)",96,0,0,4,100
+1968423,1519506,2025-03-18,House,"Adopted by House (Roll No. 99)",98,0,0,2,100
+1968432,1519543,2025-03-18,House,"Adopted by House (Roll No. 99)",98,0,0,2,100
+1968439,1523989,2025-03-21,House,"Passed House (Roll No. 132)",91,4,0,5,100
+1968459,1519362,2025-03-18,House,"Adopted by House (Roll No. 100)",96,0,0,4,100
+1968480,1529150,2025-03-27,House,"Amendment adopted (Roll No. 225)",52,39,0,9,100
+1968480,1530785,2025-03-31,House,"Passed House (Roll No. 266)",97,0,0,3,100
+1968480,1530786,2025-03-31,House,"Effective July 1, 2025 (Roll No. 267)",96,0,0,4,100
+1968480,1545555,2025-04-11,Senate,"Passed Senate (Roll No. 472)",34,0,0,0,34
+1968480,1545556,2025-04-11,Senate,"Effective July 1, 2025 (Roll No. 473)",34,0,0,0,34
+1968480,1546581,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 587)",92,0,0,8,100
+1968480,1546582,2025-04-12,House,"Effective July 1, 2025 (Roll No. 588)",92,0,0,8,100
+1968516,1502200,2025-02-28,House,"Passed House (Roll No. 18)",93,5,0,2,100
+1968516,1502201,2025-02-28,House,"Effective from passage (Roll No. 19)",93,5,0,2,100
+1968516,1506035,2025-03-05,Senate,"Passed Senate (Roll No. 64)",31,2,0,1,34
+1968516,1506036,2025-03-05,Senate,"Effective from passage (Roll No. 65)",31,2,0,1,34
+1968516,1517117,2025-03-13,House,"House concurred in Senate amend with amend, passed bill (Roll No. 74)",79,17,0,4,100
+1968516,1517118,2025-03-13,House,"Effective from passage (Roll No. 75)",88,8,0,4,100
+1968516,1518084,2025-03-14,Senate,"Senate concurred in House amendments and passed bill (Roll No. 111)",26,4,0,4,34
+1968516,1518085,2025-03-14,Senate,"Effective from passage (Roll No. 112)",26,4,0,4,34
+1968519,1499757,2025-02-26,Senate,"Passed Senate (Roll No. 37)",33,0,0,1,34
+1968519,1499758,2025-02-26,Senate,"Effective from passage (Roll No. 38)",33,0,0,1,34
+1968519,1516915,2025-03-13,House,"Passed House (Roll No. 77)",95,1,0,4,100
+1968519,1516916,2025-03-13,House,"Effective from passage (Roll No. 78)",95,1,0,4,100
+1968528,1509264,2025-03-10,Senate,"Passed Senate (Roll No. 83)",33,0,0,1,34
+1968528,1530860,2025-03-31,House,"Passed House (Roll No. 256)",97,0,0,3,100
+1968528,1533979,2025-04-02,Senate,"Senate concurred in House amendments and passed bill (Roll No. 275)",34,0,0,0,34
+1968573,1502310,2025-02-28,Senate,"Passed Senate (Roll No. 44)",33,0,0,1,34
+1968573,1502311,2025-02-28,Senate,"Effective from passage (Roll No. 45)",33,0,0,1,34
+1968573,1523971,2025-03-21,House,"Passed House (Roll No. 129)",95,0,0,5,100
+1968573,1523972,2025-03-21,House,"Effective from passage (Roll No. 130)",95,0,0,5,100
+1968573,1526149,2025-03-25,Senate,"Senate concurred in House amendments and passed bill (Roll No. 166)",34,0,0,0,34
+1968573,1526150,2025-03-25,Senate,"Effective from passage (Roll No. 167)",34,0,0,0,34
+1968573,1535612,2025-04-03,Senate,"Senate amended, repassed bill as result of Governor's Veto (Roll No. 301)",34,0,0,0,34
+1968573,1535613,2025-04-03,Senate,"Effective from passage (Roll No. 302)",34,0,0,0,34
+1968573,1537194,2025-04-04,House,"House concurred in Senate amendment and passed bill (Roll No. 381)",93,0,0,7,100
+1968573,1537195,2025-04-04,House,"Effective from passage (Roll No. 382)",93,0,0,7,100
+1968617,1499837,2025-02-26,Senate,"Passed Senate (Roll No. 39)",33,0,0,1,34
+1968617,1499838,2025-02-26,Senate,"Effective from passage (Roll No. 40)",33,0,0,1,34
+1968617,1516897,2025-03-13,House,"Passed House (Roll No. 79)",95,1,0,4,100
+1968617,1516898,2025-03-13,House,"Effective from passage (Roll No. 80)",95,1,0,4,100
+1968618,1518333,2025-03-17,House,"Passed House (Roll No. 97)",94,0,0,6,100
+1968618,1545925,2025-04-11,Senate,"Passed Senate (Roll No. 474)",34,0,0,0,34
+1968618,1546620,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 576)",98,0,0,2,100
+1968623,1519471,2025-03-18,House,"Adopted by House (Roll No. 99)",98,0,0,2,100
+1968625,1504394,2025-03-04,House,"Passed House (Roll No. 24)",99,0,0,1,100
+1968637,1519458,2025-03-18,House,"Adopted by House (Roll No. 99)",98,0,0,2,100
+1968639,1488645,2025-02-13,House,"Dispensed with Constitutional Rule (Roll No. 5)",95,2,0,3,100
+1968639,1488646,2025-02-13,House,"Passed House (Roll No. 6)",95,2,0,3,100
+1968639,1488647,2025-02-13,House,"Effective from passage (Roll No. 7)",97,0,0,3,100
+1968639,1491586,2025-02-17,Senate,"Constitutional Rule Suspended (Roll No. 4)",32,0,0,2,34
+1968639,1491587,2025-02-17,Senate,"Passed Senate (Roll No. 5)",32,0,0,2,34
+1968639,1491588,2025-02-17,Senate,"Effective from passage (Roll No. 6)",32,0,0,2,34
+1968668,1529048,2025-03-27,House,"Adopted by House (Roll No. 203)",95,0,0,5,100
+1968671,1519475,2025-03-18,House,"Adopted by House (Roll No. 99)",98,0,0,2,100
+1968680,1488642,2025-02-13,House,"Dispensed with Constitutional Rule (Roll No. 2)",95,2,0,3,100
+1968680,1488643,2025-02-13,House,"Passed House (Roll No. 3)",96,1,0,3,100
+1968680,1488644,2025-02-13,House,"Effective from passage (Roll No. 4)",97,0,0,3,100
+1968680,1491583,2025-02-17,Senate,"Constitutional Rule Suspended (Roll No. 1)",32,0,0,2,34
+1968680,1491584,2025-02-17,Senate,"Passed Senate (Roll No. 2)",32,0,0,2,34
+1968680,1491585,2025-02-17,Senate,"Effective from passage (Roll No. 3)",32,0,0,2,34
+1968686,1491723,2025-02-18,Senate,"Weld #1 floor amendment rejected (Roll No. 8)",10,21,0,3,34
+1968686,1491724,2025-02-18,Senate,"Weld #2 floor amendment rejected (Roll No. 9)",13,18,0,3,34
+1968686,1491725,2025-02-18,Senate,"Woelfel floor amendment rejected (Roll No. 10)",12,19,0,3,34
+1968686,1491890,2025-02-18,Senate,"Garcia floor amendment rejected (Roll No. 11)",9,22,0,3,34
+1968686,1496143,2025-02-21,Senate,"Passed Senate (Roll No. 18)",20,12,0,2,34
+1968686,1524009,2025-03-21,House,"Amendment rejected (Roll No. 149)",40,55,0,5,100
+1968686,1524010,2025-03-21,House,"Amendment rejected (Roll No. 150)",8,89,0,3,100
+1968686,1524011,2025-03-21,House,"Amendment rejected (Roll No. 151)",1,96,0,3,100
+1968686,1524012,2025-03-21,House,"Motion for previous question adopted (Roll No. 152)",79,16,0,5,100
+1968686,1524013,2025-03-21,House,"Amendment adopted (Roll No. 153)",52,44,0,4,100
+1968686,1524014,2025-03-21,House,"Amendment rejected (Roll No. 154)",22,72,0,6,100
+1968686,1524015,2025-03-21,House,"Amendment rejected (Roll No. 155)",26,69,0,5,100
+1968686,1524016,2025-03-21,House,"Amendment rejected (Roll No. 156)",31,64,0,5,100
+1968686,1524017,2025-03-21,House,"Committee amendment adopted (Roll No. 157)",51,44,0,5,100
+1968686,1524018,2025-03-21,House,"Dispensed with Constitutional Rule (Roll No. 158)",74,22,0,4,100
+1968686,1524865,2025-03-24,House,"House rejected (Roll No. 162)",42,56,0,2,100
+1968695,1498756,2025-02-25,Senate,"Passed Senate (Roll No. 29)",33,0,0,1,34
+1968695,1498757,2025-02-25,Senate,"Effective from passage (Roll No. 30)",33,0,0,1,34
+1968695,1522404,2025-03-20,House,"Passed House (Roll No. 116)",94,0,0,6,100
+1968695,1522405,2025-03-20,House,"Effective from passage (Roll No. 117)",94,0,0,6,100
+1968722,1503202,2025-03-03,Senate,"Passed Senate (Roll No. 52)",32,1,0,1,34
+1968722,1508562,2025-03-07,House,"Passed House (Roll No. 37)",87,9,0,4,100
+1968722,1512519,2025-03-11,Senate,"Senate amends House amendment and passed bill (Roll No. 89)",32,1,0,1,34
+1968722,1512520,2025-03-11,House,"House concurred in Senate amendment and passed bill (Roll No. 49)",90,8,0,2,100
+1968728,1502186,2025-02-28,House,"Passed House (Roll No. 17)",98,0,0,2,100
+1968728,1545361,2025-04-11,Senate,"Passed Senate with amended title (Roll No. 471)",34,0,0,0,34
+1968728,1546666,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 586)",74,18,0,8,100
+1968748,1519498,2025-03-18,House,"Adopted by House (Roll No. 99)",98,0,0,2,100
+1968767,1515737,2025-03-12,House,"Passed House (Roll No. 64)",69,26,0,5,100
+1968767,1546580,2025-04-12,Senate,"Passed Senate (Roll No. 545)",34,0,0,0,34
+1968767,1546709,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 628)",97,0,0,3,100
+1968774,1519482,2025-03-18,House,"Adopted by House (Roll No. 99)",98,0,0,2,100
+1968775,1509061,2025-03-10,Senate,"Passed Senate (Roll No. 81)",33,0,0,1,34
+1968775,1509062,2025-03-10,Senate,"Effective from passage (Roll No. 82)",33,0,0,1,34
+1968775,1537076,2025-04-04,House,"Passed House (Roll No. 389)",97,0,0,3,100
+1968775,1537077,2025-04-04,House,"Effective from passage (Roll No. 390)",97,0,0,3,100
+1968775,1543673,2025-04-10,Senate,"Senate amended House amendment and passed bill (Roll No. 450)",33,0,0,1,34
+1968775,1543674,2025-04-10,Senate,"Effective from passage (Roll No. 451)",33,0,0,1,34
+1968775,1545912,2025-04-11,House,"House concurred in Senate amendment and passed bill (Roll No. 560)",99,0,0,1,100
+1968775,1545913,2025-04-11,House,"Effective from passage (Roll No. 561)",99,0,0,1,100
+1968788,1500153,2025-02-26,Senate,"Passed Senate (Roll No. 35)",33,0,0,1,34
+1968788,1500154,2025-02-26,Senate,"Effective from passage (Roll No. 36)",33,0,0,1,34
+1968788,1515683,2025-03-12,House,"Passed House (Roll No. 60)",97,0,0,3,100
+1968788,1515684,2025-03-12,House,"Effective from passage (Roll No. 61)",97,0,0,3,100
+1968802,1502180,2025-02-28,Senate,"Passed Senate (Roll No. 47)",31,2,0,1,34
+1968802,1536612,2025-04-03,House,"Passed House (Roll No. 376)",88,1,0,11,100
+1968802,1538754,2025-04-07,Senate,"Passed Senate (Roll No. 323)",34,0,0,0,34
+1968843,1502221,2025-02-28,Senate,"Passed Senate (Roll No. 46)",33,0,0,1,34
+1968843,1545342,2025-04-11,House,"Passed House (Roll No. 504)",91,9,0,0,100
+1968843,1546638,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 575)",32,0,0,2,34
+1968845,1499088,2025-02-25,House,"Passed House (Roll No. 11)",97,0,0,3,100
+1968854,1519516,2025-03-18,House,"Adopted by House (Roll No. 103)",96,0,0,4,100
+1970592,1519507,2025-03-18,House,"Adopted by House (Roll No. 99)",98,0,0,2,100
+1970600,1519526,2025-03-18,House,"Adopted by House (Roll No. 99)",98,0,0,2,100
+1970650,1535717,2025-04-03,House,"Adopted by House (Roll No. 374)",97,0,0,3,100
+1970653,1519539,2025-03-18,House,"Adopted by House (Roll No. 99)",98,0,0,2,100
+1970658,1519492,2025-03-18,House,"Adopted by House (Roll No. 99)",98,0,0,2,100
+1970664,1522525,2025-03-20,House,"Passed House (Roll No. 119)",91,3,0,6,100
+1970667,1519433,2025-03-18,House,"Adopted by House (Roll No. 99)",98,0,0,2,100
+1970673,1534369,2025-04-02,Senate,"Passed Senate (Roll No. 279)",32,2,0,0,34
+1970686,1519491,2025-03-18,House,"Adopted by House (Roll No. 99)",98,0,0,2,100
+1970696,1519460,2025-03-18,House,"Adopted by House (Roll No. 99)",98,0,0,2,100
+1970704,1504227,2025-03-04,Senate,"Passed Senate (Roll No. 58)",33,0,0,1,34
+1970704,1545454,2025-04-11,House,"House rejected (Roll No. 505)",33,65,0,2,100
+1970719,1515810,2025-03-12,Senate,"Passed Senate (Roll No. 97)",34,0,0,0,34
+1970719,1538456,2025-04-07,House,"Passed House (Roll No. 401)",98,0,0,2,100
+1970722,1504258,2025-03-04,Senate,"Passed Senate (Roll No. 59)",31,2,0,1,34
+1970722,1508591,2025-03-07,House,"Passed House (Roll No. 38)",87,9,0,4,100
+1970742,1519468,2025-03-19,House,"Adopted by House (Roll No. 99)",98,0,0,2,100
+1970750,1527270,2025-03-26,Senate,"Passed Senate (Roll No. 180)",34,0,0,0,34
+1970750,1539517,2025-04-08,House,"Passed House (Roll No. 417)",99,0,0,1,100
+1970750,1543103,2025-04-09,Senate,"Senate concurred in House amendments and passed bill (Roll No. 419)",31,0,0,3,34
+1970760,1528834,2025-03-27,House,"Passed House (Roll No. 209)",94,0,0,6,100
+1970766,1519467,2025-03-18,House,"Adopted by House (Roll No. 104)",96,0,0,4,100
+1970770,1508783,2025-03-07,Senate,"Passed Senate (Roll No. 74)",34,0,0,0,34
+1970770,1545352,2025-04-11,House,"Passed House (Roll No. 506)",96,2,0,2,100
+1970775,1505725,2025-03-05,Senate,"Passed Senate (Roll No. 62)",33,1,0,0,34
+1970775,1518425,2025-03-17,House,"Passed House (Roll No. 94)",84,9,0,7,100
+1970780,1513971,2025-03-11,House,"Passed House (Roll No. 57)",89,9,0,2,100
+1970786,1527388,2025-03-26,Senate,"Passed Senate (Roll No. 181)",32,2,0,0,34
+1970786,1546671,2025-04-12,House,"Amendment adopted (Roll No. 621)",63,33,0,4,100
+1970786,1546754,2025-04-12,House,"Passed House (Roll No. 623)",87,12,0,1,100
+1970786,1546755,2025-04-12,Senate,"Passed Senate (Roll No. 605)",31,2,0,1,34
+1970786,1546847,2025-04-12,Senate,"Passed Senate (Roll No. 606)",31,2,0,1,34
+1970786,1547343,2025-04-12,Senate,"Motion to withdraw suspension of Joint Rule 3 and concurrence adopted (Roll No. 607)",33,0,0,1,34
+1970786,1547344,2025-04-12,Senate,"Motion for previous question adopted (Roll No. 608)",31,2,0,1,34
+1970786,1547345,2025-04-12,Senate,"Motion to concur in House amendments adopted(Roll No. 609)",31,2,0,1,34
+1970786,1547346,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 610)",31,2,0,1,34
+1970794,1509009,2025-03-10,Senate,"Passed Senate (Roll No. 84)",32,1,0,1,34
+1970794,1542637,2025-04-09,House,"Passed House (Roll No. 430)",77,18,0,5,100
+1970794,1544644,2025-04-10,Senate,"Senate concurred in House amendments and passed bill (Roll No. 457)",31,0,0,3,34
+1970804,1524061,2025-03-21,House,"Passed House (Roll No. 133)",96,0,0,4,100
+1970815,1519496,2025-03-18,House,"Adopted by House (Roll No. 99)",98,0,0,2,100
+1970830,1509070,2025-03-10,Senate,"Passed Senate (Roll No. 85)",33,0,0,1,34
+1970830,1525032,2025-03-24,House,"Passed House (Roll No. 163)",90,0,0,10,100
+1970836,1519481,2025-03-18,House,"Adopted by House (Roll No. 99)",98,0,0,2,100
+1970839,1520314,2025-03-18,House,"Adopted by House (Roll No. 99)",98,0,0,2,100
+1970850,1504175,2025-03-04,Senate,"Passed Senate (Roll No. 57)",33,0,0,1,34
+1970850,1519639,2025-03-18,House,"Passed House (Roll No. 106)",98,0,0,2,100
+1970850,1520887,2025-03-19,Senate,"Senate concurred in House amendments and passed bill (Roll No. 129)",33,0,0,1,34
+1970864,1528704,2025-03-27,Senate,"Passed Senate (Roll No. 192)",22,11,0,1,34
+1970867,1519518,2025-03-18,House,"Adopted by House (Roll No. 99)",98,0,0,2,100
+1970876,1528999,2025-03-27,House,"Adopted by House (Roll No. 203)",95,0,0,5,100
+1970899,1507316,2025-03-06,Senate,"Passed Senate (Roll No. 68)",34,0,0,0,34
+1970914,1503266,2025-03-03,Senate,"Passed Senate (Roll No. 53)",33,0,0,1,34
+1970922,1528964,2025-03-27,House,"Passed House (Roll No. 210)",91,4,0,5,100
+1970922,1538083,2025-04-07,Senate,"Passed Senate (Roll No. 331)",34,0,0,0,34
+1970946,1514764,2025-03-11,Senate,"Passed Senate (Roll No. 91)",33,0,0,1,34
+1970975,1519509,2025-03-18,House,"Adopted by House (Roll No. 99)",98,0,0,2,100
+1970996,1517051,2025-03-13,House,"Passed House (Roll No. 84)",93,0,0,7,100
+1970996,1530943,2025-03-31,Senate,"Passed Senate (Roll No. 255)",34,0,0,0,34
+1970999,1503164,2025-03-03,Senate,"Passed Senate (Roll No. 54)",33,0,0,1,34
+1970999,1542610,2025-04-09,House,"Passed House (Roll No. 431)",92,0,0,8,100
+1970999,1545304,2025-04-10,Senate,"Senate concurred in House amendments and passed bill (Roll No. 458)",32,0,0,2,34
+1971004,1522360,2025-03-20,House,"Passed House (Roll No. 120)",96,0,0,4,100
+1971004,1537210,2025-04-04,Senate,"Passed Senate with amended title (Roll No. 312)",33,0,0,1,34
+1971004,1538159,2025-04-07,House,"House concurred in Senate amend with amend, passed bill (Roll No. 397)",98,0,0,2,100
+1971004,1542615,2025-04-09,Senate,"Senate concurred in House amendments and passed bill (Roll No. 422)",31,0,0,3,34
+1971855,1505678,2025-03-05,House,"Passed House (Roll No. 29)",98,0,0,2,100
+1971855,1541008,2025-04-08,Senate,"Passed Senate (Roll No. 361)",31,0,0,3,34
+1971855,1544736,2025-04-10,House,"House concurred in Senate amend with title amend, passed (Roll No. 485)",95,0,0,5,100
+1971855,1546378,2025-04-11,Senate,"Senate concurred in House amendments and passed bill (Roll No. 529)",32,0,0,2,34
+1971868,1524567,2025-03-24,House,"Adopted by House (Roll No. 160)",97,0,0,3,100
+1971869,1523987,2025-03-21,House,"Passed House (Roll No. 135)",95,0,0,5,100
+1971875,1529067,2025-03-27,House,"Passed House (Roll No. 211)",96,0,0,4,100
+1971877,1522442,2025-03-20,House,"Passed House (Roll No. 121)",70,26,0,4,100
+1971877,1545733,2025-04-11,Senate,"Passed Senate (Roll No. 515)",28,6,0,0,34
+1971877,1546707,2025-04-12,House,"Motion for previous question adopted (Roll No. 590)",59,35,0,6,100
+1971877,1546708,2025-04-12,House,"House Concur in Senate Amendment and Title Amendment rejected (Roll No. 591)",37,58,0,5,100
+1971877,1546783,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 631)",97,0,0,3,100
+1971877,1547653,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 605)",31,2,0,1,34
+1971877,1556131,2025-04-12,House,"House concurred in Senate amend with amend, passed bill (Roll No. 637)",82,12,0,6,100
+1971878,1532239,2025-04-01,House,"Passed House (Roll No. 311)",93,7,0,0,100
+1971878,1543434,2025-04-10,Senate,"Passed Senate (Roll No. 430)",21,13,0,0,34
+1971881,1504383,2025-03-04,House,"Amendment rejected (Roll No. 25)",22,77,0,1,100
+1971881,1504384,2025-03-04,House,"Amendment adopted (Roll No. 26)",55,44,0,1,100
+1971881,1506553,2025-03-05,House,"Passed House (Roll No. 31)",77,21,0,2,100
+1971881,1546244,2025-04-11,Senate,"Passed Senate (Roll No. 475)",23,11,0,0,34
+1971881,1546641,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 603)",67,30,0,3,100
+1971883,1507231,2025-03-06,House,"Passed House (Roll No. 33)",100,0,0,0,100
+1971883,1524001,2025-03-21,Senate,"Passed Senate (Roll No. 155)",34,0,0,0,34
+1971883,1535628,2025-04-03,House,"House concurred in Senate amendment and passed bill (Roll No. 372)",98,0,0,2,100
+1971894,1519487,2025-03-18,House,"Adopted by House (Roll No. 105)",96,0,0,4,100
+1971895,1507458,2025-03-06,House,"Passed House (Roll No. 34)",80,20,0,0,100
+1971895,1542021,2025-04-09,Senate,"Passed Senate (Roll No. 393)",24,10,0,0,34
+1971901,1516008,2025-03-12,House,"Passed House (Roll No. 66)",80,5,0,15,100
+1971916,1505971,2025-03-05,House,"Passed House (Roll No. 30)",91,7,0,2,100
+1971918,1524562,2025-03-24,House,"Adopted by House (Roll No. 160)",97,0,0,3,100
+1971934,1518108,2025-03-14,House,"Passed House (Roll No. 89)",92,0,0,8,100
+1971934,1530875,2025-03-31,Senate,"Passed Senate (Roll No. 256)",34,0,0,0,34
+1971937,1519469,2025-03-18,House,"Adopted by House (Roll No. 99)",98,0,0,2,100
+1971938,1503142,2025-03-03,House,"Passed House (Roll No. 22)",92,4,0,4,100
+1971977,1519480,2025-03-18,House,"Adopted by House (Roll No. 99)",98,0,0,2,100
+1971987,1531831,2025-03-31,Senate,"Motion to refer bill to Rules adopted (Roll No. 244)",25,9,0,0,34
+1972000,1534454,2025-04-02,Senate,"Adopted by Senate (Roll No. 298)",34,0,0,0,34
+1972007,1492618,2025-02-18,Senate,"Adopted (Roll No. 7)",31,0,0,3,34
+1972013,1515710,2025-03-12,House,"Passed House (Roll No. 67)",81,0,0,19,100
+1972016,1528812,2025-03-27,House,"Passed House (Roll No. 212)",96,0,0,4,100
+1972016,1541380,2025-04-09,Senate,"Passed Senate (Roll No. 394)",34,0,0,0,34
+1972033,1518076,2025-03-14,House,"Passed House (Roll No. 88)",92,0,0,8,100
+1972033,1535821,2025-04-03,Senate,"Passed Senate (Roll No. 303)",27,7,0,0,34
+1972033,1537066,2025-04-04,House,"House concurred in Senate amendment and passed bill (Roll No. 380)",93,0,0,7,100
+1972037,1512987,2025-03-11,House,"Passed House (Roll No. 58)",95,3,0,2,100
+1972037,1530649,2025-03-29,Senate,"Passed Senate (Roll No. 243)",29,4,0,1,34
+1972037,1536001,2025-04-03,House,"House concurred in Senate amend with amend, passed bill (Roll No. 371)",92,6,0,2,100
+1972037,1543797,2025-04-10,Senate,"Senate amended House amendment and passed bill (Roll No. 453)",31,2,0,1,34
+1972037,1545997,2025-04-11,House,"House concurred in Senate amendment and passed bill (Roll No. 554)",97,1,0,2,100
+1972038,1519476,2025-03-18,House,"Adopted by House (Roll No. 99)",98,0,0,2,100
+1972046,1528915,2025-03-27,House,"Adopted by House (Roll No. 203)",95,0,0,5,100
+1972046,1537012,2025-04-04,House,"House concurred in Senate amendment and passed bill (Roll No. 384)",19,75,0,6,100
+1972051,1524005,2025-03-21,House,"Passed House (Roll No. 134)",95,1,0,4,100
+1972051,1543704,2025-04-10,Senate,"Passed Senate (Roll No. 429)",34,0,0,0,34
+1972051,1546573,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 592)",95,0,0,5,100
+1972054,1534169,2025-04-02,House,"Passed House (Roll No. 343)",99,0,0,1,100
+1972055,1516002,2025-03-12,House,"Passed House (Roll No. 65)",87,9,0,4,100
+1972055,1543294,2025-04-10,Senate,"Passed Senate (Roll No. 428)",32,2,0,0,34
+1972055,1546544,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 589)",83,9,0,8,100
+1972056,1519521,2025-03-18,House,"Adopted by House (Roll No. 99)",98,0,0,2,100
+1972063,1524751,2025-03-24,House,"Passed House (Roll No. 166)",91,0,0,9,100
+1972063,1524752,2025-03-24,House,"Effective July 1, 2025 (Roll No. 167)",90,0,0,10,100
+1972063,1540592,2025-04-08,Senate,"Passed Senate (Roll No. 362)",33,0,0,1,34
+1972063,1540593,2025-04-08,Senate,"Effective July 1, 2025 (Roll No. 363)",33,0,0,1,34
+1972063,1544260,2025-04-10,House,"House concurred in Senate amendment and passed bill (Roll No. 486)",95,0,0,5,100
+1972063,1544261,2025-04-10,House,"Effective July 1, 2025 (Roll No. 487)",96,0,0,4,100
+1972072,1520259,2025-03-18,House,"Adopted by House (Roll No. 99)",98,0,0,2,100
+1973177,1530873,2025-03-31,House,"Passed House (Roll No. 258)",99,0,0,1,100
+1973177,1541334,2025-04-09,Senate,"Passed Senate (Roll No. 384)",34,0,0,0,34
+1973177,1541335,2025-04-09,Senate,"Effective from passage (Roll No. 385)",34,0,0,0,34
+1973177,1543430,2025-04-10,House,"House concurred in Senate effective date (Roll No. 446)",98,1,0,1,100
+1973188,1534841,2025-04-02,House,"Passed House (Roll No. 346)",90,2,0,8,100
+1973203,1514731,2025-03-11,House,"Amendment rejected (Roll No. 51)",39,59,0,2,100
+1973203,1514732,2025-03-11,House,"Passed House (Roll No. 52)",61,37,0,2,100
+1973203,1514733,2025-03-11,House,"Effective July 1, 2025 (Roll No. 55)",83,13,0,4,100
+1973203,1539431,2025-04-08,Senate,"Tarr amendments to committee amendment rejected (Roll No. 351)",17,17,0,0,34
+1973203,1539432,2025-04-08,Senate,"Woelfel amendments to committee amendment rejected (Roll No. 352)",9,25,0,0,34
+1973203,1539433,2025-04-08,Senate,"Passed Senate (Roll No. 353)",25,9,0,0,34
+1973203,1539434,2025-04-08,Senate,"Effective July 1, 2025 (Roll No. 354)",34,0,0,0,34
+1973203,1543298,2025-04-10,House,"House concurred in Senate amend with title amend, passed (Roll No. 447)",65,34,0,1,100
+1973203,1543299,2025-04-10,House,"Effective July 1, 2025 (Roll No. 448)",69,30,0,1,100
+1973203,1546113,2025-04-11,Senate,"Senate concurred in House amendments and passed bill (Roll No. 523)",24,8,0,2,34
+1973203,1546114,2025-04-11,Senate,"Effective July 1, 2025 (Roll No. 524)",30,2,0,2,34
+1973228,1530637,2025-03-29,Senate,"Passed Senate (Roll No. 218)",33,0,0,1,34
+1973252,1529844,2025-03-28,House,"Motion to discharge committee rejected (Roll No. 229)",16,74,0,10,100
+1973252,1530128,2025-03-28,House,"Motion for previous question adopted (Roll No. 228)",72,15,0,13,100
+1973317,1534397,2025-04-02,House,"Motion for previous question adopted (Roll No. 344)",68,31,0,1,100
+1973317,1534398,2025-04-02,House,"Passed House (Roll No. 345)",70,30,0,0,100
+1973322,1530891,2025-03-31,House,"Passed House (Roll No. 268)",95,1,0,4,100
+1973322,1530892,2025-03-31,House,"Effective July 1, 2025 (Roll No. 269)",95,1,0,4,100
+1973342,1522354,2025-03-20,House,"Passed House (Roll No. 122)",96,0,0,4,100
+1973342,1533997,2025-04-02,Senate,"Passed Senate (Roll No. 299)",31,3,0,0,34
+1973350,1530881,2025-03-31,House,"Passed House (Roll No. 270)",97,0,0,3,100
+1973350,1545901,2025-04-11,Senate,"Passed Senate (Roll No. 477)",34,0,0,0,34
+1973350,1546587,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 577)",97,0,0,3,100
+1973376,1508629,2025-03-07,House,"Passed House (Roll No. 40)",90,6,0,4,100
+1973389,1532110,2025-04-01,House,"Passed House (Roll No. 314)",97,3,0,0,100
+1973389,1532111,2025-04-01,House,"Effective from passage (Roll No. 315)",97,2,0,1,100
+1973389,1544727,2025-04-10,Senate,"Passed Senate (Roll No. 464)",32,0,0,2,34
+1973389,1544728,2025-04-10,Senate,"Effective from passage (Roll No. 465)",32,0,0,2,34
+1973393,1524046,2025-03-21,House,"Passed House (Roll No. 131)",92,3,0,5,100
+1973393,1541648,2025-04-09,Senate,"Passed Senate (Roll No. 386)",33,1,0,0,34
+1973393,1544027,2025-04-10,House,"House concurred in Senate amendment and passed bill (Roll No. 482)",95,0,0,5,100
+1973400,1524663,2025-03-24,House,"Adopted by House (Roll No. 160)",97,0,0,3,100
+1973404,1530165,2025-03-28,House,"Passed House (Roll No. 233)",91,1,0,8,100
+1973404,1543814,2025-04-10,Senate,"Passed Senate (Roll No. 431)",34,0,0,0,34
+1973404,1545988,2025-04-11,House,"House concurred in Senate amendment and passed bill (Roll No. 555)",96,1,0,3,100
+1973417,1515760,2025-03-12,Senate,"Passed Senate (Roll No. 98)",22,12,0,0,34
+1973418,1532970,2025-04-01,House,"Passed House (Roll No. 312)",96,4,0,0,100
+1973418,1532971,2025-04-01,House,"Effective from passage (Roll No. 313)",96,4,0,0,100
+1973418,1544635,2025-04-10,Senate,"Floor amendment rejected (Roll No. 461)",15,16,0,3,34
+1973418,1544636,2025-04-10,Senate,"Passed Senate (Roll No. 462)",31,1,0,2,34
+1973418,1544637,2025-04-10,Senate,"Effective from passage (Roll No. 463)",32,0,0,2,34
+1974674,1524604,2025-03-24,House,"Adopted by House (Roll No. 160)",97,0,0,3,100
+1974700,1520875,2025-03-19,Senate,"Passed Senate (Roll No. 133)",31,2,0,1,34
+1974700,1535809,2025-04-03,House,"Passed House (Roll No. 379)",88,10,0,2,100
+1974700,1537030,2025-04-04,House,"Effective from passage (Roll No. 383)",85,8,0,7,100
+1974700,1538244,2025-04-07,Senate,"Effective from passage (Roll No. 324)",34,0,0,0,34
+1974751,1516056,2025-03-12,Senate,"Passed Senate (Roll No. 99)",34,0,0,0,34
+1974772,1512671,2025-03-11,Senate,"Passed Senate (Roll No. 93)",33,0,0,1,34
+1974772,1536172,2025-04-03,House,"Passed House (Roll No. 378)",95,0,0,5,100
+1974783,1528563,2025-03-27,Senate,"Passed Senate (Roll No. 193)",33,0,0,1,34
+1974829,1514928,2025-03-11,House,"Passed House (Roll No. 59)",98,0,0,2,100
+1974829,1545839,2025-04-11,Senate,"Passed Senate (Roll No. 478)",34,0,0,0,34
+1974873,1495253,2025-02-20,Senate,"Adopted (Roll No. 13)",31,0,0,3,34
+1974886,1495263,2025-02-20,Senate,"Adopted (Roll No. 14)",31,0,0,3,34
+1974894,1530808,2025-03-31,Senate,"Passed Senate (Roll No. 245)",33,1,0,0,34
+1974894,1545458,2025-04-11,House,"Passed House (Roll No. 508)",97,0,0,3,100
+1974894,1546697,2025-04-12,Senate,"Senate amended House amendment and passed bill (Roll No. 594)",32,0,0,2,34
+1974894,1546758,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 633)",97,0,0,3,100
+1974906,1494632,2025-02-20,Senate,"Adopted (Roll No. 12)",31,0,0,3,34
+1974959,1528571,2025-03-27,House,"Adopted by House (Roll No. 203)",95,0,0,5,100
+1975026,1503310,2025-03-03,Senate,"Passed Senate (Roll No. 56)",33,0,0,1,34
+1975026,1539278,2025-04-08,House,"Passed House (Roll No. 418)",99,0,0,1,100
+1975026,1542200,2025-04-09,Senate,"Senate concurred in House amendments and passed bill (Roll No. 420)",31,0,0,3,34
+1975033,1503626,2025-03-03,Senate,"Passed Senate (Roll No. 55)",33,0,0,1,34
+1975062,1529084,2025-03-27,House,"Adopted by House (Roll No. 203)",95,0,0,5,100
+1975121,1518119,2025-03-14,Senate,"Floor amendment rejected (Roll No. 118)",14,17,0,3,34
+1975121,1527404,2025-03-26,Senate,"Passed Senate (Roll No. 182)",33,1,0,0,34
+1975121,1545492,2025-04-11,House,"Passed House (Roll No. 507)",72,25,0,3,100
+1975121,1546568,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 551)",34,0,0,0,34
+1975164,1518030,2025-03-14,House,"Passed House (Roll No. 90)",92,0,0,8,100
+1975223,1515133,2025-03-11,Senate,"Passed Senate (Roll No. 92)",33,0,0,1,34
+1975223,1536175,2025-04-03,House,"Passed House (Roll No. 377)",93,0,0,7,100
+1976628,1519785,2025-03-18,Senate,"Passed Senate (Roll No. 122)",26,8,0,0,34
+1976628,1519786,2025-03-18,Senate,"Effective from passage (Roll No. 123)",34,0,0,0,34
+1976634,1521195,2025-03-19,Senate,"Passed Senate (Roll No. 134)",31,2,0,1,34
+1976639,1507075,2025-03-06,House,"Passed House (Roll No. 35)",100,0,0,0,100
+1976737,1513085,2025-03-11,Senate,"Passed Senate (Roll No. 94)",33,0,0,1,34
+1976737,1545833,2025-04-11,House,"Passed House (Roll No. 509)",99,0,0,1,100
+1976749,1508547,2025-03-07,House,"Passed House (Roll No. 41)",96,0,0,4,100
+1976749,1537235,2025-04-04,Senate,"Passed Senate with amended title (Roll No. 313)",33,0,0,1,34
+1976749,1546730,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 633)",97,0,0,3,100
+1976762,1530127,2025-03-28,House,"Passed House (Roll No. 234 )",80,20,0,0,100
+1976762,1530774,2025-03-28,House,"Passed House (Roll No. 234)",92,0,0,8,100
+1976773,1529124,2025-03-27,House,"Adopted by House (Roll No. 203)",95,0,0,5,100
+1976776,1521212,2025-03-19,House,"Passed House (Roll No. 112)",95,2,0,3,100
+1976776,1545574,2025-04-11,Senate,"Passed Senate (Roll No. 479)",34,0,0,0,34
+1976776,1546589,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 578)",94,2,0,4,100
+1976781,1530154,2025-03-28,House,"Passed House (Roll No. 235)",82,10,0,8,100
+1976781,1545972,2025-04-11,Senate,"Passed Senate (Roll No. 508)",19,15,0,0,34
+1976781,1546633,2025-04-12,House,"House concurred in Senate amend with amend, passed bill (Roll No. 573)",87,8,0,5,100
+1976781,1546775,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 599)",21,12,0,1,34
+1976796,1518325,2025-03-17,House,"Passed House (Roll No. 98)",94,0,0,6,100
+1976799,1524673,2025-03-24,House,"Adopted by House (Roll No. 160)",97,0,0,3,100
+1976811,1509162,2025-03-10,House,"Passed House (Roll No. 47)",70,27,0,3,100
+1976827,1515800,2025-03-12,House,"Passed House (Roll No. 68)",86,0,0,14,100
+1976827,1541195,2025-04-08,Senate,"Passed Senate (Roll No. 364)",33,0,0,1,34
+1976837,1528590,2025-03-27,House,"Motion to discharge committee rejected (Roll No. 202)",31,64,0,5,100
+1976868,1525984,2025-03-25,House,"Passed House (Roll No. 182)",98,0,0,2,100
+1976919,1516902,2025-03-13,House,"Passed House (Roll No. 85)",73,21,0,6,100
+1976919,1516903,2025-03-13,House,"Effective from passage (Roll No. 86)",81,13,0,6,100
+1976950,1517068,2025-03-13,House,"House rejected (Roll No. 87)",41,54,0,5,100
+1976969,1507476,2025-03-06,Senate,"Constitutional Rule Suspended (Roll No. 69)",34,0,0,0,34
+1976969,1507477,2025-03-06,Senate,"Passed Senate (Roll No. 70)",32,2,0,0,34
+1976990,1524648,2025-03-24,House,"Passed House (Roll No. 168)",92,0,0,8,100
+1976998,1531978,2025-04-01,Senate,"Passed Senate (Roll No. 261)",33,0,0,1,34
+1977009,1507372,2025-03-06,House,"Passed House (Roll No. 36)",99,1,0,0,100
+1977009,1537255,2025-04-04,Senate,"Passed Senate with amended title (Roll No. 314)",33,0,0,1,34
+1977009,1538250,2025-04-07,House,"House concurred in Senate amendment and passed bill (Roll No. 398)",97,1,0,2,100
+1977041,1524639,2025-03-24,House,"Adopted by House (Roll No. 160)",97,0,0,3,100
+1978934,1524033,2025-03-21,House,"Passed House (Roll No. 136)",94,0,0,6,100
+1978934,1544406,2025-04-10,Senate,"Passed Senate (Roll No. 455)",32,0,0,2,34
+1978934,1544407,2025-04-10,Senate,"Effective from passage (Roll No. 456)",32,0,0,2,34
+1978934,1546274,2025-04-11,House,"House refused to concur and requested Senate to recede (Roll No. 562)",30,68,0,2,100
+1978996,1524031,2025-03-21,House,"Passed House (Roll No. 137)",94,1,0,5,100
+1978996,1541400,2025-04-09,Senate,"Passed Senate (Roll No. 395)",34,0,0,0,34
+1978996,1546540,2025-04-12,House,"House concurred in Senate amend with amend, passed bill (Roll No. 557)",98,1,0,1,100
+1978996,1546768,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 581)",33,0,0,1,34
+1979011,1519441,2025-03-18,House,"Passed House (Roll No. 107)",98,0,0,2,100
+1979011,1546221,2025-04-11,Senate,"Passed Senate (Roll No. 480)",34,0,0,0,34
+1979038,1508708,2025-03-07,Senate,"Takubo #1 floor amendment rejected (Roll No. 76)",15,19,0,0,34
+1979038,1508709,2025-03-07,Senate,"Takubo #2 floor amendments adopted (Roll No. 77)",19,15,0,0,34
+1979038,1509017,2025-03-10,Senate,"Passed Senate (Roll No. 86)",22,11,0,1,34
+1979038,1541738,2025-04-09,House,"Passed House (Roll No. 432)",93,4,0,3,100
+1979038,1545124,2025-04-10,Senate,"Senate concurred in House amendments and passed bill (Roll No. 459)",24,8,0,2,34
+1979077,1522319,2025-03-20,House,"Passed House (Roll No. 123)",84,12,0,4,100
+1979077,1543871,2025-04-10,Senate,"Passed Senate (Roll No. 434)",19,15,0,0,34
+1979077,1546545,2025-04-12,House,"Motion for previous question rejected (Roll No. 579)",48,49,0,3,100
+1979077,1546546,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 580)",66,32,0,2,100
+1979084,1534327,2025-04-02,House,"Passed House (Roll No. 347)",97,2,0,1,100
+1979086,1518066,2025-03-14,House,"Passed House (Roll No. 91)",92,0,0,8,100
+1979086,1543452,2025-04-10,Senate,"Passed Senate (Roll No. 432)",32,2,0,0,34
+1979086,1543453,2025-04-10,Senate,"Effective from passage (Roll No. 433)",28,6,0,0,34
+1979086,1546242,2025-04-11,House,"House concurred in Senate effective date (Roll No. 556)",98,0,0,2,100
+1979119,1515967,2025-03-12,House,"Passed House (Roll No. 70)",87,0,0,13,100
+1979132,1520146,2025-03-18,House,"Amendment rejected (Roll No. 108)",41,54,0,5,100
+1979132,1520996,2025-03-19,House,"Passed House (Roll No. 113)",80,17,0,3,100
+1979132,1541204,2025-04-08,Senate,"Passed Senate (Roll No. 365)",27,6,0,1,34
+1979132,1543334,2025-04-10,House,"House concurred in Senate amendment and passed bill (Roll No. 451)",88,11,0,1,100
+1979134,1529203,2025-03-27,Senate,"Passed Senate (Roll No. 194)",33,0,0,1,34
+1979155,1524569,2025-03-24,House,"Adopted by House (Roll No. 160)",97,0,0,3,100
+1979160,1529039,2025-03-27,House,"Passed House (Roll No. 213)",92,3,0,5,100
+1979163,1534975,2025-04-02,Senate,"Passed Senate (Roll No. 280)",30,4,0,0,34
+1979187,1534193,2025-04-02,House,"Passed House (Roll No. 348)",95,5,0,0,100
+1979193,1516021,2025-03-12,House,"Passed House (Roll No. 71)",85,2,0,13,100
+1979197,1516612,2025-03-12,House,"Passed House (Roll No. 69)",79,8,0,13,100
+1979197,1541147,2025-04-08,Senate,"Passed Senate (Roll No. 366)",32,1,0,1,34
+1979201,1531580,2025-03-31,House,"Amendment rejected (Roll No. 299)",3,91,0,6,100
+1979201,1531581,2025-03-31,House,"Amendment rejected (Roll No. 300)",36,59,0,5,100
+1979201,1532130,2025-04-01,House,"Passed House (Roll No. 316)",75,22,0,3,100
+1979216,1522325,2025-03-20,House,"Passed House (Roll No. 124)",95,0,0,5,100
+1979216,1540692,2025-04-08,Senate,"Passed Senate (Roll No. 367)",33,0,0,1,34
+1979216,1540693,2025-04-08,Senate,"Effective from passage (Roll No. 368)",33,0,0,1,34
+1979216,1543460,2025-04-10,House,"House concurred in Senate effective date (Roll No. 452)",99,0,0,1,100
+1980707,1519783,2025-03-18,Senate,"Passed Senate (Roll No. 124)",34,0,0,0,34
+1980707,1545699,2025-04-11,House,"Passed House (Roll No. 512)",98,0,0,2,100
+1980707,1546608,2025-04-12,Senate,"Senate amended House amendment and passed bill (Roll No. 582)",33,0,0,1,34
+1980707,1546609,2025-04-12,Senate,"Effective from passage (Roll No. 583)",33,0,0,1,34
+1980707,1546737,2025-04-12,House,"House concurred in Senate amend with amend, passed bill (Roll No. 629)",96,0,0,4,100
+1980707,1546738,2025-04-12,House,"Effective from passage (Roll No. 630)",96,0,0,4,100
+1980707,1546739,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 611)",33,0,0,1,34
+1980707,1546740,2025-04-12,Senate,"Effective from passage (Roll No. 612)",33,0,0,1,34
+1980728,1524953,2025-03-24,Senate,"Passed Senate (Roll No. 159)",25,8,0,1,34
+1980740,1520822,2025-03-19,House,"Passed House (Roll No. 114)",97,0,0,3,100
+1980753,1531229,2025-03-31,House,"Passed House (Roll No. 272)",96,1,0,3,100
+1980765,1523995,2025-03-21,House,"Passed House (Roll No. 138)",95,0,0,5,100
+1980771,1527306,2025-03-26,House,"House rejected (Roll No. 192)",24,69,0,7,100
+1980775,1508638,2025-03-07,Senate,"Passed Senate (Roll No. 75)",34,0,0,0,34
+1980775,1537058,2025-04-04,House,"Passed House (Roll No. 391)",88,9,0,3,100
+1980787,1524062,2025-03-21,House,"Passed House (Roll No. 140)",95,1,0,4,100
+1980829,1516009,2025-03-12,House,"Passed House (Roll No. 72)",89,0,0,11,100
+1980829,1541200,2025-04-08,Senate,"Passed Senate (Roll No. 369)",33,0,0,1,34
+1980829,1543302,2025-04-10,House,"House concurred in Senate amendment and passed bill (Roll No. 453)",97,2,0,1,100
+1980847,1524059,2025-03-21,House,"Passed House (Roll No. 139)",91,5,0,4,100
+1980863,1532189,2025-04-01,Senate,"Passed Senate (Roll No. 262)",33,0,0,1,34
+1980890,1530852,2025-03-31,House,"Passed House (Roll No. 271)",84,11,0,5,100
+1980895,1509644,2025-03-10,House,"Passed House (Roll No. 48)",97,0,0,3,100
+1980895,1541210,2025-04-08,Senate,"Passed Senate (Roll No. 370)",33,0,0,1,34
+1980895,1543648,2025-04-10,House,"House concurred in Senate amend with amend, passed bill (Roll No. 454)",99,0,0,1,100
+1980895,1546437,2025-04-11,Senate,"Senate concurred in House amendments and passed bill (Roll No. 530)",32,0,0,2,34
+1980906,1530069,2025-03-28,House,"Passed House (Roll No. 236)",89,3,0,8,100
+1980906,1545569,2025-04-11,Senate,"Passed Senate (Roll No. 481)",31,3,0,0,34
+1980916,1534240,2025-04-02,House,"Passed House (Roll No. 349)",89,11,0,0,100
+1980916,1541636,2025-04-09,Senate,"Passed Senate (Roll No. 396)",34,0,0,0,34
+1980916,1544047,2025-04-10,House,"House concurred in Senate amendment and passed bill (Roll No. 488)",86,10,0,4,100
+1980921,1524679,2025-03-24,House,"Adopted by House (Roll No. 160)",97,0,0,3,100
+1980925,1530682,2025-03-29,Senate,"Passed Senate (Roll No. 219)",24,9,0,1,34
+1980925,1545840,2025-04-11,House,"Passed House (Roll No. 510)",55,43,0,2,100
+1980925,1546635,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 552)",23,11,0,0,34
+1980932,1524591,2025-03-24,House,"Adopted by House (Roll No. 160)",97,0,0,3,100
+1980981,1527699,2025-03-26,Senate,"Passed Senate (Roll No. 183)",34,0,0,0,34
+1980981,1545929,2025-04-11,House,"Passed House (Roll No. 513)",92,1,0,7,100
+1980981,1546665,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 553)",27,7,0,0,34
+1980995,1527383,2025-03-26,House,"Passed House (Roll No. 193)",92,1,0,7,100
+1980995,1544513,2025-04-10,Senate,"Passed Senate (Roll No. 435)",33,1,0,0,34
+1980995,1546719,2025-04-12,Senate,"Senate adopted conference report and passed bill (Roll No. 602)",32,1,0,1,34
+1980995,1546720,2025-04-12,House,"House adopted conference report and passed bill (Roll No. 624)",98,0,0,2,100
+1981035,1529137,2025-03-27,House,"Passed House (Roll No. 214)",90,6,0,4,100
+1981035,1541356,2025-04-09,Senate,"Passed Senate with amended title (Roll No. 397)",33,1,0,0,34
+1981035,1541357,2025-04-09,Senate,"Effective from passage (Roll No. 398)",33,0,0,1,34
+1981035,1544408,2025-04-10,House,"House concurred in Senate amendment and passed bill (Roll No. 455)",95,2,0,3,100
+1981035,1544409,2025-04-10,House,"Effective from passage (Roll No. 456)",98,0,0,2,100
+1981037,1506085,2025-03-05,Senate,"Passed Senate (Roll No. 63)",34,0,0,0,34
+1981037,1545717,2025-04-11,House,"Passed House (Roll No. 511)",96,0,0,4,100
+1981037,1546617,2025-04-12,Senate,"Senate amended House amendment and passed bill (Roll No. 576)",33,0,0,1,34
+1981037,1546744,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 636)",99,0,0,1,100
+1981049,1531985,2025-04-01,House,"Passed House (Roll No. 317)",99,0,0,1,100
+1981063,1530882,2025-03-31,House,"Passed House (Roll No. 273)",95,0,0,5,100
+1981063,1540900,2025-04-08,Senate,"Passed Senate (Roll No. 371)",33,0,0,1,34
+1982227,1508615,2025-03-07,House,"Passed House (Roll No. 43)",95,1,0,4,100
+1982227,1541458,2025-04-09,Senate,"Passed Senate (Roll No. 399)",33,0,0,1,34
+1982232,1524940,2025-03-24,House,"Passed House (Roll No. 169)",92,0,0,8,100
+1982233,1533908,2025-04-02,House,"Passed House (Roll No. 338)",95,5,0,0,100
+1982233,1533909,2025-04-02,House,"Effective from passage (Roll No. 339)",96,4,0,0,100
+1982233,1542500,2025-04-09,Senate,"Passed Senate (Roll No. 387)",34,0,0,0,34
+1982233,1542501,2025-04-09,Senate,"Effective from passage (Roll No. 388)",34,0,0,0,34
+1982233,1543244,2025-04-10,House,"House concurred in Senate amend with amend, passed bill (Roll No. 444)",99,0,0,1,100
+1982233,1543245,2025-04-10,House,"Effective from passage (Roll No. 445)",99,0,0,1,100
+1982233,1546296,2025-04-11,Senate,"Senate concurred in House amendments and passed bill (Roll No. 527)",32,0,0,2,34
+1982233,1546297,2025-04-11,Senate,"Effective from passage (Roll No. 528)",32,0,0,2,34
+1982238,1508632,2025-03-07,House,"Passed House (Roll No. 42)",95,1,0,4,100
+1982238,1544149,2025-04-10,Senate,"Passed Senate with amended title (Roll No. 436)",34,0,0,0,34
+1982238,1546643,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 604)",93,4,0,3,100
+1982245,1530935,2025-03-31,House,"Passed House (Roll No. 274)",96,0,0,4,100
+1982273,1534010,2025-04-02,House,"Passed House (Roll No. 351)",80,19,0,1,100
+1982285,1529138,2025-03-27,House,"Passed House (Roll No. 215)",82,12,0,6,100
+1982285,1545677,2025-04-11,Senate,"Passed Senate (Roll No. 483)",34,0,0,0,34
+1982299,1529877,2025-03-28,House,"Passed House (Roll No. 237)",91,0,0,9,100
+1982299,1541904,2025-04-09,Senate,"Passed Senate (Roll No. 401)",34,0,0,0,34
+1982336,1521851,2025-03-19,Senate,"Passed Senate (Roll No. 135)",33,0,0,1,34
+1982387,1526044,2025-03-25,House,"Passed House (Roll No. 183)",50,48,0,2,100
+1982387,1542010,2025-04-09,Senate,"Passed Senate (Roll No. 400)",34,0,0,0,34
+1982387,1544268,2025-04-10,House,"House concurred in Senate amend with title amend, passed (Roll No. 489)",68,28,0,4,100
+1982387,1546097,2025-04-11,Senate,"Senate concurred in House amendments and passed bill (Roll No. 531)",32,0,0,2,34
+1982490,1524645,2025-03-24,House,"Adopted by House (Roll No. 161)",97,0,0,3,100
+1982523,1500295,2025-02-26,Senate,"Adopted (Roll No. 31)",33,0,0,1,34
+1982572,1525823,2025-03-25,Senate,"Passed Senate (Roll No. 169)",33,1,0,0,34
+1982609,1534138,2025-04-02,House,"Passed House (Roll No. 350)",99,1,0,0,100
+1982609,1545858,2025-04-11,Senate,"Passed Senate (Roll No. 482)",34,0,0,0,34
+1982609,1546651,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 605)",96,0,0,4,100
+1982667,1530640,2025-03-29,Senate,"Passed Senate (Roll No. 220)",31,2,0,1,34
+1982667,1530641,2025-03-29,Senate,"Effective July 1, 2025 (Roll No. 221)",33,0,0,1,34
+1982685,1518120,2025-03-14,Senate,"Passed Senate (Roll No. 113)",25,7,0,2,34
+1983920,1529928,2025-03-28,House,"Passed House (Roll No. 238)",81,10,0,9,100
+1983920,1529929,2025-03-28,House,"Effective from passage (Roll No. 239)",83,8,0,9,100
+1983955,1509012,2025-03-10,Senate,"Passed Senate (Roll No. 87)",30,3,0,1,34
+1984172,1524030,2025-03-21,Senate,"Passed Senate (Roll No. 147)",33,1,0,0,34
+1984277,1515687,2025-03-12,Senate,"Passed Senate (Roll No. 100)",34,0,0,0,34
+1984404,1527608,2025-03-26,House,"Passed House (Roll No. 194)",94,1,0,5,100
+1984404,1527609,2025-03-26,House,"Effective July 1, 2026 (Roll No. 195)",94,0,0,6,100
+1986463,1520923,2025-03-19,Senate,"Passed Senate (Roll No. 136)",33,0,0,1,34
+1986463,1524659,2025-03-24,House,"Passed House (Roll No. 164)",90,0,0,10,100
+1986500,1528682,2025-03-27,House,"Passed House (Roll No. 216)",91,1,0,8,100
+1986550,1530089,2025-03-28,House,"Passed House (Roll No. 240)",84,8,0,8,100
+1986550,1545864,2025-04-11,Senate,"Passed Senate (Roll No. 485)",32,2,0,0,34
+1986550,1546631,2025-04-12,House,"Motion to limit debate to 5 minutes adopted (Roll No. 593)",76,19,0,5,100
+1986550,1546632,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 594)",88,10,0,2,100
+1986572,1530726,2025-03-29,Senate,"Passed Senate (Roll No. 223)",32,1,0,1,34
+1986589,1518068,2025-03-14,House,"Passed House (Roll No. 92)",93,0,0,7,100
+1986589,1540696,2025-04-08,Senate,"Floor amendment adopted (Roll No. 378)",17,16,0,1,34
+1986589,1541880,2025-04-09,Senate,"Rejected by Senate (Roll No. 403)",16,18,0,0,34
+1986600,1527464,2025-03-26,Senate,"Passed Senate (Roll No. 184)",34,0,0,0,34
+1986600,1541382,2025-04-09,House,"Passed House (Roll No. 433)",88,9,0,3,100
+1986600,1544442,2025-04-10,Senate,"Senate concurred in House amendments and passed bill (Roll No. 452)",33,0,0,1,34
+1986644,1529081,2025-03-27,House,"Passed House (Roll No. 217)",86,6,0,8,100
+1986644,1541651,2025-04-09,Senate,"Passed Senate (Roll No. 402)",34,0,0,0,34
+1986657,1522465,2025-03-20,House,"Passed House (Roll No. 125)",95,0,0,5,100
+1986657,1540647,2025-04-08,Senate,"Passed Senate (Roll No. 372)",33,0,0,1,34
+1986657,1544267,2025-04-10,House,"House concurred in Senate amendment and passed bill (Roll No. 490)",96,0,0,4,100
+1986747,1524051,2025-03-21,Senate,"Passed Senate (Roll No. 148)",34,0,0,0,34
+1986747,1524052,2025-03-21,Senate,"Effective from passage (Roll No. 149)",34,0,0,0,34
+1986747,1538145,2025-04-07,House,"Passed House (Roll No. 402)",98,0,0,2,100
+1986747,1538146,2025-04-07,House,"Effective from passage (Roll No. 403)",98,0,0,2,100
+1986831,1526402,2025-03-25,House,"Passed House (Roll No. 184)",93,5,0,2,100
+1986831,1543351,2025-04-10,Senate,"Passed Senate (Roll No. 437)",33,0,0,1,34
+1986831,1546734,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 606)",92,4,0,4,100
+1986875,1534945,2025-04-02,House,"Passed House (Roll No. 352)",94,6,0,0,100
+1986875,1546299,2025-04-11,Senate,"Passed Senate (Roll No. 484)",34,0,0,0,34
+1987140,1531977,2025-04-01,House,"Passed House (Roll No. 318)",91,8,0,1,100
+1988208,1509209,2025-03-10,Senate,"Passed Senate (Roll No. 88)",29,3,0,2,34
+1988208,1537052,2025-04-04,House,"Passed House (Roll No. 392)",73,24,0,3,100
+1988208,1542655,2025-04-09,Senate,"Senate concurred in House amendments and passed bill (Roll No. 421)",26,5,0,3,34
+1988294,1515980,2025-03-12,House,"Passed House (Roll No. 73)",77,14,0,9,100
+1988294,1538240,2025-04-07,Senate,"Passed Senate (Roll No. 332)",28,6,0,0,34
+1988294,1539553,2025-04-08,House,"House concurred in Senate amendment and passed bill (Roll No. 411)",84,14,0,2,100
+1988300,1530787,2025-03-31,Senate,"Passed Senate (Roll No. 246)",34,0,0,0,34
+1988300,1530788,2025-03-31,Senate,"Effective January 1, 2026 (Roll No. 247)",34,0,0,0,34
+1988379,1524564,2025-03-24,House,"Adopted by House (Roll No. 160)",97,0,0,3,100
+1988404,1524568,2025-03-24,House,"Adopted by House (Roll No. 160)",97,0,0,3,100
+1988410,1514550,2025-03-11,House,"Passed House (Roll No. 53)",72,25,0,3,100
+1988410,1514551,2025-03-11,House,"Effective July 1, 2025 (Roll No. 54)",84,12,0,4,100
+1988410,1539514,2025-04-08,Senate,"Garcia #1 amendments to committee amendment rejected (Roll No. 355)",7,27,0,0,34
+1988410,1539515,2025-04-08,Senate,"Passed Senate (Roll No. 356)",24,10,0,0,34
+1988410,1539516,2025-04-08,Senate,"Effective July 1, 2025 (Roll No. 357)",34,0,0,0,34
+1988410,1543300,2025-04-10,House,"House concurred in Senate amend with title amend, passed (Roll No. 449)",71,28,0,1,100
+1988410,1543301,2025-04-10,House,"Effective July 1, 2025 (Roll No. 450)",74,25,0,1,100
+1988410,1546144,2025-04-11,Senate,"Senate concurred in House amendments and passed bill (Roll No. 525)",24,8,0,2,34
+1988410,1546145,2025-04-11,Senate,"Effective July 1, 2025 (Roll No. 526)",30,2,0,2,34
+1989362,1515706,2025-03-12,Senate,"Passed Senate (Roll No. 103)",34,0,0,0,34
+1989362,1515707,2025-03-12,Senate,"Effective from passage (Roll No. 104)",34,0,0,0,34
+1989362,1532096,2025-04-01,House,"Passed House (Roll No. 306)",100,0,0,0,100
+1989362,1532097,2025-04-01,House,"Effective from passage (Roll No. 307)",100,0,0,0,100
+1989362,1539973,2025-04-08,Senate,"Senate amended House amendment and passed bill (Roll No. 347)",34,0,0,0,34
+1989362,1539974,2025-04-08,Senate,"Effective from passage (Roll No. 348)",34,0,0,0,34
+1989362,1541383,2025-04-09,House,"House concurred in Senate amendment and passed bill (Roll No. 428)",98,0,0,2,100
+1989362,1541384,2025-04-09,House,"Effective from passage (Roll No. 429)",99,0,0,1,100
+1989426,1529951,2025-03-28,House,"Passed House (Roll No. 242)",87,4,0,9,100
+1989431,1527281,2025-03-26,Senate,"Passed Senate (Roll No. 188)",26,8,0,0,34
+1989438,1522518,2025-03-20,House,"Passed House (Roll No. 126)",95,0,0,5,100
+1989438,1538171,2025-04-07,Senate,"Passed Senate (Roll No. 333)",33,1,0,0,34
+1989438,1538172,2025-04-07,Senate,"Effective July 1, 2025 (Roll No. 334)",34,0,0,0,34
+1989438,1539499,2025-04-08,House,"House concurred in Senate effective date (Roll No. 412)",98,0,0,2,100
+1989471,1530188,2025-03-28,House,"Passed House (Roll No. 241)",91,0,0,9,100
+1989490,1515696,2025-03-12,Senate,"Passed Senate (Roll No. 101)",34,0,0,0,34
+1989490,1515697,2025-03-12,Senate,"Effective from passage (Roll No. 102)",34,0,0,0,34
+1989526,1527303,2025-03-26,Senate,"Passed Senate (Roll No. 187)",34,0,0,0,34
+1989526,1546013,2025-04-11,House,"Passed House (Roll No. 514)",94,0,0,6,100
+1989535,1528702,2025-03-27,House,"Passed House (Roll No. 218)",93,0,0,7,100
+1989535,1541047,2025-04-08,Senate,"Passed Senate with amended title (Roll No. 373)",33,0,0,1,34
+1989535,1544668,2025-04-10,House,"House concurred in Senate amendment and passed bill (Roll No. 491)",96,0,0,4,100
+1989538,1527395,2025-03-26,Senate,"Passed Senate (Roll No. 185)",33,1,0,0,34
+1989538,1527396,2025-03-26,Senate,"Effective from passage (Roll No. 186)",34,0,0,0,34
+1989547,1534977,2025-04-02,Senate,"Passed Senate (Roll No. 281)",27,7,0,0,34
+1989547,1534978,2025-04-02,Senate,"Effective July 1, 2025 (Roll No. 282)",34,0,0,0,34
+1989576,1530196,2025-03-28,House,"Passed House (Roll No. 243)",80,3,0,17,100
+1989586,1516877,2025-03-13,Senate,"Passed Senate (Roll No. 106)",34,0,0,0,34
+1990476,1531148,2025-03-31,Senate,"Passed Senate (Roll No. 248)",25,9,0,0,34
+1990512,1526054,2025-03-25,House,"Passed House (Roll No. 186)",96,1,0,3,100
+1990512,1543377,2025-04-10,Senate,"Passed Senate (Roll No. 440)",34,0,0,0,34
+1990572,1529059,2025-03-27,House,"Adopted by House (Roll No. 203)",95,0,0,5,100
+1990591,1519419,2025-03-18,Senate,"Passed Senate (Roll No. 125)",34,0,0,0,34
+1990596,1534323,2025-04-02,House,"Passed House (Roll No. 353)",97,3,0,0,100
+1990603,1530791,2025-03-31,House,"Passed House (Roll No. 275)",92,4,0,4,100
+1990603,1530792,2025-03-31,House,"Effective July 1, 2025 (Roll No. 276)",94,2,0,4,100
+1990603,1545614,2025-04-11,Senate,"Passed Senate (Roll No. 486)",34,0,0,0,34
+1990603,1545615,2025-04-11,Senate,"Effective July 1, 2025 (Roll No. 487)",34,0,0,0,34
+1990603,1546725,2025-04-12,House,"House concurred in Senate amendment (Roll No. 618)",67,25,0,8,100
+1990603,1546726,2025-04-12,House,"House concurred in Senate amend with amend, passed bill (Roll No. 618)",67,25,0,8,100
+1990603,1546727,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 596)",32,1,0,1,34
+1990603,1546728,2025-04-12,Senate,"Effective July 1, 2025 (Roll No. 597)",32,1,0,1,34
+1990633,1532118,2025-04-01,House,"Adopted by House (Roll No. 301)",98,0,0,2,100
+1990647,1524024,2025-03-21,House,"Passed House (Roll No. 143)",97,0,0,3,100
+1990662,1524718,2025-03-24,House,"Adopted by House (Roll No. 160)",97,0,0,3,100
+1990716,1524586,2025-03-24,House,"Adopted by House (Roll No. 159)",96,0,0,4,100
+1990839,1529935,2025-03-28,House,"Passed House (Roll No. 244)",85,1,0,14,100
+1990848,1529061,2025-03-27,House,"Passed House (Roll No. 219)",87,9,0,4,100
+1990864,1525988,2025-03-25,House,"Passed House (Roll No. 185)",86,12,0,2,100
+1990899,1529848,2025-03-28,Senate,"Passed Senate (Roll No. 210)",32,0,0,2,34
+1990902,1524047,2025-03-21,Senate,"Passed Senate (Roll No. 150)",34,0,0,0,34
+1990906,1530854,2025-03-31,House,"Passed House (Roll No. 277)",94,1,0,5,100
+1990906,1530855,2025-03-31,House,"Effective from passage (Roll No. 278)",93,0,0,7,100
+1990906,1543335,2025-04-10,Senate,"Passed Senate (Roll No. 438)",34,0,0,0,34
+1990906,1543336,2025-04-10,Senate,"Effective from passage (Roll No. 439)",34,0,0,0,34
+1990926,1531987,2025-04-01,Senate,"Passed Senate (Roll No. 263)",27,6,0,1,34
+1990926,1545843,2025-04-11,House,"Passed House (Roll No. 515)",51,45,0,4,100
+1990941,1524038,2025-03-21,House,"Passed House (Roll No. 141)",97,0,0,3,100
+1990941,1524039,2025-03-21,House,"Effective from passage (Roll No. 142)",97,0,0,3,100
+1990941,1546704,2025-04-12,Senate,"Passed Senate (Roll No. 589)",31,0,0,3,34
+1990941,1546705,2025-04-12,Senate,"Effective from passage (Roll No. 590)",32,0,0,2,34
+1990941,1546759,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 631)",97,0,0,3,100
+1990941,1546760,2025-04-12,House,"Effective from passage (Roll No. 632)",97,0,0,3,100
+1991603,1530059,2025-03-28,House,"Passed House (Roll No. 247)",88,2,0,10,100
+1991603,1546718,2025-04-12,Senate,"Passed Senate (Roll No. 603)",33,0,0,1,34
+1991633,1523984,2025-03-21,Senate,"Passed Senate (Roll No. 151)",34,0,0,0,34
+1991633,1546171,2025-04-11,House,"Passed House (Roll No. 516)",93,2,0,5,100
+1991633,1546722,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 577)",33,0,0,1,34
+1991642,1524056,2025-03-21,House,"Passed House (Roll No. 144)",97,0,0,3,100
+1991642,1541417,2025-04-09,Senate,"Passed Senate with amended title (Roll No. 406)",34,0,0,0,34
+1991642,1546658,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 607)",94,2,0,4,100
+1991656,1529909,2025-03-28,House,"Passed House (Roll No. 245)",86,2,0,12,100
+1991656,1541245,2025-04-08,Senate,"Passed Senate (Roll No. 374)",33,0,0,1,34
+1991656,1544350,2025-04-10,House,"House concurred in Senate amendment and passed bill (Roll No. 492)",96,0,0,4,100
+1991666,1530856,2025-03-31,House,"Passed House (Roll No. 279)",97,0,0,3,100
+1991666,1530857,2025-03-31,House,"Effective from passage (Roll No. 280)",97,0,0,3,100
+1991666,1541867,2025-04-09,Senate,"Passed Senate (Roll No. 404)",34,0,0,0,34
+1991666,1541868,2025-04-09,Senate,"Effective from passage (Roll No. 405)",33,0,0,1,34
+1991666,1546764,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 595)",91,4,0,5,100
+1991666,1546765,2025-04-12,House,"Effective from passage (Roll No. 597)",95,0,0,5,100
+1991689,1532555,2025-04-01,House,"Motion for previous question adopted (Roll No. 319)",62,34,0,4,100
+1991689,1532556,2025-04-01,House,"House rejected (Roll No. 320)",45,52,0,3,100
+1991712,1530887,2025-03-31,House,"Passed House (Roll No. 281)",96,0,0,4,100
+1991768,1530643,2025-03-29,Senate,"Passed Senate (Roll No. 224)",33,0,0,1,34
+1991768,1530644,2025-03-29,Senate,"Effective July 1, 2025 (Roll No. 225)",33,0,0,1,34
+1991789,1531997,2025-04-01,Senate,"Passed Senate (Roll No. 264)",33,0,0,1,34
+1991789,1531998,2025-04-01,Senate,"Effective July 1, 2025 (Roll No. 265)",33,0,0,1,34
+1991835,1527780,2025-03-26,Senate,"Passed Senate (Roll No. 189)",19,15,0,0,34
+1991881,1530176,2025-03-28,House,"Passed House (Roll No. 246)",88,0,0,12,100
+1991881,1541171,2025-04-08,Senate,"Passed Senate (Roll No. 375)",33,0,0,1,34
+1991890,1529939,2025-03-28,Senate,"Passed Senate (Roll No. 211)",32,0,0,2,34
+1991890,1529940,2025-03-28,Senate,"Effective from passage (Roll No. 212)",32,0,0,2,34
+1991912,1524652,2025-03-24,House,"Passed House (Roll No. 170)",84,9,0,7,100
+1991923,1520750,2025-03-19,House,"Passed House (Roll No. 115)",96,0,0,4,100
+1991923,1545426,2025-04-11,Senate,"Passed Senate (Roll No. 488)",34,0,0,0,34
+1991923,1546762,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 642)",98,0,0,2,100
+1993109,1522533,2025-03-20,House,"Passed House (Roll No. 127)",91,4,0,5,100
+1993130,1525976,2025-03-25,Senate,"Passed Senate (Roll No. 170)",34,0,0,0,34
+1993142,1530842,2025-03-31,Senate,"Passed Senate (Roll No. 249)",22,12,0,0,34
+1993151,1518105,2025-03-14,Senate,"Passed Senate (Roll No. 114)",31,0,0,3,34
+1993151,1538258,2025-04-07,House,"Passed House (Roll No. 404)",98,0,0,2,100
+1993151,1546593,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 555)",28,6,0,0,34
+1993151,1546994,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 554)",33,0,0,1,34
+1993168,1518117,2025-03-14,Senate,"Passed Senate (Roll No. 115)",32,0,0,2,34
+1993168,1538192,2025-04-07,House,"Passed House (Roll No. 405)",98,0,0,2,100
+1993168,1538193,2025-04-07,House,"Effective from passage (Roll No. 406)",98,0,0,2,100
+1993168,1539512,2025-04-08,Senate,"Effective from passage (Roll No. 349)",34,0,0,0,34
+1993182,1534957,2025-04-02,House,"Passed House (Roll No. 354)",100,0,0,0,100
+1993190,1523990,2025-03-21,House,"Passed House (Roll No. 145)",97,0,0,3,100
+1993190,1543313,2025-04-10,Senate,"Passed Senate (Roll No. 442)",34,0,0,0,34
+1993261,1522363,2025-03-20,House,"Passed House (Roll No. 128)",95,0,0,5,100
+1993261,1531461,2025-03-31,Senate,"Passed Senate (Roll No. 257)",34,0,0,0,34
+1993310,1518072,2025-03-14,Senate,"Passed Senate (Roll No. 116)",31,0,0,3,34
+1993310,1538399,2025-04-07,House,"Passed House (Roll No. 407)",98,0,0,2,100
+1993310,1538400,2025-04-07,House,"Effective from passage (Roll No. 408)",98,0,0,2,100
+1993310,1540182,2025-04-08,Senate,"Effective from passage (Roll No. 350)",33,0,0,1,34
+1993365,1530651,2025-03-29,Senate,"Passed Senate (Roll No. 226)",32,1,0,1,34
+1993365,1543699,2025-04-10,House,"Passed House (Roll No. 463)",79,16,0,5,100
+1993365,1546348,2025-04-11,Senate,"Senate concurred in House amendments and passed bill (Roll No. 520)",31,1,0,2,34
+1993396,1531072,2025-03-31,House,"Passed House (Roll No. 284)",97,1,0,2,100
+1993396,1531073,2025-03-31,House,"Effective July 1, 2025 (Roll No. 285)",97,0,0,3,100
+1993396,1545852,2025-04-11,Senate,"Passed Senate (Roll No. 491)",34,0,0,0,34
+1993396,1545853,2025-04-11,Senate,"Effective July 1, 2025 (Roll No. 492)",34,0,0,0,34
+1993396,1546639,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 608)",96,0,0,4,100
+1993396,1546640,2025-04-12,House,"Effective July 1, 2025 (Roll No. 609)",97,0,0,3,100
+1993422,1530841,2025-03-31,House,"Passed House (Roll No. 283)",97,0,0,3,100
+1993422,1545916,2025-04-11,Senate,"Passed Senate (Roll No. 490)",34,0,0,0,34
+1993422,1546763,2025-04-12,Senate,"Senate receded and passed (Roll No. 592)",33,0,0,1,34
+1993428,1529043,2025-03-27,House,"Passed House (Roll No. 220)",92,2,0,6,100
+1993428,1545611,2025-04-11,Senate,"Floor amendment rejected (Roll No. 489)",15,19,0,0,34
+1993458,1521046,2025-03-19,Senate,"Passed Senate (Roll No. 137)",27,6,0,1,34
+1993466,1530125,2025-03-28,House,"Motion to discharge committee rejected (Roll No. 231)",17,71,0,12,100
+1993486,1530798,2025-03-31,House,"Passed House (Roll No. 282)",97,0,0,3,100
+1993486,1543314,2025-04-10,Senate,"Passed Senate (Roll No. 441)",34,0,0,0,34
+1994483,1529093,2025-03-27,House,"Passed House (Roll No. 221)",76,17,0,7,100
+1994520,1530630,2025-03-29,Senate,"Passed Senate (Roll No. 227)",33,0,0,1,34
+1994542,1528809,2025-03-27,House,"Adopted by House (Roll No. 203)",95,0,0,5,100
+1994578,1525095,2025-03-24,House,"Adopted by House (Roll No. 160)",97,0,0,3,100
+1994584,1527406,2025-03-26,Senate,"Passed Senate (Roll No. 190)",34,0,0,0,34
+1994609,1534458,2025-04-02,Senate,"Passed Senate (Roll No. 284)",34,0,0,0,34
+1994632,1534392,2025-04-02,Senate,"Passed Senate (Roll No. 283)",34,0,0,0,34
+1994650,1523994,2025-03-21,House,"Passed House (Roll No. 146)",95,0,0,5,100
+1994650,1545817,2025-04-11,Senate,"Passed Senate with amended title (Roll No. 493)",34,0,0,0,34
+1994650,1546628,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 609)",97,0,0,3,100
+1994660,1528876,2025-03-27,House,"Adopted by House (Roll No. 203)",95,0,0,5,100
+1994691,1524946,2025-03-24,House,"Adopted by House (Roll No. 160)",97,0,0,3,100
+1995967,1523985,2025-03-21,House,"Passed House (Roll No. 147)",96,0,0,4,100
+1996001,1529846,2025-03-28,House,"Motion to discharge from Committee adopted (Roll No. 230)",75,15,0,10,100
+1996025,1533603,2025-04-01,House,"Passed House (Roll No. 321)",96,1,0,3,100
+1996025,1545514,2025-04-11,Senate,"Passed Senate (Roll No. 494)",34,0,0,0,34
+1996032,1534410,2025-04-02,Senate,"Rejected by Senate (Roll No. 285)",16,18,0,0,34
+1996050,1524600,2025-03-24,House,"Passed House (Roll No. 171)",92,1,0,7,100
+1996050,1543878,2025-04-10,Senate,"Passed Senate (Roll No. 444)",33,1,0,0,34
+1996058,1524656,2025-03-24,House,"Passed House (Roll No. 172)",90,4,0,6,100
+1996058,1544735,2025-04-10,Senate,"Passed Senate (Roll No. 445)",33,1,0,0,34
+1996074,1530731,2025-03-29,Senate,"Passed Senate (Roll No. 228)",33,0,0,1,34
+1996099,1531041,2025-03-31,House,"Passed House (Roll No. 287)",62,35,0,3,100
+1996099,1541117,2025-04-08,Senate,"Oliverio #2 floor amendments rejected (Roll No. 379)",14,19,0,1,34
+1996099,1541118,2025-04-08,Senate,"Oliverio #1 floor amendment rejected (Roll No. 380)",15,17,0,2,34
+1996099,1541526,2025-04-09,Senate,"Passed Senate (Roll No. 407)",19,15,0,0,34
+1996099,1541527,2025-04-09,Senate,"Effective from passage (Roll No. 408)",31,3,0,0,34
+1996099,1546662,2025-04-12,House,"House concurred in Senate effective date (Roll No. 598)",58,39,0,3,100
+1996099,1546663,2025-04-12,House,"Effective from passage (Roll No. 600)",77,20,0,3,100
+1996099,1558868,2025-04-12,House,"House concurred in Senate effective date (Roll No. 599)",68,29,0,3,100
+1996109,1530804,2025-03-31,House,"Passed House (Roll No. 286)",70,28,0,2,100
+1996119,1527284,2025-03-26,House,"Passed House (Roll No. 196)",93,4,0,3,100
+1996136,1526051,2025-03-25,House,"Passed House (Roll No. 187)",95,3,0,2,100
+1996136,1543563,2025-04-10,Senate,"Passed Senate (Roll No. 443)",34,0,0,0,34
+1996136,1546771,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 596)",87,8,0,5,100
+1996151,1524646,2025-03-24,House,"Passed House (Roll No. 173)",92,2,0,6,100
+1996151,1524647,2025-03-24,House,"Effective from passage (Roll No. 174)",93,1,0,6,100
+1996151,1541166,2025-04-08,Senate,"Passed Senate (Roll No. 376)",33,0,0,1,34
+1996151,1546772,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 610)",97,0,0,3,100
+1999444,1522461,2025-03-20,Senate,"Passed Senate (Roll No. 142)",29,5,0,0,34
+1999444,1544732,2025-04-10,House,"Passed House (Roll No. 464)",93,4,0,3,100
+1999451,1528719,2025-03-27,House,"Adopted by House (Roll No. 204)",95,0,0,5,100
+1999463,1523978,2025-03-21,House,"Passed House (Roll No. 148)",86,10,0,4,100
+1999463,1546265,2025-04-11,Senate,"Passed Senate (Roll No. 495)",25,9,0,0,34
+1999463,1546515,2025-04-12,House,"House concurred in Senate amend with amend, passed bill (Roll No. 564)",87,7,0,6,100
+1999463,1546715,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 586)",27,6,0,1,34
+1999490,1528795,2025-03-27,House,"Adopted by House (Roll No. 203)",95,0,0,5,100
+1999498,1528857,2025-03-27,House,"Adopted by House (Roll No. 203)",95,0,0,5,100
+1999557,1522623,2025-03-20,Senate,"Passed Senate (Roll No. 140)",34,0,0,0,34
+1999557,1522624,2025-03-20,Senate,"Effective July 1, 2025 (Roll No. 141)",34,0,0,0,34
+1999560,1524049,2025-03-21,Senate,"Passed Senate (Roll No. 152)",34,0,0,0,34
+1999560,1524050,2025-03-21,Senate,"Effective from passage (Roll No. 153)",34,0,0,0,34
+1999571,1522555,2025-03-20,Senate,"Passed Senate (Roll No. 143)",34,0,0,0,34
+1999571,1542169,2025-04-09,House,"Passed House (Roll No. 434)",96,0,0,4,100
+1999571,1544411,2025-04-10,Senate,"Senate concurred in House amendments and passed bill (Roll No. 460)",28,4,0,2,34
+1999609,1522601,2025-03-20,Senate,"Passed Senate (Roll No. 144)",25,9,0,0,34
+1999609,1544765,2025-04-10,House,"Passed House (Roll No. 465)",96,1,0,3,100
+1999632,1529367,2025-03-27,House,"Adopted by House (Roll No. 203)",95,0,0,5,100
+1999637,1530211,2025-03-28,House,"Passed House (Roll No. 248)",89,1,0,10,100
+1999637,1530212,2025-03-28,House,"Effective July 1, 2025 (Roll No. 249)",82,8,0,10,100
+1999642,1525965,2025-03-25,House,"Passed House (Roll No. 188)",98,0,0,2,100
+1999642,1537193,2025-04-04,Senate,"Passed Senate (Roll No. 315)",31,2,0,1,34
+1999642,1538139,2025-04-07,House,"House concurred in Senate amendment and passed bill (Roll No. 399)",97,0,0,3,100
+1999657,1525894,2025-03-25,House,"Motion to table discharge from committee adopted (Roll No. 178)",63,32,0,5,100
+1999666,1535648,2025-04-03,House,"Adopted by House (Roll No. 366)",95,0,0,5,100
+1999666,1535649,2025-04-03,Senate,"Adopted by Senate (Roll No. 300)",34,0,0,0,34
+1999692,1529118,2025-03-27,House,"Amendment rejected (Roll No. 226)",24,64,0,12,100
+1999692,1530172,2025-03-28,House,"Passed House (Roll No. 250)",82,9,0,9,100
+2001037,1516885,2025-03-13,Senate,"Adopted (Roll No. 105)",33,1,0,0,34
+2001610,1525434,2025-03-24,Senate,"Passed Senate (Roll No. 160)",33,0,0,1,34
+2001610,1525435,2025-03-24,Senate,"Effective July 1, 2025 (Roll No. 161)",33,0,0,1,34
+2002748,1530799,2025-03-31,House,"Passed House (Roll No. 259)",97,2,0,1,100
+2003031,1530627,2025-03-29,Senate,"Passed Senate (Roll No. 229)",33,0,0,1,34
+2003031,1530628,2025-03-29,Senate,"Effective from passage (Roll No. 230)",33,0,0,1,34
+2004313,1531930,2025-04-01,Senate,"Motion to refer bill to Rules adopted (Roll No. 266)",22,11,0,1,34
+2005611,1524887,2025-03-24,House,"Passed House (Roll No. 175)",94,1,0,5,100
+2005611,1545870,2025-04-11,Senate,"Passed Senate (Roll No. 496)",33,0,0,1,34
+2005618,1534789,2025-04-02,House,"Passed House (Roll No. 357)",100,0,0,0,100
+2005618,1534790,2025-04-02,House,"Effective from passage (Roll No. 358)",100,0,0,0,100
+2005618,1541899,2025-04-09,Senate,"Passed Senate (Roll No. 412)",34,0,0,0,34
+2005618,1541900,2025-04-09,Senate,"Effective from passage (Roll No. 413)",34,0,0,0,34
+2005638,1533602,2025-04-01,House,"Passed House (Roll No. 326)",97,1,0,2,100
+2005638,1538090,2025-04-07,Senate,"Passed Senate (Roll No. 339)",34,0,0,0,34
+2005638,1538091,2025-04-07,Senate,"Effective from passage (Roll No. 340)",34,0,0,0,34
+2005647,1530884,2025-03-31,House,"Passed House (Roll No. 292)",95,0,0,5,100
+2005647,1530885,2025-03-31,House,"Effective from passage (Roll No. 293)",95,0,0,5,100
+2005647,1537125,2025-04-04,Senate,"Passed Senate (Roll No. 320)",33,0,0,1,34
+2005647,1537126,2025-04-04,Senate,"Effective from passage (Roll No. 321)",33,0,0,1,34
+2005652,1543306,2025-04-10,House,"Passed House (Roll No. 480)",98,0,0,2,100
+2005652,1543307,2025-04-10,House,"Effective from passage (Roll No. 481)",97,0,0,3,100
+2005652,1546574,2025-04-12,Senate,"Constitutional Rule Suspended (Roll No. 572)",34,0,0,0,34
+2005652,1546575,2025-04-12,Senate,"Passed Senate (Roll No. 573)",34,0,0,0,34
+2005652,1546576,2025-04-12,Senate,"Effective from passage (Roll No. 574)",34,0,0,0,34
+2005659,1523979,2025-03-21,Senate,"Passed Senate (Roll No. 154)",34,0,0,0,34
+2005659,1541375,2025-04-09,House,"Amendment rejected (Roll No. 439)",41,56,0,3,100
+2005659,1543592,2025-04-10,House,"Passed House (Roll No. 466)",97,0,0,3,100
+2005669,1534807,2025-04-02,House,"Passed House (Roll No. 355)",99,0,0,1,100
+2005669,1534808,2025-04-02,House,"Effective from passage (Roll No. 356)",99,0,0,1,100
+2005669,1541997,2025-04-09,Senate,"Passed Senate (Roll No. 410)",34,0,0,0,34
+2005669,1541998,2025-04-09,Senate,"Effective from passage (Roll No. 411)",34,0,0,0,34
+2005690,1533632,2025-04-01,House,"Passed House (Roll No. 324)",98,0,0,2,100
+2005690,1533633,2025-04-01,House,"Effective from passage (Roll No. 325)",99,0,0,1,100
+2005690,1538765,2025-04-07,Senate,"Passed Senate (Roll No. 337)",34,0,0,0,34
+2005690,1538766,2025-04-07,Senate,"Effective from passage (Roll No. 338)",34,0,0,0,34
+2005727,1533614,2025-04-01,House,"Passed House (Roll No. 322)",96,1,0,3,100
+2005727,1533615,2025-04-01,House,"Effective from passage (Roll No. 323)",97,0,0,3,100
+2005727,1538132,2025-04-07,Senate,"Passed Senate (Roll No. 335)",34,0,0,0,34
+2005727,1538133,2025-04-07,Senate,"Effective from passage (Roll No. 336)",34,0,0,0,34
+2005737,1530148,2025-03-28,House,"Passed House (Roll No. 251)",81,10,0,9,100
+2005737,1541675,2025-04-09,Senate,"Passed Senate (Roll No. 409)",34,0,0,0,34
+2005767,1530795,2025-03-31,House,"Passed House (Roll No. 290)",92,0,0,8,100
+2005767,1530796,2025-03-31,House,"Effective from passage (Roll No. 291)",94,0,0,6,100
+2005767,1537127,2025-04-04,Senate,"Passed Senate (Roll No. 318)",33,0,0,1,34
+2005767,1537128,2025-04-04,Senate,"Effective from passage (Roll No. 319)",33,0,0,1,34
+2005777,1524621,2025-03-24,House,"Passed House (Roll No. 176)",96,0,0,4,100
+2005777,1545467,2025-04-11,Senate,"Passed Senate (Roll No. 497)",34,0,0,0,34
+2005782,1530728,2025-03-29,Senate,"Passed Senate (Roll No. 231)",25,8,0,1,34
+2005782,1544073,2025-04-10,House,"Motion shall the bill be rejected failed (Roll No. 494)",46,50,0,4,100
+2005798,1546108,2025-04-11,House,"Passed House (Roll No. 538)",96,0,0,4,100
+2005798,1546109,2025-04-11,House,"Effective from passage (Roll No. 539)",98,0,0,2,100
+2005798,1546672,2025-04-12,Senate,"Constitutional Rule Suspended (Roll No. 532)",34,0,0,0,34
+2005798,1546673,2025-04-12,Senate,"Passed Senate (Roll No. 533)",34,0,0,0,34
+2005798,1546674,2025-04-12,Senate,"Effective from passage (Roll No. 534)",34,0,0,0,34
+2005832,1545950,2025-04-11,House,"Passed House (Roll No. 542)",99,0,0,1,100
+2005832,1545951,2025-04-11,House,"Effective from passage (Roll No. 543)",99,0,0,1,100
+2005832,1546623,2025-04-12,Senate,"Constitutional Rule Suspended (Roll No. 538)",34,0,0,0,34
+2005832,1546624,2025-04-12,Senate,"Passed Senate (Roll No. 539)",34,0,0,0,34
+2005832,1546625,2025-04-12,Senate,"Effective from passage (Roll No. 540)",34,0,0,0,34
+2005838,1530806,2025-03-31,House,"Passed House (Roll No. 288)",87,4,0,9,100
+2005838,1530807,2025-03-31,House,"Effective from passage (Roll No. 289)",89,3,0,8,100
+2005838,1537443,2025-04-04,Senate,"Passed Senate (Roll No. 316)",33,0,0,1,34
+2005838,1537444,2025-04-04,Senate,"Effective from passage (Roll No. 317)",33,0,0,1,34
+2005861,1527427,2025-03-26,House,"Passed House (Roll No. 198)",96,2,0,2,100
+2005891,1527852,2025-03-26,House,"Passed House (Roll No. 197)",92,5,0,3,100
+2005898,1533607,2025-04-01,House,"Passed House (Roll No. 328)",97,1,0,2,100
+2005898,1533608,2025-04-01,House,"Effective from passage (Roll No. 329)",97,1,0,2,100
+2005898,1538406,2025-04-07,Senate,"Passed Senate (Roll No. 341)",34,0,0,0,34
+2005898,1538407,2025-04-07,Senate,"Effective from passage (Roll No. 342)",34,0,0,0,34
+2005906,1543574,2025-04-10,House,"Passed House (Roll No. 476)",76,21,0,3,100
+2005906,1543575,2025-04-10,House,"Effective June 30, 2025 (Roll No. 477)",82,15,0,3,100
+2005906,1546645,2025-04-12,Senate,"Constitutional Rule Suspended (Roll No. 566)",32,2,0,0,34
+2005906,1546646,2025-04-12,Senate,"Passed Senate (Roll No. 567)",32,2,0,0,34
+2005906,1546647,2025-04-12,Senate,"Effective from passage (Roll No. 568)",32,2,0,0,34
+2005906,1546648,2025-04-12,House,"House reconsidered effective date and passage (Roll No. 617)",78,17,0,5,100
+2005915,1524641,2025-03-24,Senate,"Passed Senate (Roll No. 162)",33,0,0,1,34
+2005915,1546317,2025-04-11,House,"Passed House (Roll No. 517)",93,3,0,4,100
+2005927,1533625,2025-04-01,House,"Passed House (Roll No. 330)",98,0,0,2,100
+2005927,1533626,2025-04-01,House,"Effective from passage (Roll No. 331)",97,0,0,3,100
+2005927,1538182,2025-04-07,Senate,"Passed Senate (Roll No. 343)",34,0,0,0,34
+2005927,1538183,2025-04-07,Senate,"Effective from passage (Roll No. 344)",34,0,0,0,34
+2005943,1544299,2025-04-10,House,"Passed House (Roll No. 478)",97,0,0,3,100
+2005943,1544300,2025-04-10,House,"Effective from passage (Roll No. 479)",97,0,0,3,100
+2005943,1546659,2025-04-12,Senate,"Constitutional Rule Suspended (Roll No. 569)",34,0,0,0,34
+2005943,1546660,2025-04-12,Senate,"Passed Senate (Roll No. 570)",34,0,0,0,34
+2005943,1546661,2025-04-12,Senate,"Effective from passage (Roll No. 571)",34,0,0,0,34
+2005949,1543290,2025-04-10,House,"Motion to table motion to postpone indefinately (Roll No. 472)",78,20,0,2,100
+2005949,1543291,2025-04-10,House,"Motion for previous question adopted (Roll No. 473)",36,62,0,2,100
+2005949,1543292,2025-04-10,House,"Passed House (Roll No. 474)",75,21,0,4,100
+2005949,1543293,2025-04-10,House,"Effective 6/30/2025 (Roll No. 475)",81,14,0,5,100
+2005949,1546569,2025-04-12,Senate,"Constitutional Rule Suspended (Roll No. 563)",32,2,0,0,34
+2005949,1546570,2025-04-12,Senate,"Passed Senate (Roll No. 564)",32,2,0,0,34
+2005949,1546571,2025-04-12,Senate,"Effective from passage (Roll No. 565)",32,2,0,0,34
+2005949,1546702,2025-04-12,House,"House reconsidered effective date and passage (Roll No. 616)",80,14,0,6,100
+2005962,1546267,2025-04-11,House,"Passed House (Roll No. 540)",99,0,0,1,100
+2005962,1546268,2025-04-11,House,"Effective from passage (Roll No. 541)",99,0,0,1,100
+2005962,1546711,2025-04-12,Senate,"Constitutional Rule Suspended (Roll No. 535)",34,0,0,0,34
+2005962,1546712,2025-04-12,Senate,"Passed Senate (Roll No. 536)",34,0,0,0,34
+2005962,1546713,2025-04-12,Senate,"Effective from passage (Roll No. 537)",34,0,0,0,34
+2007149,1526462,2025-03-25,House,"Motion to table rejected (Roll No. 190)",43,52,0,5,100
+2007303,1528875,2025-03-27,House,"Adopted by House (Roll No. 203)",95,0,0,5,100
+2007760,1531684,2025-03-31,House,"Passed House (Roll No. 294)",82,6,0,12,100
+2007760,1544065,2025-04-10,Senate,"Passed Senate (Roll No. 446)",33,1,0,0,34
+2007760,1545968,2025-04-11,House,"House concurred in Senate amendment and passed bill (Roll No. 558)",89,9,0,2,100
+2008019,1546147,2025-04-11,House,"Passed House (Roll No. 544)",99,0,0,1,100
+2008019,1546148,2025-04-11,House,"Effective from passage (Roll No. 545)",99,0,0,1,100
+2008019,1546677,2025-04-12,Senate,"Constitutional Rule Suspended (Roll No. 541)",34,0,0,0,34
+2008019,1546678,2025-04-12,Senate,"Passed Senate (Roll No. 542)",34,0,0,0,34
+2008019,1546679,2025-04-12,Senate,"Effective from passage (Roll No. 543)",34,0,0,0,34
+2008061,1533612,2025-04-01,House,"Passed House (Roll No. 332)",97,0,0,3,100
+2008061,1533613,2025-04-01,House,"Effective from passage (Roll No. 333)",97,0,0,3,100
+2008061,1538544,2025-04-07,Senate,"Passed Senate (Roll No. 345)",34,0,0,0,34
+2008061,1538545,2025-04-07,Senate,"Effective from passage (Roll No. 346)",34,0,0,0,34
+2008149,1530653,2025-03-29,Senate,"Passed Senate (Roll No. 222)",33,0,0,1,34
+2008674,1530013,2025-03-28,House,"Passed House (Roll No. 252)",91,0,0,9,100
+2008674,1545960,2025-04-11,Senate,"Passed Senate (Roll No. 506)",34,0,0,0,34
+2008694,1527299,2025-03-26,House,"Amendment rejected (Roll No. 201)",20,71,0,9,100
+2008694,1529147,2025-03-27,House,"Passed House (Roll No. 222)",89,3,0,8,100
+2008694,1546388,2025-04-11,Senate,"Passed Senate (Roll No. 505)",34,0,0,0,34
+2008703,1533623,2025-04-01,House,"Passed House (Roll No. 334)",86,11,0,3,100
+2008703,1533624,2025-04-01,House,"Effective from passage (Roll No. 335)",85,11,0,4,100
+2008703,1545909,2025-04-11,Senate,"Passed Senate (Roll No. 501)",34,0,0,0,34
+2008703,1545910,2025-04-11,Senate,"Effective from passage (Roll No. 502)",34,0,0,0,34
+2008703,1546611,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 611)",93,5,0,2,100
+2008703,1546612,2025-04-12,House,"Effective from passage (Roll No. 612)",98,0,0,2,100
+2008716,1529085,2025-03-27,House,"Passed House (Roll No. 223)",92,0,0,8,100
+2008716,1541831,2025-04-09,Senate,"Passed Senate (Roll No. 415)",34,0,0,0,34
+2008725,1530828,2025-03-31,Senate,"Passed Senate (Roll No. 250)",34,0,0,0,34
+2008730,1530862,2025-03-31,House,"Passed House (Roll No. 297)",93,2,0,5,100
+2008730,1541727,2025-04-09,Senate,"Passed Senate with amended title (Roll No. 414)",34,0,0,0,34
+2008730,1546586,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 601)",95,1,0,4,100
+2008731,1534413,2025-04-02,Senate,"Passed Senate (Roll No. 286)",34,0,0,0,34
+2008731,1546092,2025-04-11,House,"Passed House (Roll No. 518)",83,13,0,4,100
+2008732,1530718,2025-03-29,Senate,"Passed Senate (Roll No. 232)",33,0,0,1,34
+2008732,1541946,2025-04-09,House,"Passed House (Roll No. 435)",93,0,0,7,100
+2008732,1546618,2025-04-12,House,"House receded (Roll No. 602)",59,39,0,2,100
+2008753,1533451,2025-04-01,House,"Passed House (Roll No. 337)",96,1,0,3,100
+2008753,1542673,2025-04-09,Senate,"Floor amendment rejected (Roll No. 416)",13,16,0,5,34
+2008753,1543284,2025-04-10,Senate,"Passed Senate (Roll No. 447)",18,15,0,1,34
+2008760,1530832,2025-03-31,House,"Passed House (Roll No. 260)",69,30,0,1,100
+2008760,1530833,2025-03-31,House,"Effective July 1, 2025 (Roll No. 261)",76,22,0,2,100
+2008760,1539358,2025-04-08,Senate,"Passed Senate (Roll No. 358)",24,10,0,0,34
+2008760,1539359,2025-04-08,Senate,"Effective July 1, 2025 (Roll No. 359)",34,0,0,0,34
+2008760,1541471,2025-04-09,House,"House concurred in Senate amendment and passed bill (Roll No. 423)",70,27,0,3,100
+2008760,1541472,2025-04-09,House,"Effective July 1, 2025 (Roll No. 424)",76,21,0,3,100
+2008773,1532864,2025-04-01,House,"Passed House (Roll No. 336)",62,35,0,3,100
+2008778,1530863,2025-03-31,House,"Passed House (Roll No. 295)",93,0,0,7,100
+2008778,1540988,2025-04-08,Senate,"Passed Senate (Roll No. 377)",33,0,0,1,34
+2008778,1544512,2025-04-10,House,"House concurred in Senate amendment and passed bill (Roll No. 493)",96,0,0,4,100
+2008852,1534352,2025-04-02,House,"Passed House (Roll No. 359)",58,42,0,0,100
+2008852,1545631,2025-04-11,Senate,"Passed Senate (Roll No. 503)",25,9,0,0,34
+2008855,1530893,2025-03-31,House,"Passed House (Roll No. 296)",95,0,0,5,100
+2008855,1545823,2025-04-11,Senate,"Passed Senate (Roll No. 504)",34,0,0,0,34
+2008887,1519368,2025-03-18,Senate,"Adopted (Roll No. 121)",33,0,0,1,34
+2008932,1527374,2025-03-26,House,"Passed House (Roll No. 199)",98,0,0,2,100
+2009065,1527350,2025-03-26,House,"Passed House (Roll No. 200)",98,0,0,2,100
+2009298,1534391,2025-04-02,House,"Passed House (Roll No. 360)",75,24,0,1,100
+2009667,1532340,2025-04-01,House,"Passed House (Roll No. 308)",88,12,0,0,100
+2009667,1546158,2025-04-11,Senate,"Passed Senate (Roll No. 516)",32,1,0,1,34
+2009667,1546595,2025-04-12,House,"Motion for previous question adopted (Roll No. 574)",67,31,0,2,100
+2009667,1546596,2025-04-12,House,"House concurred in Senate amend with amend, passed bill (Roll No. 575)",82,16,0,2,100
+2009667,1546732,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 591)",32,1,0,1,34
+2009688,1529198,2025-03-27,House,"Adopted by House (Roll No. 203)",95,0,0,5,100
+2009739,1534075,2025-04-02,House,"Passed House (Roll No. 340)",93,7,0,0,100
+2009789,1530421,2025-03-28,House,"Passed House (Roll No. 253)",81,10,0,9,100
+2009789,1545974,2025-04-11,Senate,"Passed Senate with amended title (Roll No. 507)",22,12,0,0,34
+2009789,1546767,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 581)",86,12,0,2,100
+2009809,1530715,2025-03-29,Senate,"Passed Senate (Roll No. 233)",30,3,0,1,34
+2009859,1520963,2025-03-19,Senate,"Adopted (Roll No. 130)",33,0,0,1,34
+2009907,1526099,2025-03-25,Senate,"Passed Senate (Roll No. 171)",34,0,0,0,34
+2009907,1526100,2025-03-25,Senate,"Effective January 1, 2026 (Roll No. 172)",34,0,0,0,34
+2009907,1545955,2025-04-11,House,"Passed House (Roll No. 519)",96,0,0,4,100
+2009907,1545956,2025-04-11,House,"Effective January 1, 2026 (Roll No. 526)",98,1,0,1,100
+2010772,1528844,2025-03-27,Senate,"Passed Senate (Roll No. 195)",33,0,0,1,34
+2010772,1528846,2025-03-27,Senate,"Effective from passage (Roll No. 196)",33,0,0,1,34
+2010795,1530635,2025-03-29,Senate,"Passed Senate (Roll No. 234)",33,0,0,1,34
+2010795,1539366,2025-04-08,House,"Passed House (Roll No. 419)",80,19,0,1,100
+2011484,1529092,2025-03-27,Senate,"Passed Senate (Roll No. 201)",32,0,0,2,34
+2011484,1546689,2025-04-12,House,"Passed House (Roll No. 566)",91,0,0,9,100
+2011486,1529210,2025-03-27,Senate,"Passed Senate (Roll No. 200)",31,0,0,3,34
+2011519,1530734,2025-03-29,Senate,"Passed Senate (Roll No. 235)",33,0,0,1,34
+2011519,1530735,2025-03-29,Senate,"Effective from passage (Roll No. 236)",33,0,0,1,34
+2011519,1546103,2025-04-11,House,"Passed House (Roll No. 523)",98,0,0,2,100
+2011519,1546104,2025-04-11,House,"Effective from passage (Roll No. 528)",99,0,0,1,100
+2011522,1528582,2025-03-27,Senate,"Passed Senate (Roll No. 197)",33,0,0,1,34
+2011522,1530952,2025-03-31,House,"Passed House (Roll No. 257)",99,0,0,1,100
+2011528,1529027,2025-03-27,Senate,"Passed Senate (Roll No. 198)",31,0,0,3,34
+2011528,1545918,2025-04-11,House,"Passed House (Roll No. 521)",88,10,0,2,100
+2011528,1545919,2025-04-11,House,"Effective from passage (Roll No. 522)",92,6,0,2,100
+2011528,1546615,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 578)",31,2,0,1,34
+2011528,1546616,2025-04-12,Senate,"Effective from passage (Roll No. 579)",33,0,0,1,34
+2011533,1526276,2025-03-25,House,"Passed House (Roll No. 189)",90,8,0,2,100
+2011533,1545883,2025-04-11,Senate,"Passed Senate (Roll No. 510)",34,0,0,0,34
+2011539,1533311,2025-04-01,Senate,"Passed Senate (Roll No. 268)",33,0,0,1,34
+2011544,1534705,2025-04-02,Senate,"Passed Senate (Roll No. 287)",34,0,0,0,34
+2011565,1531996,2025-04-01,Senate,"Passed Senate (Roll No. 267)",33,0,0,1,34
+2011565,1537425,2025-04-04,House,"Passed House (Roll No. 394)",90,7,0,3,100
+2011622,1529851,2025-03-28,Senate,"Passed Senate (Roll No. 213)",32,0,0,2,34
+2011622,1543311,2025-04-10,House,"Passed House (Roll No. 467)",86,11,0,3,100
+2011632,1529063,2025-03-27,Senate,"Passed Senate (Roll No. 199)",31,0,0,3,34
+2011634,1530733,2025-03-29,Senate,"Passed Senate (Roll No. 237)",29,4,0,1,34
+2011634,1546390,2025-04-11,House,"Passed House (Roll No. 524)",90,9,0,1,100
+2011634,1546766,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 555)",28,6,0,0,34
+2012272,1528808,2025-03-27,Senate,"Passed Senate (Roll No. 206)",24,9,0,1,34
+2012287,1529206,2025-03-27,Senate,"Passed Senate (Roll No. 204)",33,0,0,1,34
+2012287,1542093,2025-04-09,House,"Passed House (Roll No. 438)",97,0,0,3,100
+2012298,1529105,2025-03-27,Senate,"Passed Senate (Roll No. 203)",33,0,0,1,34
+2012298,1542180,2025-04-09,House,"Passed House (Roll No. 437)",96,0,0,4,100
+2012305,1533330,2025-04-01,Senate,"Passed Senate (Roll No. 269)",20,13,0,1,34
+2012315,1530847,2025-03-31,Senate,"Passed Senate (Roll No. 251)",33,1,0,0,34
+2012317,1530739,2025-03-29,Senate,"Passed Senate (Roll No. 238)",33,0,0,1,34
+2012317,1530740,2025-03-29,Senate,"Effective July 1, 2025 (Roll No. 239)",33,0,0,1,34
+2012327,1528762,2025-03-27,Senate,"Passed Senate (Roll No. 205)",33,0,0,1,34
+2012342,1528854,2025-03-27,Senate,"Passed Senate (Roll No. 202)",33,0,0,1,34
+2012342,1542349,2025-04-09,House,"Passed House (Roll No. 436)",96,0,0,4,100
+2012345,1529885,2025-03-28,Senate,"Passed Senate (Roll No. 214)",32,0,0,2,34
+2012345,1545803,2025-04-11,House,"Passed House (Roll No. 525)",99,0,0,1,100
+2012345,1546619,2025-04-12,Senate,"Senate amended House amendment and passed bill (Roll No. 584)",33,0,0,1,34
+2012355,1529197,2025-03-27,Senate,"Passed Senate (Roll No. 207)",33,0,0,1,34
+2012355,1544529,2025-04-10,House,"Passed House (Roll No. 468)",97,0,0,3,100
+2012886,1528606,2025-03-27,House,"Passed House (Roll No. 224)",84,9,0,7,100
+2012886,1545887,2025-04-11,Senate,"Passed Senate (Roll No. 509)",31,3,0,0,34
+2012886,1546654,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 582)",84,13,0,3,100
+2012891,1530736,2025-03-29,Senate,"Passed Senate (Roll No. 241)",31,2,0,1,34
+2012891,1544607,2025-04-10,House,"Passed House (Roll No. 469)",85,10,0,5,100
+2012891,1546701,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 580)",31,2,0,1,34
+2012899,1534365,2025-04-02,Senate,"Passed Senate (Roll No. 288)",34,0,0,0,34
+2012899,1546004,2025-04-11,House,"Passed House (Roll No. 527)",99,0,0,1,100
+2012906,1533981,2025-04-02,Senate,"Passed Senate (Roll No. 291)",25,9,0,0,34
+2012933,1534028,2025-04-02,Senate,"Passed Senate (Roll No. 289)",34,0,0,0,34
+2012933,1546186,2025-04-11,House,"Passed House (Roll No. 530)",92,7,0,1,100
+2012933,1546601,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 556)",34,0,0,0,34
+2012936,1527769,2025-03-26,Senate,"Passed Senate (Roll No. 191)",34,0,0,0,34
+2012944,1530843,2025-03-31,Senate,"Rejected by Senate (Roll No. 254)",13,21,0,0,34
+2012946,1530831,2025-03-31,Senate,"Passed Senate (Roll No. 253)",34,0,0,0,34
+2012956,1530719,2025-03-29,Senate,"Passed Senate (Roll No. 240)",31,2,0,1,34
+2013000,1530836,2025-03-31,Senate,"Passed Senate (Roll No. 252)",34,0,0,0,34
+2013014,1530140,2025-03-28,Senate,"Passed Senate (Roll No. 215)",21,11,0,2,34
+2013014,1530141,2025-03-28,Senate,"Effective July 1, 2025 (Roll No. 216)",32,0,0,2,34
+2013091,1532102,2025-04-01,Senate,"Passed Senate (Roll No. 270)",33,0,0,1,34
+2013091,1546184,2025-04-11,House,"Passed House (Roll No. 529)",98,0,0,2,100
+2013114,1533986,2025-04-02,Senate,"Passed Senate (Roll No. 290)",32,2,0,0,34
+2013114,1545806,2025-04-11,House,"Passed House (Roll No. 531)",84,15,0,1,100
+2013114,1545807,2025-04-11,House,"Effective from passage (Roll No. 532)",86,13,0,1,100
+2013114,1546621,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 557)",33,1,0,0,34
+2013114,1546622,2025-04-12,Senate,"Effective from passage (Roll No. 558)",34,0,0,0,34
+2013780,1529946,2025-03-28,House,"Passed House (Roll No. 254)",83,7,0,10,100
+2013780,1529947,2025-03-28,House,"Effective July 1, 2025 (Roll No. 255)",84,4,0,12,100
+2013813,1530886,2025-03-31,House,"Passed House (Roll No. 298)",95,0,0,5,100
+2013884,1542505,2025-04-09,Senate,"Passed Senate (Roll No. 382)",34,0,0,0,34
+2013884,1542506,2025-04-09,Senate,"Effective from passage (Roll No. 383)",34,0,0,0,34
+2015712,1532248,2025-04-01,Senate,"Passed Senate (Roll No. 271)",34,0,0,0,34
+2015712,1532249,2025-04-01,Senate,"Effective from passage (Roll No. 272)",34,0,0,0,34
+2015712,1543383,2025-04-10,House,"Passed House (Roll No. 470)",96,1,0,3,100
+2015712,1543384,2025-04-10,House,"Effective from passage (Roll No. 471)",97,0,0,3,100
+2015712,1546233,2025-04-11,Senate,"Senate amended House amendment and passed bill (Roll No. 521)",32,0,0,2,34
+2015712,1546234,2025-04-11,Senate,"Effective from passage (Roll No. 522)",32,0,0,2,34
+2016017,1532563,2025-04-01,Senate,"Passed Senate (Roll No. 273)",32,2,0,0,34
+2016017,1546105,2025-04-11,House,"Passed House (Roll No. 533)",84,13,0,3,100
+2016042,1542242,2025-04-09,House,"Adopted by House (Roll No. 429)",99,0,0,1,100
+2016067,1530743,2025-03-29,Senate,"Adopted by Senate (Roll No. 242)",33,0,0,1,34
+2016319,1534045,2025-04-02,House,"Passed House (Roll No. 364)",97,0,0,3,100
+2016319,1543328,2025-04-10,Senate,"Passed Senate (Roll No. 448)",34,0,0,0,34
+2016381,1534146,2025-04-02,House,"Passed House (Roll No. 363)",97,0,0,3,100
+2016510,1534029,2025-04-02,House,"Passed House (Roll No. 361)",67,33,0,0,100
+2016510,1534030,2025-04-02,House,"Effective August 1, 2025 (Roll No. 362)",71,28,0,1,100
+2016510,1545860,2025-04-11,Senate,"Passed Senate (Roll No. 511)",32,2,0,0,34
+2016510,1545861,2025-04-11,Senate,"Effective August 1, 2025 (Roll No. 512)",33,1,0,0,34
+2016510,1546749,2025-04-12,House,"House concurred in Senate amendment and passed bill (Roll No. 634)",71,27,0,2,100
+2016669,1534321,2025-04-02,Senate,"Passed Senate (Roll No. 292)",33,1,0,0,34
+2016669,1534322,2025-04-02,Senate,"Effective from passage (Roll No. 293)",34,0,0,0,34
+2016669,1546084,2025-04-11,House,"Passed House (Roll No. 534)",97,0,0,3,100
+2016669,1546085,2025-04-11,House,"Effective from passage (Roll No. 535)",96,0,0,4,100
+2016669,1546565,2025-04-12,Senate,"Passed Senate (Roll No. 559)",33,1,0,0,34
+2016669,1546566,2025-04-12,Senate,"Effective from passage (Roll No. 560)",34,0,0,0,34
+2016672,1534246,2025-04-02,Senate,"Passed Senate (Roll No. 294)",30,4,0,0,34
+2016672,1534247,2025-04-02,Senate,"Effective from passage (Roll No. 295)",31,3,0,0,34
+2016672,1545963,2025-04-11,House,"Passed House (Roll No. 536)",97,0,0,3,100
+2016672,1545964,2025-04-11,House,"Effective from passage (Roll No. 537)",98,0,0,2,100
+2016672,1546656,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 561)",34,0,0,0,34
+2016672,1546657,2025-04-12,Senate,"Effective from passage (Roll No. 562)",34,0,0,0,34
+2016933,1534706,2025-04-02,House,"Passed House (Roll No. 365)",97,0,0,3,100
+2016933,1546219,2025-04-11,Senate,"Passed Senate with amended title (Roll No. 513)",34,0,0,0,34
+2016933,1546699,2025-04-12,House,"House concurred in Senate amend with amend, passed bill (Roll No. 613)",94,1,0,5,100
+2016933,1546700,2025-04-12,Senate,"Senate concurred in House amendments and passed bill (Roll No. 593)",33,0,0,1,34
+2017532,1534254,2025-04-02,Senate,"Passed Senate (Roll No. 296)",34,0,0,0,34
+2017674,1537188,2025-04-04,House,"Passed House (Roll No. 394)",90,7,0,3,100
+2017674,1537189,2025-04-04,House,"Effective from passage (Roll No. 395)",91,6,0,3,100
+2017814,1537197,2025-04-04,Senate,"Adopted (Roll No. 307)",33,0,0,1,34
+2021336,1541547,2025-04-09,Senate,"Adopted (Roll No. 381)",34,0,0,0,34
+2022096,1546067,2025-04-11,House,"Passed House (Roll No. 548)",93,6,0,1,100
+2022096,1546068,2025-04-11,House,"Effective from passage (Roll No. 549)",96,3,0,1,100
+2022343,1545873,2025-04-11,House,"Passed House (Roll No. 546)",99,0,0,1,100
+2022343,1545874,2025-04-11,House,"Effective from passage (Roll No. 547)",99,0,0,1,100
+2022343,1546597,2025-04-12,Senate,"Constitutional Rule Suspended (Roll No. 544)",34,0,0,0,34
+2022343,1546773,2025-04-12,Senate,"Passed Senate (Roll No. 587)",33,0,0,1,34
+2022343,1546774,2025-04-12,Senate,"Effective from passage (Roll No. 588)",33,0,0,1,34
+2022417,1544355,2025-04-10,House,"Dispensed with Constitutional Rule (Roll No. 441)",96,1,0,3,100
+2022417,1544356,2025-04-10,House,"Passed House (Roll No. 442)",98,0,0,2,100
+2022417,1544357,2025-04-10,House,"Effective from passage (Roll No. 444)",99,0,0,1,100
+2022417,1544358,2025-04-10,Senate,"Constitutional Rule Suspended (Roll No. 423)",34,0,0,0,34
+2022417,1544359,2025-04-10,Senate,"Passed Senate (Roll No. 424)",34,0,0,0,34
+2022417,1544360,2025-04-10,Senate,"Effective from passage (Roll No. 425)",29,5,0,0,34
+2022423,1543286,2025-04-10,House,"Rejected, Special Calendar (Roll No. 458)",49,49,0,2,100

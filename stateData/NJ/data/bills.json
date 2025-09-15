@@ -1,0 +1,536 @@
+{
+     "1804415": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "5f864d53080dc53da2d36aacae09c2f1",
+               "relevance": 33,
+               "state": "NJ",
+               "bill number": "ACR14",
+               "description": "Proposes constitutional amendment to restore the death penalty under certain circumstances.",
+               "state link": "https://www.njleg.state.nj.us/bill-search/2024/ACR14",
+               "legiscan link": "https://legiscan.com/NJ/bill/ACR14/2024",
+               "status": {
+                    "date": "01-09-2024",
+                    "label": "Refer",
+                    "action": "Introduced, Referred to Assembly Judiciary Committee"
+               },
+               "date introduced": "01-09-2024",
+               "party": "R",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Dawn Fantasia",
+                         "co": "Michael Inganamort",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 2"
+               }
+          },
+          "raw": {
+               "bill_id": 1804415,
+               "change_hash": "5f864d53080dc53da2d36aacae09c2f1",
+               "session_id": 2125,
+               "session": {
+                    "session_id": 2125,
+                    "state_id": 30,
+                    "year_start": 2024,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 0,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2024-2025 Regular Session",
+                    "session_name": "2024-2025 Regular Session"
+               },
+               "url": "https://legiscan.com/NJ/bill/ACR14/2024",
+               "state_link": "https://www.njleg.state.nj.us/bill-search/2024/ACR14",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2024-01-09",
+               "progress": [
+                    {
+                         "date": "2024-01-09",
+                         "event": 1
+                    },
+                    {
+                         "date": "2024-01-09",
+                         "event": 9
+                    }
+               ],
+               "state": "NJ",
+               "state_id": 30,
+               "bill_number": "ACR14",
+               "bill_type": "CR",
+               "bill_type_id": "3",
+               "body": "A",
+               "body_id": 69,
+               "current_body": "A",
+               "current_body_id": 69,
+               "title": "Proposes constitutional amendment to restore the death penalty under certain circumstances.",
+               "description": "Proposes constitutional amendment to restore the death penalty under certain circumstances.",
+               "pending_committee_id": 862,
+               "committee": {
+                    "committee_id": 862,
+                    "chamber": "A",
+                    "chamber_id": 69,
+                    "name": "Judiciary"
+               },
+               "referrals": [
+                    {
+                         "date": "2024-01-09",
+                         "committee_id": 862,
+                         "chamber": "A",
+                         "chamber_id": 69,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2024-01-09",
+                         "action": "Introduced, Referred to Assembly Judiciary Committee",
+                         "chamber": "A",
+                         "chamber_id": 69,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 25146,
+                         "person_hash": "aqd8xeec",
+                         "party_id": "2",
+                         "state_id": 30,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Dawn Fantasia",
+                         "first_name": "Dawn",
+                         "middle_name": "",
+                         "last_name": "Fantasia",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-024",
+                         "ftm_eid": 58887329,
+                         "votesmart_id": 211661,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Dawn_Fantasia",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    },
+                    {
+                         "people_id": 25148,
+                         "person_hash": "n0hl8ohq",
+                         "party_id": "2",
+                         "state_id": 30,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Michael Inganamort",
+                         "first_name": "Michael",
+                         "middle_name": "",
+                         "last_name": "Inganamort",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "HD-024",
+                         "ftm_eid": 42418436,
+                         "votesmart_id": 211662,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 0,
+                         "ballotpedia": "Michael_Inganamort",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 2,
+                         "sponsor_order": 2,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [
+                    {
+                         "type_id": 9,
+                         "type": "Carry Over",
+                         "sast_bill_number": "ACR86",
+                         "sast_bill_id": 1582791
+                    },
+                    {
+                         "type_id": 1,
+                         "type": "Same As",
+                         "sast_bill_number": "SCR68",
+                         "sast_bill_id": 1801848
+                    }
+               ],
+               "subjects": [
+                    {
+                         "subject_id": 2498,
+                         "subject_name": "Judiciary"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 2914779,
+                         "date": "2024-02-05",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/NJ/text/ACR14/id/2914779",
+                         "state_link": "https://pub.njleg.gov/Bills/2024/ACR/14_I1.HTM",
+                         "text_size": 33891,
+                         "text_hash": "d215eb3ad0132e32d96022a860da161d",
+                         "alt_bill_text": 1,
+                         "alt_mime": "application/pdf",
+                         "alt_mime_id": 2,
+                         "alt_state_link": "https://pub.njleg.gov/Bills/2024/ACR/14_I1.PDF",
+                         "alt_text_size": 370670,
+                         "alt_text_hash": "a99fcf0a8c7abf3344c219e459731c15"
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     },
+     "1801848": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "40cac7af5e5de4d1fd907499d135b674",
+               "relevance": 33,
+               "state": "NJ",
+               "bill number": "SCR68",
+               "description": "Proposes constitutional amendment to restore the death penalty under certain circumstances.",
+               "state link": "https://www.njleg.state.nj.us/bill-search/2024/SCR68",
+               "legiscan link": "https://legiscan.com/NJ/bill/SCR68/2024",
+               "status": {
+                    "date": "01-09-2024",
+                    "label": "Refer",
+                    "action": "Introduced in the Senate, Referred to Senate Judiciary Committee"
+               },
+               "date introduced": "01-09-2024",
+               "party": "R",
+               "chamber": "Senate",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Parker Space",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1801848,
+               "change_hash": "40cac7af5e5de4d1fd907499d135b674",
+               "session_id": 2125,
+               "session": {
+                    "session_id": 2125,
+                    "state_id": 30,
+                    "year_start": 2024,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 0,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2024-2025 Regular Session",
+                    "session_name": "2024-2025 Regular Session"
+               },
+               "url": "https://legiscan.com/NJ/bill/SCR68/2024",
+               "state_link": "https://www.njleg.state.nj.us/bill-search/2024/SCR68",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2024-01-09",
+               "progress": [
+                    {
+                         "date": "2024-01-09",
+                         "event": 1
+                    },
+                    {
+                         "date": "2024-01-09",
+                         "event": 9
+                    }
+               ],
+               "state": "NJ",
+               "state_id": 30,
+               "bill_number": "SCR68",
+               "bill_type": "CR",
+               "bill_type_id": "3",
+               "body": "S",
+               "body_id": 70,
+               "current_body": "S",
+               "current_body_id": 70,
+               "title": "Proposes constitutional amendment to restore the death penalty under certain circumstances.",
+               "description": "Proposes constitutional amendment to restore the death penalty under certain circumstances.",
+               "pending_committee_id": 880,
+               "committee": {
+                    "committee_id": 880,
+                    "chamber": "S",
+                    "chamber_id": 70,
+                    "name": "Judiciary"
+               },
+               "referrals": [
+                    {
+                         "date": "2024-01-09",
+                         "committee_id": 880,
+                         "chamber": "S",
+                         "chamber_id": 70,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2024-01-09",
+                         "action": "Introduced in the Senate, Referred to Senate Judiciary Committee",
+                         "chamber": "S",
+                         "chamber_id": 70,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 15979,
+                         "person_hash": "jjhv1b0p",
+                         "party_id": "2",
+                         "state_id": 30,
+                         "party": "R",
+                         "role_id": 2,
+                         "role": "Sen",
+                         "name": "Parker Space",
+                         "first_name": "Parker",
+                         "middle_name": "",
+                         "last_name": "Space",
+                         "suffix": "",
+                         "nickname": "",
+                         "district": "SD-024",
+                         "ftm_eid": 16700337,
+                         "votesmart_id": 133246,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 453230,
+                         "ballotpedia": "Parker_Space",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [
+                    {
+                         "type_id": 9,
+                         "type": "Carry Over",
+                         "sast_bill_number": "ACR86",
+                         "sast_bill_id": 1582791
+                    },
+                    {
+                         "type_id": 1,
+                         "type": "Same As",
+                         "sast_bill_number": "ACR14",
+                         "sast_bill_id": 1804415
+                    }
+               ],
+               "subjects": [
+                    {
+                         "subject_id": 2498,
+                         "subject_name": "Judiciary"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 2874552,
+                         "date": "2024-01-05",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/NJ/text/SCR68/id/2874552",
+                         "state_link": "https://pub.njleg.gov/Bills/2024/SCR/68_I1.HTM",
+                         "text_size": 34016,
+                         "text_hash": "3a9c482beb8c3b5a28b04d8a78c52ba2",
+                         "alt_bill_text": 1,
+                         "alt_mime": "application/pdf",
+                         "alt_mime_id": 2,
+                         "alt_state_link": "https://pub.njleg.gov/Bills/2024/SCR/68_I1.PDF",
+                         "alt_text_size": 273626,
+                         "alt_text_hash": "81f819d200ccf8fdd2668ec8c9bd704f"
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     },
+     "1804817": {
+          "agg": {
+               "latest_update": "09-15-2025",
+               "change_hash": "d0c1739cf4b542b7bb1bd8c963ca65f9",
+               "relevance": 14,
+               "state": "NJ",
+               "bill number": "A1260",
+               "description": "Restores the death penalty for certain murders.",
+               "state link": "https://www.njleg.state.nj.us/bill-search/2024/A1260",
+               "legiscan link": "https://legiscan.com/NJ/bill/A1260/2024",
+               "status": {
+                    "date": "01-09-2024",
+                    "label": "Refer",
+                    "action": "Introduced, Referred to Assembly Judiciary Committee"
+               },
+               "date introduced": "01-09-2024",
+               "party": "R",
+               "chamber": "House",
+               "sponsors": {
+                    "type": {
+                         "generic-unspecified": "",
+                         "primary": "Alex Sauickie",
+                         "co": "",
+                         "joint": ""
+                    },
+                    "sponsor-party": "republican: 1"
+               }
+          },
+          "raw": {
+               "bill_id": 1804817,
+               "change_hash": "d0c1739cf4b542b7bb1bd8c963ca65f9",
+               "session_id": 2125,
+               "session": {
+                    "session_id": 2125,
+                    "state_id": 30,
+                    "year_start": 2024,
+                    "year_end": 2025,
+                    "prefile": 0,
+                    "sine_die": 0,
+                    "prior": 0,
+                    "special": 0,
+                    "session_tag": "Regular Session",
+                    "session_title": "2024-2025 Regular Session",
+                    "session_name": "2024-2025 Regular Session"
+               },
+               "url": "https://legiscan.com/NJ/bill/A1260/2024",
+               "state_link": "https://www.njleg.state.nj.us/bill-search/2024/A1260",
+               "completed": 0,
+               "status": 1,
+               "status_date": "2024-01-09",
+               "progress": [
+                    {
+                         "date": "2024-01-09",
+                         "event": 1
+                    },
+                    {
+                         "date": "2024-01-09",
+                         "event": 9
+                    }
+               ],
+               "state": "NJ",
+               "state_id": 30,
+               "bill_number": "A1260",
+               "bill_type": "B",
+               "bill_type_id": "1",
+               "body": "A",
+               "body_id": 69,
+               "current_body": "A",
+               "current_body_id": 69,
+               "title": "Restores the death penalty for certain murders.",
+               "description": "Restores the death penalty for certain murders.",
+               "pending_committee_id": 862,
+               "committee": {
+                    "committee_id": 862,
+                    "chamber": "A",
+                    "chamber_id": 69,
+                    "name": "Judiciary"
+               },
+               "referrals": [
+                    {
+                         "date": "2024-01-09",
+                         "committee_id": 862,
+                         "chamber": "A",
+                         "chamber_id": 69,
+                         "name": "Judiciary"
+                    }
+               ],
+               "history": [
+                    {
+                         "date": "2024-01-09",
+                         "action": "Introduced, Referred to Assembly Judiciary Committee",
+                         "chamber": "A",
+                         "chamber_id": 69,
+                         "importance": 1
+                    }
+               ],
+               "sponsors": [
+                    {
+                         "people_id": 23175,
+                         "person_hash": "l13ilo5c",
+                         "party_id": "2",
+                         "state_id": 30,
+                         "party": "R",
+                         "role_id": 1,
+                         "role": "Rep",
+                         "name": "Alex Sauickie",
+                         "first_name": "Alex",
+                         "middle_name": "",
+                         "last_name": "Sauickie",
+                         "suffix": "III",
+                         "nickname": "",
+                         "district": "HD-012",
+                         "ftm_eid": 0,
+                         "votesmart_id": 210460,
+                         "opensecrets_id": "",
+                         "knowwho_pid": 820834,
+                         "ballotpedia": "Alex_Sauicki",
+                         "bioguide_id": "",
+                         "sponsor_type_id": 1,
+                         "sponsor_order": 1,
+                         "committee_sponsor": 0,
+                         "committee_id": 0,
+                         "state_federal": 0
+                    }
+               ],
+               "sasts": [
+                    {
+                         "type_id": 9,
+                         "type": "Carry Over",
+                         "sast_bill_number": "A3046",
+                         "sast_bill_id": 1590102
+                    }
+               ],
+               "subjects": [
+                    {
+                         "subject_id": 2498,
+                         "subject_name": "Judiciary"
+                    }
+               ],
+               "texts": [
+                    {
+                         "doc_id": 2894434,
+                         "date": "2023-12-21",
+                         "type": "Introduced",
+                         "type_id": 1,
+                         "mime": "text/html",
+                         "mime_id": 1,
+                         "url": "https://legiscan.com/NJ/text/A1260/id/2894434",
+                         "state_link": "https://pub.njleg.gov/Bills/2024/A1500/1260_I1.HTM",
+                         "text_size": 68402,
+                         "text_hash": "d85b78225409437e858014217d63ac17",
+                         "alt_bill_text": 1,
+                         "alt_mime": "application/pdf",
+                         "alt_mime_id": 2,
+                         "alt_state_link": "https://pub.njleg.gov/Bills/2024/A1500/1260_I1.PDF",
+                         "alt_text_size": 248323,
+                         "alt_text_hash": "94a62e3918781c0ec5c5ea87d223e4ea"
+                    }
+               ],
+               "votes": [],
+               "amendments": [],
+               "supplements": [],
+               "calendar": []
+          }
+     }
+}

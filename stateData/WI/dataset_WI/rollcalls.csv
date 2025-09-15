@@ -1,0 +1,185 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1902254,1471272,2025-01-06,Senate,"Senate: Adopted",21,12,0,0,33
+1903016,1471270,2025-01-06,House,"Assembly: Adopted",84,14,1,0,99
+1903093,1471206,2025-01-08,Senate,"Senate: Read a third time and adopted",17,15,1,0,33
+1903093,1471408,2025-01-14,House,"Assembly: Read a third time and concurred in",54,45,0,0,99
+1903170,1471205,2025-01-06,Senate,"Senate: Adopted",19,14,0,0,33
+1903170,1471207,2025-01-06,House,"Assembly: Concurred in",55,43,1,0,99
+1903249,1471271,2025-01-06,House,"Assembly: Adopted",98,0,1,0,99
+1940443,1519839,2025-03-18,Senate,"Senate: Senate Amendment 1 rejected",18,14,1,0,33
+1940443,1519840,2025-03-18,Senate,"Senate: Read a third time and passed",18,14,1,0,33
+1940622,1519583,2025-03-18,Senate,"Senate: Read a third time and passed",28,4,1,0,33
+1950234,1493267,2025-02-19,House,"Assembly: Read a third time and passed",54,44,1,0,99
+1950234,1519793,2025-03-18,Senate,"Senate: Read a third time and concurred in",18,14,1,0,33
+1952176,1592688,2025-06-18,Senate,"Senate: Senate Substitute Amendment 1 rejected",18,14,1,0,33
+1952176,1592689,2025-06-18,Senate,"Senate: Read a third time and passed",18,14,1,0,33
+1952454,1493715,2025-02-19,House,"Assembly: Read a third time and passed",54,43,2,0,99
+1952554,1493536,2025-02-19,House,"Assembly: Read a third time and passed",53,45,1,0,99
+1952651,1493522,2025-02-19,House,"Assembly: Decision of the Chair upheld",54,44,1,0,99
+1952651,1493523,2025-02-19,House,"Assembly: Read a third time and passed",52,46,1,0,99
+1952847,1494273,2025-02-19,House,"Assembly: Read a third time and passed",51,46,2,0,99
+1953975,1493554,2025-02-19,House,"Assembly: Decision of the Chair upheld",54,43,2,0,99
+1953975,1493555,2025-02-19,House,"Assembly: Read a third time and passed",53,44,2,0,99
+1956325,1553523,2025-04-22,Senate,"Senate: Read a third time and passed",32,1,0,0,33
+1956356,1554081,2025-04-22,Senate,"Senate: Read a third time and passed",32,1,0,0,33
+1956356,1570316,2025-05-13,House,"Assembly: Read a third time and concurred in",97,0,2,0,99
+1956389,1519897,2025-03-18,Senate,"Senate: Read a third time and passed",19,13,1,0,33
+1956521,1519913,2025-03-18,Senate,"Senate: Adopted",27,5,1,0,33
+1958808,1517672,2025-03-13,House,"Assembly: Referred to Campaigns and Elections",53,44,2,0,99
+1958879,1516900,2025-03-13,House,"Assembly: Referred to Campaigns and Elections",53,44,2,0,99
+1959015,1517416,2025-03-13,House,"Assembly: Referred to Campaigns and Elections",53,44,2,0,99
+1959051,1594337,2025-06-24,House,"Assembly: Read a third time and passed",96,0,3,0,99
+1959192,1517060,2025-03-13,House,"Assembly: Referred to Environment",53,44,2,0,99
+1962311,1570629,2025-05-13,House,"Assembly: Read a third time and passed",96,1,2,0,99
+1967641,1592620,2025-06-18,Senate,"Senate: Senate Substitute Amendment 1 rejected",17,15,1,0,33
+1967641,1592621,2025-06-18,Senate,"Senate: Senate Amendment 1 adopted",18,14,1,0,33
+1967641,1592622,2025-06-18,Senate,"Senate: Senate Amendment 2 rejected",17,15,1,0,33
+1967641,1592623,2025-06-18,Senate,"Senate: Read a third time and passed",18,14,1,0,33
+1967893,1571928,2025-05-15,Senate,"Senate: Read a third time and passed",33,0,0,0,33
+1967971,1519709,2025-03-18,House,"Assembly: Read a third time and passed",51,43,3,0,97
+1972787,1570692,2025-05-13,House,"Assembly: Read a third time and passed",87,10,2,0,99
+1972947,1601820,2025-09-11,House,"Assembly: Decision of the Chair upheld",51,44,4,0,99
+1972947,1601821,2025-09-11,House,"Assembly: Decision of the Chair upheld",51,44,4,0,99
+1972947,1601822,2025-09-11,House,"Assembly: Read a third time and passed",51,44,2,0,97
+1974122,1597339,2025-07-02,House,"Assembly: Assembly Amendment 1 to Assembly Substitute Amendment 2 laid on table",53,45,1,0,99
+1974122,1597340,2025-07-02,House,"Assembly: Assembly Amendment 2 to Assembly Substitute Amendment 2 laid on table",53,45,1,0,99
+1974122,1597341,2025-07-02,House,"Assembly: Assembly Amendment 3 to Assembly Substitute Amendment 2 laid on table",53,45,1,0,99
+1974122,1597342,2025-07-02,House,"Assembly: Assembly Amendment 4 to Assembly Substitute Amendment 2 laid on table",53,45,1,0,99
+1974122,1597343,2025-07-02,House,"Assembly: Assembly Amendment 5 to Assembly Substitute Amendment 2 laid on table",53,45,1,0,99
+1974122,1597344,2025-07-02,House,"Assembly: Assembly Amendment 6 to Assembly Substitute Amendment 2 laid on table",53,45,1,0,99
+1974122,1597345,2025-07-02,House,"Assembly: Assembly Amendment 7 to Assembly Substitute Amendment 2 laid on table",53,45,1,0,99
+1974122,1597346,2025-07-02,House,"Assembly: Assembly Amendment 8 to Assembly Substitute Amendment 2 laid on table",53,45,1,0,99
+1974122,1597347,2025-07-02,House,"Assembly: Assembly Amendment 9 to Assembly Substitute Amendment 2 laid on table",53,45,1,0,99
+1974122,1597348,2025-07-02,House,"Assembly: Assembly Amendment 10 to Assembly Substitute Amendment 2 laid on table",53,45,1,0,99
+1974122,1597349,2025-07-02,House,"Assembly: Assembly Amendment 11 to Assembly Substitute Amendment 2 laid on table",53,45,1,0,99
+1974122,1597350,2025-07-02,House,"Assembly: Assembly Amendment 12 to Assembly Substitute Amendment 2 laid on table",53,45,1,0,99
+1974122,1597351,2025-07-02,House,"Assembly: Assembly Amendment 13 to Assembly Substitute Amendment 2 laid on table",53,45,1,0,99
+1974122,1597352,2025-07-02,House,"Assembly: Assembly Amendment 14 to Assembly Substitute Amendment 2 laid on table",53,45,1,0,99
+1974122,1597353,2025-07-02,House,"Assembly: Assembly Amendment 15 to Assembly Substitute Amendment 2 laid on table",53,45,1,0,99
+1974122,1597354,2025-07-02,House,"Assembly: Assembly Amendment 16 to Assembly Substitute Amendment 2 laid on table",53,45,1,0,99
+1974122,1597355,2025-07-02,House,"Assembly: Assembly Amendment 17 to Assembly Substitute Amendment 2 laid on table",53,45,1,0,99
+1974122,1597356,2025-07-02,House,"Assembly: Assembly Amendment 18 to Assembly Substitute Amendment 2 laid on table",53,45,1,0,99
+1974122,1597357,2025-07-02,House,"Assembly: Assembly Amendment 19 to Assembly Substitute Amendment 2 laid on table",53,45,1,0,99
+1974122,1597358,2025-07-02,House,"Assembly: Assembly Amendment 20 to Assembly Substitute Amendment 2 laid on table",53,45,1,0,99
+1974122,1597359,2025-07-02,House,"Assembly: Assembly Amendment 21 to Assembly Substitute Amendment 2 laid on table",53,45,1,0,99
+1974122,1597360,2025-07-02,House,"Assembly: Assembly Amendment 22 to Assembly Substitute Amendment 2 laid on table",53,45,1,0,99
+1974122,1597361,2025-07-02,House,"Assembly: Assembly Amendment 23 to Assembly Substitute Amendment 2 laid on table",53,45,1,0,99
+1974122,1597362,2025-07-02,House,"Assembly: Assembly Amendment 24 to Assembly Substitute Amendment 2 laid on table",53,45,1,0,99
+1974279,1597302,2025-07-02,Senate,"Senate: Senate Amendment 1 to Senate Substitute Amendment 2 rejected",18,14,1,0,33
+1974279,1597328,2025-07-02,Senate,"Senate: Senate Amendment 2 to Senate Substitute Amendment 2 rejected",18,15,0,0,33
+1974279,1597329,2025-07-02,Senate,"Senate: Senate Amendment 3 to Senate Substitute Amendment 2 rejected",18,15,0,0,33
+1974279,1597330,2025-07-02,Senate,"Senate: Senate Amendment 4 to Senate Substitute Amendment 2 rejected",18,15,0,0,33
+1974279,1597331,2025-07-02,Senate,"Senate: Senate Amendment 5 to Senate Substitute Amendment 2 rejected",18,15,0,0,33
+1974279,1597332,2025-07-02,Senate,"Senate: Senate Amendment 6 to Senate Substitute Amendment 2 rejected",18,15,0,0,33
+1974279,1597333,2025-07-02,Senate,"Senate: Senate Amendment 7 to Senate Substitute Amendment 2 rejected",18,15,0,0,33
+1974279,1597334,2025-07-02,Senate,"Senate: Senate Amendment 8 to Senate Substitute Amendment 2 rejected",18,15,0,0,33
+1974279,1597335,2025-07-02,Senate,"Senate: Senate Amendment 9 to Senate Substitute Amendment 2 rejected",18,15,0,0,33
+1974279,1597336,2025-07-02,Senate,"Senate: Senate Amendment 10 to Senate Substitute Amendment 2 rejected",17,16,0,0,33
+1974279,1597337,2025-07-02,Senate,"Senate: Senate Amendment 11 to Senate Substitute Amendment 2 rejected",18,15,0,0,33
+1974279,1597338,2025-07-02,Senate,"Senate: Senate Amendment 12 to Senate Substitute Amendment 2 rejected",18,15,0,0,33
+1974279,1597364,2025-07-02,Senate,"Senate: Senate Amendment 13 to Senate Substitute Amendment 2 laid on table",18,15,0,0,33
+1974279,1597365,2025-07-02,Senate,"Senate: Senate Amendment 14 to Senate Substitute Amendment 2 laid on table",18,15,0,0,33
+1974279,1597366,2025-07-02,Senate,"Senate: Senate Amendment 15 to Senate Substitute Amendment 2 laid on table",18,15,0,0,33
+1974279,1597367,2025-07-02,Senate,"Senate: Senate Amendment 16 to Senate Substitute Amendment 2 laid on table",18,15,0,0,33
+1974279,1597368,2025-07-02,Senate,"Senate: Senate Amendment 17 to Senate Substitute Amendment 2 laid on table",18,15,0,0,33
+1974279,1597369,2025-07-02,Senate,"Senate: Senate Amendment 18 to Senate Substitute Amendment 2 laid on table",18,15,0,0,33
+1974279,1597370,2025-07-02,Senate,"Senate: Senate Amendment 19 to Senate Substitute Amendment 2 laid on table",18,15,0,0,33
+1974279,1597371,2025-07-02,Senate,"Senate: Senate Amendment 20 to Senate Substitute Amendment 2 laid on table",18,15,0,0,33
+1974279,1597372,2025-07-02,Senate,"Senate: Senate Amendment 21 to Senate Substitute Amendment 2 laid on table",18,15,0,0,33
+1974279,1597373,2025-07-02,Senate,"Senate: Senate Amendment 22 to Senate Substitute Amendment 2 laid on table",18,15,0,0,33
+1974279,1597374,2025-07-02,Senate,"Senate: Senate Amendment 23 to Senate Substitute Amendment 2 laid on table",18,15,0,0,33
+1974279,1597375,2025-07-02,Senate,"Senate: Senate Amendment 24 to Senate Substitute Amendment 2 laid on table",18,15,0,0,33
+1974279,1597376,2025-07-02,Senate,"Senate: Senate Amendment 25 to Senate Substitute Amendment 2 laid on table",18,15,0,0,33
+1974279,1597377,2025-07-02,Senate,"Senate: Senate Amendment 26 to Senate Substitute Amendment 2 adopted",20,13,0,0,33
+1974279,1597378,2025-07-02,Senate,"Senate: Senate Substitute Amendment 2 adopted",19,14,0,0,33
+1974279,1597379,2025-07-02,Senate,"Senate: Move to call the question",22,11,0,0,33
+1974279,1597380,2025-07-02,Senate,"Senate: Read a third time and passed",19,14,0,0,33
+1974279,1597552,2025-07-02,House,"Assembly: Read a third time and concurred in",59,39,1,0,99
+1979645,1572078,2025-05-15,Senate,"Senate: Senate Substitute Amendment 1 rejected",18,15,0,0,33
+1979645,1572079,2025-05-15,Senate,"Senate: Decision of the Chair stands as the judgment of the Senate",18,15,0,0,33
+1979645,1572080,2025-05-15,Senate,"Senate: Read a third time and passed",17,16,0,0,33
+1979772,1554444,2025-04-22,Senate,"Senate: Senate Amendment 1 rejected",18,15,0,0,33
+1979772,1554445,2025-04-22,Senate,"Senate: Read a third time and passed",31,2,0,0,33
+1981803,1553690,2025-04-22,House,"Assembly: Read a third time and passed",53,42,2,0,97
+1981803,1572137,2025-05-15,Senate,"Senate: Decision of the Chair stands as the judgment of the Senate",18,15,0,0,33
+1981803,1572138,2025-05-15,Senate,"Senate: Read a third time and concurred in",18,15,0,0,33
+1981816,1594291,2025-06-24,House,"Assembly: Read a third time and passed",96,1,2,0,99
+1981865,1601823,2025-09-11,House,"Assembly: Decision of the Chair upheld",51,44,4,0,99
+1981865,1601824,2025-09-11,House,"Assembly: Read a third time and passed",50,44,1,0,95
+1981891,1517187,2025-03-13,House,"Assembly: Decision of the Chair upheld",53,43,3,0,99
+1981891,1517188,2025-03-13,House,"Assembly: Read a third time and passed",53,44,2,0,99
+1984818,1553496,2025-04-22,Senate,"Senate: Read a third time and passed",18,15,0,0,33
+1988277,1517255,2025-03-13,House,"Assembly: Read a third time and passed",54,43,2,0,99
+1988513,1520621,2025-03-18,House,"Assembly: Read a third time and passed",94,0,5,0,99
+1988513,1520622,2025-03-18,Senate,"Senate: Read a third time and concurred in",31,1,1,0,33
+1988535,1520265,2025-03-18,House,"Assembly: Read a third time and passed",94,0,5,0,99
+1988535,1520266,2025-03-18,Senate,"Senate: Read a third time and concurred in",31,1,1,0,33
+1988652,1516987,2025-03-13,House,"Assembly: Read a third time and passed",53,44,2,0,99
+1988652,1592450,2025-06-18,Senate,"Senate: Read a third time and concurred in",18,14,1,0,33
+1988700,1517599,2025-03-13,House,"Assembly: Decision of the Chair upheld",53,44,2,0,99
+1988700,1517600,2025-03-13,House,"Assembly: Read a third time and passed",53,44,2,0,99
+1988843,1517763,2025-03-13,House,"Assembly: Read a third time and passed",71,26,2,0,99
+1988866,1520614,2025-03-18,House,"Assembly: Read a third time and passed",94,0,5,0,99
+1988866,1520615,2025-03-18,Senate,"Senate: Read a third time and concurred in",31,1,1,0,33
+1988958,1517054,2025-03-13,House,"Assembly: Assembly Substitute Amendment 1 laid on table",53,44,2,0,99
+1988958,1517055,2025-03-13,House,"Assembly: Read a third time and passed",53,43,3,0,99
+1988958,1592343,2025-06-18,Senate,"Senate: Read a third time and concurred in",18,14,1,0,33
+1989693,1522508,2025-03-20,House,"Assembly: Read a third time and passed",50,43,6,0,99
+1989896,1522672,2025-03-20,House,"Assembly: Read a third time and passed",51,43,5,0,99
+1990954,1522724,2025-03-20,House,"Assembly: Read a third time and passed",50,43,6,0,99
+1992971,1522835,2025-03-20,House,"Assembly: Read a third time and passed",50,43,6,0,99
+1994816,1592348,2025-06-18,Senate,"Senate: Senate Substitute Amendment 1 rejected",17,15,1,0,33
+1994816,1592349,2025-06-18,Senate,"Senate: Senate Amendment 1 rejected",17,15,1,0,33
+1994816,1592350,2025-06-18,Senate,"Senate: Read a third time and passed",18,14,1,0,33
+1994816,1594309,2025-06-24,House,"Assembly: Assembly Substitute Amendment 1 laid on table",52,44,3,0,99
+1994816,1594310,2025-06-24,House,"Assembly: Assembly Amendment 1 laid on table",52,44,3,0,99
+1994881,1592439,2025-06-18,Senate,"Senate: Read a third time and passed",18,14,1,0,33
+1994960,1571994,2025-05-15,Senate,"Senate: Read a third time and passed",33,0,0,0,33
+1995027,1592543,2025-06-18,Senate,"Senate: Senate Substitute Amendment 1 rejected",17,15,1,0,33
+1995027,1592544,2025-06-18,Senate,"Senate: Senate Amendment 2 rejected",17,15,1,0,33
+1995027,1592545,2025-06-18,Senate,"Senate: Read a third time and passed",18,14,1,0,33
+1995027,1594715,2025-06-24,House,"Assembly: Assembly Substitute Amendment 1 laid on table",52,45,2,0,99
+1995027,1594716,2025-06-24,House,"Assembly: Assembly Amendment 1 laid on table",52,45,2,0,99
+1995104,1592435,2025-06-18,Senate,"Senate: Senate Substitute Amendment 1 rejected",17,15,1,0,33
+1995104,1592436,2025-06-18,Senate,"Senate: Senate Amendment 1 adopted",18,14,1,0,33
+1995104,1592437,2025-06-18,Senate,"Senate: Senate Amendment 2 rejected",17,15,1,0,33
+1995104,1592438,2025-06-18,Senate,"Senate: Read a third time and passed",18,14,1,0,33
+1996606,1522970,2025-03-20,House,"Assembly: Read a third time and passed",69,22,6,0,97
+2006906,1570733,2025-05-13,House,"Assembly: Read a third time and passed",93,4,2,0,99
+2007842,1571920,2025-05-15,Senate,"Senate: Decision of the Chair stands as the judgment of the Senate",18,15,0,0,33
+2007842,1571921,2025-05-15,Senate,"Senate: Read a third time and passed",28,5,0,0,33
+2009550,1570501,2025-05-13,House,"Assembly: Read a third time and passed",91,6,2,0,99
+2009550,1592596,2025-06-18,Senate,"Senate: Read a third time and concurred in",29,3,1,0,33
+2012304,1572104,2025-05-15,Senate,"Senate: Read a third time and passed",18,15,0,0,33
+2019655,1592649,2025-06-18,Senate,"Senate: Read a third time and passed",19,13,1,0,33
+2021335,1553695,2025-04-22,House,"Assembly: Read a third time and passed",53,42,2,0,97
+2021343,1554274,2025-04-22,House,"Assembly: Read a third time and passed",53,42,2,0,97
+2021363,1553838,2025-04-22,House,"Assembly: Read a third time and passed",56,39,2,0,97
+2021371,1553530,2025-04-22,House,"Assembly: Read a third time and passed",53,42,2,0,97
+2021381,1553728,2025-04-22,House,"Assembly: Read a third time and passed",53,42,2,0,97
+2021392,1554222,2025-04-22,House,"Assembly: Read a third time and passed",53,42,2,0,97
+2021402,1553662,2025-04-22,House,"Assembly: Read a third time and passed",53,42,2,0,97
+2023625,1592633,2025-06-18,Senate,"Senate: Read a third time and passed",18,14,1,0,33
+2023742,1592317,2025-06-18,Senate,"Senate: Senate Substitute Amendment 1 rejected",17,15,1,0,33
+2023742,1592318,2025-06-18,Senate,"Senate: Senate Amendment 2 rejected",17,15,1,0,33
+2023742,1592319,2025-06-18,Senate,"Senate: Read a third time and passed",18,14,1,0,33
+2024660,1554289,2025-04-22,Senate,"Senate: Adopted",33,0,0,0,33
+2026170,1601825,2025-09-11,House,"Assembly: Read a third time and passed",57,37,3,0,97
+2027295,1592333,2025-06-18,Senate,"Senate: Read a third time and passed",32,0,1,0,33
+2029298,1592324,2025-06-18,House,"Assembly: Adopted",94,0,5,0,99
+2029916,1571915,2025-05-15,Senate,"Senate: Adopted",32,0,1,0,33
+2032424,1592505,2025-06-18,House,"Assembly: Read a third time and passed",56,36,5,0,97
+2032424,1592506,2025-06-18,Senate,"Senate: Read a third time and concurred in",17,15,1,0,33
+2033283,1592710,2025-06-18,Senate,"Senate: Read a third time and passed",17,15,1,0,33
+2033404,1592711,2025-06-18,Senate,"Senate: Read a third time and passed",32,0,1,0,33
+2034374,1592703,2025-06-18,Senate,"Senate: Senate Substitute Amendment 1 rejected",17,15,1,0,33
+2034374,1592704,2025-06-18,Senate,"Senate: Senate Amendment 2 rejected",17,15,1,0,33
+2034374,1592705,2025-06-18,Senate,"Senate: Read a third time and passed",18,14,1,0,33
+2034374,1594342,2025-06-24,House,"Assembly: Assembly Substitute Amendment 1 laid on table",52,44,3,0,99
+2034374,1594343,2025-06-24,House,"Assembly: Assembly Amendment 1 laid on table",54,42,3,0,99
+2034736,1594295,2025-06-24,House,"Assembly: Assembly Substitute Amendment 1 laid on table",52,44,3,0,99
+2034736,1594296,2025-06-24,House,"Assembly: Assembly Amendment 1 laid on table",52,44,3,0,99
+2035962,1601828,2025-09-11,House,"Assembly: Read a third time and passed",51,44,2,0,97
+2037321,1592533,2025-06-18,Senate,"Senate: Refused to refer to committee on Senate Organization",14,18,1,0,33
+2037321,1592534,2025-06-18,Senate,"Senate: Adopted",18,14,1,0,33
+2042802,1601836,2025-09-11,House,"Assembly: Read a third time and passed",95,0,4,0,99
